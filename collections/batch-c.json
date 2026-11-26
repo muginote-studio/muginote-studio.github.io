@@ -1,0 +1,745 @@
+[
+  {
+    "id": "CAFE-071",
+    "slug": "kissa-kotsubu",
+    "path": "/kissa-kotsubu/",
+    "name": "喫茶 こつぶ",
+    "region": "島根県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "summary": "松江市東朝日町にある「喫茶 こつぶ」。公開の店舗情報では、朝の時間に営業する喫茶店として掲載されています。",
+    "palette": [
+      "#F4F1E8",
+      "#273F36",
+      "#A08357"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/shimane/A3201/A320101/32008300/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/shimane/A3201/A320101/32008300/"
+    ],
+    "referenceNotes": "食べログの店舗写真を視認。淡い木のテーブルと黒い椅子・濃い壁面、白磁カップに深緑と金の縁取り。白・木色・深緑の静かな喫茶組版にする。写真は調査用途のみ。 Instagram: 公式Instagramへの直接アクセスは Online fetch throttled により未確認。第三者掲載写真・記事で補完。 未確認: Instagram投稿本文・最新営業日・現行メニューは未確認。メニュー名の確定掲載は避ける。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-072",
+    "slug": "sora-to-kaze-to",
+    "path": "/sora-to-kaze-to/",
+    "name": "空ト風ト",
+    "region": "島根県",
+    "category": "sweets",
+    "thumbnail": "/assets/batch-c/photos/icecream.webp",
+    "summary": "出雲市所原町の「空ト風ト」。紹介記事では、田んぼに囲まれた小さなお店として案内されています。",
+    "palette": [
+      "#F5F4EC",
+      "#4D643C",
+      "#9A743A"
+    ],
+    "sourceUrls": [
+      "https://unseki.co.jp/blog/open/cake/27827"
+    ],
+    "designReferenceUrls": [
+      "https://unseki.co.jp/blog/open/cake/27827"
+    ],
+    "referenceNotes": "うんせきブログが公式Instagramを出典にしたたい焼き告知写真を視認。窓の外の鮮やかな緑の田、たい焼きの茶、アイボリーの告知余白。広い余白と風景を感じる横長構成。 Instagram: 公式Instagramへの直接アクセスは Online fetch throttled により未確認。第三者掲載写真・記事で補完。 未確認: Instagramは直接未確認。記事中のInstagram由来画像を間接確認。営業・提供内容は記事時点。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-073",
+    "slug": "bone-and-peace",
+    "path": "/bone-and-peace/",
+    "name": "Bone&Peace",
+    "region": "岡山県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "summary": "津山市志戸部のカフェ「Bone&Peace」。第三者の訪問記では、牛骨スープのフォーが紹介されています。",
+    "palette": [
+      "#F4F2EA",
+      "#3D443A",
+      "#A7AF98"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/okayama/A3304/A330401/33022358/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/okayama/A3304/A330401/33022358/"
+    ],
+    "referenceNotes": "食べログの内観写真を視認。クリーム壁の筆記体ロゴ、木の天板、黒い脚、淡いセージ色の椅子、黒緑の植物。自然光を感じるセージ・墨色と余白、英字を大きくして店名を生かす。 Instagram: 公式Instagramへの直接アクセスは Online fetch throttled により未確認。第三者掲載写真・記事で補完。 未確認: Instagram直接未確認。batchのメニュー語は現行裏付けにしない。フォーは第三者訪問記に基づく紹介で最新提供を保証しない。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-074",
+    "slug": "kinkin",
+    "path": "/kinkin/",
+    "name": "Cafe Stand kinkin",
+    "region": "岡山県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "summary": "倉敷市阿知のコーヒースタンド「Cafe Stand kinkin」。取材記事では、ドリップコーヒーとスイーツ、6席のイートインスペースが紹介されています。",
+    "palette": [
+      "#F0E8D9",
+      "#332C28",
+      "#487B99"
+    ],
+    "sourceUrls": [
+      "https://tokumori.tv.kct.jp/gourmet/83551/"
+    ],
+    "designReferenceUrls": [
+      "https://tokumori.tv.kct.jp/gourmet/83551/"
+    ],
+    "referenceNotes": "KCT記事の内観・商品写真を視認。木片風の壁、明るい木のカウンター、白い椅子、黒いカップと青いネオンサイン。木色＋深いコーヒー色、青を少量の差し色。小さなスタンドらしいコンパクトな構成。 Instagram: 公式Instagramへの直接アクセスは Online fetch throttled により未確認。第三者掲載写真・記事で補完。 未確認: Instagram直接未確認。KCTでは平日7時開店、batchの食べログでは9時開店で相違。営業時間の固定表示は避ける。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-075",
+    "slug": "pechunia-cafe",
+    "path": "/pechunia-cafe/",
+    "name": "Pechunia cafe",
+    "region": "岡山県",
+    "category": "sweets",
+    "thumbnail": "/assets/batch-c/photos/latte.webp",
+    "summary": "倉敷市鶴形の「Pechunia cafe」。公開記事では夜カフェとして紹介され、店舗紹介には黒ゴマのバスクチーズケーキや季節のパフェが掲載されています。",
+    "palette": [
+      "#221D21",
+      "#E6C998",
+      "#847087"
+    ],
+    "sourceUrls": [
+      "https://soja-kurashiki.okayama.jp/2026/10/05/pechunia-cafe-kurashiki-tsurugata-open-20261005/",
+      "https://www.hotpepper.jp/strJ004698503/appearance/"
+    ],
+    "designReferenceUrls": [
+      "https://www.hotpepper.jp/strJ004698503/appearance/"
+    ],
+    "referenceNotes": "ホットペッパー店内写真を視認。ベニヤ調の明るい木の壁、低い琥珀色のランプ、濃い灰茶のソファ、深い紫色のドリンク写真。夜の照明に合わせた暗いブラウンと琥珀、落ち着いたセリフ体・低い写真比率。 Instagram: 公式Instagramへの直接アクセスは Online fetch throttled により未確認。第三者掲載写真・記事で補完。 未確認: Instagram直接未確認。記事・店舗紹介は閲覧できたが臨時営業・現行メニューの保証はできない。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-076",
+    "slug": "chouchou-cafe",
+    "path": "/chouchou-cafe/",
+    "name": "chouchou cafe",
+    "region": "広島県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/cookies.webp",
+    "summary": "呉市中通の「chouchou cafe」。紹介記事では、間借り営業から実店舗へ移転したカフェとして、食事とデザートが紹介されています。",
+    "palette": [
+      "#F8F4EA",
+      "#8B4638",
+      "#A8BDB2"
+    ],
+    "sourceUrls": [
+      "https://iraw.rcc.jp/topics/articles/37351"
+    ],
+    "designReferenceUrls": [
+      "https://iraw.rcc.jp/topics/articles/37351"
+    ],
+    "referenceNotes": "IRAW記事写真を視認。赤茶のタイルカウンター、淡い木床、白壁、グレー椅子、大きな窓。ラテの淡い青緑カップ。赤茶とミルク白を主役に、やわらかいゴシックと料理の円形トリミングが合う。 Instagram: 公式Instagramへの直接アクセスは Online fetch throttled により未確認。第三者掲載写真・記事で補完。 未確認: Instagram直接未確認。営業日時・メニューは11月掲載記事時点、最新は公式確認が必要。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-077",
+    "slug": "curry-cafe-m",
+    "path": "/curry-cafe-m/",
+    "name": "curry＆cafe M",
+    "region": "広島県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "summary": "廿日市市地御前の「curry＆cafe M」。公開の店舗紹介では、カレーとナンカレーが案内されています。",
+    "palette": [
+      "#F7F5EF",
+      "#202321",
+      "#B58845"
+    ],
+    "sourceUrls": [
+      "https://www.hotpepper.jp/strJ001264169/"
+    ],
+    "designReferenceUrls": [
+      "https://www.hotpepper.jp/strJ001264169/"
+    ],
+    "referenceNotes": "ホットペッパーの公開画像を視認。黒い楕円に白い筆記体mのロゴ、カレー写真は白い器と焼き色のナン、濃い木の卓。ロゴの白黒を軸にカレーの黄土色を差す。細いセリフと大胆なM、余白のある料理ポスター構成。 Instagram: 公式Instagramへの直接アクセスは Online fetch throttled により未確認。第三者掲載写真・記事で補完。 未確認: Instagram直接未確認。ロゴと料理画像を補助参考。再開表記あり、古いレビューも併存するため最新営業・メニューは要確認。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-078",
+    "slug": "caffe-rieta",
+    "path": "/caffe-rieta/",
+    "name": "Caffe Rieta",
+    "region": "山口県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "summary": "徳山駅新幹線口近く、AZURE徳山1階の「Caffe Rieta」。紹介記事では、ハワイをテーマにしたカフェとして案内されています。",
+    "palette": [
+      "#EEF2EE",
+      "#294B61",
+      "#B29456"
+    ],
+    "sourceUrls": [
+      "https://shunan.keizai.biz/headline/2265/",
+      "https://tabelog.com/yamaguchi/A3505/A350501/35015082/"
+    ],
+    "designReferenceUrls": [
+      "https://shunan.keizai.biz/headline/2265/"
+    ],
+    "referenceNotes": "周南経済新聞の内観・外観・料理写真を視認。白とステンレスのカウンター、グレー床、銀色の椅子と黄土色の背、紺色の皿、明るい木卓。海辺の説明と合わせ、海青・オーカー・明るい灰白の軽快な構成。 Instagram: 公式Instagramへの直接アクセスは Online fetch throttled により未確認。第三者掲載写真・記事で補完。 未確認: Instagram直接未確認。最新メニュー、イベント、営業日変更は未確認。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-079",
+    "slug": "sora16cafe",
+    "path": "/sora16cafe/",
+    "name": "sora16cafe",
+    "region": "山口県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/cookies.webp",
+    "summary": "川棚温泉駅から徒歩4〜5分ほどと紹介されている「sora16cafe」。公開記事では、青い扉の店構えと、小鉢を添えた定食が紹介されています。",
+    "palette": [
+      "#F5F4ED",
+      "#326D72",
+      "#AC9168"
+    ],
+    "sourceUrls": [
+      "https://article.yahoo.co.jp/detail/6dd4b1c1ed63344d8d60f54556dad2ea0c2ffa50",
+      "https://tabelog.com/yamaguchi/A3502/A350201/35015032/"
+    ],
+    "designReferenceUrls": [
+      "https://article.yahoo.co.jp/detail/6dd4b1c1ed63344d8d60f54556dad2ea0c2ffa50"
+    ],
+    "referenceNotes": "Yahoo配信の山口さん記事写真を視認。青緑の扉と白いレンガ、明るい壁、ヘリンボーン床、淡い木の家具、黒めの天井。扉色を主役に余白を取り、小鉢の並びを連想する整列したモジュール構成。 Instagram: 公式Instagramへの直接アクセスは Online fetch throttled により未確認。第三者掲載写真・記事で補完。 未確認: Instagram直接未確認。記事のメニューは取材時点、日替わり内容と営業時間は要確認。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-080",
+    "slug": "kamo-no-hitotoki",
+    "path": "/kamo-no-hitotoki/",
+    "name": "鴨のひととき",
+    "region": "徳島県",
+    "category": "bakery",
+    "thumbnail": "/assets/batch-c/photos/bread.webp",
+    "summary": "吉野川市鴨島町のベイクショップ「鴨のひととき」。取材記事では、食パンやクロワッサンなどのパンが紹介されています。",
+    "palette": [
+      "#F3F0E5",
+      "#5C6C50",
+      "#A66C35"
+    ],
+    "sourceUrls": [
+      "https://awawa.app/pages/article_detail.php?app_no=51&report_no=11669&tab_no=0"
+    ],
+    "designReferenceUrls": [
+      "https://awawa.app/pages/article_detail.php?app_no=51&report_no=11669&tab_no=0"
+    ],
+    "referenceNotes": "あわわ記事の外観・店内・パン写真を視認。淡いセージ色の扉枠、白い丸看板に濃茶の文字、木目壁と灰色板張りの棚、パンの黄金色。セージと焼き色の組合せ、ベーカリーらしい丸みと棚を思わせる写真配置。 Instagram: 公式Instagramへの直接アクセスは Online fetch throttled により未確認。第三者掲載写真・記事で補完。 未確認: 紹介記事が公式Instagramとして https://www.instagram.com/kamonohitotoki_bakeshop/ をリンクしていることを確認。直接はthrottledで投稿内容未確認。batchの二重URLをそのまま使わない。パンケーキ分類よりbakeryが適切。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-081",
+    "slug": "cafe-amie",
+    "path": "/cafe-amie/",
+    "name": "cafe amie",
+    "region": "香川県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/table.webp",
+    "summary": "坂出市川津町の「cafe amie」。紹介記事では、主菜と副菜が週替わりの「アミごはん」を中心に、ごはんとカフェの時間が案内されています。",
+    "palette": [
+      "#f5f4ed",
+      "#243e53",
+      "#a77a52"
+    ],
+    "sourceUrls": [
+      "https://www.coolkagawa.jp/news/entry-6007.html",
+      "https://tabelog.com/kagawa/A3702/A370201/37015143/"
+    ],
+    "designReferenceUrls": [
+      "https://www.coolkagawa.jp/news/entry-6007.html"
+    ],
+    "referenceNotes": "COOL KAGAWA掲載料理写真を目視。木のテーブル、紺の花柄茶碗、淡いブルーグレーの丸皿、小鉢の白、野菜の緑。内装全体の色を確認したとはしない。藍・木色・白で、丸いプレートを連想する写真枠と細めの明朝体が適切。 Instagram: 直接取得を試みたが制限（Online fetch throttled または取得エラー）によりプロフィールと投稿画像は確認できなかった。公開紹介記事・写真で補完。 未確認: 定休日の表記がCOOL KAGAWA(日祝)と食べログ(土日祝)で不一致。最新カレンダー未確認。／公式Instagramの最新投稿。店舗写真・記事画像の転載許諾は確認できないため制作ページへ転載しない。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-082",
+    "slug": "muregurashi",
+    "path": "/muregurashi/",
+    "name": "むれぐらし喫茶",
+    "region": "香川県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/tea.webp",
+    "summary": "高松市牟礼町の「むれぐらし喫茶」。紹介記事では、手作りの内装と木のぬくもり、モーニングや日替わりランチを伝えています。",
+    "palette": [
+      "#f2eadc",
+      "#334d43",
+      "#805330"
+    ],
+    "sourceUrls": [
+      "https://www.coolkagawa.jp/news/entry-6005.html",
+      "https://tabelog.com/kagawa/A3701/A370101/37015113/"
+    ],
+    "designReferenceUrls": [
+      "https://www.coolkagawa.jp/news/entry-6005.html"
+    ],
+    "referenceNotes": "COOL KAGAWA掲載料理写真を目視。濃い飴色の木テーブル、白い主菜皿、青緑の花柄コーヒーカップ。記事本文も木の手作り内装と記載。木色と深緑、生成りをベースに、喫茶店らしい縦組み見出しを提案。 Instagram: 直接取得を試みたが制限（Online fetch throttled または取得エラー）によりプロフィールと投稿画像は確認できなかった。公開紹介記事・写真で補完。 未確認: 現Instagramは紹介記事でmuregurasi0907を案内。batchのmogumogu_takeoutは旧アカウントの可能性。／公式Instagramの最新投稿。店舗写真・記事画像の転載許諾は確認できないため制作ページへ転載しない。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-083",
+    "slug": "hajimari-no-maho",
+    "path": "/hajimari-no-maho/",
+    "name": "Cafe&Lunch Box 一の魔法",
+    "region": "愛媛県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/sandwich.webp",
+    "summary": "松山市柳井町、シェアキッチンNABi内の「Cafe&Lunch Box 一の魔法」。紹介記事では、おにぎらずやランチセットをはじめ、スイーツとドリンクが案内されています。",
+    "palette": [
+      "#f8f5ee",
+      "#722b2d",
+      "#28241f"
+    ],
+    "sourceUrls": [
+      "https://matsuyama.goguynet.jp/2026/10/05/ichinomahou/",
+      "https://tabelog.com/ehime/A3801/A380101/38017430/"
+    ],
+    "designReferenceUrls": [
+      "https://matsuyama.goguynet.jp/2026/10/05/ichinomahou/"
+    ],
+    "referenceNotes": "号外NETのオーナー提供写真を目視。おにぎらずの黒い海苔と白米、木のカウンター、えんじ色のメニュー帯、白い器。えんじ・黒・白と木色。ランチ案内を中心にした食堂メニュー風の組版を提案。 Instagram: 直接取得を試みたが制限（Online fetch throttled または取得エラー）によりプロフィールと投稿画像は確認できなかった。公開紹介記事・写真で補完。 未確認: 不定期営業の最新日程。／公式Instagramの最新投稿。店舗写真・記事画像の転載許諾は確認できないため制作ページへ転載しない。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-084",
+    "slug": "country-house-f",
+    "path": "/country-house-f/",
+    "name": "Country House.F",
+    "region": "愛媛県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/table.webp",
+    "summary": "松山市高砂町のカフェ＆レストラン「Country House.F」。公開記事では、和食・洋食とカフェメニューが紹介されています。",
+    "palette": [
+      "#f5f4eb",
+      "#553c2a",
+      "#b99a68"
+    ],
+    "sourceUrls": [
+      "https://ehime-epuri.jp/82383",
+      "https://tabelog.com/ehime/A3801/A380101/38017347/"
+    ],
+    "designReferenceUrls": [
+      "https://ehime-epuri.jp/82383"
+    ],
+    "referenceNotes": "えぷりwebのOG写真を目視。白壁と淡い木目床、OSB調のカウンター、木の看板と木彫りのウェイター。ナチュラルな明るい木色とオフホワイト、茶色を軸に、大きな欧文店名と穏やかなグリッドが合う。 Instagram: 直接取得を試みたが制限（Online fetch throttled または取得エラー）によりプロフィールと投稿画像は確認できなかった。公開紹介記事・写真で補完。 未確認: 定休日はえぷり(水・隔週木曜)とbatch(水木)が不一致。／えぷりが公式HPとして案内するhttps://countryhouse-f.com/index.htmlはWebツールでは取得不可。／公式Instagramの最新投稿。店舗写真・記事画像の転載許諾は確認できないため制作ページへ転載しない。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-085",
+    "slug": "nuie-luce-food",
+    "path": "/nuie-luce-food/",
+    "name": "NUiE LUCE food",
+    "region": "高知県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/sandwich.webp",
+    "summary": "高知市宝永町へ移転した「NUiE LUCE food」。紹介記事では、カウンターのある空間と、週替わりランチや宝永タコライススペシャルが案内されています。",
+    "palette": [
+      "#f8f7ee",
+      "#374b3d",
+      "#ad8d5b"
+    ],
+    "sourceUrls": [
+      "https://eimons.jp/gourmet/nuieluce_food",
+      "https://tabelog.com/kochi/A3901/A390101/39009182/"
+    ],
+    "designReferenceUrls": [
+      "https://eimons.jp/gourmet/nuieluce_food"
+    ],
+    "referenceNotes": "EIMONS本文写真nuieluce_food_01/02/04/05を目視。白い建具、露出した明るい梁、木のカウンター、濃茶の椅子、植物の緑、暖かい裸電球。白・淡木・深い緑を採用し、自然光を感じる余白の広い構成を提案。 Instagram: 直接取得を試みたが制限（Online fetch throttled または取得エラー）によりプロフィールと投稿画像は確認できなかった。公開紹介記事・写真で補完。 未確認: 昼・夜の最新営業日と時間。夜は不定期との記事記載。／公式Instagramの最新投稿。店舗写真・記事画像の転載許諾は確認できないため制作ページへ転載しない。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-086",
+    "slug": "3nen-bgumi",
+    "path": "/3nen-bgumi/",
+    "name": "3年B組",
+    "region": "福岡県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/table.webp",
+    "summary": "北九州市八幡西区永犬丸東町のカフェ「3年B組」。公開の店舗基本情報では完全予約制と案内されています。訪問前にお店へ営業日と予約方法をご確認ください。",
+    "palette": [
+      "#eee9df",
+      "#233f50",
+      "#a78350"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/fukuoka/A4004/A400404/40074985/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/fukuoka/A4004/A400404/40074985/"
+    ],
+    "referenceNotes": "食べログの当該店舗写真を目視。中華丼と複数の小鉢を載せる編み目のランチョンマット、明るい木のテーブル、紺色のソファ、白〜薄グレー壁。紺・木色・白をベースに、小鉢のようなコンパクトな情報区画を提案。学校の黒板を見たとはしない。 Instagram: 直接取得を試みたが制限（Online fetch throttled または取得エラー）によりプロフィールと投稿画像は確認できなかった。公開紹介記事・写真で補完。 未確認: 公式での予約方法、現行メニューの名称・内容。／公式Instagramの最新投稿。店舗写真・記事画像の転載許諾は確認できないため制作ページへ転載しない。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-087",
+    "slug": "backer",
+    "path": "/backer/",
+    "name": "BÄCKER",
+    "region": "福岡県",
+    "category": "bakery",
+    "thumbnail": "/assets/batch-c/photos/croissant.webp",
+    "summary": "苅田町富久町の「BÄCKER」。KBCの紹介記事では、塩バターロールなどのパンと、イートインでのコーヒーが案内されています。",
+    "palette": [
+      "#f7efdc",
+      "#3c291b",
+      "#b7742f"
+    ],
+    "sourceUrls": [
+      "https://www.kbc.co.jp/wish/article/47595/",
+      "https://tabelog.com/fukuoka/A4006/A400601/40074898/",
+      "https://kaiten-heiten.com/coffee-and-bakery-backer/"
+    ],
+    "designReferenceUrls": [
+      "https://www.kbc.co.jp/wish/article/47595/"
+    ],
+    "referenceNotes": "KBCのOG料理写真を目視。木のトレー、茶色い紙カップ、焼き色の付いたパン、暗めの木製背景。小麦色とコーヒーブラウンを軸に、力強いサンセリフの欧文店名と横に広い写真を提案。店内全体のカラーは未確認。 Instagram: 直接取得を試みたが制限（Online fetch throttled または取得エラー）によりプロフィールと投稿画像は確認できなかった。公開紹介記事・写真で補完。 未確認: 売り切れ終了や臨時休業を含む最新営業状況。／公式Instagramの最新投稿。店舗写真・記事画像の転載許諾は確認できないため制作ページへ転載しない。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-088",
+    "slug": "cafe-bar-en",
+    "path": "/cafe-bar-en/",
+    "name": "Cafe Bar えん",
+    "region": "福岡県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "summary": "北九州市八幡西区割子川、Kビル1階の「Cafe Bar えん」。公開情報では、旧上の原から移転した店舗として案内されています。",
+    "palette": [
+      "#f7f4ed",
+      "#333b3d",
+      "#994b39"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/fukuoka/A4004/A400404/40075128/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/fukuoka/A4004/A400404/40075128/"
+    ],
+    "referenceNotes": "食べログの現住所店舗写真を目視。白壁、薄茶木目床、黒いカウンターチェアと照明、紺ストライプの椅子、赤茶色のソファ。白・チャコール・赤茶を中心に、落ち着いたカフェの余白と横長写真を提案。料理画像の赤白チェッカーは投稿者の加工なので店舗ブランド色とは扱わない。 Instagram: 直接取得を試みたが制限（Online fetch throttled または取得エラー）によりプロフィールと投稿画像は確認できなかった。公開紹介記事・写真で補完。 未確認: 移転後の公式最新メニュー。写真だけから商品名を推定しない。／公式Instagramの最新投稿。店舗写真・記事画像の転載許諾は確認できないため制作ページへ転載しない。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-089",
+    "slug": "curry-coffee-wine",
+    "path": "/curry-coffee-wine/",
+    "name": "カレーのち珈琲、ときどきワイン",
+    "region": "佐賀県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "summary": "佐賀市嘉瀬町扇町の「カレーのち珈琲、ときどきワイン」。取材記事では、カレーにサイホンコーヒーやワインを合わせるお店として紹介されています。",
+    "palette": [
+      "#f8f1df",
+      "#69222e",
+      "#232425"
+    ],
+    "sourceUrls": [
+      "https://saga.keizai.biz/headline/2378/",
+      "https://tabelog.com/saga/A4101/A410101/41008914/"
+    ],
+    "designReferenceUrls": [
+      "https://saga.keizai.biz/headline/2378/"
+    ],
+    "referenceNotes": "佐賀経済新聞の外観と料理写真を目視。正面壁は深いワインレッド、黒い腰壁、白いのれん、金色系の店名。料理写真は木の卓上と白い器。ワインレッド・黒・温白、金色を小さく使い、長い店名を複数行の明朝体で配置する案。 Instagram: 直接取得を試みたが制限（Online fetch throttled または取得エラー）によりプロフィールと投稿画像は確認できなかった。公開紹介記事・写真で補完。 未確認: 最新営業日・時間。記事では日曜定休、batchには記載なし。／公式Instagramの最新投稿。店舗写真・記事画像の転載許諾は確認できないため制作ページへ転載しない。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-090",
+    "slug": "goodstock-unzen",
+    "path": "/goodstock-unzen/",
+    "name": "goodstock unzen",
+    "region": "長崎県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/table.webp",
+    "summary": "雲仙市の「goodstock unzen」。お店のnoteでは、カフェとお土産店として案内され、食事やおやつについて発信しています。",
+    "palette": [
+      "#f3f0e7",
+      "#3a3027",
+      "#657c80"
+    ],
+    "sourceUrls": [
+      "https://note.com/goodstock_unzen",
+      "https://tabelog.com/nagasaki/A4203/A420301/42015627/"
+    ],
+    "designReferenceUrls": [
+      "https://note.com/goodstock_unzen/n/n5bff5baff68f"
+    ],
+    "referenceNotes": "公式note記事「宅建を休んだ一年、カフェができました。」の写真を目視。木組みと白面の大きな天井照明、木のカウンター、白壁、暗い梁、青灰色のカウンター面。クリーム白・深茶・青灰で、木組みを感じる直線のグリッドと大きい欧文店名を提案。 Instagram: 直接取得を試みたが制限（Online fetch throttled または取得エラー）によりプロフィールと投稿画像は確認できなかった。公開紹介記事・写真で補完。 未確認: 最新営業時間・住所の一次情報。batch住所は食べログ掲載値として扱う。／公式Instagramの最新投稿。店舗写真・記事画像の転載許諾は確認できないため制作ページへ転載しない。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-091",
+    "slug": "yakuzen-den",
+    "path": "/yakuzen-den/",
+    "name": "お米屋さんの薬膳米カフェ 田",
+    "region": "熊本県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/tea.webp",
+    "summary": "水前寺駅近く、田中米穀店の隣にある「お米屋さんの薬膳米カフェ 田」。紹介記事では、朝ご飯と薬膳茶を楽しむカフェとして案内されています。",
+    "palette": [
+      "#F6F4EA",
+      "#234D43",
+      "#BE8A4B"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/kumamoto/A4301/A430101/43020761/",
+      "https://higojournal.com/archives/den-2.html"
+    ],
+    "designReferenceUrls": [
+      "https://higojournal.com/archives/den-2.html"
+    ],
+    "referenceNotes": "肥後ジャーナル掲載の外観・店内写真を実視確認。明るい木製テーブルと椅子、深い青緑の壁、白い左官風の壁、ペンダントライト。木の窓枠と入口の黄土色看板が特徴。提案色は実測色ではなく写真からのデザイン解釈。 Instagram: 公式Instagramの直接取得を試行したが、オンライン取得制限／fetch errorで本文と投稿を確認できず。公式URLは紹介記事または食べログ掲載リンクで照合。Instagram投稿を見たという扱いにしない。 未確認: 最新の営業状況・臨時休業・現行メニューは公式Instagramで要確認。写真の転載許諾は確認できていないため参考写真は公開サイトへ転載しない。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-092",
+    "slug": "nikkori-cute",
+    "path": "/nikkori-cute/",
+    "name": "にっこりキュート",
+    "region": "熊本県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-c/photos/sandwich.webp",
+    "summary": "熊本市東区長嶺南のカフェ「にっこりキュート」。取材記事では、コーヒーとサンドイッチ、くまさんドリンクが紹介されています。",
+    "palette": [
+      "#F3EEE5",
+      "#29494D",
+      "#B47A4D"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/kumamoto/A4301/A430101/43020405/",
+      "https://higojournal.com/archives/nikkori-cute.html"
+    ],
+    "designReferenceUrls": [
+      "https://higojournal.com/archives/nikkori-cute.html"
+    ],
+    "referenceNotes": "肥後ジャーナルの実店舗写真を確認。外観はレンガ・石調の素材と深い青の窓。店内は濃い茶色の椅子、琥珀色の木製カウンター、薄いグレーの床、黒い窓枠。名前だけからピンク系にしない。 Instagram: 公式Instagramの直接取得を試行したが、オンライン取得制限／fetch errorで本文と投稿を確認できず。公式URLは紹介記事または食べログ掲載リンクで照合。Instagram投稿を見たという扱いにしない。 未確認: 最新の営業状況・臨時休業・現行メニューは公式Instagramで要確認。写真の転載許諾は確認できていないため参考写真は公開サイトへ転載しない。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-093",
+    "slug": "maruta-chaya",
+    "path": "/maruta-chaya/",
+    "name": "丸太茶屋",
+    "region": "熊本県",
+    "category": "tea",
+    "thumbnail": "/assets/batch-c/photos/tea.webp",
+    "summary": "阿蘇郡高森町上色見の「丸太茶屋」。公開の訪問記事では、古民家の和カフェとして、つけ麺と七輪炭焼きだんごが紹介されています。",
+    "palette": [
+      "#F5F0DF",
+      "#3E3025",
+      "#25482E"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/kumamoto/A4302/A430202/43020771/",
+      "https://ameblo.jp/ty-kame3/entry-12984616499.html"
+    ],
+    "designReferenceUrls": [
+      "https://ameblo.jp/ty-kame3/entry-12984616499.html"
+    ],
+    "referenceNotes": "訪問ブログの実写真を確認。庭木と石段、黒い木枠、生成りの壁、緑の三連団子図案を描いた白いのれん。室内は暗い梁・畳・障子で、窓の外の緑が目立つ。巻物状のおしながき。写真を参考にし、のれん図案・ロゴそのものは複製しない。 Instagram: 公式Instagramの直接取得を試行したが、オンライン取得制限／fetch errorで本文と投稿を確認できず。公式URLは紹介記事または食べログ掲載リンクで照合。Instagram投稿を見たという扱いにしない。 未確認: 最新の営業状況・臨時休業・現行メニューは公式Instagramで要確認。写真の転載許諾は確認できていないため参考写真は公開サイトへ転載しない。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-094",
+    "slug": "imo-danshaku",
+    "path": "/imo-danshaku/",
+    "name": "芋男爵",
+    "region": "熊本県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/cookies.webp",
+    "summary": "熊本市中央区草葉町、コアスクエア上乃裏2階の「芋男爵」。紹介記事では、ジャケットポテトの専門店として案内されています。",
+    "palette": [
+      "#292B29",
+      "#F7F2E7",
+      "#EABF45"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/kumamoto/A4301/A430101/43020633/",
+      "https://higojournal.com/archives/imodansyaku-kumamoto.html"
+    ],
+    "designReferenceUrls": [
+      "https://higojournal.com/archives/imodansyaku-kumamoto.html"
+    ],
+    "referenceNotes": "肥後ジャーナル掲載写真を確認。広い窓、グレーの壁と天井、黒い椅子、木色の長いカウンター、茶タイル。紙メニューは黒地に白の太い英字、黄色系の見出しと赤白チェックの敷紙。提案は黒・マスタード・赤の小さな差し色。 Instagram: 公式Instagramの直接取得を試行したが、オンライン取得制限／fetch errorで本文と投稿を確認できず。公式URLは紹介記事または食べログ掲載リンクで照合。Instagram投稿を見たという扱いにしない。 未確認: 最新の営業状況・臨時休業・現行メニューは公式Instagramで要確認。写真の転載許諾は確認できていないため参考写真は公開サイトへ転載しない。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-095",
+    "slug": "joko-coffee",
+    "path": "/joko-coffee/",
+    "name": "上甲珈琲",
+    "region": "大分県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "summary": "大分市中島中央の「上甲珈琲」。紹介記事では、住宅地にあるスペシャリティコーヒー店で、ギャラリーを兼ねると紹介されています。",
+    "palette": [
+      "#EFEEE7",
+      "#32383D",
+      "#B64A35"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/oita/A4401/A440101/44015084/",
+      "https://ooita.goguynet.jp/2026/10/14/jokocoffee/"
+    ],
+    "designReferenceUrls": [
+      "https://ooita.goguynet.jp/2026/10/14/jokocoffee/",
+      "https://tabelog.com/oita/A4401/A440101/44015084/"
+    ],
+    "referenceNotes": "号外NETの実写真と食べログの内観写真を確認。コンクリート外壁、細い金属の椅子、黒い家具、木の天板。ロゴは黒・灰青と朱赤の幾何学形状。メニューの余白は白く整った文字組み。ロゴは再現せず、朱赤を一点のアクセントにする。 Instagram: 公式Instagramの直接取得を試行したが、オンライン取得制限／fetch errorで本文と投稿を確認できず。公式URLは紹介記事または食べログ掲載リンクで照合。Instagram投稿を見たという扱いにしない。 未確認: 最新の営業状況・臨時休業・現行メニューは公式Instagramで要確認。写真の転載許諾は確認できていないため参考写真は公開サイトへ転載しない。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-096",
+    "slug": "sunnote",
+    "path": "/sunnote/",
+    "name": "sunnote coffee and bake",
+    "region": "宮崎県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-c/photos/latte.webp",
+    "summary": "宮崎市橘通東の「sunnote coffee and bake」。紹介記事では、コーヒーやカフェラテと、プリンやキャロットケーキが案内されています。",
+    "palette": [
+      "#FBF9EF",
+      "#34352C",
+      "#E5C84B"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/miyazaki/A4501/A450101/45014223/",
+      "https://myzkc.jp/sunnote20261029/"
+    ],
+    "designReferenceUrls": [
+      "https://myzkc.jp/sunnote20261029/"
+    ],
+    "referenceNotes": "ジモシル宮崎の実写真を確認。白い看板に淡い黄色の丸いロゴ、木製のL字カウンター、クリーム色の壁、暖かな黄色のカウンター奥、観葉植物。メニューは細身セリフの英字と控えめな本文。 Instagram: 公式Instagramの直接取得を試行したが、オンライン取得制限／fetch errorで本文と投稿を確認できず。公式URLは紹介記事または食べログ掲載リンクで照合。Instagram投稿を見たという扱いにしない。 未確認: 最新の営業状況・臨時休業・現行メニューは公式Instagramで要確認。写真の転載許諾は確認できていないため参考写真は公開サイトへ転載しない。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-097",
+    "slug": "rinz",
+    "path": "/rinz/",
+    "name": "輪'z",
+    "region": "宮崎県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "summary": "宮崎港近くの日ノ出町へ移転した喫茶店「輪'z」。取材記事では、厚切りトーストや洋食メニューが紹介されています。",
+    "palette": [
+      "#F3E7CB",
+      "#442E24",
+      "#923E32"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/miyazaki/A4501/A450101/45013833/",
+      "https://miyazaki.keizai.biz/headline/2424/"
+    ],
+    "designReferenceUrls": [
+      "https://miyazaki.keizai.biz/headline/2424/"
+    ],
+    "referenceNotes": "移転後を取材した宮崎経済新聞の実写真を確認。長い濃茶のカウンター、赤い座面の椅子、木製梁、丸い電球、白地に黒い店名看板。クリームソーダの緑が差し色。昭和喫茶らしい深茶と赤茶、紙色を主にする。 Instagram: 公式Instagramの直接取得を試行したが、オンライン取得制限／fetch errorで本文と投稿を確認できず。公式URLは紹介記事または食べログ掲載リンクで照合。Instagram投稿を見たという扱いにしない。 未確認: 最新の営業状況・臨時休業・現行メニューは公式Instagramで要確認。写真の転載許諾は確認できていないため参考写真は公開サイトへ転載しない。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-098",
+    "slug": "teddy-bakery",
+    "path": "/teddy-bakery/",
+    "name": "TEDDY BAKERY",
+    "region": "鹿児島県",
+    "category": "bakery",
+    "thumbnail": "/assets/batch-c/photos/bread.webp",
+    "summary": "薩摩川内市天辰町のパン店「TEDDY BAKERY」。紹介記事では、パンに加えて焼き菓子も扱うお店として案内されています。",
+    "palette": [
+      "#FBF7EC",
+      "#293D43",
+      "#68848E"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/kagoshima/A4602/A460201/46019271/",
+      "https://gururi-japan.com/apps/note/column/junko_34/"
+    ],
+    "designReferenceUrls": [
+      "https://gururi-japan.com/apps/note/column/junko_34/"
+    ],
+    "referenceNotes": "かごしまぐるりの外観・内観写真を確認。白い平屋の外観、黒い英字看板、ややくすんだ水色の内壁、木棚、黒い照明レール、並んだ黄金色のパン。記事本文に熊のモチーフの記述。青グレーとパンの焼き色を中心にする。 Instagram: 公式Instagramの直接取得を試行したが、オンライン取得制限／fetch errorで本文と投稿を確認できず。公式URLは紹介記事または食べログ掲載リンクで照合。Instagram投稿を見たという扱いにしない。 未確認: 最新の営業状況・臨時休業・現行メニューは公式Instagramで要確認。写真の転載許諾は確認できていないため参考写真は公開サイトへ転載しない。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-099",
+    "slug": "minori",
+    "path": "/minori/",
+    "name": "実リ",
+    "region": "鹿児島県",
+    "category": "bakery",
+    "thumbnail": "/assets/batch-c/photos/bread.webp",
+    "summary": "鹿児島市新屋敷町の「実リ」。公開記事ではベーグルの販売を紹介し、営業日と時間はInstagramで確認するよう案内しています。",
+    "palette": [
+      "#F8F5E9",
+      "#3C403B",
+      "#B07C43"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/kagoshima/A4601/A460101/46019223/",
+      "https://kagoshima-gourmet.com/minori/"
+    ],
+    "designReferenceUrls": [
+      "https://kagoshima-gourmet.com/minori/"
+    ],
+    "referenceNotes": "鹿児島グルメ.com掲載の実写真を確認。木枠の入口に白いのれん、黒に近い濃灰の立て看板、木の浅い箱に並ぶベーグル。白・墨色・焼き色を基調とする小さな売り場。店名の由来は未確認。 Instagram: 公式Instagramの直接取得を試行したが、オンライン取得制限／fetch errorで本文と投稿を確認できず。公式URLは紹介記事または食べログ掲載リンクで照合。Instagram投稿を見たという扱いにしない。 未確認: 公式Instagram本文・投稿の直接確認不可。現在の営業日・営業時間とイートインの有無は未確認。記事・食べログの参考値を確定案内にしない。写真転載許諾未確認。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  },
+  {
+    "id": "CAFE-100",
+    "slug": "oki-zen",
+    "path": "/oki-zen/",
+    "name": "OKI ZEN",
+    "region": "沖縄県",
+    "category": "tea",
+    "thumbnail": "/assets/batch-c/photos/tea.webp",
+    "summary": "那覇市牧志のカフェ「OKI ZEN」。公開の店舗情報では牧志2-1-13の所在地を案内しています。",
+    "palette": [
+      "#F3F3EB",
+      "#303F32",
+      "#657943"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/okinawa/A4701/A470101/47035379/",
+      "https://orecyan.com/archives/21776"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/okinawa/A4701/A470101/47035379/"
+    ],
+    "referenceNotes": "食べログの店舗投稿写真（5点）を参考用に実視確認。白〜ライトグレーのミニマルな室内、金属製の丸い椅子とテーブル、窓辺の明るい木製ベンチ、抹茶色の一部壁・ドリンク。求人紹介記事の画像は「実際のお店と関係ありません」と明記されており、配色根拠から除外。 Instagram: 公式Instagramの直接取得を試行したが、オンライン取得制限／fetch errorで本文と投稿を確認できず。公式URLは紹介記事または食べログ掲載リンクで照合。Instagram投稿を見たという扱いにしない。 未確認: Instagramの本文・投稿は取得制限で未確認。現行メニュー・定休日は未確認。求人紹介は開店前資料であり現況と混同しない。参考の食べログ写真は転載許諾未確認のため公開サイトに再利用しない。 一覧サムネイルもUnsplashのイメージ素材で、実店舗・実商品ではありません。",
+    "thumbnailIsIllustrative": true,
+    "thumbnailAlt": "イメージ素材。実際の店舗・商品・器とは異なります。"
+  }
+]
