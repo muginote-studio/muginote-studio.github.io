@@ -1,0 +1,1023 @@
+/* Batch A only: editorial cafe proposals, independent of the shared site. */
+*{
+box-sizing:border-box}
+html{
+  scroll-behavior:smooth;
+scroll-padding-top:2rem}
+body{
+  margin:0;
+  background:var(--paper);
+  color:var(--ink);
+  font:400 1rem/1.9 -apple-system,BlinkMacSystemFont,"Noto Sans JP","Hiragino Kaku Gothic ProN","Yu Gothic",sans-serif;
+overflow-wrap:anywhere}
+a{
+  color:inherit;
+  text-underline-offset:.3em;
+text-decoration-thickness:1px}
+a:hover{
+text-decoration-thickness:2px}
+button{
+font:inherit}
+button,a,summary{
+-webkit-tap-highlight-color:transparent}
+a:focus-visible,button:focus-visible,summary:focus-visible{
+  outline:3px solid var(--accent);
+outline-offset:5px}
+img{
+  display:block;
+  width:100%;
+  height:100%;
+object-fit:cover}
+figure{
+  margin:0;
+min-width:0}
+figcaption{
+  font:400 .8125rem/1.6 -apple-system,BlinkMacSystemFont,"Yu Gothic",sans-serif;
+  letter-spacing:0;
+  padding:.65rem 0;
+color:var(--ink)}
+h1,h2,p{
+margin:0}
+h1,h2{
+  font-weight:500;
+line-height:1.5}
+h1{
+  font-size:clamp(3rem,6.3vw,7rem);
+  line-height:1.15;
+  letter-spacing:-.035em;
+text-wrap:balance}
+h2{
+  font-size:clamp(1.7rem,2.5vw,2.8rem);
+  letter-spacing:.02em;
+text-wrap:balance}
+.type-serif h1,.type-serif h2,.type-serif .wordmark,.type-serif .hero-line,.type-serif .interlude-copy>p{
+font-family:"Noto Serif JP","Hiragino Mincho ProN","Yu Mincho",Georgia,serif}
+.type-sans h1{
+font-weight:750}
+.eyebrow{
+  font-size:.875rem;
+  letter-spacing:.13em;
+margin-bottom:1.5rem}
+.disclosure{
+  text-align:center;
+  border-bottom:1px solid currentColor;
+  padding:.35rem 1rem;
+  font-size:.8125rem;
+letter-spacing:.04em}
+.site-header{
+  max-width:1440px;
+  margin:auto;
+  padding:1.5rem 4vw;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+gap:1.5rem}
+.wordmark{
+  font-size:1.125rem;
+  line-height:1.6;
+  text-decoration:none;
+  max-width:50%;
+font-weight:600}
+.site-header nav{
+  display:flex;
+  gap:1.8rem;
+  font-size:.875rem;
+align-items:center}
+.site-header nav a{
+text-decoration:none}
+.site-header nav a:hover{
+text-decoration:underline}
+.menu-toggle{
+display:none}
+.hero{
+  max-width:1440px;
+  margin:auto;
+  padding:2.5rem 4vw 5rem;
+position:relative}
+.title-block{
+min-width:0}
+.hero-line{
+  margin-top:2rem;
+  font-size:clamp(1.1rem,1.8vw,1.5rem);
+line-height:1.8}
+.text-link{
+  display:inline-block;
+  margin-top:1.8rem;
+  font-size:.9375rem;
+  padding-bottom:.2rem;
+  text-decoration:none;
+border-bottom:1px solid currentColor}
+.hero-mark{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:.6rem;
+  font-size:.8125rem;
+  letter-spacing:.12em;
+color:var(--accent)}
+.glyph-motif{
+  width:75px;
+  height:80px;
+flex:none}
+.hero-photo img{
+height:clamp(350px,43vw,640px)}
+.side-photo img{
+height:420px}
+.hero-split{
+  display:grid;
+  grid-template-columns:1fr 1.06fr;
+  gap:3rem;
+  align-items:center;
+min-height:740px}
+.hero-split .title-block{
+padding:3rem 0 4rem}
+.hero-split .hero-photo img{
+  border-radius:48% 48% 0 0;
+height:580px}
+.hero-split>.hero-mark{
+  position:absolute;
+  left:5vw;
+  bottom:2rem;
+flex-direction:row}
+.hero-frame{
+  max-width:1250px;
+  padding:2rem 4vw 5rem;
+  border:1px solid var(--accent);
+  margin-top:1.4rem;
+width:92%}
+.frame-top{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  text-align:center;
+  padding:1rem 0 3rem;
+gap:1.5rem}
+.frame-top .hero-mark span{
+display:none}
+.frame-top .glyph-motif{
+  width:52px;
+height:56px}
+.hero-frame h1{
+font-size:clamp(3rem,6vw,5.7rem)}
+.hero-frame .hero-photo{
+  padding:.7rem;
+border:1px solid var(--accent)}
+.hero-frame .hero-photo img{
+height:470px}
+.hero-diptych>.title-block{
+  text-align:center;
+  max-width:950px;
+margin:0 auto 3.5rem}
+.photo-pair{
+  display:grid;
+  grid-template-columns:1.5fr 1fr;
+  gap:2rem;
+align-items:end}
+.photo-pair .side-photo{
+padding-bottom:2.5rem}
+.photo-pair .side-photo img{
+height:380px}
+.hero-letter{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:6vw;
+  align-items:center;
+padding-top:3.5rem}
+.letter-intro{
+  border-top:1px solid var(--accent);
+  border-bottom:1px solid var(--accent);
+padding:2.5rem 0 3rem}
+.letter-intro .hero-mark{
+  align-items:flex-start;
+margin-bottom:2rem}
+.letter-intro .hero-mark span{
+display:none}
+.hero-letter h1{
+font-size:clamp(2.8rem,5vw,5.5rem)}
+.hero-letter .hero-photo{
+padding-top:4rem}
+.hero-letter .hero-photo img{
+height:560px}
+.poster-head{
+  display:flex;
+  gap:3rem;
+  align-items:center;
+  justify-content:space-between;
+  padding-bottom:2rem;
+  border-bottom:3px solid var(--ink);
+margin-bottom:2.5rem}
+.poster-head h1{
+font-size:clamp(2.8rem,6.5vw,6.7rem)}
+.poster-head .hero-mark{
+  border:1px solid currentColor;
+  border-radius:50%;
+  width:145px;
+  height:145px;
+  justify-content:center;
+flex:none}
+.hero-poster .hero-photo img{
+height:480px}
+.hero-night{
+  display:grid;
+  grid-template-columns:.9fr 1.2fr;
+  gap:5vw;
+  align-items:center;
+padding-top:4rem}
+.hero-night .title-block{
+padding-left:6vw}
+.hero-night h1{
+  writing-mode:vertical-rl;
+  max-height:400px;
+  min-height:250px;
+  font-size:clamp(3rem,6vw,5.8rem);
+letter-spacing:.16em}
+.hero-night .eyebrow{
+letter-spacing:.04em}
+.night-image{
+position:relative}
+.night-image .hero-photo img{
+  height:620px;
+filter:brightness(.8)}
+.night-image .hero-mark{
+  position:absolute;
+  right:1.5rem;
+  top:1.5rem;
+  background:var(--paper);
+padding:1rem}
+.night-image .hero-mark span{
+display:none}
+.grid-heading{
+  display:flex;
+  justify-content:space-between;
+  gap:2rem;
+  align-items:center;
+  padding:1.5rem 0 3rem;
+border-top:1px solid var(--ink)}
+.hero-grid .photo-pair{
+  grid-template-columns:1fr 1fr;
+gap:1.3rem}
+.hero-grid .photo-pair .side-photo{
+padding:0}
+.hero-grid .photo-pair img{
+height:430px}
+.hero-grid h1{
+font-size:clamp(3.5rem,7vw,7rem)}
+.hero-editorial{
+  display:grid;
+  grid-template-columns:1fr 1.2fr .55fr;
+  gap:2rem;
+align-items:start}
+.editorial-title{
+  padding-top:4rem;
+min-width:0}
+.editorial-title .hero-mark{
+  align-items:flex-start;
+margin-top:2rem}
+.editorial-title .hero-mark span{
+display:none}
+.hero-editorial h1{
+font-size:clamp(3.5rem,6.5vw,6rem)}
+.hero-editorial>.hero-photo{
+padding-top:1rem}
+.hero-editorial>.hero-photo img{
+height:610px}
+.hero-editorial>.side-photo{
+padding-top:17rem}
+.hero-editorial>.side-photo img{
+height:300px}
+.hero-arch{
+  display:grid;
+  grid-template-columns:.9fr 1.1fr;
+  gap:7vw;
+  align-items:center;
+  max-width:1280px;
+padding-top:5rem}
+.arch-image{
+position:relative}
+.arch-image .hero-photo img{
+  height:610px;
+border-radius:50% 50% 0 0}
+.arch-image .hero-mark{
+  position:absolute;
+  left:-2rem;
+  bottom:5rem;
+  background:var(--paper);
+  border:1px solid var(--accent);
+  border-radius:50%;
+padding:1rem}
+.arch-image .hero-mark span{
+display:none}
+.hero-vertical{
+  display:grid;
+  grid-template-columns:.9fr 1.2fr;
+  gap:4rem;
+  align-items:center;
+  max-width:1280px;
+padding-top:4rem}
+.hero-vertical .title-block{
+  display:flex;
+  flex-direction:column;
+align-items:center}
+.hero-vertical h1{
+  writing-mode:vertical-rl;
+  max-height:480px;
+  min-height:240px;
+  letter-spacing:.09em;
+font-size:clamp(3rem,6vw,5.3rem)}
+.hero-vertical .hero-line{
+font-size:1.1rem}
+.vertical-image{
+position:relative}
+.vertical-image .hero-photo img{
+height:640px}
+.vertical-image .hero-mark{
+  position:absolute;
+  left:1.3rem;
+  top:1.3rem;
+  background:var(--paper);
+padding:.8rem}
+.vertical-image .hero-mark span{
+display:none}
+.hero-garden{
+  display:grid;
+  grid-template-columns:70px 1fr 1.25fr;
+  gap:2rem;
+  align-items:center;
+padding-top:4rem}
+.hero-garden>.hero-mark{
+  align-self:start;
+padding-top:1rem}
+.hero-garden>.hero-mark span{
+writing-mode:vertical-rl}
+.hero-garden h1{
+font-size:clamp(3rem,5.5vw,5.6rem)}
+.garden-image{
+  padding:1rem;
+  border:1px solid var(--accent);
+border-radius:48% 48% 0 0}
+.garden-image .hero-photo img{
+  height:600px;
+border-radius:48% 48% 0 0}
+.hero-pop{
+  display:grid;
+  grid-template-columns:1fr 1.1fr;
+  gap:3rem;
+  align-items:center;
+padding-top:4rem}
+.hero-pop h1{
+font-size:clamp(3.8rem,8vw,8rem)}
+.pop-image{
+position:relative}
+.pop-image .hero-photo img{
+  height:530px;
+border-radius:50%}
+.pop-image .hero-mark{
+  background:var(--soft);
+  border:2px solid var(--ink);
+  border-radius:50%;
+  width:140px;
+  height:140px;
+  justify-content:center;
+  position:absolute;
+  bottom:3.5rem;
+  left:-1rem;
+  transform:rotate(-10deg);
+color:var(--ink)}
+.diner-heading{
+  display:flex;
+  gap:2.5rem;
+  align-items:center;
+padding:2rem 0 3rem}
+.hero-diner h1{
+  font-size:clamp(3rem,7vw,7rem);
+  font-weight:900;
+line-height:1.1}
+.hero-diner .hero-photo{
+  border-top:16px solid var(--accent);
+padding-top:1rem}
+.hero-diner .hero-photo img{
+height:470px}
+.layout-diner .disclosure{
+  background:var(--ink);
+color:var(--paper)}
+.layout-diner .site-header{
+  border-bottom:12px solid transparent;
+border-image:repeating-linear-gradient(90deg,var(--ink) 0 20px,var(--paper) 20px 40px) 12}
+.about{
+  max-width:1250px;
+  margin:3rem auto 0;
+  padding:4rem 4vw 6rem;
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:2rem 5vw;
+border-top:1px solid var(--accent)}
+.about-copy{
+padding-top:2.5rem}
+.source-inline{
+  font-size:.875rem;
+margin-top:1.5rem}
+.place-notes{
+  grid-column:1/-1;
+  display:flex;
+  flex-wrap:wrap;
+  gap:1.5rem 4rem;
+  border-top:1px solid var(--accent);
+  padding-top:1.8rem;
+margin-top:1rem}
+.place-notes p{
+font-size:1rem}
+.about-night,.about-vertical{
+grid-template-columns:.8fr 1fr}
+.about-poster,.about-diner{
+border-top-width:3px}
+.about-grid .about-copy{
+padding-top:0}
+.interlude{
+  max-width:1250px;
+  margin:0 auto 5rem;
+  padding:0 4vw;
+  display:grid;
+  grid-template-columns:1.15fr 1fr;
+  gap:5vw;
+align-items:center}
+.interlude .side-photo img{
+height:410px}
+.interlude-copy{
+padding:2rem 1rem}
+.interlude-copy>p{
+  font-size:clamp(1.7rem,2.7vw,2.7rem);
+line-height:1.7}
+.interlude-copy .glyph-motif{
+  color:var(--accent);
+margin-bottom:1rem}
+.layout-vertical .interlude,.layout-letter .interlude{
+direction:rtl}
+.layout-vertical .interlude>*,.layout-letter .interlude>*{
+direction:ltr}
+.layout-arch .interlude img{
+border-radius:2px 100px 2px 2px}
+.layout-pop .interlude{
+  border-radius:2rem;
+  background:var(--soft);
+  padding:3rem;
+margin-bottom:6rem}
+.layout-pop .interlude img{
+border-radius:1rem}
+.latest{
+  max-width:1150px;
+  margin:0 auto 5rem;
+  padding:3rem 4vw;
+  background:var(--soft);
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+gap:2rem}
+.latest p{
+font-size:1.5rem}
+.latest a{
+margin:0}
+.visit{
+  background:var(--soft);
+  padding:5rem max(4vw,calc((100vw - 1150px)/2));
+  display:grid;
+  grid-template-columns:.8fr 1.3fr;
+gap:5vw}
+.visit-heading>p:last-child{
+  margin-top:2rem;
+max-width:30ch}
+.visit-details{
+min-width:0}
+.visit dl{
+margin:0}
+.visit dl>div{
+  display:grid;
+  grid-template-columns:8rem 1fr;
+  gap:1rem;
+  padding:1.1rem 0;
+border-bottom:1px solid var(--accent)}
+dt{
+font-size:.9375rem}
+dd{
+  margin:0;
+min-width:0}
+.information-note{
+  font-size:.875rem;
+  line-height:1.85;
+margin-top:1.5rem}
+.visit-actions{
+  display:flex;
+  flex-wrap:wrap;
+  gap:1rem;
+margin-top:2rem}
+.button{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  min-height:48px;
+  padding:.7rem 1.2rem;
+  background:var(--ink);
+  color:var(--paper);
+  text-decoration:none;
+  font-size:.9375rem;
+border:1px solid var(--ink)}
+.button:hover{
+  background:var(--paper);
+color:var(--ink)}
+.button-secondary{
+  color:var(--ink);
+background:transparent}
+footer{
+  max-width:1250px;
+  margin:auto;
+padding:3rem 4vw}
+footer p{
+  font-size:.875rem;
+margin-top:1rem}
+.footer-heading{
+  display:flex;
+  justify-content:space-between;
+  gap:2rem;
+  margin-bottom:2rem;
+font-size:1rem}
+.footer-heading>span{
+font-weight:600}
+.footer-heading>a{
+  flex:none;
+font-size:.875rem}
+details{
+  margin-top:2rem;
+  border-top:1px solid var(--accent);
+border-bottom:1px solid var(--accent)}
+summary{
+  cursor:pointer;
+  padding:1rem 0;
+font-size:.9375rem}
+.source-details{
+padding:0 0 1.5rem}
+.source-details h2{
+  font:600 1rem/1.8 -apple-system,BlinkMacSystemFont,"Yu Gothic",sans-serif;
+margin-top:1.5rem}
+.source-details ul{
+padding-left:1.3rem}
+.source-details li{
+  margin:.6rem 0;
+font-size:.875rem}
+.credit{
+  letter-spacing:.12em;
+  font-size:.8125rem;
+margin-top:2rem}
+.skip{
+  position:absolute;
+  top:-100px;
+  left:1rem;
+  z-index:10;
+  padding:1rem;
+background:var(--paper)}
+.skip:focus{
+top:1rem}
+.store-hiyokodo h1,.store-nandemonaihi h1,.store-cafe-zen h1{
+font-size:clamp(2.5rem,5.3vw,5rem)}
+.store-le-lien h1{
+font-size:clamp(2.8rem,6vw,6rem)}
+.store-hiyokodo .poster-head .title-block{
+max-width:850px}
+.store-tabetai .hero-photo img{
+object-position:50% 45%}
+.store-le-chainon .pop-image .hero-photo img{
+object-position:50% 40%}
+.store-mimizu .hero-photo img{
+object-position:60% 50%}
+.store-hoki-cafe h1{
+max-width:7ch}
+.store-cafe-zen .hero-vertical h1{
+  font-size:3rem;
+  writing-mode:horizontal-tb;
+  min-height:0;
+  max-height:none;
+  letter-spacing:.07em;
+line-height:1.8}
+.store-cafe-zen .hero-vertical .title-block{
+align-items:flex-start}
+@media(min-width:1600px){
+  .hero{
+    padding-left:3rem;
+  padding-right:3rem}
+}
+@media(max-width:1000px){
+  .site-header{
+  padding:1.25rem 5vw}
+  .site-header nav{
+  gap:1rem}
+  .hero{
+    padding-left:5vw;
+  padding-right:5vw}
+  .hero-editorial{
+  grid-template-columns:1fr 1fr}
+  .hero-editorial>.side-photo{
+    grid-column:2;
+    padding:0;
+    max-width:70%;
+    margin-top:-4rem;
+    position:relative;
+  transform:translateX(-15%)}
+  .hero-editorial>.side-photo img{
+  height:220px}
+  .hero-garden{
+  grid-template-columns:1fr 1.2fr}
+  .hero-garden>.hero-mark{
+  display:none}
+  .hero-letter{
+  gap:4vw}
+  .hero-letter .hero-photo img,.arch-image .hero-photo img{
+  height:500px}
+  .hero-vertical{
+  gap:2rem}
+  .hero-split{
+    gap:2rem;
+  min-height:650px}
+  .hero-split .hero-photo img{
+  height:500px}
+  .hero-pop{
+  gap:1.5rem}
+  .hero-pop h1{
+  font-size:clamp(3.2rem,7vw,5.5rem)}
+  .pop-image .hero-photo img{
+  height:440px}
+  .visit{
+  grid-template-columns:1fr 1.5fr}
+  .visit dl>div{
+  grid-template-columns:6rem 1fr}
+  .hero-night .title-block{
+  padding-left:0}
+  .hero-night h1{
+  font-size:4rem}
+  .hero-night .hero-line{
+  font-size:1rem}
+  .interlude{
+  gap:2rem}
+}
+@media(max-width:680px){
+  html{
+  scroll-padding-top:1rem}
+  body{
+  line-height:1.9}
+  .disclosure{
+    font-size:.75rem;
+  padding:.5rem .8rem}
+  .site-header{
+    flex-wrap:wrap;
+    gap:.8rem;
+  padding:1rem 6vw}
+  .wordmark{
+    font-size:1rem;
+  max-width:77%}
+  .site-header nav{
+    width:100%;
+    display:flex;
+    flex-wrap:wrap;
+    gap:.4rem 1.5rem;
+    padding:.5rem 0;
+  font-size:.875rem}
+  .site-header nav a{
+  padding:.25rem 0}
+  .enhanced .menu-toggle{
+    display:block;
+    font-size:.875rem;
+    padding:.4rem .65rem;
+    color:var(--ink);
+    background:transparent;
+    border:1px solid var(--ink);
+  min-height:44px}
+  .enhanced .site-header nav[hidden]{
+  display:none}
+  .hero{
+    padding:2rem 6vw 3rem;
+    min-height:0;
+  gap:2rem}
+  .eyebrow{
+    font-size:.8125rem;
+    letter-spacing:.07em;
+  margin-bottom:1.25rem}
+  h1{
+    font-size:clamp(2.7rem,12vw,4rem);
+    line-height:1.3;
+  letter-spacing:-.03em}
+  h2{
+  font-size:1.8rem}
+  .hero-line{
+    font-size:1.125rem;
+  margin-top:1.4rem}
+  .text-link{
+  margin-top:1.4rem}
+  .hero-photo img{
+  height:370px}
+  .hero-split,.hero-letter,.hero-night,.hero-arch,.hero-vertical,.hero-garden,.hero-pop{
+    display:flex;
+    flex-direction:column;
+  align-items:stretch}
+  .hero-split .title-block{
+  padding:0}
+  .hero-split .hero-photo img{
+    height:410px;
+  border-radius:46% 46% 0 0}
+  .hero-split>.hero-mark{
+    position:static;
+    flex-direction:row;
+  justify-content:center}
+  .hero-split>.hero-mark .glyph-motif{
+    width:42px;
+  height:45px}
+  .hero-frame{
+    padding:1.5rem 4vw 2rem;
+  margin-top:1rem}
+  .frame-top{
+    padding:0 0 2rem;
+  gap:1rem}
+  .hero-frame h1{
+  font-size:2.8rem}
+  .hero-frame .hero-photo{
+  padding:.4rem}
+  .hero-frame .hero-photo img{
+  height:330px}
+  .hero-diptych>.title-block{
+    margin-bottom:2rem;
+  text-align:left}
+  .photo-pair{
+    gap:1rem;
+  grid-template-columns:1fr .7fr}
+  .photo-pair .hero-photo img{
+  height:340px}
+  .photo-pair .side-photo{
+  padding-bottom:0}
+  .photo-pair .side-photo img{
+  height:220px}
+  .photo-pair figcaption{
+  font-size:.75rem}
+  .hero-letter{
+  padding-top:1rem}
+  .letter-intro{
+  padding:1.5rem 0 2rem}
+  .letter-intro .hero-mark{
+  margin-bottom:1rem}
+  .letter-intro .glyph-motif{
+    width:45px;
+  height:48px}
+  .hero-letter h1{
+  font-size:2.9rem}
+  .hero-letter .hero-photo{
+  padding-top:0}
+  .hero-letter .hero-photo img{
+  height:380px}
+  .poster-head{
+    gap:1rem;
+    margin-bottom:1.7rem;
+  padding-bottom:1.7rem}
+  .poster-head h1{
+  font-size:2.8rem}
+  .poster-head .hero-mark{
+    width:65px;
+  height:65px}
+  .poster-head .glyph-motif{
+    width:36px;
+  height:39px}
+  .poster-head .hero-mark span{
+  display:none}
+  .hero-poster .hero-photo img{
+  height:350px}
+  .hero-night .title-block{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+  padding-bottom:1rem}
+  .hero-night h1{
+    font-size:3.6rem;
+    max-height:340px;
+  min-height:0}
+  .night-image .hero-photo img{
+  height:400px}
+  .night-image .hero-mark{
+    right:1rem;
+    top:1rem;
+  padding:.5rem}
+  .night-image .glyph-motif{
+    width:42px;
+  height:45px}
+  .grid-heading{
+    padding:.5rem 0 2rem;
+  gap:1rem}
+  .grid-heading .glyph-motif{
+    width:45px;
+  height:48px}
+  .grid-heading .hero-mark span{
+  display:none}
+  .hero-grid h1{
+  font-size:3.5rem}
+  .hero-grid .photo-pair{
+    grid-template-columns:1fr;
+  gap:1rem}
+  .hero-grid .photo-pair .hero-photo img{
+  height:330px}
+  .hero-grid .photo-pair .side-photo{
+    width:70%;
+  margin-left:auto}
+  .hero-grid .photo-pair .side-photo img{
+  height:230px}
+  .hero-editorial{
+    display:grid;
+    grid-template-columns:1fr .35fr;
+  gap:1.5rem}
+  .editorial-title{
+    grid-column:1/-1;
+    display:flex;
+    justify-content:space-between;
+    gap:1rem;
+  padding-top:0}
+  .editorial-title .hero-mark{
+    margin:0;
+  align-self:center}
+  .editorial-title .glyph-motif{
+    width:44px;
+  height:46px}
+  .hero-editorial h1{
+  font-size:3.7rem}
+  .hero-editorial>.hero-photo{
+    grid-column:1/-1;
+  padding:0}
+  .hero-editorial>.hero-photo img{
+  height:390px}
+  .hero-editorial>.side-photo{
+    grid-column:1/-1;
+    justify-self:end;
+    width:55%;
+    margin-top:-6rem;
+    max-width:none;
+    transform:none;
+    padding:5px;
+  background:var(--paper)}
+  .hero-editorial>.side-photo img{
+  height:220px}
+  .hero-arch{
+  padding-top:2rem}
+  .hero-arch h1{
+  font-size:3rem}
+  .arch-image .hero-photo img{
+  height:450px}
+  .arch-image .hero-mark{
+    left:-.4rem;
+    bottom:3.8rem;
+  padding:.65rem}
+  .arch-image .glyph-motif{
+    width:55px;
+  height:59px}
+  .hero-vertical .title-block{
+  align-items:center}
+  .hero-vertical h1{
+    font-size:3.5rem;
+    max-height:340px;
+  min-height:0}
+  .hero-vertical .eyebrow{
+  text-align:center}
+  .hero-vertical .hero-line{
+    text-align:center;
+  font-size:1.1rem}
+  .vertical-image .hero-photo img{
+  height:400px}
+  .vertical-image .glyph-motif{
+    width:45px;
+  height:48px}
+  .hero-garden h1{
+  font-size:2.9rem}
+  .garden-image{
+    padding:.7rem;
+  border-radius:48% 48% 0 0}
+  .garden-image .hero-photo img{
+  height:430px}
+  .hero-pop h1{
+  font-size:3.8rem}
+  .pop-image{
+  padding-top:1rem}
+  .pop-image .hero-photo img{
+  height:350px}
+  .pop-image .hero-mark{
+    width:95px;
+    height:95px;
+    left:-.4rem;
+    bottom:3.8rem;
+  gap:0}
+  .pop-image .glyph-motif{
+    width:45px;
+  height:48px}
+  .pop-image .hero-mark span{
+  font-size:.6875rem}
+  .diner-heading{
+    display:block;
+  padding:0 0 2rem}
+  .diner-heading>.hero-mark{
+    flex-direction:row;
+    justify-content:start;
+    margin-bottom:1.5rem;
+  gap:1rem}
+  .diner-heading>.hero-mark .glyph-motif{
+    width:45px;
+  height:48px}
+  .hero-diner h1{
+  font-size:3rem}
+  .hero-diner .hero-photo img{
+  height:350px}
+  .about{
+    margin-top:1rem;
+    padding:3rem 6vw 3.5rem;
+    display:block;
+    border-left:0;
+  border-right:0}
+  .about-copy{
+  padding-top:1.5rem}
+  .place-notes{
+    display:block;
+    padding-top:1rem;
+  margin-top:1.5rem}
+  .place-notes p+p{
+  margin-top:.6rem}
+  .interlude,.layout-vertical .interlude,.layout-letter .interlude{
+    display:block;
+    padding:0 6vw;
+    margin-bottom:3.5rem;
+  direction:ltr}
+  .interlude .side-photo img{
+  height:300px}
+  .interlude-copy{
+  padding:2rem 0 0}
+  .interlude-copy .glyph-motif{
+    width:50px;
+  height:54px}
+  .interlude-copy>p{
+  font-size:1.8rem}
+  .layout-pop .interlude{
+    margin:0 5vw 3.5rem;
+    padding:1.2rem;
+  border-radius:1rem}
+  .layout-pop .interlude img{
+  height:280px}
+  .layout-pop .interlude-copy{
+  padding:1rem .4rem}
+  .latest{
+    margin:0 6vw 3rem;
+    display:block;
+  padding:1.5rem}
+  .latest p{
+  font-size:1.25rem}
+  .latest a{
+  margin-top:1rem}
+  .visit{
+    display:block;
+  padding:3rem 6vw}
+  .visit-heading>p:last-child{
+    margin-top:1rem;
+  max-width:none}
+  .visit-details{
+  margin-top:2rem}
+  .visit dl>div{
+    display:block;
+  padding:1rem 0}
+  .visit dt{
+    font-size:.875rem;
+  margin-bottom:.4rem}
+  .visit dd{
+  font-size:1rem}
+  .visit-actions{
+    display:grid;
+    grid-template-columns:1fr;
+  gap:.8rem}
+  .button{
+    min-height:52px;
+  font-size:.9375rem}
+  footer{
+  padding:2.5rem 6vw}
+  .footer-heading{
+    align-items:start;
+  gap:1rem}
+  .footer-heading>span{
+  max-width:65%}
+  figcaption{
+    font-size:.75rem;
+  line-height:1.7}
+  .store-hiyokodo h1,.store-nandemonaihi h1{
+  font-size:2.4rem}
+  .store-hiyokodo .poster-head>.hero-mark{
+  display:none}
+  .store-le-lien h1{
+  font-size:2.7rem}
+  .store-cafe-zen .hero-vertical h1{
+    font-size:2.3rem;
+  line-height:1.6}
+  .store-cafe-zen .hero-vertical .title-block{
+  align-items:flex-start}
+  .store-cafe-zen .hero-vertical .eyebrow,.store-cafe-zen .hero-vertical .hero-line{
+  text-align:left}
+  .store-hoki-cafe h1{
+  max-width:none}
+}
+@media(prefers-reduced-motion:reduce){
+  html{
+  scroll-behavior:auto}
+}
