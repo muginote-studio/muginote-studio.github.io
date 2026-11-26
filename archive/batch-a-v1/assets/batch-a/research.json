@@ -1,0 +1,833 @@
+[
+  {
+    "id": "CAFE-011",
+    "slug": "hoki-cafe",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/hokkaido/A0104/A010401/1086431/",
+    "listingHttpStatus": 200,
+    "address": "北海道旭川市永山八条2-3-7",
+    "hoursFromListing": "11:00 - 18:00 不定休",
+    "officialInstagram": "https://www.instagram.com/hokicafe1026",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィール画像の濃紺の板壁と黄色の文字、食べログの明るい窓辺・木製家具から、紺と黄土色、直線的な分割構成へ。",
+    "layout": "split",
+    "font": "sans",
+    "palette": [
+      "#f2eee4",
+      "#183141",
+      "#7c570e",
+      "#ded3ac"
+    ],
+    "photos": [
+      "table.webp",
+      "coffee.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/hokkaido/A0104/A010401/1086431/",
+      "https://www.shopship.jp/asahikawa/open-close/hokicafe1026/"
+    ]
+  },
+  {
+    "id": "CAFE-012",
+    "slug": "kissa-blondy",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/hokkaido/A0101/A010305/1086434/",
+    "listingHttpStatus": 200,
+    "address": "北海道札幌市南区澄川三条1-9-31",
+    "hoursFromListing": "月・火・水・木・金 10:00 - 19:00 土・日 10:00 - 18:00",
+    "officialInstagram": "https://www.instagram.com/blondy_roastery",
+    "instagramScope": "公式Instagramのプロフィール・投稿は直接確認できませんでした。公開の店舗写真を補助資料にしています。",
+    "designNotes": "食べログの白いカップの茶色の縁、濃茶の卓上、柄入りの椅子と暗めの店内写真から、琥珀・焦茶と額縁型の構図へ。Instagramはプロフィールも直接確認できず。",
+    "layout": "frame",
+    "font": "serif",
+    "palette": [
+      "#f2e6ce",
+      "#3c241d",
+      "#763d27",
+      "#deca9f"
+    ],
+    "photos": [
+      "coffee.webp",
+      "cookies.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/hokkaido/A0101/A010305/1086434/",
+      "https://plaza.rakuten.co.jp/yorozuken/diary/202610240003/"
+    ]
+  },
+  {
+    "id": "CAFE-013",
+    "slug": "asile",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/aomori/A0201/A020101/2014023/",
+    "listingHttpStatus": 200,
+    "address": "青森県青森市古川1-14-3 BLACK BOX 1F",
+    "hoursFromListing": "火 11:00 - 15:00 L.O. 14:30 水・木・金 11:00 - 15:00 L.O. 14:30 17:00 - 21:00 L.O. 20:00 土 11:00 - 20:00 L.O. 19:00 月・日 定休日",
+    "officialInstagram": "https://www.instagram.com/asile_369_/",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールの細い金色の文字と植物、食べログのワイン・木のカウンターから、クリームとワイン色、細い明朝と二連写真へ。",
+    "layout": "diptych",
+    "font": "serif",
+    "palette": [
+      "#f4efe5",
+      "#382b23",
+      "#6d3c36",
+      "#dbceb3"
+    ],
+    "photos": [
+      "wine.webp",
+      "table.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/aomori/A0201/A020101/2014023/",
+      "https://www.acci.or.jp/salon/【会員事業所紹介】カフェ・バル-asile/"
+    ]
+  },
+  {
+    "id": "CAFE-014",
+    "slug": "nakano-coffee",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/aomori/A0202/A020201/2014002/",
+    "listingHttpStatus": 200,
+    "address": "青森県弘前市八幡町2-5-5",
+    "hoursFromListing": null,
+    "officialInstagram": "https://www.instagram.com/nakanocoffee10/",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "食べログの白壁と暗い木のカウンター、窓外の緑から、白灰・深緑と便箋のような端正な文字組みへ。営業時間は新聞記事と食べログに相違があるため現行未確認。",
+    "layout": "letter",
+    "font": "serif",
+    "palette": [
+      "#edf0eb",
+      "#29382e",
+      "#4a6150",
+      "#ced5c9"
+    ],
+    "photos": [
+      "coffee.webp",
+      "toast.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/aomori/A0202/A020201/2014002/",
+      "https://hirosaki.keizai.biz/headline/2773/"
+    ]
+  },
+  {
+    "id": "CAFE-015",
+    "slug": "hiyokodo",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/iwate/A0301/A030103/3013251/",
+    "listingHttpStatus": 200,
+    "address": "岩手県紫波郡紫波町北日詰字白旗17-3",
+    "hoursFromListing": "月・火・水・土 08:30 - 14:30 木・金・日 定休日",
+    "officialInstagram": "https://www.instagram.com/hiyoko_dou/",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "食べログの本棚、木の机、赤いカウンター椅子と緑の壁から、紙色・赤・深緑、紙面を組むようなポスター構成へ。プロフィールの既存キャラクターは複製しない。",
+    "layout": "poster",
+    "font": "sans",
+    "palette": [
+      "#f7efce",
+      "#303c30",
+      "#9b3125",
+      "#e4c46a"
+    ],
+    "photos": [
+      "sandwich.webp",
+      "cookies.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/iwate/A0301/A030103/3013251/",
+      "https://kaiten-heiten-24.com/hiyoko-dou/"
+    ]
+  },
+  {
+    "id": "CAFE-016",
+    "slug": "kissa-yoru-sakurayama",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/iwate/A0301/A030101/3013416/",
+    "listingHttpStatus": 200,
+    "address": "岩手県盛岡市内丸5-5",
+    "hoursFromListing": "火・水・木・金・土 17:00 - 21:00 月・日 定休日",
+    "officialInstagram": "https://www.instagram.com/sakurayama_yoru/",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールの余白を生かした縦の文字、食べログの暗い木の机・ランプの灯りから、墨緑と琥珀、縦組みの余白へ。",
+    "layout": "night",
+    "font": "serif",
+    "palette": [
+      "#20231f",
+      "#f5efdf",
+      "#e5bc77",
+      "#373c33"
+    ],
+    "photos": [
+      "coffee.webp",
+      "cookies.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/iwate/A0301/A030101/3013416/"
+    ]
+  },
+  {
+    "id": "CAFE-017",
+    "slug": "cafe-marm",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/miyagi/A0404/A040404/4030479/",
+    "listingHttpStatus": 200,
+    "address": "宮城県多賀城市中央1-5-2",
+    "hoursFromListing": "月・火・金・土 10:00 - 14:00 L.O. 13:30 水・木・日 定休日 その他不定休 ランチは金・土の11:00～13:30(L.O.)",
+    "officialInstagram": "https://www.instagram.com/cafe.marm",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールの黒い太字MARMと白地、食べログの豆皿・淡い木の卓上から、白と茶、整然としたグリッドへ。",
+    "layout": "grid",
+    "font": "sans",
+    "palette": [
+      "#faf7ef",
+      "#3f332b",
+      "#895344",
+      "#e5d5bb"
+    ],
+    "photos": [
+      "toast.webp",
+      "latte.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/miyagi/A0404/A040404/4030479/",
+      "https://freimann.hatenablog.com/entry/2026/10/09/170000"
+    ]
+  },
+  {
+    "id": "CAFE-018",
+    "slug": "mimizu",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/miyagi/A0401/A040105/4030460/",
+    "listingHttpStatus": 200,
+    "address": "宮城県仙台市太白区茂庭字松場6-12",
+    "hoursFromListing": "月・火・金・土・日 10:00 - 16:00 水・木 定休日",
+    "officialInstagram": "https://www.instagram.com/mimizu_kaffee",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールの茶色の線画、食べログの褐色の器・オレンジの椅子・木の棚から、土色と焼けた橙、雑誌風の大小写真へ。",
+    "layout": "editorial",
+    "font": "sans",
+    "palette": [
+      "#ede2d2",
+      "#3d2e29",
+      "#99502d",
+      "#d4b08a"
+    ],
+    "photos": [
+      "coffee.webp",
+      "cookies.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/miyagi/A0401/A040105/4030460/",
+      "https://sendaiminami-tusin.com/mimizu2610/"
+    ]
+  },
+  {
+    "id": "CAFE-019",
+    "slug": "ko-meguri",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/akita/A0505/A050501/5011649/",
+    "listingHttpStatus": 200,
+    "address": "秋田県横手市婦気大堤田久保下183-5 ハンモック １F",
+    "hoursFromListing": "月・水・木・金・日 11:00 - 16:00 L.O. 料理15:15 火・土 定休日 臨時休業などはInstagramでお知らせしております",
+    "officialInstagram": "https://www.instagram.com/ko_meguri.cafe/",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールの木目の丸い看板、食べログの白い椅子・植物柄・緑の鉢から、白とオリーブ、アーチと植物の線へ。補助ブログは503。",
+    "layout": "arch",
+    "font": "serif",
+    "palette": [
+      "#f5f3e9",
+      "#374334",
+      "#566746",
+      "#dce1ce"
+    ],
+    "photos": [
+      "table.webp",
+      "toast.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/akita/A0505/A050501/5011649/"
+    ]
+  },
+  {
+    "id": "CAFE-020",
+    "slug": "kyado-ponponjina",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/akita/A0501/A050101/5011631/",
+    "listingHttpStatus": 200,
+    "address": "秋田県秋田市泉南1-16-26",
+    "hoursFromListing": "11:00 - 17:00",
+    "officialInstagram": "https://www.instagram.com/pon.pon_cafe/",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "食べログとあきたタウン情報の青緑の壁・木製椅子・琥珀色の飲み物から、青緑と栗色、丸みを抑えた横長構成へ。店名由来は本文に採用しない。",
+    "layout": "split",
+    "font": "sans",
+    "palette": [
+      "#e8ece9",
+      "#273c3d",
+      "#78513b",
+      "#bdcfc7"
+    ],
+    "photos": [
+      "latte.webp",
+      "toast.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/akita/A0501/A050101/5011631/",
+      "https://web.akita-townjoho.jp/post-category/20260430-kyadoponponjina/"
+    ]
+  },
+  {
+    "id": "CAFE-021",
+    "slug": "le-lien",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/yamagata/A0602/A060202/6013562/",
+    "listingHttpStatus": 200,
+    "address": "山形県南陽市赤湯823-4 巴里苑第2テナント 1F",
+    "hoursFromListing": "月・火・水・金・土・日 11:00 - 17:00 L.O. 料理16:30 18:00 - 22:00 L.O. 料理21:30 木 定休日",
+    "officialInstagram": "https://www.instagram.com/cafe_lelien2026",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールの端正なセリフ体、食べログの淡いカウンター・ピンクと黄の外壁から、淡い桃と赤茶、二つの時間を見せる構成へ。",
+    "layout": "diptych",
+    "font": "serif",
+    "palette": [
+      "#f9f0e9",
+      "#4f3e35",
+      "#8b4b41",
+      "#e8d2be"
+    ],
+    "photos": [
+      "table.webp",
+      "wine.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/yamagata/A0602/A060202/6013562/"
+    ]
+  },
+  {
+    "id": "CAFE-022",
+    "slug": "kumakichi-biyori",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/yamagata/A0602/A060203/6013674/",
+    "listingHttpStatus": 200,
+    "address": "山形県西置賜郡白鷹町黒鴨353",
+    "hoursFromListing": null,
+    "officialInstagram": "https://www.instagram.com/kumakichi_biyori_yamagata.cafe",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールの墨の古民家線画、食べログの畳・濃い梁・窓の緑・青い器から、畳色と深緑、縦書きの導入へ。食べログの古い開業予定記述は営業時間に使わない。",
+    "layout": "vertical",
+    "font": "serif",
+    "palette": [
+      "#edece1",
+      "#303e34",
+      "#4d6850",
+      "#d0d6bf"
+    ],
+    "photos": [
+      "tea.webp",
+      "cookies.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/yamagata/A0602/A060203/6013674/",
+      "https://camp-fire.jp/projects/977512/view?list=prefecture_yamagata_projects_fresh",
+      "https://camp-fire.jp/projects/977512/view/activities/910342"
+    ]
+  },
+  {
+    "id": "CAFE-023",
+    "slug": "nandemonaihi",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/yamagata/A0603/A060303/6013517/",
+    "listingHttpStatus": 200,
+    "address": "山形県飽海郡遊佐町吉出字和田3-5",
+    "hoursFromListing": "水・木・金・土・日 11:00 - 18:00 月・火 定休日",
+    "officialInstagram": "https://www.instagram.com/nandemonaihini_/",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールの朱色の線画、食べログの畳・木枠の窓・クリームソーダの緑から、紙色と朱茶、手紙のように読み進める構成へ。",
+    "layout": "letter",
+    "font": "serif",
+    "palette": [
+      "#f6efe3",
+      "#423c2e",
+      "#8c4630",
+      "#e7ceb3"
+    ],
+    "photos": [
+      "sandwich.webp",
+      "latte.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/yamagata/A0603/A060303/6013517/",
+      "https://yama-katsu.jp/press/30267/",
+      "https://yuzamachi.com/taberu/nandemonaihini/2026/07/14/"
+    ]
+  },
+  {
+    "id": "CAFE-024",
+    "slug": "green-cafe-hana",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/fukushima/A0704/A070401/7021049/",
+    "listingHttpStatus": 200,
+    "address": "福島県いわき市勿来町四沢渋町33 アクアランド はなばた",
+    "hoursFromListing": null,
+    "officialInstagram": "https://www.instagram.com/green_and_caffe_hana",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールのオリーブ色の植物・丸い看板、食べログの窓際の緑と木のテーブルから、葉色と白、窓形の写真枠へ。施設ニュースは本文の一次資料として採用。",
+    "layout": "garden",
+    "font": "serif",
+    "palette": [
+      "#edf1e6",
+      "#2c422e",
+      "#486738",
+      "#cbd9b5"
+    ],
+    "photos": [
+      "table.webp",
+      "latte.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/fukushima/A0704/A070401/7021049/",
+      "https://www.gurutto-iwaki.com/detail/1792/news/news-931717.html"
+    ]
+  },
+  {
+    "id": "CAFE-025",
+    "slug": "resky",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/fukushima/A0705/A070501/7020931/",
+    "listingHttpStatus": 200,
+    "address": "福島県会津若松市中町4-33 平ちゃんビル B1F",
+    "hoursFromListing": "火・水・木・金・土・日 11:00 - 14:00 月 定休日 第3火曜は定休日です。",
+    "officialInstagram": null,
+    "instagramScope": "公式Instagramを同定できませんでした。公開の店舗紹介と食べログの写真を補助資料にしています。",
+    "designNotes": "食べログの白黒チェッカーのカウンター、赤い店内小物、木の床から、黒白とくすんだ赤、アメリカンポスターへ。公式Instagramは割当資料に記載がなく同定できず。",
+    "layout": "poster",
+    "font": "sans",
+    "palette": [
+      "#f3e9dd",
+      "#282d33",
+      "#a74432",
+      "#e6c5a7"
+    ],
+    "photos": [
+      "sandwich.webp",
+      "latte.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/fukushima/A0705/A070501/7020931/",
+      "https://www.gurutto-aizu.com/detail/1158/index.html"
+    ]
+  },
+  {
+    "id": "CAFE-026",
+    "slug": "quebectei",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/ibaraki/A0805/A080503/8031302/",
+    "listingHttpStatus": 200,
+    "address": "茨城県常陸大宮市上町932",
+    "hoursFromListing": null,
+    "officialInstagram": "https://www.instagram.com/cafequebec2026/",
+    "instagramScope": "公式Instagramのプロフィール・投稿は直接確認できませんでした。公開の店舗写真を補助資料にしています。",
+    "designNotes": "食べログの料理写真で確認できた木のトレー、茶褐色の器と濃い輪郭から、木色と茶、控えめな額縁構成へ。店内全景・Instagramプロフィールと投稿は未確認。",
+    "layout": "frame",
+    "font": "serif",
+    "palette": [
+      "#f1e9da",
+      "#44392d",
+      "#82633f",
+      "#dac7a5"
+    ],
+    "photos": [
+      "tea.webp",
+      "table.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/ibaraki/A0805/A080503/8031302/"
+    ]
+  },
+  {
+    "id": "CAFE-027",
+    "slug": "fufufu",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/tochigi/A0901/A090101/9024341/",
+    "listingHttpStatus": 200,
+    "address": "栃木県宇都宮市宮本町4-10-2",
+    "hoursFromListing": "火・水・木・金 07:00 - 09:00 16:00 - 21:00 土 14:00 - 22:00 日 12:00 - 19:00 月 定休日 ランチ営業あり 詳細は公式インスタグラムにて",
+    "officialInstagram": "https://www.instagram.com/fufufu.store",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールの灰色地と手書き風白文字、食べログの木の外壁・緑・レコード周りから、灰緑と木色、雑誌のコラムのような配置へ。",
+    "layout": "editorial",
+    "font": "sans",
+    "palette": [
+      "#e9e8dd",
+      "#2e3b32",
+      "#536a4c",
+      "#c9ccb5"
+    ],
+    "photos": [
+      "coffee.webp",
+      "wine.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/tochigi/A0901/A090101/9024341/",
+      "https://www.tochinavi.net/spot/newopen/detail.shtml?id=4313"
+    ]
+  },
+  {
+    "id": "CAFE-028",
+    "slug": "my-honey",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/tochigi/A0901/A090101/9024337/",
+    "listingHttpStatus": 200,
+    "address": "栃木県宇都宮市大曽4-7-16",
+    "hoursFromListing": "11:00 - 17:00",
+    "officialInstagram": "https://www.instagram.com/myhoney1919",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールの蜂蜜色、食べログの黄色い外壁と赤い扉から、蜂蜜色と赤茶、丸い写真と太い文字へ。写真内の他店舗掲載に見える料理は参考から除外。",
+    "layout": "pop",
+    "font": "sans",
+    "palette": [
+      "#fff4c7",
+      "#382e24",
+      "#923b2d",
+      "#edbe52"
+    ],
+    "photos": [
+      "sandwich.webp",
+      "icecream.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/tochigi/A0901/A090101/9024337/",
+      "https://utsunomiya.goguynet.jp/2026/07/14/my-honey/"
+    ]
+  },
+  {
+    "id": "CAFE-029",
+    "slug": "le-chainon",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/gunma/A1001/A100102/10027439/",
+    "listingHttpStatus": 200,
+    "address": "群馬県高崎市井野町1274-2",
+    "hoursFromListing": "10:30〜18:30",
+    "officialInstagram": "https://www.instagram.com/le.chainon8787/",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールの水色・桃・緑の花、食べログのカラフルな花と紫の小物から、淡い紫とミントを手掛かりに、柔らかな円形構成へ。",
+    "layout": "pop",
+    "font": "sans",
+    "palette": [
+      "#f5edf5",
+      "#48364a",
+      "#725274",
+      "#d8c8e3"
+    ],
+    "photos": [
+      "icecream.webp",
+      "cookies.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/gunma/A1001/A100102/10027439/"
+    ]
+  },
+  {
+    "id": "CAFE-030",
+    "slug": "hoodhouse",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/gunma/A1001/A100101/10026738/",
+    "listingHttpStatus": 200,
+    "address": "群馬県前橋市城東町2-2-9",
+    "hoursFromListing": "11:00-14:00 17:00-23:00",
+    "officialInstagram": "https://www.instagram.com/hoodhouse_maebashi/",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールの赤と黄の太字、食べログの黒白チェッカー床・暗い木のカウンターから、赤・黄・黒、太い文字と帯の構成へ。",
+    "layout": "diner",
+    "font": "sans",
+    "palette": [
+      "#f3dfb5",
+      "#282522",
+      "#982d26",
+      "#e8b64d"
+    ],
+    "photos": [
+      "sandwich.webp",
+      "wine.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/gunma/A1001/A100101/10026738/",
+      "https://saikura.info/open-hood-house-maebashi-20261029/"
+    ]
+  },
+  {
+    "id": "CAFE-031",
+    "slug": "sena-coffee",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/gunma/A1002/A100202/10027456/",
+    "listingHttpStatus": 200,
+    "address": "群馬県伊勢崎市下植木町399-1",
+    "hoursFromListing": "月・火・水・木・金 09:00 - 15:00 L.O. 料理14:30 土・日・祝日 定休日",
+    "officialInstagram": "https://www.instagram.com/seinacoffee/",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールの生成りと赤茶の明朝、食べログの白壁・木の天井・大きな窓から、生成りと赤茶、静かな便箋型へ。slugは指定どおりsena-coffee、店名表記を優先。",
+    "layout": "letter",
+    "font": "serif",
+    "palette": [
+      "#f3eee5",
+      "#46362d",
+      "#784738",
+      "#d8c6ad"
+    ],
+    "photos": [
+      "coffee.webp",
+      "sandwich.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/gunma/A1002/A100202/10027456/"
+    ]
+  },
+  {
+    "id": "CAFE-032",
+    "slug": "bounce",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/saitama/A1105/A110503/11068999/",
+    "listingHttpStatus": 200,
+    "address": "埼玉県深谷市普済寺1609-6",
+    "hoursFromListing": "月・火・水・金・土・日 09:00 - 15:00 木 定休日",
+    "officialInstagram": "https://www.instagram.com/bounce.wellness",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールの深緑のセリフ体、食べログの白い壁・灰色の床・緑の植物から、白と深緑、余白のある整ったグリッドへ。",
+    "layout": "grid",
+    "font": "serif",
+    "palette": [
+      "#f0f3ed",
+      "#244432",
+      "#3f634b",
+      "#d5dfd0"
+    ],
+    "photos": [
+      "table.webp",
+      "latte.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/saitama/A1105/A110503/11068999/"
+    ]
+  },
+  {
+    "id": "CAFE-033",
+    "slug": "tarte-plus",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/saitama/A1104/A110402/11068975/",
+    "listingHttpStatus": 200,
+    "address": "埼玉県久喜市南栗橋4-12-5 プランドール",
+    "hoursFromListing": null,
+    "officialInstagram": "https://www.instagram.com/cafe_tarte_plus",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールの茶地と白文字、食べログの淡い壁・赤茶の腰壁・丸い照明・曲線のモールから、ローズブラウンとアーチの構成へ。",
+    "layout": "arch",
+    "font": "serif",
+    "palette": [
+      "#f5eae1",
+      "#4c3937",
+      "#8d5255",
+      "#dfc4b5"
+    ],
+    "photos": [
+      "cookies.webp",
+      "tea.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/saitama/A1104/A110402/11068975/",
+      "https://kuki-satte.goguynet.jp/2026/11/07/tarte-plus/"
+    ]
+  },
+  {
+    "id": "CAFE-034",
+    "slug": "vigo",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/chiba/A1201/A120101/12068435/",
+    "listingHttpStatus": 200,
+    "address": "千葉県千葉市中央区大巌寺町276-1",
+    "hoursFromListing": "月・火・水・木・金 11:00 - 16:00 L.O. 15:00 土・祝日 11:00 - 14:00 L.O. 13:00 日 定休日",
+    "officialInstagram": "https://www.instagram.com/vigo_waffle",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールのモノクロの鹿と植物の線画、食べログの木の梁・白壁・植物から、墨緑と木色、温室を連想する窓枠へ。鹿のロゴは複製しない。",
+    "layout": "garden",
+    "font": "serif",
+    "palette": [
+      "#f0ece0",
+      "#323e30",
+      "#516347",
+      "#d6ccb1"
+    ],
+    "photos": [
+      "cookies.webp",
+      "latte.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/chiba/A1201/A120101/12068435/",
+      "https://www.gummaumaimono.info/entry/2026/10/15/214835"
+    ]
+  },
+  {
+    "id": "CAFE-035",
+    "slug": "ten",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/chiba/A1203/A120301/12068592/",
+    "listingHttpStatus": 200,
+    "address": "千葉県柏市しいの木台5-32-6",
+    "hoursFromListing": "月・火・水・木 10:00 - 15:00 金 10:00 - 15:00 18:00 - 00:00 土・日 定休日",
+    "officialInstagram": "https://www.instagram.com/ten_choinomidokoro/",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールの生成りと黒い円、食べログの深緑の壁・花柄のテーブルクロス・木の床から、生成りと深緑、昼夜の二連構成へ。",
+    "layout": "diptych",
+    "font": "sans",
+    "palette": [
+      "#f5eed8",
+      "#30463a",
+      "#48634d",
+      "#d8bca0"
+    ],
+    "photos": [
+      "table.webp",
+      "wine.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/chiba/A1203/A120301/12068592/"
+    ]
+  },
+  {
+    "id": "CAFE-036",
+    "slug": "toki",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/tokyo/A1304/A130401/13326656/",
+    "listingHttpStatus": 200,
+    "address": "東京都新宿区西新宿7-6-9 1F",
+    "hoursFromListing": "金・土・日 11:30 - 16:00 L.O. 15:30 月・火・水・木・祝日・祝前日・祝後日 定休日 不定休",
+    "officialInstagram": "https://www.instagram.com/toki_kakigori/",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールの白地に細い黒線、食べログの白い氷と淡い黄色のソース・木の卓上から、白と淡い黄、縦に余白をとる構成へ。かき氷の実商品写真は転載しない。",
+    "layout": "vertical",
+    "font": "serif",
+    "palette": [
+      "#f7f5eb",
+      "#40433e",
+      "#756536",
+      "#e5dfbe"
+    ],
+    "photos": [
+      "tea.webp",
+      "icecream.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/tokyo/A1304/A130401/13326656/"
+    ]
+  },
+  {
+    "id": "CAFE-037",
+    "slug": "cache-cache",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/kanagawa/A1404/A140408/14105535/",
+    "listingHttpStatus": 200,
+    "address": "神奈川県中郡二宮町百合が丘2-31-1",
+    "hoursFromListing": null,
+    "officialInstagram": "https://www.instagram.com/maison.cachecache",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールの円形セリフ文字、食べログの和紙の丸い照明・黒い窓枠・緑と木の床から、紙色・墨・黄土色、丸い灯りを思わせるアーチへ。",
+    "layout": "arch",
+    "font": "serif",
+    "palette": [
+      "#f3eee6",
+      "#413d32",
+      "#74633e",
+      "#d6ccb8"
+    ],
+    "photos": [
+      "latte.webp",
+      "cookies.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/kanagawa/A1404/A140408/14105535/"
+    ]
+  },
+  {
+    "id": "CAFE-038",
+    "slug": "cafe-zen",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/kanagawa/A1404/A140406/14105729/",
+    "listingHttpStatus": 200,
+    "address": "神奈川県茅ヶ崎市芹沢2490 塩川邸",
+    "hoursFromListing": "金・土・日 11:00 - 17:00 月・火・水・木 定休日",
+    "officialInstagram": "https://www.instagram.com/8453cafe.zen2490",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールの木地に墨の円、食べログの木枠の窓・濃い茶色の机・緑の器から、木色と墨緑、縦書きの余白と円形装飾へ。",
+    "layout": "vertical",
+    "font": "serif",
+    "palette": [
+      "#eae7da",
+      "#343b2d",
+      "#56613b",
+      "#c7c9b0"
+    ],
+    "photos": [
+      "tea.webp",
+      "coffee.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/kanagawa/A1404/A140406/14105729/"
+    ]
+  },
+  {
+    "id": "CAFE-039",
+    "slug": "kissa-perla",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/niigata/A1501/A150101/15025978/",
+    "listingHttpStatus": 200,
+    "address": "新潟県新潟市中央区古町通9番町1467",
+    "hoursFromListing": "火・水・木・金・土・日・祝日 08:00 - 15:00 月 定休日",
+    "officialInstagram": "https://www.instagram.com/kissa_perla/",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールの黒い看板と金色の文字、食べログの木の卓上・グレーの器・白壁から、墨青と控えめな金茶、細い額縁の構成へ。補助記事は取得503。",
+    "layout": "frame",
+    "font": "serif",
+    "palette": [
+      "#eee9df",
+      "#30383e",
+      "#645740",
+      "#d1c9ba"
+    ],
+    "photos": [
+      "coffee.webp",
+      "toast.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/niigata/A1501/A150101/15025978/",
+      "https://r.gnavi.co.jp/k11bxjtf0000/"
+    ]
+  },
+  {
+    "id": "CAFE-040",
+    "slug": "tabetai",
+    "checkedOn": "2026-11-26",
+    "listingUrl": "https://tabelog.com/toyama/A1602/A160202/16012063/",
+    "listingHttpStatus": 200,
+    "address": "富山県魚津市新金屋1-4-26",
+    "hoursFromListing": "月・木・金・土・日 11:00 - 18:00 火・水 定休日",
+    "officialInstagram": "https://www.instagram.com/tabetai_kanmidokoro/",
+    "instagramScope": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。",
+    "designNotes": "公式プロフィールの墨の六角形と小豆色、食べログの青い外壁・木の縦格子・たい焼きの焼き色から、藍と小豆・木色、和のポスター構成へ。",
+    "layout": "poster",
+    "font": "serif",
+    "palette": [
+      "#f1e8d9",
+      "#183d4e",
+      "#7d4739",
+      "#d7b990"
+    ],
+    "photos": [
+      "tea.webp",
+      "cookies.webp"
+    ],
+    "factSources": [
+      "https://tabelog.com/toyama/A1602/A160202/16012063/",
+      "https://toyama-watch.com/archives/29554"
+    ]
+  }
+]

@@ -1,0 +1,238 @@
+{
+  "version": "batch-a-v1",
+  "snapshot_commit": "7eb14d47f0e9c47d844076469b95052676190022",
+  "archive_url": "https://muginote-studio.github.io/archive/batch-a-v1/",
+  "pages": [
+    {
+      "id": "CAFE-011",
+      "name": "Hoki Cafe",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/hoki-cafe/",
+      "current_url": "https://muginote-studio.github.io/hoki-cafe/"
+    },
+    {
+      "id": "CAFE-012",
+      "name": "喫茶ブロンディー",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/kissa-blondy/",
+      "current_url": "https://muginote-studio.github.io/kissa-blondy/"
+    },
+    {
+      "id": "CAFE-013",
+      "name": "Asile",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/asile/",
+      "current_url": "https://muginote-studio.github.io/asile/"
+    },
+    {
+      "id": "CAFE-014",
+      "name": "中野珈琲店",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/nakano-coffee/",
+      "current_url": "https://muginote-studio.github.io/nakano-coffee/"
+    },
+    {
+      "id": "CAFE-015",
+      "name": "まんがめし喫茶 ひよこ堂",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/hiyokodo/",
+      "current_url": "https://muginote-studio.github.io/hiyokodo/"
+    },
+    {
+      "id": "CAFE-016",
+      "name": "喫茶 夜 桜山",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/kissa-yoru-sakurayama/",
+      "current_url": "https://muginote-studio.github.io/kissa-yoru-sakurayama/"
+    },
+    {
+      "id": "CAFE-017",
+      "name": "cafe MARM",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/cafe-marm/",
+      "current_url": "https://muginote-studio.github.io/cafe-marm/"
+    },
+    {
+      "id": "CAFE-018",
+      "name": "蚯蚓",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/mimizu/",
+      "current_url": "https://muginote-studio.github.io/mimizu/"
+    },
+    {
+      "id": "CAFE-019",
+      "name": "KO-MEGURI",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/ko-meguri/",
+      "current_url": "https://muginote-studio.github.io/ko-meguri/"
+    },
+    {
+      "id": "CAFE-020",
+      "name": "きゃどぽんぽんじ〜な",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/kyado-ponponjina/",
+      "current_url": "https://muginote-studio.github.io/kyado-ponponjina/"
+    },
+    {
+      "id": "CAFE-021",
+      "name": "CAFE & DINING Le Lien",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/le-lien/",
+      "current_url": "https://muginote-studio.github.io/le-lien/"
+    },
+    {
+      "id": "CAFE-022",
+      "name": "くまきち日和",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/kumakichi-biyori/",
+      "current_url": "https://muginote-studio.github.io/kumakichi-biyori/"
+    },
+    {
+      "id": "CAFE-023",
+      "name": "なんでもない日に、踊ろうよ",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/nandemonaihi/",
+      "current_url": "https://muginote-studio.github.io/nandemonaihi/"
+    },
+    {
+      "id": "CAFE-024",
+      "name": "Green & Cafe HANA",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/green-cafe-hana/",
+      "current_url": "https://muginote-studio.github.io/green-cafe-hana/"
+    },
+    {
+      "id": "CAFE-025",
+      "name": "Re:sky",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/resky/",
+      "current_url": "https://muginote-studio.github.io/resky/"
+    },
+    {
+      "id": "CAFE-026",
+      "name": "Quebec亭",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/quebectei/",
+      "current_url": "https://muginote-studio.github.io/quebectei/"
+    },
+    {
+      "id": "CAFE-027",
+      "name": "FUFUFU",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/fufufu/",
+      "current_url": "https://muginote-studio.github.io/fufufu/"
+    },
+    {
+      "id": "CAFE-028",
+      "name": "my.Honey",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/my-honey/",
+      "current_url": "https://muginote-studio.github.io/my-honey/"
+    },
+    {
+      "id": "CAFE-029",
+      "name": "Le’Chainon",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/le-chainon/",
+      "current_url": "https://muginote-studio.github.io/le-chainon/"
+    },
+    {
+      "id": "CAFE-030",
+      "name": "アメリカンダイナーHOODHOUSE",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/hoodhouse/",
+      "current_url": "https://muginote-studio.github.io/hoodhouse/"
+    },
+    {
+      "id": "CAFE-031",
+      "name": "聖奈珈琲",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/sena-coffee/",
+      "current_url": "https://muginote-studio.github.io/sena-coffee/"
+    },
+    {
+      "id": "CAFE-032",
+      "name": "BOUNCE",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/bounce/",
+      "current_url": "https://muginote-studio.github.io/bounce/"
+    },
+    {
+      "id": "CAFE-033",
+      "name": "cafe tarte plus",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/tarte-plus/",
+      "current_url": "https://muginote-studio.github.io/tarte-plus/"
+    },
+    {
+      "id": "CAFE-034",
+      "name": "vigo",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/vigo/",
+      "current_url": "https://muginote-studio.github.io/vigo/"
+    },
+    {
+      "id": "CAFE-035",
+      "name": "ちょい呑み処ten",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/ten/",
+      "current_url": "https://muginote-studio.github.io/ten/"
+    },
+    {
+      "id": "CAFE-036",
+      "name": "溶時",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/toki/",
+      "current_url": "https://muginote-studio.github.io/toki/"
+    },
+    {
+      "id": "CAFE-037",
+      "name": "Cache Cache",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/cache-cache/",
+      "current_url": "https://muginote-studio.github.io/cache-cache/"
+    },
+    {
+      "id": "CAFE-038",
+      "name": "キッチンカーの古民家cafe Zen",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/cafe-zen/",
+      "current_url": "https://muginote-studio.github.io/cafe-zen/"
+    },
+    {
+      "id": "CAFE-039",
+      "name": "喫茶 Perla",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/kissa-perla/",
+      "current_url": "https://muginote-studio.github.io/kissa-perla/"
+    },
+    {
+      "id": "CAFE-040",
+      "name": "甘味処 食べ鯛",
+      "old_url": "https://muginote-studio.github.io/archive/batch-a-v1/tabetai/",
+      "current_url": "https://muginote-studio.github.io/tabetai/"
+    }
+  ],
+  "sha256": {
+    "mimizu/index.html": "ef0e2cc58366efb8ceb15a20d717e53a8a40e6f0822ca931d0a13b8e4c66245a",
+    "toki/index.html": "7add345281d6ef4cc213f9086d451d2738446eb47088b4ed4dc1d3cd8a386dfc",
+    "sena-coffee/index.html": "9d8e16e4152fdd6ea99a02f93ba47572ebb61614da4892d85d21cd825f0c571b",
+    "nandemonaihi/index.html": "a4cb802086eb1cd1fa8c0163be3eb69b549009ab2a181ef3c9c85c2a2cdc35d4",
+    "green-cafe-hana/index.html": "07c8e3341421156b06b11c7f8c1ba0df0c7a3b74891e1d1a620c3c633f82284c",
+    "kissa-perla/index.html": "29b242d5f5f4a3896f8fa3cf65c80c1f016a3d255a44e7cfd3728c50d7945628",
+    "kumakichi-biyori/index.html": "538dac49e43bcaa7dd25353be5b75e9fad71e5444c1213ff20bc680975cb2ee6",
+    "tabetai/index.html": "d1db0302fa8168177976f88d010a928860e13afdbaa18762140644e16282cbc0",
+    "cafe-marm/index.html": "12d1d1e0296c38c083bba7fc49de268bb9fb21e8fcb01c025f14e9e6cbea307b",
+    "le-chainon/index.html": "5573edbba24efa34f8321b4a2993b0c533689c335cfabdcffdabadb89f0a617b",
+    "kissa-yoru-sakurayama/index.html": "79fdd150ea3598fb95e860abe866435607db0529741003d021ef76dcf633ff03",
+    "ko-meguri/index.html": "d6a949147af0279090f186e95af017a0b0e2a3662e0a461aa04ac726c61d9b3e",
+    "ten/index.html": "d67a3d7c219d15273248f45d216af1694d7b4fdad0746dfc08f2d76d6e7e0b91",
+    "quebectei/index.html": "97b1c8ff417dcbabe217015c87f9884eaea04158cd5aa9838b0107f4eb78400e",
+    "tarte-plus/index.html": "1c25be3ff4deaaf39d4e6edad37214d5c03fac454c7591ec32bd1398ed865bc6",
+    "vigo/index.html": "0f28c2eb169a808dd5a4bd178adfa48d5266b23bc2cfa9e355a17b6896bcadcb",
+    "bounce/index.html": "fc67e02e8c1eb4e41443b56501e88d291671d340d4efb25d523c393f928f10ab",
+    "collections/batch-a.json": "88433dd1e6ff1fd6133117db88a2a7bf052caa474098e6ca82e36cd183debf1f",
+    "resky/index.html": "d5a7ea108f56a797119b8a6ebe95aa2b8d0782a50278f6eedf2ded942c7cba23",
+    "hoki-cafe/index.html": "0cd335a866f1087ee840751dbc8fe7e92ade265f3e43b4a21290ee2511d043df",
+    "nakano-coffee/index.html": "4dab70527e96586d7f5234a79c9b08a3c729f080d1150cf699b64cdb90c84cfe",
+    "le-lien/index.html": "209189c004e012a38302344ba9d60d6594ebf92a6a4c7a69f49f7df21357da3f",
+    "cache-cache/index.html": "4e9fbe0894b9e7fbabe18be72d8aa8430e32d1a576ff10d269890e0f10beaca7",
+    "hiyokodo/index.html": "53c73cb3f1ed2f4f242a4fb1a603e9e142ab5a1258425390fac6f420c58fcf74",
+    "hoodhouse/index.html": "035dff41c9db8016e3803eb9a6cff07b0eddc521f0665cc3db05aecab9948c9a",
+    "asile/index.html": "6d6dbb3a084bfb14b587374ff754aea36a01a0c2d3a3de219c576aaf74048dc9",
+    "kissa-blondy/index.html": "e7962130961e3a473c735de5e3d499c3312327c75feaebddb3635aced7458791",
+    "my-honey/index.html": "ac7c02d8fe892e9f98dc3735fb56b76ebc899cbceb3a2b709fed724a6a4d0cb2",
+    "kyado-ponponjina/index.html": "6d93a1bfb791761db7665b01ffe1fcf300ab5360ad56af32839db036b33ab085",
+    "fufufu/index.html": "76d1093e2f21437b47fb197b0e46e5688bfb3f2e64427f4449ad20292716ff29",
+    "cafe-zen/index.html": "a20cf1b4b39f15bb56199b47abc6c581a8d2511a744aa290be6445e9b6f725b1",
+    "assets/batch-a/site.css": "1fb9d50b575d8a5ee6cf8a5b5793cd645217952a32950effa2d43c42df4c2163",
+    "assets/batch-a/image-sources.json": "08e716bf01a2e337e604c1950346994512f2c7644a5aa8cc698d50ce6de9ff65",
+    "assets/batch-a/README.md": "5060ff7940906ffc755e95842f4eabab6494e4f8ca4350efaee8e57b70536cb7",
+    "assets/batch-a/routes.txt": "f084b3a85765b5e0a9bcf6e145ac1cc18119eded7d03e4761269c420359776f1",
+    "assets/batch-a/site.js": "58c798673a7f231637be35fd5c30b8e38366928b4b62acf81fa452ea4a0e6eda",
+    "assets/batch-a/favicon.svg": "ed7b840c37b04d354d29cbddc5a273b430dbd05be9ede9e205d66beb82eea3c8",
+    "assets/batch-a/verify.py": "29ca8a7e2c1352daae07292321217bfc47b77beb7219e88a55da9ab09241bf38",
+    "assets/batch-a/check-menu.cjs": "25c7ac67c777c76d4ff7890edc7c25134fd122adb8f51eb5c5f5cd5628ab5d96",
+    "assets/batch-a/research.json": "00228cadb503d13626edaebafc5b7a10abe22732620b07cc3e14fc2efcd71f4a",
+    "assets/batch-a/images/table.webp": "f10e3fc95f1dae358fb4863aa79c8b115057847d549f35d332a1f2bde87c604a",
+    "assets/batch-a/images/sandwich.webp": "8c41be511489368b7a232e12d300e254bdfcad2de2a870c1cca0a6bb1b1845aa",
+    "assets/batch-a/images/latte.webp": "b220e210803668cd6573033dc77eee343c8e33600137742c2a8eb36933ad15cf",
+    "assets/batch-a/images/icecream.webp": "0dca9aba5fc3fcc7e2c110bd91e935b23cb9812bc337cfc6119e313ac6503341",
+    "assets/batch-a/images/coffee.webp": "7c978abdbb8a21a204ee87e5ccd7b9c6c0fff234f1b23a233ffdb16791183f9c",
+    "assets/batch-a/images/wine.webp": "24f96dd0fafb9c608db04dcf91d87268f60cd39cecbcc1de0b7a3e6067fe22e7",
+    "assets/batch-a/images/toast.webp": "4ea5530d8598165997e6366ca381f743fb72e2769cffc1627c84beef8e8a1972",
+    "assets/batch-a/images/tea.webp": "120a4fc802edd904ba6f0cd80f0595a763abe059e39ced7578b46aa24c7c3a15",
+    "assets/batch-a/images/cookies.webp": "46dca885a72f664d5195fa1d3fe0fd833fdf6f9fe180c9445303ab8521fb81cd"
+  }
+}

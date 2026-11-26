@@ -1,0 +1,119 @@
+[
+  {
+    "file": "images/coffee.webp",
+    "dimensions": [
+      1500,
+      1000
+    ],
+    "sourceUrl": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?auto=format&fit=crop&w=1500&q=80",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "licenseCheckedOn": "2026-11-26",
+    "usage": "イメージ写真。実店舗・実商品・店舗の提供メニューを示すものではありません。",
+    "sha256": "7c978abdbb8a21a204ee87e5ccd7b9c6c0fff234f1b23a233ffdb16791183f9c"
+  },
+  {
+    "file": "images/table.webp",
+    "dimensions": [
+      1500,
+      1028
+    ],
+    "sourceUrl": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=1500&q=80",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "licenseCheckedOn": "2026-11-26",
+    "usage": "イメージ写真。実店舗・実商品・店舗の提供メニューを示すものではありません。",
+    "sha256": "f10e3fc95f1dae358fb4863aa79c8b115057847d549f35d332a1f2bde87c604a"
+  },
+  {
+    "file": "images/toast.webp",
+    "dimensions": [
+      1500,
+      1500
+    ],
+    "sourceUrl": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=1500&q=80",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "licenseCheckedOn": "2026-11-26",
+    "usage": "イメージ写真。実店舗・実商品・店舗の提供メニューを示すものではありません。",
+    "sha256": "4ea5530d8598165997e6366ca381f743fb72e2769cffc1627c84beef8e8a1972"
+  },
+  {
+    "file": "images/latte.webp",
+    "dimensions": [
+      1500,
+      1000
+    ],
+    "sourceUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1500&q=80",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "licenseCheckedOn": "2026-11-26",
+    "usage": "イメージ写真。実店舗・実商品・店舗の提供メニューを示すものではありません。",
+    "sha256": "b220e210803668cd6573033dc77eee343c8e33600137742c2a8eb36933ad15cf"
+  },
+  {
+    "file": "images/wine.webp",
+    "dimensions": [
+      1500,
+      1000
+    ],
+    "sourceUrl": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&w=1500&q=80",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "licenseCheckedOn": "2026-11-26",
+    "usage": "イメージ写真。実店舗・実商品・店舗の提供メニューを示すものではありません。",
+    "sha256": "24f96dd0fafb9c608db04dcf91d87268f60cd39cecbcc1de0b7a3e6067fe22e7"
+  },
+  {
+    "file": "images/cookies.webp",
+    "dimensions": [
+      1500,
+      2070
+    ],
+    "sourceUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1500&q=80",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "licenseCheckedOn": "2026-11-26",
+    "usage": "イメージ写真。実店舗・実商品・店舗の提供メニューを示すものではありません。",
+    "sha256": "46dca885a72f664d5195fa1d3fe0fd833fdf6f9fe180c9445303ab8521fb81cd"
+  },
+  {
+    "file": "images/tea.webp",
+    "dimensions": [
+      1500,
+      1000
+    ],
+    "sourceUrl": "https://images.unsplash.com/photo-1721434676608-23d5f3b9aefd?auto=format&fit=crop&w=1500&q=80",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "licenseCheckedOn": "2026-11-26",
+    "usage": "イメージ写真。実店舗・実商品・店舗の提供メニューを示すものではありません。",
+    "sha256": "120a4fc802edd904ba6f0cd80f0595a763abe059e39ced7578b46aa24c7c3a15"
+  },
+  {
+    "file": "images/icecream.webp",
+    "dimensions": [
+      1500,
+      2250
+    ],
+    "sourceUrl": "https://images.unsplash.com/photo-1504050502639-3d3c3f6266cd?auto=format&fit=crop&w=1500&q=80",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "licenseCheckedOn": "2026-11-26",
+    "usage": "イメージ写真。実店舗・実商品・店舗の提供メニューを示すものではありません。",
+    "sha256": "0dca9aba5fc3fcc7e2c110bd91e935b23cb9812bc337cfc6119e313ac6503341"
+  },
+  {
+    "file": "images/sandwich.webp",
+    "dimensions": [
+      1500,
+      997
+    ],
+    "sourceUrl": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=1500&q=80",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "licenseCheckedOn": "2026-11-26",
+    "usage": "イメージ写真。実店舗・実商品・店舗の提供メニューを示すものではありません。",
+    "sha256": "8c41be511489368b7a232e12d300e254bdfcad2de2a870c1cca0a6bb1b1845aa"
+  }
+]

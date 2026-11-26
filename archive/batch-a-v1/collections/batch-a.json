@@ -1,0 +1,742 @@
+[
+  {
+    "id": "CAFE-011",
+    "slug": "hoki-cafe",
+    "path": "/hoki-cafe/",
+    "name": "Hoki Cafe",
+    "region": "北海道",
+    "category": "meal",
+    "thumbnail": "/assets/batch-a/images/table.webp",
+    "summary": "旭川市永山八条のHoki Cafe。カフェとハンバーガーのジャンルで紹介されている、小さな一軒です。",
+    "palette": [
+      "#f2eee4",
+      "#183141",
+      "#7c570e",
+      "#ded3ac"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/hokkaido/A0104/A010401/1086431/",
+      "https://www.shopship.jp/asahikawa/open-close/hokicafe1026/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/hokkaido/A0104/A010401/1086431/",
+      "https://www.instagram.com/hokicafe1026"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィール画像の濃紺の板壁と黄色の文字、食べログの明るい窓辺・木製家具から、紺と黄土色、直線的な分割構成へ。"
+  },
+  {
+    "id": "CAFE-012",
+    "slug": "kissa-blondy",
+    "path": "/kissa-blondy/",
+    "name": "喫茶ブロンディー",
+    "region": "北海道",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-a/images/coffee.webp",
+    "summary": "札幌・澄川三条の喫茶ブロンディー。再開店を伝える記事と店舗掲載情報を手掛かりに、喫茶の時間へ。",
+    "palette": [
+      "#f2e6ce",
+      "#3c241d",
+      "#763d27",
+      "#deca9f"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/hokkaido/A0101/A010305/1086434/",
+      "https://plaza.rakuten.co.jp/yorozuken/diary/202610240003/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/hokkaido/A0101/A010305/1086434/",
+      "https://www.instagram.com/blondy_roastery"
+    ],
+    "referenceNotes": "公式Instagramのプロフィール・投稿は直接確認できませんでした。公開の店舗写真を補助資料にしています。 食べログの白いカップの茶色の縁、濃茶の卓上、柄入りの椅子と暗めの店内写真から、琥珀・焦茶と額縁型の構図へ。Instagramはプロフィールも直接確認できず。"
+  },
+  {
+    "id": "CAFE-013",
+    "slug": "asile",
+    "path": "/asile/",
+    "name": "Asile",
+    "region": "青森県",
+    "category": "bar",
+    "thumbnail": "/assets/batch-a/images/wine.webp",
+    "summary": "青森市古川、BLACK BOXの1階にあるカフェ・バル。青森商工会議所では、カレーやナポリタンが紹介されています。",
+    "palette": [
+      "#f4efe5",
+      "#382b23",
+      "#6d3c36",
+      "#dbceb3"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/aomori/A0201/A020101/2014023/",
+      "https://www.acci.or.jp/salon/【会員事業所紹介】カフェ・バル-asile/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/aomori/A0201/A020101/2014023/",
+      "https://www.instagram.com/asile_369_/"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールの細い金色の文字と植物、食べログのワイン・木のカウンターから、クリームとワイン色、細い明朝と二連写真へ。"
+  },
+  {
+    "id": "CAFE-014",
+    "slug": "nakano-coffee",
+    "path": "/nakano-coffee/",
+    "name": "中野珈琲店",
+    "region": "青森県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-a/images/coffee.webp",
+    "summary": "弘前市八幡町の中野珈琲店。弘前経済新聞では、ハンドドリップのコーヒーと日替わりランチが紹介されています。",
+    "palette": [
+      "#edf0eb",
+      "#29382e",
+      "#4a6150",
+      "#ced5c9"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/aomori/A0202/A020201/2014002/",
+      "https://hirosaki.keizai.biz/headline/2773/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/aomori/A0202/A020201/2014002/",
+      "https://www.instagram.com/nakanocoffee10/"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 食べログの白壁と暗い木のカウンター、窓外の緑から、白灰・深緑と便箋のような端正な文字組みへ。営業時間は新聞記事と食べログに相違があるため現行未確認。"
+  },
+  {
+    "id": "CAFE-015",
+    "slug": "hiyokodo",
+    "path": "/hiyokodo/",
+    "name": "まんがめし喫茶 ひよこ堂",
+    "region": "岩手県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-a/images/sandwich.webp",
+    "summary": "紫波町北日詰のまんがめし喫茶。現在の店舗掲載では、日詰の旧所在地からの移転が案内されています。",
+    "palette": [
+      "#f7efce",
+      "#303c30",
+      "#9b3125",
+      "#e4c46a"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/iwate/A0301/A030103/3013251/",
+      "https://kaiten-heiten-24.com/hiyoko-dou/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/iwate/A0301/A030103/3013251/",
+      "https://www.instagram.com/hiyoko_dou/"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 食べログの本棚、木の机、赤いカウンター椅子と緑の壁から、紙色・赤・深緑、紙面を組むようなポスター構成へ。プロフィールの既存キャラクターは複製しない。"
+  },
+  {
+    "id": "CAFE-016",
+    "slug": "kissa-yoru-sakurayama",
+    "path": "/kissa-yoru-sakurayama/",
+    "name": "喫茶 夜 桜山",
+    "region": "岩手県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-a/images/coffee.webp",
+    "summary": "盛岡市内丸にある喫茶 夜 桜山。夕方からの営業が掲載されている喫茶店です。",
+    "palette": [
+      "#20231f",
+      "#f5efdf",
+      "#e5bc77",
+      "#373c33"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/iwate/A0301/A030101/3013416/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/iwate/A0301/A030101/3013416/",
+      "https://www.instagram.com/sakurayama_yoru/"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールの余白を生かした縦の文字、食べログの暗い木の机・ランプの灯りから、墨緑と琥珀、縦組みの余白へ。"
+  },
+  {
+    "id": "CAFE-017",
+    "slug": "cafe-marm",
+    "path": "/cafe-marm/",
+    "name": "cafe MARM",
+    "region": "宮城県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-a/images/toast.webp",
+    "summary": "多賀城市中央のcafe MARM。公開の紹介記事では、週替わりランチやデザートが取り上げられています。",
+    "palette": [
+      "#faf7ef",
+      "#3f332b",
+      "#895344",
+      "#e5d5bb"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/miyagi/A0404/A040404/4030479/",
+      "https://freimann.hatenablog.com/entry/2026/10/09/170000"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/miyagi/A0404/A040404/4030479/",
+      "https://www.instagram.com/cafe.marm"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールの黒い太字MARMと白地、食べログの豆皿・淡い木の卓上から、白と茶、整然としたグリッドへ。"
+  },
+  {
+    "id": "CAFE-018",
+    "slug": "mimizu",
+    "path": "/mimizu/",
+    "name": "蚯蚓",
+    "region": "宮城県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-a/images/coffee.webp",
+    "summary": "仙台市太白区茂庭の蚯蚓。公開の訪問記事で、自家焙煎珈琲の店として紹介されています。",
+    "palette": [
+      "#ede2d2",
+      "#3d2e29",
+      "#99502d",
+      "#d4b08a"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/miyagi/A0401/A040105/4030460/",
+      "https://sendaiminami-tusin.com/mimizu2610/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/miyagi/A0401/A040105/4030460/",
+      "https://www.instagram.com/mimizu_kaffee"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールの茶色の線画、食べログの褐色の器・オレンジの椅子・木の棚から、土色と焼けた橙、雑誌風の大小写真へ。"
+  },
+  {
+    "id": "CAFE-019",
+    "slug": "ko-meguri",
+    "path": "/ko-meguri/",
+    "name": "KO-MEGURI",
+    "region": "秋田県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-a/images/table.webp",
+    "summary": "横手市婦気大堤のcafe & kitchen KO-MEGURI。店舗掲載では、18席のカフェとして案内されています。",
+    "palette": [
+      "#f5f3e9",
+      "#374334",
+      "#566746",
+      "#dce1ce"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/akita/A0505/A050501/5011649/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/akita/A0505/A050501/5011649/",
+      "https://www.instagram.com/ko_meguri.cafe/"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールの木目の丸い看板、食べログの白い椅子・植物柄・緑の鉢から、白とオリーブ、アーチと植物の線へ。補助ブログは503。"
+  },
+  {
+    "id": "CAFE-020",
+    "slug": "kyado-ponponjina",
+    "path": "/kyado-ponponjina/",
+    "name": "きゃどぽんぽんじ〜な",
+    "region": "秋田県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-a/images/latte.webp",
+    "summary": "秋田市泉南のカフェ、きゃどぽんぽんじ〜な。地域の紹介記事では、オムライスやスイーツが紹介されています。",
+    "palette": [
+      "#e8ece9",
+      "#273c3d",
+      "#78513b",
+      "#bdcfc7"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/akita/A0501/A050101/5011631/",
+      "https://web.akita-townjoho.jp/post-category/20260430-kyadoponponjina/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/akita/A0501/A050101/5011631/",
+      "https://www.instagram.com/pon.pon_cafe/"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 食べログとあきたタウン情報の青緑の壁・木製椅子・琥珀色の飲み物から、青緑と栗色、丸みを抑えた横長構成へ。店名由来は本文に採用しない。"
+  },
+  {
+    "id": "CAFE-021",
+    "slug": "le-lien",
+    "path": "/le-lien/",
+    "name": "CAFE & DINING Le Lien",
+    "region": "山形県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-a/images/table.webp",
+    "summary": "南陽市赤湯のCAFE & DINING Le Lien。日中と夜、それぞれの営業時間が掲載されているカフェです。",
+    "palette": [
+      "#f9f0e9",
+      "#4f3e35",
+      "#8b4b41",
+      "#e8d2be"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/yamagata/A0602/A060202/6013562/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/yamagata/A0602/A060202/6013562/",
+      "https://www.instagram.com/cafe_lelien2026"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールの端正なセリフ体、食べログの淡いカウンター・ピンクと黄の外壁から、淡い桃と赤茶、二つの時間を見せる構成へ。"
+  },
+  {
+    "id": "CAFE-022",
+    "slug": "kumakichi-biyori",
+    "path": "/kumakichi-biyori/",
+    "name": "くまきち日和",
+    "region": "山形県",
+    "category": "sweets",
+    "thumbnail": "/assets/batch-a/images/tea.webp",
+    "summary": "白鷹町黒鴨のくまきち日和。公開の開業報告では、蕎麦と甘味の和カフェとしてオープンが伝えられています。",
+    "palette": [
+      "#edece1",
+      "#303e34",
+      "#4d6850",
+      "#d0d6bf"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/yamagata/A0602/A060203/6013674/",
+      "https://camp-fire.jp/projects/977512/view?list=prefecture_yamagata_projects_fresh",
+      "https://camp-fire.jp/projects/977512/view/activities/910342"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/yamagata/A0602/A060203/6013674/",
+      "https://www.instagram.com/kumakichi_biyori_yamagata.cafe"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールの墨の古民家線画、食べログの畳・濃い梁・窓の緑・青い器から、畳色と深緑、縦書きの導入へ。食べログの古い開業予定記述は営業時間に使わない。"
+  },
+  {
+    "id": "CAFE-023",
+    "slug": "nandemonaihi",
+    "path": "/nandemonaihi/",
+    "name": "なんでもない日に、踊ろうよ",
+    "region": "山形県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-a/images/sandwich.webp",
+    "summary": "遊佐町の古民家を使った喫茶店。公開の紹介では、喫茶とレンタルスペース、イベントが一体となった場所として案内されています。",
+    "palette": [
+      "#f6efe3",
+      "#423c2e",
+      "#8c4630",
+      "#e7ceb3"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/yamagata/A0603/A060303/6013517/",
+      "https://yama-katsu.jp/press/30267/",
+      "https://yuzamachi.com/taberu/nandemonaihini/2026/07/14/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/yamagata/A0603/A060303/6013517/",
+      "https://www.instagram.com/nandemonaihini_/"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールの朱色の線画、食べログの畳・木枠の窓・クリームソーダの緑から、紙色と朱茶、手紙のように読み進める構成へ。"
+  },
+  {
+    "id": "CAFE-024",
+    "slug": "green-cafe-hana",
+    "path": "/green-cafe-hana/",
+    "name": "Green & Cafe HANA",
+    "region": "福島県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-a/images/table.webp",
+    "summary": "いわき市勿来町、アクアランドはなばた内のカフェ。施設の公開案内で、コーヒー、ソフトクリーム、グリーンが紹介されています。",
+    "palette": [
+      "#edf1e6",
+      "#2c422e",
+      "#486738",
+      "#cbd9b5"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/fukushima/A0704/A070401/7021049/",
+      "https://www.gurutto-iwaki.com/detail/1792/news/news-931717.html"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/fukushima/A0704/A070401/7021049/",
+      "https://www.instagram.com/green_and_caffe_hana"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールのオリーブ色の植物・丸い看板、食べログの窓際の緑と木のテーブルから、葉色と白、窓形の写真枠へ。施設ニュースは本文の一次資料として採用。"
+  },
+  {
+    "id": "CAFE-025",
+    "slug": "resky",
+    "path": "/resky/",
+    "name": "Re:sky",
+    "region": "福島県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-a/images/sandwich.webp",
+    "summary": "会津若松市中町のcafe Re:sky。地域の店舗紹介では、アメリカンカジュアルのカフェとして案内されています。",
+    "palette": [
+      "#f3e9dd",
+      "#282d33",
+      "#a74432",
+      "#e6c5a7"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/fukushima/A0705/A070501/7020931/",
+      "https://www.gurutto-aizu.com/detail/1158/index.html"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/fukushima/A0705/A070501/7020931/"
+    ],
+    "referenceNotes": "公式Instagramを同定できませんでした。公開の店舗紹介と食べログの写真を補助資料にしています。 食べログの白黒チェッカーのカウンター、赤い店内小物、木の床から、黒白とくすんだ赤、アメリカンポスターへ。公式Instagramは割当資料に記載がなく同定できず。"
+  },
+  {
+    "id": "CAFE-026",
+    "slug": "quebectei",
+    "path": "/quebectei/",
+    "name": "Quebec亭",
+    "region": "茨城県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-a/images/tea.webp",
+    "summary": "常陸大宮市上町のQuebec亭。店舗掲載情報を手掛かりに、所在地と来店前の確認先をご案内します。",
+    "palette": [
+      "#f1e9da",
+      "#44392d",
+      "#82633f",
+      "#dac7a5"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/ibaraki/A0805/A080503/8031302/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/ibaraki/A0805/A080503/8031302/",
+      "https://www.instagram.com/cafequebec2026/"
+    ],
+    "referenceNotes": "公式Instagramのプロフィール・投稿は直接確認できませんでした。公開の店舗写真を補助資料にしています。 食べログの料理写真で確認できた木のトレー、茶褐色の器と濃い輪郭から、木色と茶、控えめな額縁構成へ。店内全景・Instagramプロフィールと投稿は未確認。"
+  },
+  {
+    "id": "CAFE-027",
+    "slug": "fufufu",
+    "path": "/fufufu/",
+    "name": "FUFUFU",
+    "region": "栃木県",
+    "category": "bar",
+    "thumbnail": "/assets/batch-a/images/coffee.webp",
+    "summary": "宇都宮市宮本町のFUFUFU。栃ナビでは「コーヒーとビールといい音楽のお店」として紹介されています。",
+    "palette": [
+      "#e9e8dd",
+      "#2e3b32",
+      "#536a4c",
+      "#c9ccb5"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/tochigi/A0901/A090101/9024341/",
+      "https://www.tochinavi.net/spot/newopen/detail.shtml?id=4313"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/tochigi/A0901/A090101/9024341/",
+      "https://www.instagram.com/fufufu.store"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールの灰色地と手書き風白文字、食べログの木の外壁・緑・レコード周りから、灰緑と木色、雑誌のコラムのような配置へ。"
+  },
+  {
+    "id": "CAFE-028",
+    "slug": "my-honey",
+    "path": "/my-honey/",
+    "name": "my.Honey",
+    "region": "栃木県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-a/images/sandwich.webp",
+    "summary": "宇都宮市大曽のmy.Honey。地域の取材記事では、ホットドッグとシェイクのテイクアウト専門店として紹介されています。",
+    "palette": [
+      "#fff4c7",
+      "#382e24",
+      "#923b2d",
+      "#edbe52"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/tochigi/A0901/A090101/9024337/",
+      "https://utsunomiya.goguynet.jp/2026/07/14/my-honey/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/tochigi/A0901/A090101/9024337/",
+      "https://www.instagram.com/myhoney1919"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールの蜂蜜色、食べログの黄色い外壁と赤い扉から、蜂蜜色と赤茶、丸い写真と太い文字へ。写真内の他店舗掲載に見える料理は参考から除外。"
+  },
+  {
+    "id": "CAFE-029",
+    "slug": "le-chainon",
+    "path": "/le-chainon/",
+    "name": "Le’Chainon",
+    "region": "群馬県",
+    "category": "sweets",
+    "thumbnail": "/assets/batch-a/images/icecream.webp",
+    "summary": "高崎市井野町のLe’Chainon。カフェとスイーツのジャンルで掲載され、テイクアウトの案内もあるお店です。",
+    "palette": [
+      "#f5edf5",
+      "#48364a",
+      "#725274",
+      "#d8c8e3"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/gunma/A1001/A100102/10027439/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/gunma/A1001/A100102/10027439/",
+      "https://www.instagram.com/le.chainon8787/"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールの水色・桃・緑の花、食べログのカラフルな花と紫の小物から、淡い紫とミントを手掛かりに、柔らかな円形構成へ。"
+  },
+  {
+    "id": "CAFE-030",
+    "slug": "hoodhouse",
+    "path": "/hoodhouse/",
+    "name": "アメリカンダイナーHOODHOUSE",
+    "region": "群馬県",
+    "category": "bar",
+    "thumbnail": "/assets/batch-a/images/sandwich.webp",
+    "summary": "前橋市城東町のアメリカンダイナーHOODHOUSE。店舗掲載には、昼はプレート、夜はバルと案内されています。",
+    "palette": [
+      "#f3dfb5",
+      "#282522",
+      "#982d26",
+      "#e8b64d"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/gunma/A1001/A100101/10026738/",
+      "https://saikura.info/open-hood-house-maebashi-20261029/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/gunma/A1001/A100101/10026738/",
+      "https://www.instagram.com/hoodhouse_maebashi/"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールの赤と黄の太字、食べログの黒白チェッカー床・暗い木のカウンターから、赤・黄・黒、太い文字と帯の構成へ。"
+  },
+  {
+    "id": "CAFE-031",
+    "slug": "sena-coffee",
+    "path": "/sena-coffee/",
+    "name": "聖奈珈琲",
+    "region": "群馬県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-a/images/coffee.webp",
+    "summary": "伊勢崎市下植木町の聖奈珈琲。店舗掲載では、モーニングや食事のあるカフェとして紹介されています。",
+    "palette": [
+      "#f3eee5",
+      "#46362d",
+      "#784738",
+      "#d8c6ad"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/gunma/A1002/A100202/10027456/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/gunma/A1002/A100202/10027456/",
+      "https://www.instagram.com/seinacoffee/"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールの生成りと赤茶の明朝、食べログの白壁・木の天井・大きな窓から、生成りと赤茶、静かな便箋型へ。slugは指定どおりsena-coffee、店名表記を優先。"
+  },
+  {
+    "id": "CAFE-032",
+    "slug": "bounce",
+    "path": "/bounce/",
+    "name": "BOUNCE",
+    "region": "埼玉県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-a/images/table.webp",
+    "summary": "深谷市普済寺のBOUNCE。店舗掲載では、テラス席のあるカフェとして案内されています。",
+    "palette": [
+      "#f0f3ed",
+      "#244432",
+      "#3f634b",
+      "#d5dfd0"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/saitama/A1105/A110503/11068999/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/saitama/A1105/A110503/11068999/",
+      "https://www.instagram.com/bounce.wellness"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールの深緑のセリフ体、食べログの白い壁・灰色の床・緑の植物から、白と深緑、余白のある整ったグリッドへ。"
+  },
+  {
+    "id": "CAFE-033",
+    "slug": "tarte-plus",
+    "path": "/tarte-plus/",
+    "name": "cafe tarte plus",
+    "region": "埼玉県",
+    "category": "sweets",
+    "thumbnail": "/assets/batch-a/images/cookies.webp",
+    "summary": "久喜市南栗橋のcafe tarte plus。地域の取材記事で、タルトを楽しむカフェとして紹介されています。",
+    "palette": [
+      "#f5eae1",
+      "#4c3937",
+      "#8d5255",
+      "#dfc4b5"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/saitama/A1104/A110402/11068975/",
+      "https://kuki-satte.goguynet.jp/2026/11/07/tarte-plus/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/saitama/A1104/A110402/11068975/",
+      "https://www.instagram.com/cafe_tarte_plus"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールの茶地と白文字、食べログの淡い壁・赤茶の腰壁・丸い照明・曲線のモールから、ローズブラウンとアーチの構成へ。"
+  },
+  {
+    "id": "CAFE-034",
+    "slug": "vigo",
+    "path": "/vigo/",
+    "name": "vigo",
+    "region": "千葉県",
+    "category": "sweets",
+    "thumbnail": "/assets/batch-a/images/cookies.webp",
+    "summary": "千葉市中央区大巌寺町のvigo。公開の紹介記事では、バブルワッフルとハンバーグの店として紹介されています。",
+    "palette": [
+      "#f0ece0",
+      "#323e30",
+      "#516347",
+      "#d6ccb1"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/chiba/A1201/A120101/12068435/",
+      "https://www.gummaumaimono.info/entry/2026/10/15/214835"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/chiba/A1201/A120101/12068435/",
+      "https://www.instagram.com/vigo_waffle"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールのモノクロの鹿と植物の線画、食べログの木の梁・白壁・植物から、墨緑と木色、温室を連想する窓枠へ。鹿のロゴは複製しない。"
+  },
+  {
+    "id": "CAFE-035",
+    "slug": "ten",
+    "path": "/ten/",
+    "name": "ちょい呑み処ten",
+    "region": "千葉県",
+    "category": "bar",
+    "thumbnail": "/assets/batch-a/images/table.webp",
+    "summary": "柏市しいの木台のちょい呑み処ten。店舗掲載には、日中のカフェと金曜の夜営業が案内されています。",
+    "palette": [
+      "#f5eed8",
+      "#30463a",
+      "#48634d",
+      "#d8bca0"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/chiba/A1203/A120301/12068592/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/chiba/A1203/A120301/12068592/",
+      "https://www.instagram.com/ten_choinomidokoro/"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールの生成りと黒い円、食べログの深緑の壁・花柄のテーブルクロス・木の床から、生成りと深緑、昼夜の二連構成へ。"
+  },
+  {
+    "id": "CAFE-036",
+    "slug": "toki",
+    "path": "/toki/",
+    "name": "溶時",
+    "region": "東京都",
+    "category": "sweets",
+    "thumbnail": "/assets/batch-a/images/tea.webp",
+    "summary": "西新宿7丁目にある溶時。かき氷、ジェラート・アイスクリーム、甘味処のジャンルで掲載されています。",
+    "palette": [
+      "#f7f5eb",
+      "#40433e",
+      "#756536",
+      "#e5dfbe"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/tokyo/A1304/A130401/13326656/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/tokyo/A1304/A130401/13326656/",
+      "https://www.instagram.com/toki_kakigori/"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールの白地に細い黒線、食べログの白い氷と淡い黄色のソース・木の卓上から、白と淡い黄、縦に余白をとる構成へ。かき氷の実商品写真は転載しない。"
+  },
+  {
+    "id": "CAFE-037",
+    "slug": "cache-cache",
+    "path": "/cache-cache/",
+    "name": "Cache Cache",
+    "region": "神奈川県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-a/images/latte.webp",
+    "summary": "二宮町百合が丘のCache Cache。店舗掲載情報と公式プロフィールの案内を手掛かりに、カフェへの道をご案内します。",
+    "palette": [
+      "#f3eee6",
+      "#413d32",
+      "#74633e",
+      "#d6ccb8"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/kanagawa/A1404/A140408/14105535/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/kanagawa/A1404/A140408/14105535/",
+      "https://www.instagram.com/maison.cachecache"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールの円形セリフ文字、食べログの和紙の丸い照明・黒い窓枠・緑と木の床から、紙色・墨・黄土色、丸い灯りを思わせるアーチへ。"
+  },
+  {
+    "id": "CAFE-038",
+    "slug": "cafe-zen",
+    "path": "/cafe-zen/",
+    "name": "キッチンカーの古民家cafe Zen",
+    "region": "神奈川県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-a/images/tea.webp",
+    "summary": "茅ヶ崎市芹沢、塩川邸のキッチンカーの古民家cafe Zen。店舗掲載では、オープンテラスのあるカフェとして案内されています。",
+    "palette": [
+      "#eae7da",
+      "#343b2d",
+      "#56613b",
+      "#c7c9b0"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/kanagawa/A1404/A140406/14105729/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/kanagawa/A1404/A140406/14105729/",
+      "https://www.instagram.com/8453cafe.zen2490"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールの木地に墨の円、食べログの木枠の窓・濃い茶色の机・緑の器から、木色と墨緑、縦書きの余白と円形装飾へ。"
+  },
+  {
+    "id": "CAFE-039",
+    "slug": "kissa-perla",
+    "path": "/kissa-perla/",
+    "name": "喫茶 Perla",
+    "region": "新潟県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-a/images/coffee.webp",
+    "summary": "新潟市中央区古町通9番町の喫茶Perla。公開の店舗紹介では、JAZZが流れる喫茶店として案内されています。",
+    "palette": [
+      "#eee9df",
+      "#30383e",
+      "#645740",
+      "#d1c9ba"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/niigata/A1501/A150101/15025978/",
+      "https://r.gnavi.co.jp/k11bxjtf0000/"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/niigata/A1501/A150101/15025978/",
+      "https://www.instagram.com/kissa_perla/"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールの黒い看板と金色の文字、食べログの木の卓上・グレーの器・白壁から、墨青と控えめな金茶、細い額縁の構成へ。補助記事は取得503。"
+  },
+  {
+    "id": "CAFE-040",
+    "slug": "tabetai",
+    "path": "/tabetai/",
+    "name": "甘味処 食べ鯛",
+    "region": "富山県",
+    "category": "sweets",
+    "thumbnail": "/assets/batch-a/images/tea.webp",
+    "summary": "魚津市新金屋の甘味処 食べ鯛。公開の地域情報では、たい焼きやかき氷などの甘味が紹介されています。",
+    "palette": [
+      "#f1e8d9",
+      "#183d4e",
+      "#7d4739",
+      "#d7b990"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/toyama/A1602/A160202/16012063/",
+      "https://toyama-watch.com/archives/29554"
+    ],
+    "designReferenceUrls": [
+      "https://tabelog.com/toyama/A1602/A160202/16012063/",
+      "https://www.instagram.com/tabetai_kanmidokoro/"
+    ],
+    "referenceNotes": "公式Instagramは公開プロフィール名とプロフィール画像のみ確認。投稿一覧・個別投稿は閲覧できず、投稿写真を確認したとはしていません。 公式プロフィールの墨の六角形と小豆色、食べログの青い外壁・木の縦格子・たい焼きの焼き色から、藍と小豆・木色、和のポスター構成へ。"
+  }
+]
