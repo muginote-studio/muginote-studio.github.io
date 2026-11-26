@@ -1,0 +1,985 @@
+{
+  "date": "2026-11-26",
+  "count": 30,
+  "baseCommit": "006ae42e6869b1d129c71299cb1153b94322e5da",
+  "presentation": "python3 scripts/check_presentation.py PASS (41 pages)",
+  "javascript": "node --check assets/batch-c/site.js PASS",
+  "localReferences": "PASS for all 30 pages",
+  "imageDecode": "PASS for all image references",
+  "svgAccessibility": "PASS for every new inline SVG",
+  "protectedFiles": "No tracked pre-existing files modified",
+  "responsiveReview": "CSS/static review only: 680px breakpoint, single-column layouts, wrapping long text, 16px body text, mobile navigation. Browser rendering not verified.",
+  "browserLimit": "sites-preview relay failed on port 4173; CUA initialization failed: the gaas-browser node_repl sandbox cannot be disabled. Chromium and Safari/WebKit visual, interaction, overflow and console checks not run.",
+  "pages": [
+    {
+      "id": "CAFE-071",
+      "path": "/kissa-kotsubu/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-072",
+      "path": "/sora-to-kaze-to/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-073",
+      "path": "/bone-and-peace/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-074",
+      "path": "/kinkin/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-075",
+      "path": "/pechunia-cafe/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-076",
+      "path": "/chouchou-cafe/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-077",
+      "path": "/curry-cafe-m/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-078",
+      "path": "/caffe-rieta/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-079",
+      "path": "/sora16cafe/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-080",
+      "path": "/kamo-no-hitotoki/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-081",
+      "path": "/cafe-amie/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-082",
+      "path": "/muregurashi/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-083",
+      "path": "/hajimari-no-maho/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-084",
+      "path": "/country-house-f/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-085",
+      "path": "/nuie-luce-food/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-086",
+      "path": "/3nen-bgumi/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-087",
+      "path": "/backer/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-088",
+      "path": "/cafe-bar-en/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-089",
+      "path": "/curry-coffee-wine/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-090",
+      "path": "/goodstock-unzen/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-091",
+      "path": "/yakuzen-den/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-092",
+      "path": "/nikkori-cute/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-093",
+      "path": "/maruta-chaya/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-094",
+      "path": "/imo-danshaku/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-095",
+      "path": "/joko-coffee/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-096",
+      "path": "/sunnote/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-097",
+      "path": "/rinz/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-098",
+      "path": "/teddy-bakery/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-099",
+      "path": "/minori/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    },
+    {
+      "id": "CAFE-100",
+      "path": "/oki-zen/",
+      "static": "pass",
+      "photos": "decoded successfully",
+      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+    }
+  ],
+  "externalLinks": [
+    {
+      "url": "https://ameblo.jp/ty-kame3/entry-12984616499.html",
+      "status": 200,
+      "finalUrl": "https://ameblo.jp/ty-kame3/entry-12984616499.html",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://article.yahoo.co.jp/detail/6dd4b1c1ed63344d8d60f54556dad2ea0c2ffa50",
+      "status": 200,
+      "finalUrl": "https://article.yahoo.co.jp/detail/6dd4b1c1ed63344d8d60f54556dad2ea0c2ffa50",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://awawa.app/pages/article_detail.php?app_no=51&report_no=11669&tab_no=0",
+      "status": 200,
+      "finalUrl": "https://awawa.app/pages/article_detail.php?app_no=51&report_no=11669&tab_no=0",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://countryhouse-f.com/index.html",
+      "status": 200,
+      "finalUrl": "https://countryhouse-f.com/index.html",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://ehime-epuri.jp/82383",
+      "status": 200,
+      "finalUrl": "https://ehime-epuri.jp/82383",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://eimons.jp/gourmet/nuieluce_food",
+      "status": 200,
+      "finalUrl": "https://eimons.jp/gourmet/nuieluce_food",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://gururi-japan.com/apps/note/column/junko_34/",
+      "status": 200,
+      "finalUrl": "https://gururi-japan.com/apps/note/column/junko_34/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://higojournal.com/archives/den-2.html",
+      "status": 200,
+      "finalUrl": "https://higojournal.com/archives/den-2.html",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://higojournal.com/archives/imodansyaku-kumamoto.html",
+      "status": 200,
+      "finalUrl": "https://higojournal.com/archives/imodansyaku-kumamoto.html",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://higojournal.com/archives/nikkori-cute.html",
+      "status": 200,
+      "finalUrl": "https://higojournal.com/archives/nikkori-cute.html",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?auto=format&fit=crop&w=1500&q=80",
+      "status": 200,
+      "finalUrl": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?auto=format&fit=crop&w=1500&q=80",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1500&q=80",
+      "status": 200,
+      "finalUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1500&q=80",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1504050502639-3d3c3f6266cd?auto=format&fit=crop&w=1500&q=80",
+      "status": 200,
+      "finalUrl": "https://images.unsplash.com/photo-1504050502639-3d3c3f6266cd?auto=format&fit=crop&w=1500&q=80",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=1500&q=80",
+      "status": 200,
+      "finalUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=1500&q=80",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&w=1500&q=80",
+      "status": 200,
+      "finalUrl": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&w=1500&q=80",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=1500&q=80",
+      "status": 200,
+      "finalUrl": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=1500&q=80",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1500&q=80",
+      "status": 200,
+      "finalUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1500&q=80",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=1500&q=80",
+      "status": 200,
+      "finalUrl": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=1500&q=80",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&fit=crop&w=1500&q=80",
+      "status": 200,
+      "finalUrl": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&fit=crop&w=1500&q=80",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1721434676608-23d5f3b9aefd?auto=format&fit=crop&w=1500&q=80",
+      "status": 200,
+      "finalUrl": "https://images.unsplash.com/photo-1721434676608-23d5f3b9aefd?auto=format&fit=crop&w=1500&q=80",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://iraw.rcc.jp/topics/articles/37351",
+      "status": 200,
+      "finalUrl": "https://iraw.rcc.jp/topics/articles/37351",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://kagoshima-gourmet.com/minori/",
+      "status": 200,
+      "finalUrl": "https://kagoshima-gourmet.com/minori/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://kaiten-heiten.com/coffee-and-bakery-backer/",
+      "status": 200,
+      "finalUrl": "https://kaiten-heiten.com/coffee-and-bakery-backer/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://matsuyama.goguynet.jp/2026/10/05/ichinomahou/",
+      "status": 200,
+      "finalUrl": "https://matsuyama.goguynet.jp/2026/10/05/ichinomahou/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://miyazaki.keizai.biz/headline/2424/",
+      "status": 200,
+      "finalUrl": "https://miyazaki.keizai.biz/headline/2424/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://myzkc.jp/sunnote20261029/",
+      "status": 200,
+      "finalUrl": "https://myzkc.jp/sunnote20261029/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://note.com/goodstock_unzen",
+      "status": 200,
+      "finalUrl": "https://note.com/goodstock_unzen",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://note.com/goodstock_unzen/n/n5bff5baff68f",
+      "status": 200,
+      "finalUrl": "https://note.com/goodstock_unzen/n/n5bff5baff68f",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://ooita.goguynet.jp/2026/10/14/jokocoffee/",
+      "status": 200,
+      "finalUrl": "https://ooita.goguynet.jp/2026/10/14/jokocoffee/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://orecyan.com/archives/21776",
+      "status": 200,
+      "finalUrl": "https://orecyan.com/archives/21776",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://saga.keizai.biz/headline/2378/",
+      "status": 200,
+      "finalUrl": "https://saga.keizai.biz/headline/2378/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://shunan.keizai.biz/headline/2265/",
+      "status": 200,
+      "finalUrl": "https://shunan.keizai.biz/headline/2265/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://soja-kurashiki.okayama.jp/2026/10/05/pechunia-cafe-kurashiki-tsurugata-open-20261005/",
+      "status": 200,
+      "finalUrl": "https://soja-kurashiki.okayama.jp/2026/10/05/pechunia-cafe-kurashiki-tsurugata-open-20261005/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/ehime/A3801/A380101/38017347/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/ehime/A3801/A380101/38017347/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/ehime/A3801/A380101/38017430/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/ehime/A3801/A380101/38017430/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/fukuoka/A4004/A400404/40074985/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/fukuoka/A4004/A400404/40074985/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/fukuoka/A4004/A400404/40075128/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/fukuoka/A4004/A400404/40075128/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/fukuoka/A4006/A400601/40074898/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/fukuoka/A4006/A400601/40074898/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/kagawa/A3701/A370101/37015113/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/kagawa/A3701/A370101/37015113/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/kagawa/A3702/A370201/37015143/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/kagawa/A3702/A370201/37015143/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/kagoshima/A4601/A460101/46019223/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/kagoshima/A4601/A460101/46019223/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/kagoshima/A4602/A460201/46019271/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/kagoshima/A4602/A460201/46019271/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/kochi/A3901/A390101/39009182/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/kochi/A3901/A390101/39009182/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/kumamoto/A4301/A430101/43020405/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/kumamoto/A4301/A430101/43020405/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/kumamoto/A4301/A430101/43020633/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/kumamoto/A4301/A430101/43020633/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/kumamoto/A4301/A430101/43020761/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/kumamoto/A4301/A430101/43020761/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/kumamoto/A4302/A430202/43020771/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/kumamoto/A4302/A430202/43020771/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/miyazaki/A4501/A450101/45013833/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/miyazaki/A4501/A450101/45013833/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/miyazaki/A4501/A450101/45014223/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/miyazaki/A4501/A450101/45014223/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/nagasaki/A4203/A420301/42015627/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/nagasaki/A4203/A420301/42015627/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/oita/A4401/A440101/44015084/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/oita/A4401/A440101/44015084/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/okayama/A3304/A330401/33022358/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/okayama/A3304/A330401/33022358/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/okinawa/A4701/A470101/47035379/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/okinawa/A4701/A470101/47035379/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/saga/A4101/A410101/41008914/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/saga/A4101/A410101/41008914/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/shimane/A3201/A320101/32008300/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/shimane/A3201/A320101/32008300/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/yamaguchi/A3502/A350201/35015032/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/yamaguchi/A3502/A350201/35015032/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tabelog.com/yamaguchi/A3505/A350501/35015082/",
+      "status": 200,
+      "finalUrl": "https://tabelog.com/yamaguchi/A3505/A350501/35015082/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://tokumori.tv.kct.jp/gourmet/83551/",
+      "status": 200,
+      "finalUrl": "https://tokumori.tv.kct.jp/gourmet/83551/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://unseki.co.jp/blog/open/cake/27827",
+      "status": 200,
+      "finalUrl": "https://unseki.co.jp/blog/open/cake/27827",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://unsplash.com/license",
+      "status": 401,
+      "result": "restricted/HTTP error; manual source confirmation in research"
+    },
+    {
+      "url": "https://www.coolkagawa.jp/news/entry-6005.html",
+      "status": 200,
+      "finalUrl": "https://www.coolkagawa.jp/news/entry-6005.html",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.coolkagawa.jp/news/entry-6007.html",
+      "status": 200,
+      "finalUrl": "https://www.coolkagawa.jp/news/entry-6007.html",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E7%B1%B3%E5%B1%8B%E3%81%95%E3%82%93%E3%81%AE%E8%96%AC%E8%86%B3%E7%B1%B3%E3%82%AB%E3%83%95%E3%82%A7%20%E7%94%B0%20%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%86%8A%E6%9C%AC%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B0%B4%E5%89%8D%E5%AF%BA3-4-1",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E7%B1%B3%E5%B1%8B%E3%81%95%E3%82%93%E3%81%AE%E8%96%AC%E8%86%B3%E7%B1%B3%E3%82%AB%E3%83%95%E3%82%A7%20%E7%94%B0%20%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%86%8A%E6%9C%AC%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B0%B4%E5%89%8D%E5%AF%BA3-4-1",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%AB%E3%81%A3%E3%81%93%E3%82%8A%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%88%20%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%86%8A%E6%9C%AC%E5%B8%82%E6%9D%B1%E5%8C%BA%E9%95%B7%E5%B6%BA%E5%8D%974-10-50%20%E6%9C%A8%E6%9D%91%E3%83%93%E3%83%AB%201F",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=%E3%81%AB%E3%81%A3%E3%81%93%E3%82%8A%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%88%20%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%86%8A%E6%9C%AC%E5%B8%82%E6%9D%B1%E5%8C%BA%E9%95%B7%E5%B6%BA%E5%8D%974-10-50%20%E6%9C%A8%E6%9D%91%E3%83%93%E3%83%AB%201F",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%80%E3%82%8C%E3%81%90%E3%82%89%E3%81%97%E5%96%AB%E8%8C%B6%20%E9%A6%99%E5%B7%9D%E7%9C%8C%E9%AB%98%E6%9D%BE%E5%B8%82%E7%89%9F%E7%A4%BC%E7%94%BA%E5%A4%A7%E7%94%BA1388-3",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%80%E3%82%8C%E3%81%90%E3%82%89%E3%81%97%E5%96%AB%E8%8C%B6%20%E9%A6%99%E5%B7%9D%E7%9C%8C%E9%AB%98%E6%9D%BE%E5%B8%82%E7%89%9F%E7%A4%BC%E7%94%BA%E5%A4%A7%E7%94%BA1388-3",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%AC%E3%83%BC%E3%81%AE%E3%81%A1%E7%8F%88%E7%90%B2%E3%80%81%E3%81%A8%E3%81%8D%E3%81%A9%E3%81%8D%E3%83%AF%E3%82%A4%E3%83%B3%20%E4%BD%90%E8%B3%80%E7%9C%8C%E4%BD%90%E8%B3%80%E5%B8%82%E5%98%89%E7%80%AC%E7%94%BA%E5%A4%A7%E5%AD%97%E6%89%87%E7%94%BA2418-1",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%AC%E3%83%BC%E3%81%AE%E3%81%A1%E7%8F%88%E7%90%B2%E3%80%81%E3%81%A8%E3%81%8D%E3%81%A9%E3%81%8D%E3%83%AF%E3%82%A4%E3%83%B3%20%E4%BD%90%E8%B3%80%E7%9C%8C%E4%BD%90%E8%B3%80%E5%B8%82%E5%98%89%E7%80%AC%E7%94%BA%E5%A4%A7%E5%AD%97%E6%89%87%E7%94%BA2418-1",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%8A%E7%94%B2%E7%8F%88%E7%90%B2%20%E5%A4%A7%E5%88%86%E7%9C%8C%E5%A4%A7%E5%88%86%E5%B8%82%E4%B8%AD%E5%B3%B6%E4%B8%AD%E5%A4%AE1-4-36",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=%E4%B8%8A%E7%94%B2%E7%8F%88%E7%90%B2%20%E5%A4%A7%E5%88%86%E7%9C%8C%E5%A4%A7%E5%88%86%E5%B8%82%E4%B8%AD%E5%B3%B6%E4%B8%AD%E5%A4%AE1-4-36",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%B8%E5%A4%AA%E8%8C%B6%E5%B1%8B%20%E7%86%8A%E6%9C%AC%E7%9C%8C%E9%98%BF%E8%98%87%E9%83%A1%E9%AB%98%E6%A3%AE%E7%94%BA%E4%B8%8A%E8%89%B2%E8%A6%8B2889-3",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=%E4%B8%B8%E5%A4%AA%E8%8C%B6%E5%B1%8B%20%E7%86%8A%E6%9C%AC%E7%9C%8C%E9%98%BF%E8%98%87%E9%83%A1%E9%AB%98%E6%A3%AE%E7%94%BA%E4%B8%8A%E8%89%B2%E8%A6%8B2889-3",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%96%AB%E8%8C%B6%20%E3%81%93%E3%81%A4%E3%81%B6%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%E6%9D%BE%E6%B1%9F%E5%B8%82%E6%9D%B1%E6%9C%9D%E6%97%A5%E7%94%BA231-1",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=%E5%96%AB%E8%8C%B6%20%E3%81%93%E3%81%A4%E3%81%B6%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%E6%9D%BE%E6%B1%9F%E5%B8%82%E6%9D%B1%E6%9C%9D%E6%97%A5%E7%94%BA231-1",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%9F%E3%83%AA%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%E6%96%B0%E5%B1%8B%E6%95%B7%E7%94%BA15-14%20%E6%96%B0%E5%B1%8B%E6%95%B7SK%E3%83%93%E3%83%AB%20101%E5%8F%B7%E5%AE%A4",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=%E5%AE%9F%E3%83%AA%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%E6%96%B0%E5%B1%8B%E6%95%B7%E7%94%BA15-14%20%E6%96%B0%E5%B1%8B%E6%95%B7SK%E3%83%93%E3%83%AB%20101%E5%8F%B7%E5%AE%A4",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=%E7%A9%BA%E3%83%88%E9%A2%A8%E3%83%88%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%E5%87%BA%E9%9B%B2%E5%B8%82%E6%89%80%E5%8E%9F%E7%94%BA2733",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=%E7%A9%BA%E3%83%88%E9%A2%A8%E3%83%88%20%E5%B3%B6%E6%A0%B9%E7%9C%8C%E5%87%BA%E9%9B%B2%E5%B8%82%E6%89%80%E5%8E%9F%E7%94%BA2733",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=%E8%8A%8B%E7%94%B7%E7%88%B5%20%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%86%8A%E6%9C%AC%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%8D%89%E8%91%89%E7%94%BA4-1%20%E3%82%B3%E3%82%A2%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E4%B8%8A%E4%B9%83%E8%A3%8F%202F",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=%E8%8A%8B%E7%94%B7%E7%88%B5%20%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%86%8A%E6%9C%AC%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%8D%89%E8%91%89%E7%94%BA4-1%20%E3%82%B3%E3%82%A2%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E4%B8%8A%E4%B9%83%E8%A3%8F%202F",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=%E8%BC%AA%27z%20%E5%AE%AE%E5%B4%8E%E7%9C%8C%E5%AE%AE%E5%B4%8E%E5%B8%82%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA221-1",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=%E8%BC%AA%27z%20%E5%AE%AE%E5%B4%8E%E7%9C%8C%E5%AE%AE%E5%B4%8E%E5%B8%82%E6%97%A5%E3%83%8E%E5%87%BA%E7%94%BA221-1",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=%E9%B4%A8%E3%81%AE%E3%81%B2%E3%81%A8%E3%81%A8%E3%81%8D%20%E5%BE%B3%E5%B3%B6%E7%9C%8C%E5%90%89%E9%87%8E%E5%B7%9D%E5%B8%82%E9%B4%A8%E5%B3%B6%E7%94%BA%E9%B4%A8%E5%B3%B6329-1",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=%E9%B4%A8%E3%81%AE%E3%81%B2%E3%81%A8%E3%81%A8%E3%81%8D%20%E5%BE%B3%E5%B3%B6%E7%9C%8C%E5%90%89%E9%87%8E%E5%B7%9D%E5%B8%82%E9%B4%A8%E5%B3%B6%E7%94%BA%E9%B4%A8%E5%B3%B6329-1",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=3%E5%B9%B4B%E7%B5%84%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E5%85%AB%E5%B9%A1%E8%A5%BF%E5%8C%BA%E6%B0%B8%E7%8A%AC%E4%B8%B8%E6%9D%B1%E7%94%BA3-4-17",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=3%E5%B9%B4B%E7%B5%84%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E5%85%AB%E5%B9%A1%E8%A5%BF%E5%8C%BA%E6%B0%B8%E7%8A%AC%E4%B8%B8%E6%9D%B1%E7%94%BA3-4-17",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=B%C3%84CKER%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%E4%BA%AC%E9%83%BD%E9%83%A1%E8%8B%85%E7%94%B0%E7%94%BA%E5%AF%8C%E4%B9%85%E7%94%BA2-23-1",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=B%C3%84CKER%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%E4%BA%AC%E9%83%BD%E9%83%A1%E8%8B%85%E7%94%B0%E7%94%BA%E5%AF%8C%E4%B9%85%E7%94%BA2-23-1",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Bone%26Peace%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%E6%B4%A5%E5%B1%B1%E5%B8%82%E5%BF%97%E6%88%B8%E9%83%A8706-1",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=Bone%26Peace%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%E6%B4%A5%E5%B1%B1%E5%B8%82%E5%BF%97%E6%88%B8%E9%83%A8706-1",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Bar%20%E3%81%88%E3%82%93%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E5%85%AB%E5%B9%A1%E8%A5%BF%E5%8C%BA%E5%89%B2%E5%AD%90%E5%B7%9D2-16-10%20K%E3%83%93%E3%83%AB%201F",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Bar%20%E3%81%88%E3%82%93%20%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E5%85%AB%E5%B9%A1%E8%A5%BF%E5%8C%BA%E5%89%B2%E5%AD%90%E5%B7%9D2-16-10%20K%E3%83%93%E3%83%AB%201F",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%20Stand%20kinkin%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%80%89%E6%95%B7%E5%B8%82%E9%98%BF%E7%9F%A51-15-12%20%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%A1%E3%82%BE%E3%83%B3%E9%98%BF%E7%9F%A5%20%EF%BC%91F",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Stand%20kinkin%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%80%89%E6%95%B7%E5%B8%82%E9%98%BF%E7%9F%A51-15-12%20%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%A1%E3%82%BE%E3%83%B3%E9%98%BF%E7%9F%A5%20%EF%BC%91F",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cafe%26Lunch%20Box%20%E4%B8%80%E3%81%AE%E9%AD%94%E6%B3%95%20%E6%84%9B%E5%AA%9B%E7%9C%8C%E6%9D%BE%E5%B1%B1%E5%B8%82%E6%9F%B3%E4%BA%95%E7%94%BA2-4-2%20%E3%82%B7%E3%82%A7%E3%82%A2%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%20NABi",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%26Lunch%20Box%20%E4%B8%80%E3%81%AE%E9%AD%94%E6%B3%95%20%E6%84%9B%E5%AA%9B%E7%9C%8C%E6%9D%BE%E5%B1%B1%E5%B8%82%E6%9F%B3%E4%BA%95%E7%94%BA2-4-2%20%E3%82%B7%E3%82%A7%E3%82%A2%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%20NABi",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Caffe%20Rieta%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%E5%91%A8%E5%8D%97%E5%B8%82%E4%BD%8F%E5%B4%8E%E7%94%BA1-11",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=Caffe%20Rieta%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%E5%91%A8%E5%8D%97%E5%B8%82%E4%BD%8F%E5%B4%8E%E7%94%BA1-11",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Country%20House.F%20%E6%84%9B%E5%AA%9B%E7%9C%8C%E6%9D%BE%E5%B1%B1%E5%B8%82%E9%AB%98%E7%A0%82%E7%94%BA3-9-10",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=Country%20House.F%20%E6%84%9B%E5%AA%9B%E7%9C%8C%E6%9D%BE%E5%B1%B1%E5%B8%82%E9%AB%98%E7%A0%82%E7%94%BA3-9-10",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=NUiE%20LUCE%20food%20%E9%AB%98%E7%9F%A5%E7%9C%8C%E9%AB%98%E7%9F%A5%E5%B8%82%E5%AE%9D%E6%B0%B8%E7%94%BA3-12%20%E3%81%82%E3%82%84%E5%AE%B65%E5%8F%B7",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=NUiE%20LUCE%20food%20%E9%AB%98%E7%9F%A5%E7%9C%8C%E9%AB%98%E7%9F%A5%E5%B8%82%E5%AE%9D%E6%B0%B8%E7%94%BA3-12%20%E3%81%82%E3%82%84%E5%AE%B65%E5%8F%B7",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=OKI%20ZEN%20%E6%B2%96%E7%B8%84%E7%9C%8C%E9%82%A3%E8%A6%87%E5%B8%82%E7%89%A7%E5%BF%972-1-13",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=OKI%20ZEN%20%E6%B2%96%E7%B8%84%E7%9C%8C%E9%82%A3%E8%A6%87%E5%B8%82%E7%89%A7%E5%BF%972-1-13",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Pechunia%20cafe%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%80%89%E6%95%B7%E5%B8%82%E9%B6%B4%E5%BD%A22-9-30",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=Pechunia%20cafe%20%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%80%89%E6%95%B7%E5%B8%82%E9%B6%B4%E5%BD%A22-9-30",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=TEDDY%20BAKERY%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E8%96%A9%E6%91%A9%E5%B7%9D%E5%86%85%E5%B8%82%E5%A4%A9%E8%BE%B0%E7%94%BA950-1",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=TEDDY%20BAKERY%20%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E8%96%A9%E6%91%A9%E5%B7%9D%E5%86%85%E5%B8%82%E5%A4%A9%E8%BE%B0%E7%94%BA950-1",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=cafe%20amie%20%E9%A6%99%E5%B7%9D%E7%9C%8C%E5%9D%82%E5%87%BA%E5%B8%82%E5%B7%9D%E6%B4%A5%E7%94%BA3501-23",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=cafe%20amie%20%E9%A6%99%E5%B7%9D%E7%9C%8C%E5%9D%82%E5%87%BA%E5%B8%82%E5%B7%9D%E6%B4%A5%E7%94%BA3501-23",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=chouchou%20cafe%20%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%91%89%E5%B8%82%E4%B8%AD%E9%80%9A4-3-18",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=chouchou%20cafe%20%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%91%89%E5%B8%82%E4%B8%AD%E9%80%9A4-3-18",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=curry%EF%BC%86cafe%20M%20%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%BB%BF%E6%97%A5%E5%B8%82%E5%B8%82%E5%9C%B0%E5%BE%A1%E5%89%8D1-10-35",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=curry%EF%BC%86cafe%20M%20%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%BB%BF%E6%97%A5%E5%B8%82%E5%B8%82%E5%9C%B0%E5%BE%A1%E5%89%8D1-10-35",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=goodstock%20unzen%20%E9%95%B7%E5%B4%8E%E7%9C%8C%E9%9B%B2%E4%BB%99%E5%B8%82%E5%B0%8F%E6%B5%9C%E7%94%BA%E5%8C%97%E9%87%8E779-1",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=goodstock%20unzen%20%E9%95%B7%E5%B4%8E%E7%9C%8C%E9%9B%B2%E4%BB%99%E5%B8%82%E5%B0%8F%E6%B5%9C%E7%94%BA%E5%8C%97%E9%87%8E779-1",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=sora16cafe%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%E4%B8%8B%E9%96%A2%E5%B8%82%E8%B1%8A%E6%B5%A6%E7%94%BA%E5%A4%A7%E5%AD%97%E5%B7%9D%E6%A3%9A7305-3",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=sora16cafe%20%E5%B1%B1%E5%8F%A3%E7%9C%8C%E4%B8%8B%E9%96%A2%E5%B8%82%E8%B1%8A%E6%B5%A6%E7%94%BA%E5%A4%A7%E5%AD%97%E5%B7%9D%E6%A3%9A7305-3",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=sunnote%20coffee%20and%20bake%20%E5%AE%AE%E5%B4%8E%E7%9C%8C%E5%AE%AE%E5%B4%8E%E5%B8%82%E6%A9%98%E9%80%9A%E6%9D%B14-9-1%20%E6%9D%91%E4%B8%8A%E3%83%93%E3%83%AB%201F",
+      "status": 200,
+      "finalUrl": "https://www.google.com/maps/search/?api=1&query=sunnote%20coffee%20and%20bake%20%E5%AE%AE%E5%B4%8E%E7%9C%8C%E5%AE%AE%E5%B4%8E%E5%B8%82%E6%A9%98%E9%80%9A%E6%9D%B14-9-1%20%E6%9D%91%E4%B8%8A%E3%83%93%E3%83%AB%201F",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.hotpepper.jp/strJ001264169/",
+      "status": 200,
+      "finalUrl": "https://www.hotpepper.jp/strJ001264169/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.hotpepper.jp/strJ004698503/appearance/",
+      "status": 200,
+      "finalUrl": "https://www.hotpepper.jp/strJ004698503/appearance/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/3nen_bgumi",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/3nen_bgumi",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/boneandpeace2026/",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/boneandpeace2026/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/cafe_stand_kinkin/",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/cafe_stand_kinkin/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/cafeamie.825/",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/cafeamie.825/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/chouchou_cafe_",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/chouchou_cafe_",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/coffee_bakery_backer/",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/coffee_bakery_backer/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/country.house.f",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/country.house.f",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/curryandcafem",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/curryandcafem",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/currynochicoffee_tokidokiwine",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/currynochicoffee_tokidokiwine",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/en_cafe_bar",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/en_cafe_bar",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/goodstockunzen",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/goodstockunzen",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/hajimarinomahou",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/hajimarinomahou",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/imodansyaku.kumamoto",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/imodansyaku.kumamoto",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/joko_coffee.jp/",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/joko_coffee.jp/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/kamonohitotoki_bakeshop/",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/kamonohitotoki_bakeshop/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/kotsubu.official/",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/kotsubu.official/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/maruta_chaya",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/maruta_chaya",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/minori_panto_",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/minori_panto_",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/muregurasi0907/",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/muregurasi0907/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/nikkori_cute722",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/nikkori_cute722",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/nuieluce_food",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/nuieluce_food",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/oki_zen_",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/oki_zen_",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/pechunia.cafe/",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/pechunia.cafe/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/rieta10012026",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/rieta10012026",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/rinz_coffee_shop_miyazaki/",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/rinz_coffee_shop_miyazaki/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/sora.to.kaze.to/",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/sora.to.kaze.to/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/sora16cafe",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/sora16cafe",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/sunnote.coffee",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/sunnote.coffee",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/tanakabeikokuten/",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/tanakabeikokuten/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.instagram.com/teddy_bakery.08/",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/teddy_bakery.08/",
+      "result": "reachable; content identity not guaranteed"
+    },
+    {
+      "url": "https://www.kbc.co.jp/wish/article/47595/",
+      "status": 200,
+      "finalUrl": "https://www.kbc.co.jp/wish/article/47595/",
+      "result": "reachable; content identity not guaranteed"
+    }
+  ],
+  "unknowns": [
+    "Instagram profiles/posts not directly confirmed due fetching restrictions; third-party public photos used for visual references only.",
+    "Current hours, temporary closure, current menu availability and photo reprint rights remain unconfirmed.",
+    "No actual store photos republished. Unsplash illustrative photos labeled on every displayed figure."
+  ],
+  "javascriptBehavior": "PASS: actual script tested in a lightweight DOM stub for open/close, aria-expanded, label, Escape/focus, link close, breakpoint reset. Browser DOM not exercised.",
+  "bodyContrast": "PASS: 30 body foreground/background combinations, minimum 5.0:1 (sRGB relative luminance). Decoration colors are not body text colors.",
+  "licenseCheck": "Unsplash License text read through web search tool on 2026-11-26. Shell GET returned 401; search retrieval succeeded.",
+  "externalLinksNote": "HTTP 200 does not verify store identity, up-to-date business information or Instagram post access. All Instagram profiles/posts remain directly unconfirmed."
+}
