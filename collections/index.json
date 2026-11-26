@@ -1,0 +1,2434 @@
+[
+  {
+    "id": "CAFE-001",
+    "slug": "uff",
+    "path": "/uff/",
+    "name": "Uff Boulangerie & Café",
+    "region": "東京都",
+    "place": "東京・国立",
+    "category": "bakery",
+    "thumbnail": "/uff/assets/hero.webp",
+    "summary": "国立のパンとコーヒーのお店を紹介するデザイン案。",
+    "palette": [
+      "#f8f6ef",
+      "#384936",
+      "#98a184"
+    ],
+    "sourceUrls": [
+      "https://tachikawa.keizai.biz/headline/4227/",
+      "https://kunitachi-media.tokyo.jp/archives/1681"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-002",
+    "slug": "pocha",
+    "path": "/pocha/",
+    "name": "日本茶カフェ pocha",
+    "region": "北海道",
+    "place": "札幌・山鼻",
+    "category": "tea",
+    "thumbnail": "/assets/tea.webp",
+    "summary": "日本茶インストラクターと、飲食の経験を重ねた夫婦が営む日本茶カフェ。農家から仕入れた茶葉の個性を、一杯ずつ楽しめる場所です。",
+    "palette": [],
+    "sourceUrls": [
+      "https://www.poroco.co.jp/newsreport/4106/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-003",
+    "slug": "collage-co",
+    "path": "/collage-co/",
+    "name": "Collage.Co",
+    "region": "愛知県",
+    "place": "名古屋・桜山",
+    "category": "sweets",
+    "thumbnail": "/assets/cookies.webp",
+    "summary": "名古屋・桜山のビルの2階にあるCollage.Co。焼き菓子を楽しむ午後も、ワインを選ぶ時間も。ひとつの場所で、いくつもの過ごし方を。",
+    "palette": [],
+    "sourceUrls": [
+      "https://tabelog.com/aichi/A2301/A230108/23097926/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-004",
+    "slug": "noon",
+    "path": "/noon/",
+    "name": "NOÖN Coffee & Lifestyle",
+    "region": "滋賀県",
+    "place": "滋賀・守山",
+    "category": "coffee",
+    "thumbnail": "/assets/table.webp",
+    "summary": "NOÖN Coffee & Lifestyleは、コーヒーや食事とともに、テーブルウェアとの出会いも楽しめる場所。飲む時間と、暮らしに持ち帰る楽しみをつなぎます。",
+    "palette": [],
+    "sourceUrls": [
+      "https://info-shiga.com/open-close/opening/900153/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-005",
+    "slug": "tori",
+    "path": "/tori/",
+    "name": "cafe & Ice Cream TORI.",
+    "region": "千葉県",
+    "place": "千葉・千葉神社前",
+    "category": "sweets",
+    "thumbnail": "/assets/icecream.webp",
+    "summary": "千葉神社前のcafe & Ice Cream TORI.。鳥居型のクッキーを添えたバニラソフトを目印に、街歩きの途中で立ち寄れるカフェです。",
+    "palette": [],
+    "sourceUrls": [
+      "https://midori-chiba.mypl.net/article/newopen_chiba/113484"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-006",
+    "slug": "yoca",
+    "path": "/yoca/",
+    "name": "cafe yoca",
+    "region": "東京都",
+    "place": "東京・武蔵境",
+    "category": "coffee",
+    "thumbnail": "/assets/latte.webp",
+    "summary": "KANEYOからcafe yocaへ。武蔵境で、スペシャルティコーヒーを中心に、お菓子と一緒に楽しめるカフェとして新しく歩み始めました。",
+    "palette": [],
+    "sourceUrls": [
+      "https://mu-navi.com/cafe-yoca/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-007",
+    "slug": "aioi-coffee",
+    "path": "/aioi-coffee/",
+    "name": "AIOI COFFEE",
+    "region": "宮城県",
+    "place": "宮城・仙台 榴岡",
+    "category": "coffee",
+    "thumbnail": "/assets/coffee.webp",
+    "summary": "夫婦ふたりで営む、小さなコーヒーと焼き菓子のお店。AIOI COFFEEでは、産地それぞれの味わいを感じるコーヒーと、素材を生かしたお菓子を楽しめます。",
+    "palette": [],
+    "sourceUrls": [
+      "https://coffee-otaku.com/archives/27254"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-008",
+    "slug": "cosajiichi",
+    "path": "/cosajiichi/",
+    "name": "喫茶 こさじいち",
+    "region": "福岡県",
+    "place": "福岡・笹丘",
+    "category": "meal",
+    "thumbnail": "/assets/toast.webp",
+    "summary": "笹丘名店街の一角にある、夫婦が営む小さな喫茶店。アンティーク家具のある落ち着いた空間で、ごはんとコーヒー、おやつを楽しめます。",
+    "palette": [],
+    "sourceUrls": [
+      "https://tenjin.keizai.biz/headline/8427/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-009",
+    "slug": "fourth-avenue",
+    "path": "/fourth-avenue/",
+    "name": "the Fourth Avenue Cafe&Bar",
+    "region": "京都府",
+    "place": "京都・桂",
+    "category": "bar",
+    "thumbnail": "/assets/wine.webp",
+    "summary": "京都・桂のthe Fourth Avenue Cafe&Bar。昼はカフェとして、夜はバーとして。食事やお酒を、その日の過ごし方に合わせて楽しめる場所です。",
+    "palette": [],
+    "sourceUrls": [
+      "https://kansai-kaiten.com/thefourthavenuecafe-kyotokatsura2610/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-010",
+    "slug": "eggplant",
+    "path": "/eggplant/",
+    "name": "EGGPLANT CAFE",
+    "region": "千葉県",
+    "place": "千葉・鎌ケ谷",
+    "category": "meal",
+    "thumbnail": "/assets/sandwich.webp",
+    "summary": "鎌ケ谷・貝柄山公園の近く。家族で手作りしたログ小屋が、EGGPLANT CAFEです。焼きたてのホットサンドを中心に、気軽に立ち寄れる時間を。",
+    "palette": [],
+    "sourceUrls": [
+      "https://kamagaya.mypl.net/article/newopen_kamagaya/113577"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-011",
+    "slug": "hoki-cafe",
+    "path": "/hoki-cafe/",
+    "name": "Hoki Cafe",
+    "region": "北海道",
+    "category": "meal",
+    "thumbnail": "/assets/batch-a/images/table.webp",
+    "summary": "旭川市永山八条のHoki Cafe。カフェとハンバーガーのジャンルで紹介されている、小さな一軒です。",
+    "palette": [
+      "#f2eee4",
+      "#183141",
+      "#7c570e",
+      "#ded3ac"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/hokkaido/A0104/A010401/1086431/",
+      "https://www.shopship.jp/asahikawa/open-close/hokicafe1026/"
+    ],
+    "place": "北海道・旭川市",
+    "designReferenceUrls": [
+      "https://tabelog.com/hokkaido/A0104/A010401/1086431/",
+      "https://www.instagram.com/hokicafe1026"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-012",
+    "slug": "kissa-blondy",
+    "path": "/kissa-blondy/",
+    "name": "喫茶ブロンディー",
+    "region": "北海道",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-a/images/coffee.webp",
+    "summary": "札幌・澄川三条の喫茶ブロンディー。再開店を伝える記事と店舗掲載情報を手掛かりに、喫茶の時間へ。",
+    "palette": [
+      "#f2e6ce",
+      "#3c241d",
+      "#763d27",
+      "#deca9f"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/hokkaido/A0101/A010305/1086434/",
+      "https://plaza.rakuten.co.jp/yorozuken/diary/202610240003/"
+    ],
+    "place": "北海道・札幌市",
+    "designReferenceUrls": [
+      "https://tabelog.com/hokkaido/A0101/A010305/1086434/",
+      "https://www.instagram.com/blondy_roastery"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-013",
+    "slug": "asile",
+    "path": "/asile/",
+    "name": "Asile",
+    "region": "青森県",
+    "category": "bar",
+    "thumbnail": "/assets/batch-a/images/wine.webp",
+    "summary": "青森市古川、BLACK BOXの1階にあるカフェ・バル。青森商工会議所では、カレーやナポリタンが紹介されています。",
+    "palette": [
+      "#f4efe5",
+      "#382b23",
+      "#6d3c36",
+      "#dbceb3"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/aomori/A0201/A020101/2014023/",
+      "https://www.acci.or.jp/salon/【会員事業所紹介】カフェ・バル-asile/"
+    ],
+    "place": "青森県・青森市",
+    "designReferenceUrls": [
+      "https://tabelog.com/aomori/A0201/A020101/2014023/",
+      "https://www.instagram.com/asile_369_/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-014",
+    "slug": "nakano-coffee",
+    "path": "/nakano-coffee/",
+    "name": "中野珈琲店",
+    "region": "青森県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-a/images/coffee.webp",
+    "summary": "弘前市八幡町の中野珈琲店。弘前経済新聞では、ハンドドリップのコーヒーと日替わりランチが紹介されています。",
+    "palette": [
+      "#edf0eb",
+      "#29382e",
+      "#4a6150",
+      "#ced5c9"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/aomori/A0202/A020201/2014002/",
+      "https://hirosaki.keizai.biz/headline/2773/"
+    ],
+    "place": "青森県・弘前市",
+    "designReferenceUrls": [
+      "https://tabelog.com/aomori/A0202/A020201/2014002/",
+      "https://www.instagram.com/nakanocoffee10/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-015",
+    "slug": "hiyokodo",
+    "path": "/hiyokodo/",
+    "name": "まんがめし喫茶 ひよこ堂",
+    "region": "岩手県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-a/images/sandwich.webp",
+    "summary": "紫波町北日詰のまんがめし喫茶。現在の店舗掲載では、日詰の旧所在地からの移転が案内されています。",
+    "palette": [
+      "#f7efce",
+      "#303c30",
+      "#9b3125",
+      "#e4c46a"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/iwate/A0301/A030103/3013251/",
+      "https://kaiten-heiten-24.com/hiyoko-dou/"
+    ],
+    "place": "岩手県・紫波郡",
+    "designReferenceUrls": [
+      "https://tabelog.com/iwate/A0301/A030103/3013251/",
+      "https://www.instagram.com/hiyoko_dou/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-016",
+    "slug": "kissa-yoru-sakurayama",
+    "path": "/kissa-yoru-sakurayama/",
+    "name": "喫茶 夜 桜山",
+    "region": "岩手県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-a/images/coffee.webp",
+    "summary": "盛岡市内丸にある喫茶 夜 桜山。夕方からの営業が掲載されている喫茶店です。",
+    "palette": [
+      "#20231f",
+      "#f5efdf",
+      "#e5bc77",
+      "#373c33"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/iwate/A0301/A030101/3013416/"
+    ],
+    "place": "岩手県・盛岡市",
+    "designReferenceUrls": [
+      "https://tabelog.com/iwate/A0301/A030101/3013416/",
+      "https://www.instagram.com/sakurayama_yoru/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-017",
+    "slug": "cafe-marm",
+    "path": "/cafe-marm/",
+    "name": "cafe MARM",
+    "region": "宮城県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-a/images/toast.webp",
+    "summary": "多賀城市中央のcafe MARM。公開の紹介記事では、週替わりランチやデザートが取り上げられています。",
+    "palette": [
+      "#faf7ef",
+      "#3f332b",
+      "#895344",
+      "#e5d5bb"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/miyagi/A0404/A040404/4030479/",
+      "https://freimann.hatenablog.com/entry/2026/10/09/170000"
+    ],
+    "place": "宮城県・多賀城市",
+    "designReferenceUrls": [
+      "https://tabelog.com/miyagi/A0404/A040404/4030479/",
+      "https://www.instagram.com/cafe.marm"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-018",
+    "slug": "mimizu",
+    "path": "/mimizu/",
+    "name": "蚯蚓",
+    "region": "宮城県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-a/images/coffee.webp",
+    "summary": "仙台市太白区茂庭の蚯蚓。公開の訪問記事で、自家焙煎珈琲の店として紹介されています。",
+    "palette": [
+      "#ede2d2",
+      "#3d2e29",
+      "#99502d",
+      "#d4b08a"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/miyagi/A0401/A040105/4030460/",
+      "https://sendaiminami-tusin.com/mimizu2610/"
+    ],
+    "place": "宮城県・仙台市",
+    "designReferenceUrls": [
+      "https://tabelog.com/miyagi/A0401/A040105/4030460/",
+      "https://www.instagram.com/mimizu_kaffee"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-019",
+    "slug": "ko-meguri",
+    "path": "/ko-meguri/",
+    "name": "KO-MEGURI",
+    "region": "秋田県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-a/images/table.webp",
+    "summary": "横手市婦気大堤のcafe & kitchen KO-MEGURI。店舗掲載では、18席のカフェとして案内されています。",
+    "palette": [
+      "#f5f3e9",
+      "#374334",
+      "#566746",
+      "#dce1ce"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/akita/A0505/A050501/5011649/"
+    ],
+    "place": "秋田県・横手市",
+    "designReferenceUrls": [
+      "https://tabelog.com/akita/A0505/A050501/5011649/",
+      "https://www.instagram.com/ko_meguri.cafe/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-020",
+    "slug": "kyado-ponponjina",
+    "path": "/kyado-ponponjina/",
+    "name": "きゃどぽんぽんじ〜な",
+    "region": "秋田県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-a/images/latte.webp",
+    "summary": "秋田市泉南のカフェ、きゃどぽんぽんじ〜な。地域の紹介記事では、オムライスやスイーツが紹介されています。",
+    "palette": [
+      "#e8ece9",
+      "#273c3d",
+      "#78513b",
+      "#bdcfc7"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/akita/A0501/A050101/5011631/",
+      "https://web.akita-townjoho.jp/post-category/20260430-kyadoponponjina/"
+    ],
+    "place": "秋田県・秋田市",
+    "designReferenceUrls": [
+      "https://tabelog.com/akita/A0501/A050101/5011631/",
+      "https://www.instagram.com/pon.pon_cafe/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-021",
+    "slug": "le-lien",
+    "path": "/le-lien/",
+    "name": "CAFE & DINING Le Lien",
+    "region": "山形県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-a/images/table.webp",
+    "summary": "南陽市赤湯のCAFE & DINING Le Lien。日中と夜、それぞれの営業時間が掲載されているカフェです。",
+    "palette": [
+      "#f9f0e9",
+      "#4f3e35",
+      "#8b4b41",
+      "#e8d2be"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/yamagata/A0602/A060202/6013562/"
+    ],
+    "place": "山形県・南陽市",
+    "designReferenceUrls": [
+      "https://tabelog.com/yamagata/A0602/A060202/6013562/",
+      "https://www.instagram.com/cafe_lelien2026"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-022",
+    "slug": "kumakichi-biyori",
+    "path": "/kumakichi-biyori/",
+    "name": "くまきち日和",
+    "region": "山形県",
+    "category": "sweets",
+    "thumbnail": "/assets/batch-a/images/tea.webp",
+    "summary": "白鷹町黒鴨のくまきち日和。公開の開業報告では、蕎麦と甘味の和カフェとしてオープンが伝えられています。",
+    "palette": [
+      "#edece1",
+      "#303e34",
+      "#4d6850",
+      "#d0d6bf"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/yamagata/A0602/A060203/6013674/",
+      "https://camp-fire.jp/projects/977512/view?list=prefecture_yamagata_projects_fresh",
+      "https://camp-fire.jp/projects/977512/view/activities/910342"
+    ],
+    "place": "山形県・西置賜郡",
+    "designReferenceUrls": [
+      "https://tabelog.com/yamagata/A0602/A060203/6013674/",
+      "https://www.instagram.com/kumakichi_biyori_yamagata.cafe"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-023",
+    "slug": "nandemonaihi",
+    "path": "/nandemonaihi/",
+    "name": "なんでもない日に、踊ろうよ",
+    "region": "山形県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-a/images/sandwich.webp",
+    "summary": "遊佐町の古民家を使った喫茶店。公開の紹介では、喫茶とレンタルスペース、イベントが一体となった場所として案内されています。",
+    "palette": [
+      "#f6efe3",
+      "#423c2e",
+      "#8c4630",
+      "#e7ceb3"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/yamagata/A0603/A060303/6013517/",
+      "https://yama-katsu.jp/press/30267/",
+      "https://yuzamachi.com/taberu/nandemonaihini/2026/07/14/"
+    ],
+    "place": "山形県・飽海郡",
+    "designReferenceUrls": [
+      "https://tabelog.com/yamagata/A0603/A060303/6013517/",
+      "https://www.instagram.com/nandemonaihini_/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-024",
+    "slug": "green-cafe-hana",
+    "path": "/green-cafe-hana/",
+    "name": "Green & Cafe HANA",
+    "region": "福島県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-a/images/table.webp",
+    "summary": "いわき市勿来町、アクアランドはなばた内のカフェ。施設の公開案内で、コーヒー、ソフトクリーム、グリーンが紹介されています。",
+    "palette": [
+      "#edf1e6",
+      "#2c422e",
+      "#486738",
+      "#cbd9b5"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/fukushima/A0704/A070401/7021049/",
+      "https://www.gurutto-iwaki.com/detail/1792/news/news-931717.html"
+    ],
+    "place": "福島県・いわき市",
+    "designReferenceUrls": [
+      "https://tabelog.com/fukushima/A0704/A070401/7021049/",
+      "https://www.instagram.com/green_and_caffe_hana"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-025",
+    "slug": "resky",
+    "path": "/resky/",
+    "name": "Re:sky",
+    "region": "福島県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-a/images/sandwich.webp",
+    "summary": "会津若松市中町のcafe Re:sky。地域の店舗紹介では、アメリカンカジュアルのカフェとして案内されています。",
+    "palette": [
+      "#f3e9dd",
+      "#282d33",
+      "#a74432",
+      "#e6c5a7"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/fukushima/A0705/A070501/7020931/",
+      "https://www.gurutto-aizu.com/detail/1158/index.html"
+    ],
+    "place": "福島県・会津若松市",
+    "designReferenceUrls": [
+      "https://tabelog.com/fukushima/A0705/A070501/7020931/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-026",
+    "slug": "quebectei",
+    "path": "/quebectei/",
+    "name": "Quebec亭",
+    "region": "茨城県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-a/images/tea.webp",
+    "summary": "常陸大宮市上町のQuebec亭。店舗掲載情報を手掛かりに、所在地と来店前の確認先をご案内します。",
+    "palette": [
+      "#f1e9da",
+      "#44392d",
+      "#82633f",
+      "#dac7a5"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/ibaraki/A0805/A080503/8031302/"
+    ],
+    "place": "茨城県・常陸大宮市",
+    "designReferenceUrls": [
+      "https://tabelog.com/ibaraki/A0805/A080503/8031302/",
+      "https://www.instagram.com/cafequebec2026/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-027",
+    "slug": "fufufu",
+    "path": "/fufufu/",
+    "name": "FUFUFU",
+    "region": "栃木県",
+    "category": "bar",
+    "thumbnail": "/assets/batch-a/images/coffee.webp",
+    "summary": "宇都宮市宮本町のFUFUFU。栃ナビでは「コーヒーとビールといい音楽のお店」として紹介されています。",
+    "palette": [
+      "#e9e8dd",
+      "#2e3b32",
+      "#536a4c",
+      "#c9ccb5"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/tochigi/A0901/A090101/9024341/",
+      "https://www.tochinavi.net/spot/newopen/detail.shtml?id=4313"
+    ],
+    "place": "栃木県・宇都宮市",
+    "designReferenceUrls": [
+      "https://tabelog.com/tochigi/A0901/A090101/9024341/",
+      "https://www.instagram.com/fufufu.store"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-028",
+    "slug": "my-honey",
+    "path": "/my-honey/",
+    "name": "my.Honey",
+    "region": "栃木県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-a/images/sandwich.webp",
+    "summary": "宇都宮市大曽のmy.Honey。地域の取材記事では、ホットドッグとシェイクのテイクアウト専門店として紹介されています。",
+    "palette": [
+      "#fff4c7",
+      "#382e24",
+      "#923b2d",
+      "#edbe52"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/tochigi/A0901/A090101/9024337/",
+      "https://utsunomiya.goguynet.jp/2026/07/14/my-honey/"
+    ],
+    "place": "栃木県・宇都宮市",
+    "designReferenceUrls": [
+      "https://tabelog.com/tochigi/A0901/A090101/9024337/",
+      "https://www.instagram.com/myhoney1919"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-029",
+    "slug": "le-chainon",
+    "path": "/le-chainon/",
+    "name": "Le’Chainon",
+    "region": "群馬県",
+    "category": "sweets",
+    "thumbnail": "/assets/batch-a/images/icecream.webp",
+    "summary": "高崎市井野町のLe’Chainon。カフェとスイーツのジャンルで掲載され、テイクアウトの案内もあるお店です。",
+    "palette": [
+      "#f5edf5",
+      "#48364a",
+      "#725274",
+      "#d8c8e3"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/gunma/A1001/A100102/10027439/"
+    ],
+    "place": "群馬県・高崎市",
+    "designReferenceUrls": [
+      "https://tabelog.com/gunma/A1001/A100102/10027439/",
+      "https://www.instagram.com/le.chainon8787/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-030",
+    "slug": "hoodhouse",
+    "path": "/hoodhouse/",
+    "name": "アメリカンダイナーHOODHOUSE",
+    "region": "群馬県",
+    "category": "bar",
+    "thumbnail": "/assets/batch-a/images/sandwich.webp",
+    "summary": "前橋市城東町のアメリカンダイナーHOODHOUSE。店舗掲載には、昼はプレート、夜はバルと案内されています。",
+    "palette": [
+      "#f3dfb5",
+      "#282522",
+      "#982d26",
+      "#e8b64d"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/gunma/A1001/A100101/10026738/",
+      "https://saikura.info/open-hood-house-maebashi-20261029/"
+    ],
+    "place": "群馬県・前橋市",
+    "designReferenceUrls": [
+      "https://tabelog.com/gunma/A1001/A100101/10026738/",
+      "https://www.instagram.com/hoodhouse_maebashi/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-031",
+    "slug": "sena-coffee",
+    "path": "/sena-coffee/",
+    "name": "聖奈珈琲",
+    "region": "群馬県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-a/images/coffee.webp",
+    "summary": "伊勢崎市下植木町の聖奈珈琲。店舗掲載では、モーニングや食事のあるカフェとして紹介されています。",
+    "palette": [
+      "#f3eee5",
+      "#46362d",
+      "#784738",
+      "#d8c6ad"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/gunma/A1002/A100202/10027456/"
+    ],
+    "place": "群馬県・伊勢崎市",
+    "designReferenceUrls": [
+      "https://tabelog.com/gunma/A1002/A100202/10027456/",
+      "https://www.instagram.com/seinacoffee/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-032",
+    "slug": "bounce",
+    "path": "/bounce/",
+    "name": "BOUNCE",
+    "region": "埼玉県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-a/images/table.webp",
+    "summary": "深谷市普済寺のBOUNCE。店舗掲載では、テラス席のあるカフェとして案内されています。",
+    "palette": [
+      "#f0f3ed",
+      "#244432",
+      "#3f634b",
+      "#d5dfd0"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/saitama/A1105/A110503/11068999/"
+    ],
+    "place": "埼玉県・深谷市",
+    "designReferenceUrls": [
+      "https://tabelog.com/saitama/A1105/A110503/11068999/",
+      "https://www.instagram.com/bounce.wellness"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-033",
+    "slug": "tarte-plus",
+    "path": "/tarte-plus/",
+    "name": "cafe tarte plus",
+    "region": "埼玉県",
+    "category": "sweets",
+    "thumbnail": "/assets/batch-a/images/cookies.webp",
+    "summary": "久喜市南栗橋のcafe tarte plus。地域の取材記事で、タルトを楽しむカフェとして紹介されています。",
+    "palette": [
+      "#f5eae1",
+      "#4c3937",
+      "#8d5255",
+      "#dfc4b5"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/saitama/A1104/A110402/11068975/",
+      "https://kuki-satte.goguynet.jp/2026/11/07/tarte-plus/"
+    ],
+    "place": "埼玉県・久喜市",
+    "designReferenceUrls": [
+      "https://tabelog.com/saitama/A1104/A110402/11068975/",
+      "https://www.instagram.com/cafe_tarte_plus"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-034",
+    "slug": "vigo",
+    "path": "/vigo/",
+    "name": "vigo",
+    "region": "千葉県",
+    "category": "sweets",
+    "thumbnail": "/assets/batch-a/images/cookies.webp",
+    "summary": "千葉市中央区大巌寺町のvigo。公開の紹介記事では、バブルワッフルとハンバーグの店として紹介されています。",
+    "palette": [
+      "#f0ece0",
+      "#323e30",
+      "#516347",
+      "#d6ccb1"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/chiba/A1201/A120101/12068435/",
+      "https://www.gummaumaimono.info/entry/2026/10/15/214835"
+    ],
+    "place": "千葉県・千葉市",
+    "designReferenceUrls": [
+      "https://tabelog.com/chiba/A1201/A120101/12068435/",
+      "https://www.instagram.com/vigo_waffle"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-035",
+    "slug": "ten",
+    "path": "/ten/",
+    "name": "ちょい呑み処ten",
+    "region": "千葉県",
+    "category": "bar",
+    "thumbnail": "/assets/batch-a/images/table.webp",
+    "summary": "柏市しいの木台のちょい呑み処ten。店舗掲載には、日中のカフェと金曜の夜営業が案内されています。",
+    "palette": [
+      "#f5eed8",
+      "#30463a",
+      "#48634d",
+      "#d8bca0"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/chiba/A1203/A120301/12068592/"
+    ],
+    "place": "千葉県・柏市",
+    "designReferenceUrls": [
+      "https://tabelog.com/chiba/A1203/A120301/12068592/",
+      "https://www.instagram.com/ten_choinomidokoro/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-036",
+    "slug": "toki",
+    "path": "/toki/",
+    "name": "溶時",
+    "region": "東京都",
+    "category": "sweets",
+    "thumbnail": "/assets/batch-a/images/tea.webp",
+    "summary": "西新宿7丁目にある溶時。かき氷、ジェラート・アイスクリーム、甘味処のジャンルで掲載されています。",
+    "palette": [
+      "#f7f5eb",
+      "#40433e",
+      "#756536",
+      "#e5dfbe"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/tokyo/A1304/A130401/13326656/"
+    ],
+    "place": "東京都・新宿区西新宿7-",
+    "designReferenceUrls": [
+      "https://tabelog.com/tokyo/A1304/A130401/13326656/",
+      "https://www.instagram.com/toki_kakigori/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-037",
+    "slug": "cache-cache",
+    "path": "/cache-cache/",
+    "name": "Cache Cache",
+    "region": "神奈川県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-a/images/latte.webp",
+    "summary": "二宮町百合が丘のCache Cache。店舗掲載情報と公式プロフィールの案内を手掛かりに、カフェへの道をご案内します。",
+    "palette": [
+      "#f3eee6",
+      "#413d32",
+      "#74633e",
+      "#d6ccb8"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/kanagawa/A1404/A140408/14105535/"
+    ],
+    "place": "神奈川県・中郡",
+    "designReferenceUrls": [
+      "https://tabelog.com/kanagawa/A1404/A140408/14105535/",
+      "https://www.instagram.com/maison.cachecache"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-038",
+    "slug": "cafe-zen",
+    "path": "/cafe-zen/",
+    "name": "キッチンカーの古民家cafe Zen",
+    "region": "神奈川県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-a/images/tea.webp",
+    "summary": "茅ヶ崎市芹沢、塩川邸のキッチンカーの古民家cafe Zen。店舗掲載では、オープンテラスのあるカフェとして案内されています。",
+    "palette": [
+      "#eae7da",
+      "#343b2d",
+      "#56613b",
+      "#c7c9b0"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/kanagawa/A1404/A140406/14105729/"
+    ],
+    "place": "神奈川県・茅ヶ崎市",
+    "designReferenceUrls": [
+      "https://tabelog.com/kanagawa/A1404/A140406/14105729/",
+      "https://www.instagram.com/8453cafe.zen2490"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-039",
+    "slug": "kissa-perla",
+    "path": "/kissa-perla/",
+    "name": "喫茶 Perla",
+    "region": "新潟県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-a/images/coffee.webp",
+    "summary": "新潟市中央区古町通9番町の喫茶Perla。公開の店舗紹介では、JAZZが流れる喫茶店として案内されています。",
+    "palette": [
+      "#eee9df",
+      "#30383e",
+      "#645740",
+      "#d1c9ba"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/niigata/A1501/A150101/15025978/",
+      "https://r.gnavi.co.jp/k11bxjtf0000/"
+    ],
+    "place": "新潟県・新潟市",
+    "designReferenceUrls": [
+      "https://tabelog.com/niigata/A1501/A150101/15025978/",
+      "https://www.instagram.com/kissa_perla/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-040",
+    "slug": "tabetai",
+    "path": "/tabetai/",
+    "name": "甘味処 食べ鯛",
+    "region": "富山県",
+    "category": "sweets",
+    "thumbnail": "/assets/batch-a/images/tea.webp",
+    "summary": "魚津市新金屋の甘味処 食べ鯛。公開の地域情報では、たい焼きやかき氷などの甘味が紹介されています。",
+    "palette": [
+      "#f1e8d9",
+      "#183d4e",
+      "#7d4739",
+      "#d7b990"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/toyama/A1602/A160202/16012063/",
+      "https://toyama-watch.com/archives/29554"
+    ],
+    "place": "富山県・魚津市",
+    "designReferenceUrls": [
+      "https://tabelog.com/toyama/A1602/A160202/16012063/",
+      "https://www.instagram.com/tabetai_kanmidokoro/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-041",
+    "slug": "mico",
+    "path": "/mico/",
+    "name": "mico",
+    "region": "石川県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-b/mico.svg",
+    "summary": "山代温泉・温泉通にある、カフェと韓国料理のお店。",
+    "palette": [
+      "#f0f1eb",
+      "#25332c",
+      "#466651",
+      "#d7ded3"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/ishikawa/A1702/A170201/17016227/"
+    ],
+    "place": "石川県・加賀市",
+    "designReferenceUrls": [
+      "https://tabelog.com/ishikawa/A1702/A170201/17016227/",
+      "https://www.instagram.com/mico.kagaonsen/"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-042",
+    "slug": "kissa-kobito",
+    "path": "/kissa-kobito/",
+    "name": "喫茶コビト",
+    "region": "石川県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-b/kissa-kobito.svg",
+    "summary": "小松市今江町の住宅街にある、住宅をリノベーションした喫茶店。",
+    "palette": [
+      "#f5f0e5",
+      "#49302a",
+      "#7b3e31",
+      "#e3d7c2"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/ishikawa/A1702/A170202/17016089/",
+      "https://www.komatsuguide.jp/feature/detail_267.html"
+    ],
+    "place": "石川県・小松市",
+    "designReferenceUrls": [
+      "https://tabelog.com/ishikawa/A1702/A170202/17016089/",
+      "https://www.komatsuguide.jp/feature/detail_267.html",
+      "https://www.instagram.com/kissa.kobito"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-043",
+    "slug": "our",
+    "path": "/our/",
+    "name": "our",
+    "region": "福井県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-b/our.svg",
+    "summary": "あわら市市姫にある、器・服・カフェのお店。",
+    "palette": [
+      "#f8f5ec",
+      "#242b30",
+      "#245d89",
+      "#ecd37d"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/fukui/A1801/A180102/18010855/",
+      "https://kume.jp/2026/10/261006/"
+    ],
+    "place": "福井県・あわら市",
+    "designReferenceUrls": [
+      "https://tabelog.com/fukui/A1801/A180102/18010855/",
+      "https://kume.jp/2026/10/261006/",
+      "https://www.instagram.com/our_fukui"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-044",
+    "slug": "cafe-hana",
+    "path": "/cafe-hana/",
+    "name": "カフェ花",
+    "region": "福井県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-b/cafe-hana.svg",
+    "summary": "越前市下太田町の喫茶店。蕎麦とコーヒーが、ふーぽで紹介されています。",
+    "palette": [
+      "#f3ecdb",
+      "#392d26",
+      "#695334",
+      "#ddd0ad"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/fukui/A1802/A180202/18001833/",
+      "https://fupo.jp/article/newopen_202610-2/"
+    ],
+    "place": "福井県・越前市",
+    "designReferenceUrls": [
+      "https://tabelog.com/fukui/A1802/A180202/18001833/",
+      "https://fupo.jp/article/newopen_202610-2/"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-045",
+    "slug": "3pozzo-cafe",
+    "path": "/3pozzo-cafe/",
+    "name": "3POZZO cafe",
+    "region": "山梨県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-b/3pozzo-cafe.svg",
+    "summary": "忍野村内野にある、ドッグランを併設したカフェ。",
+    "palette": [
+      "#f4f5e8",
+      "#163f41",
+      "#207983",
+      "#dfc78f"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/yamanashi/A1903/A190302/19015032/",
+      "https://www.porta-y.jp/gourmet/3581420"
+    ],
+    "place": "山梨県・南都留郡",
+    "designReferenceUrls": [
+      "https://tabelog.com/yamanashi/A1903/A190302/19015032/",
+      "https://www.porta-y.jp/gourmet/3581420",
+      "https://www.instagram.com/3pozzo_cafe"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-046",
+    "slug": "cohaccha",
+    "path": "/cohaccha/",
+    "name": "cohaccha",
+    "region": "山梨県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-b/cohaccha.svg",
+    "summary": "昭和町西条新田、プラシードハウスにあるカフェ。",
+    "palette": [
+      "#fbf4e8",
+      "#3d3525",
+      "#58704c",
+      "#e7c99b"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/yamanashi/A1901/A190101/19015055/"
+    ],
+    "place": "山梨県・中巨摩郡",
+    "designReferenceUrls": [
+      "https://tabelog.com/yamanashi/A1901/A190101/19015055/",
+      "https://www.instagram.com/coha_showa/"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-047",
+    "slug": "kominka-onn",
+    "path": "/kominka-onn/",
+    "name": "古民家カフェ 温",
+    "region": "山梨県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-b/kominka-onn.svg",
+    "summary": "昇仙峡にある、築100年以上の古民家を改装したカフェ。",
+    "palette": [
+      "#f0ebdb",
+      "#302e24",
+      "#2d706c",
+      "#d5be85"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/yamanashi/A1901/A190101/19014998/",
+      "https://www.porta-y.jp/porta-press/press-vt2y1x3r"
+    ],
+    "place": "山梨県・甲府市",
+    "designReferenceUrls": [
+      "https://tabelog.com/yamanashi/A1901/A190101/19014998/",
+      "https://www.porta-y.jp/porta-press/press-vt2y1x3r",
+      "https://www.instagram.com/onn.cafe/"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-048",
+    "slug": "lavender-lane",
+    "path": "/lavender-lane/",
+    "name": "LAVENDER LANE Tea Room",
+    "region": "長野県",
+    "category": "tea",
+    "thumbnail": "/assets/batch-b/lavender-lane.svg",
+    "summary": "長野市篠ノ井布施五明にあるティールーム。",
+    "palette": [
+      "#f8f3f8",
+      "#492c5d",
+      "#72458f",
+      "#e5d8e7"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/nagano/A2001/A200101/20029892/",
+      "https://naganogourmetbekkan.net/lavenderlane/"
+    ],
+    "place": "長野県・長野市",
+    "designReferenceUrls": [
+      "https://tabelog.com/nagano/A2001/A200101/20029892/",
+      "https://naganogourmetbekkan.net/lavenderlane/",
+      "https://www.instagram.com/lavenderlane_tearoom/"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-049",
+    "slug": "cafe-minamo",
+    "path": "/cafe-minamo/",
+    "name": "カフェみなも",
+    "region": "長野県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-b/cafe-minamo.svg",
+    "summary": "松本市清水、イオンモール松本近くにあるカフェ。",
+    "palette": [
+      "#f3f2ed",
+      "#3c4546",
+      "#526e72",
+      "#d9dedd"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/nagano/A2002/A200201/20030009/",
+      "https://www.web-komachi.com/?p=307955"
+    ],
+    "place": "長野県・松本市",
+    "designReferenceUrls": [
+      "https://tabelog.com/nagano/A2002/A200201/20030009/",
+      "https://www.web-komachi.com/?p=307955",
+      "https://www.instagram.com/minamo_cafe"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-050",
+    "slug": "anew",
+    "path": "/anew/",
+    "name": "anew egg sandwich & cafe",
+    "region": "岐阜県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-b/anew.svg",
+    "summary": "各務原市那加門前町の、たまごサンド専門店。",
+    "palette": [
+      "#fff5db",
+      "#4c351c",
+      "#885421",
+      "#f0bf55"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/gifu/A2101/A210102/21025137/"
+    ],
+    "place": "岐阜県・各務原市",
+    "designReferenceUrls": [
+      "https://tabelog.com/gifu/A2101/A210102/21025137/",
+      "https://www.instagram.com/anew_kakamigaha/"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-051",
+    "slug": "campanella",
+    "path": "/campanella/",
+    "name": "Campanella",
+    "region": "岐阜県",
+    "category": "sweets",
+    "thumbnail": "/assets/batch-b/campanella.svg",
+    "summary": "岐阜市茶屋新田にある、カフェ・喫茶店。",
+    "palette": [
+      "#eae6d7",
+      "#223936",
+      "#2e5d59",
+      "#c5ab62"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/gifu/A2101/A210101/21025076/",
+      "https://kaiten-heiten.com/%E3%80%90%E9%96%8B%E5%BA%97%E3%80%91cafe-campanella/"
+    ],
+    "place": "岐阜県・岐阜市",
+    "designReferenceUrls": [
+      "https://tabelog.com/gifu/A2101/A210101/21025076/",
+      "https://kaiten-heiten.com/%E3%80%90%E9%96%8B%E5%BA%97%E3%80%91cafe-campanella/"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-052",
+    "slug": "r-dreams",
+    "path": "/r-dreams/",
+    "name": "Cafe R･Dreams",
+    "region": "静岡県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-b/r-dreams.svg",
+    "summary": "伊東市松原本町にあるカフェ。",
+    "palette": [
+      "#f7efde",
+      "#503a2a",
+      "#855d36",
+      "#dfc296"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/shizuoka/A2205/A220503/22046681/",
+      "https://www.ekiten.jp/shop_15483094/"
+    ],
+    "place": "静岡県・伊東市",
+    "designReferenceUrls": [
+      "https://tabelog.com/shizuoka/A2205/A220503/22046681/",
+      "https://www.ekiten.jp/shop_15483094/",
+      "https://www.instagram.com/r.dreams1219"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-053",
+    "slug": "blossom-coffee-house",
+    "path": "/blossom-coffee-house/",
+    "name": "BLOSSOM COFFEE HOUSE",
+    "region": "愛知県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-b/blossom-coffee-house.svg",
+    "summary": "名古屋市千代田、レジーナ鶴舞1階のカフェ。",
+    "palette": [
+      "#e9e7e5",
+      "#202021",
+      "#9d1557",
+      "#e7c4d3"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/aichi/A2301/A230105/23098267/"
+    ],
+    "place": "愛知県・名古屋市",
+    "designReferenceUrls": [
+      "https://tabelog.com/aichi/A2301/A230105/23098267/",
+      "https://www.instagram.com/blossom.nagoya/"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-054",
+    "slug": "jinryo-coffee",
+    "path": "/jinryo-coffee/",
+    "name": "Jinryo Coffee",
+    "region": "愛知県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-b/jinryo-coffee.svg",
+    "summary": "春日井市下市場町にあるカフェ。",
+    "palette": [
+      "#f5eee2",
+      "#44362b",
+      "#47654c",
+      "#d6c5a3"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/aichi/A2303/A230301/23098304/",
+      "https://matsumoto-coffee.com/blog/seminar/2585/"
+    ],
+    "place": "愛知県・春日井市",
+    "designReferenceUrls": [
+      "https://tabelog.com/aichi/A2303/A230301/23098304/",
+      "https://matsumoto-coffee.com/blog/seminar/2585/",
+      "https://www.instagram.com/jinryo_coffee/"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-055",
+    "slug": "kigi",
+    "path": "/kigi/",
+    "name": "PATISSERIE & 喫茶 KIGI",
+    "region": "愛知県",
+    "category": "sweets",
+    "thumbnail": "/assets/batch-b/kigi.svg",
+    "summary": "名古屋市瑞穂区柳ケ枝町にある、喫茶店とケーキのお店。",
+    "palette": [
+      "#eceddf",
+      "#203c31",
+      "#4b6352",
+      "#cbb58d"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/aichi/A2301/A230112/23098019/"
+    ],
+    "place": "愛知県・名古屋市",
+    "designReferenceUrls": [
+      "https://tabelog.com/aichi/A2301/A230112/23098019/",
+      "https://www.instagram.com/kigi_kissa/"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-056",
+    "slug": "renelle",
+    "path": "/renelle/",
+    "name": "ルネル洋菓子店",
+    "region": "愛知県",
+    "category": "sweets",
+    "thumbnail": "/assets/batch-b/renelle.svg",
+    "summary": "名古屋市西区香呑町にある洋菓子店。",
+    "palette": [
+      "#f8f5f1",
+      "#3c4244",
+      "#606e7d",
+      "#e8ddd1"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/aichi/A2301/A230113/23098295/"
+    ],
+    "place": "愛知県・名古屋市",
+    "designReferenceUrls": [
+      "https://tabelog.com/aichi/A2301/A230113/23098295/",
+      "https://www.instagram.com/renelle_yougashiten/"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-057",
+    "slug": "7uts",
+    "path": "/7uts/",
+    "name": "7uts",
+    "region": "三重県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-b/7uts.svg",
+    "summary": "鈴鹿市庄野羽山にあるカフェ。",
+    "palette": [
+      "#f1eddf",
+      "#252f63",
+      "#334197",
+      "#e3c33a"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/mie/A2402/A240202/24022804/",
+      "https://suzuka-kameyama.goguynet.jp/2026/09/14/7uts/"
+    ],
+    "place": "三重県・鈴鹿市",
+    "designReferenceUrls": [
+      "https://tabelog.com/mie/A2402/A240202/24022804/",
+      "https://suzuka-kameyama.goguynet.jp/2026/09/14/7uts/",
+      "https://www.instagram.com/7uts_coffee_mie"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-058",
+    "slug": "riverside-cafe-sleep",
+    "path": "/riverside-cafe-sleep/",
+    "name": "riverside cafe ＆ sleep",
+    "region": "三重県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-b/riverside-cafe-sleep.svg",
+    "summary": "名張市家野にある「riverside cafe ＆ sleep」。",
+    "palette": [
+      "#e6efea",
+      "#263f38",
+      "#46695e",
+      "#acd0c8"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/mie/A2404/A240402/24022885/",
+      "https://mycmyc.blog.fc2.com/blog-entry-3402.html"
+    ],
+    "place": "三重県・名張市",
+    "designReferenceUrls": [
+      "https://tabelog.com/mie/A2404/A240402/24022885/",
+      "https://mycmyc.blog.fc2.com/blog-entry-3402.html",
+      "https://www.instagram.com/riversidecafe.sleep"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-059",
+    "slug": "hidamari",
+    "path": "/hidamari/",
+    "name": "カフェとごはん ひだまり",
+    "region": "滋賀県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-b/hidamari.svg",
+    "summary": "近江八幡市鷹飼町にある、カフェとごはんのお店。",
+    "palette": [
+      "#fff7e1",
+      "#463b26",
+      "#856524",
+      "#ecd37f"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/shiga/A2503/A250301/25014589/",
+      "https://shiga2.jp/hidamari-omihachiman-renewal-open/shiga2/"
+    ],
+    "place": "滋賀県・近江八幡市",
+    "designReferenceUrls": [
+      "https://tabelog.com/shiga/A2503/A250301/25014589/",
+      "https://shiga2.jp/hidamari-omihachiman-renewal-open/shiga2/",
+      "https://www.instagram.com/hidamari_cafebistro/"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-060",
+    "slug": "kyushoku-biyori",
+    "path": "/kyushoku-biyori/",
+    "name": "給食日和",
+    "region": "滋賀県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-b/kyushoku-biyori.svg",
+    "summary": "大津市北大路にある、給食をテーマにしたカフェ。",
+    "palette": [
+      "#fff1d3",
+      "#54382d",
+      "#a3412c",
+      "#e8b341"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/shiga/A2501/A250101/25014660/",
+      "https://kokoiro.jp/shop/kyushokubiyori/"
+    ],
+    "place": "滋賀県・大津市",
+    "designReferenceUrls": [
+      "https://tabelog.com/shiga/A2501/A250101/25014660/",
+      "https://kokoiro.jp/shop/kyushokubiyori/",
+      "https://www.instagram.com/kyusyokubiyori/"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-061",
+    "slug": "towza-diner",
+    "path": "/towza-diner/",
+    "name": "TOWZA DINER 1830",
+    "region": "京都府",
+    "category": "meal",
+    "thumbnail": "/assets/batch-b/towza-diner.svg",
+    "summary": "京都・下鴨西本町、大文字ビル1階のサンドイッチとカフェのお店。",
+    "palette": [
+      "#fff0d8",
+      "#652d25",
+      "#b52d1d",
+      "#edc078"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/kyoto/A2601/A260503/26046119/"
+    ],
+    "place": "京都府・京都市",
+    "designReferenceUrls": [
+      "https://tabelog.com/kyoto/A2601/A260503/26046119/",
+      "https://www.instagram.com/towza_diner_1830"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-062",
+    "slug": "del",
+    "path": "/del/",
+    "name": "DEL",
+    "region": "大阪府",
+    "category": "sweets",
+    "thumbnail": "/assets/batch-b/del.svg",
+    "summary": "大阪・南堀江にある、焼き菓子とコーヒーを中心としたカフェ。",
+    "palette": [
+      "#fbf0d7",
+      "#632820",
+      "#a33327",
+      "#e6c394"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/osaka/A2701/A270201/27159757/"
+    ],
+    "place": "大阪府・大阪市",
+    "designReferenceUrls": [
+      "https://tabelog.com/osaka/A2701/A270201/27159757/",
+      "https://www.instagram.com/del_southhorie"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-063",
+    "slug": "loaff",
+    "path": "/loaff/",
+    "name": "LOAFF",
+    "region": "大阪府",
+    "category": "meal",
+    "thumbnail": "/assets/batch-b/loaff.svg",
+    "summary": "大阪市天王寺区逢坂にある、ブランチとコーヒーのお店。",
+    "palette": [
+      "#f7f3e9",
+      "#292f2a",
+      "#5b614d",
+      "#e0d2b3"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/osaka/A2701/A270203/27160061/",
+      "https://kansai-kaiten.com/loaff-osakashitennouji2610/"
+    ],
+    "place": "大阪府・大阪市",
+    "designReferenceUrls": [
+      "https://tabelog.com/osaka/A2701/A270203/27160061/",
+      "https://kansai-kaiten.com/loaff-osakashitennouji2610/",
+      "https://www.instagram.com/loaff.brunch"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-064",
+    "slug": "on-cafe",
+    "path": "/on-cafe/",
+    "name": "on cafe",
+    "region": "兵庫県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-b/on-cafe.svg",
+    "summary": "高砂市神爪、前田ビル1Bにあるカフェ。",
+    "palette": [
+      "#f4f2ed",
+      "#252b29",
+      "#5d6d60",
+      "#ddd8c9"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/hyogo/A2804/A280402/28078110/"
+    ],
+    "place": "兵庫県・高砂市",
+    "designReferenceUrls": [
+      "https://tabelog.com/hyogo/A2804/A280402/28078110/",
+      "https://www.instagram.com/on._.cafe_"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-065",
+    "slug": "kissa-stern",
+    "path": "/kissa-stern/",
+    "name": "喫茶 Stern",
+    "region": "兵庫県",
+    "category": "sweets",
+    "thumbnail": "/assets/batch-b/kissa-stern.svg",
+    "summary": "神戸・三宮のKWビル地下1階、EGGPLANT内で営業する喫茶。",
+    "palette": [
+      "#f3eadc",
+      "#472f29",
+      "#765342",
+      "#d2b68a"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/hyogo/A2801/A280101/28078155/",
+      "https://kobebrighten.com/ja/news/kissa-stern-sannomiya-kobe/"
+    ],
+    "place": "兵庫県・神戸市",
+    "designReferenceUrls": [
+      "https://tabelog.com/hyogo/A2801/A280101/28078155/",
+      "https://kobebrighten.com/ja/news/kissa-stern-sannomiya-kobe/",
+      "https://www.instagram.com/stern.glutenfree/"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-066",
+    "slug": "kirara-cafe",
+    "path": "/kirara-cafe/",
+    "name": "キララカフェ",
+    "region": "奈良県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-b/kirara-cafe.svg",
+    "summary": "奈良県香芝市旭ケ丘にあるカフェ。",
+    "palette": [
+      "#f5eedf",
+      "#493c30",
+      "#776446",
+      "#d7c4a0"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/nara/A2903/A290301/29015812/"
+    ],
+    "place": "奈良県・香芝市",
+    "designReferenceUrls": [
+      "https://tabelog.com/nara/A2903/A290301/29015812/",
+      "https://www.instagram.com/kirara_cafe_nara"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-067",
+    "slug": "good",
+    "path": "/good/",
+    "name": "good",
+    "region": "和歌山県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-b/good.svg",
+    "summary": "和歌山市東長町、セイワビル1階にあるカフェ。",
+    "palette": [
+      "#eef2f5",
+      "#173d78",
+      "#224f8e",
+      "#dce3eb"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/wakayama/A3001/A300101/30012683/",
+      "https://article.yahoo.co.jp/detail/1cd54db19bd5daa9327529c24a87ab6d92089885"
+    ],
+    "place": "和歌山県・和歌山市",
+    "designReferenceUrls": [
+      "https://tabelog.com/wakayama/A3001/A300101/30012683/",
+      "https://article.yahoo.co.jp/detail/1cd54db19bd5daa9327529c24a87ab6d92089885",
+      "https://www.instagram.com/good_morning_lunch"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-068",
+    "slug": "ponte",
+    "path": "/ponte/",
+    "name": "ponte",
+    "region": "和歌山県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-b/ponte.svg",
+    "summary": "和歌山県広川町西広にあるカフェ。",
+    "palette": [
+      "#f7f0de",
+      "#493523",
+      "#616d3c",
+      "#e6b65c"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/wakayama/A3002/A300203/30012678/"
+    ],
+    "place": "和歌山県・有田郡",
+    "designReferenceUrls": [
+      "https://tabelog.com/wakayama/A3002/A300203/30012678/",
+      "https://www.instagram.com/ponte_cafe_"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-069",
+    "slug": "ara",
+    "path": "/ara/",
+    "name": "ara",
+    "region": "鳥取県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-b/ara.svg",
+    "summary": "鳥取県大山町西坪、WAFT.にあるカフェ。",
+    "palette": [
+      "#eeefeb",
+      "#303b3f",
+      "#506a74",
+      "#cfdadd"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/tottori/A3103/A310302/31007396/"
+    ],
+    "place": "鳥取県・西伯郡",
+    "designReferenceUrls": [
+      "https://tabelog.com/tottori/A3103/A310302/31007396/",
+      "https://www.instagram.com/ara_daisen.waft"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-070",
+    "slug": "oyaji-cafe",
+    "path": "/oyaji-cafe/",
+    "name": "おやじかふぇ",
+    "region": "鳥取県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-b/oyaji-cafe.svg",
+    "summary": "鳥取市職人町、若桜街道商店街にあるカフェ。",
+    "palette": [
+      "#f0e3cd",
+      "#402b23",
+      "#8a4430",
+      "#c2a16d"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/tottori/A3101/A310101/31007444/",
+      "https://tottorizumu.com/oyazi-cafe/"
+    ],
+    "place": "鳥取県・鳥取市",
+    "designReferenceUrls": [
+      "https://tabelog.com/tottori/A3101/A310101/31007444/",
+      "https://tottorizumu.com/oyazi-cafe/",
+      "https://www.instagram.com/oyaji_cafe_jiji"
+    ],
+    "thumbnailType": "illustration"
+  },
+  {
+    "id": "CAFE-071",
+    "slug": "kissa-kotsubu",
+    "path": "/kissa-kotsubu/",
+    "name": "喫茶 こつぶ",
+    "region": "島根県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "summary": "松江市東朝日町にある「喫茶 こつぶ」。公開の店舗情報では、朝の時間に営業する喫茶店として掲載されています。",
+    "palette": [
+      "#F4F1E8",
+      "#273F36",
+      "#A08357"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/shimane/A3201/A320101/32008300/"
+    ],
+    "place": "島根県・松江市",
+    "designReferenceUrls": [
+      "https://tabelog.com/shimane/A3201/A320101/32008300/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-072",
+    "slug": "sora-to-kaze-to",
+    "path": "/sora-to-kaze-to/",
+    "name": "空ト風ト",
+    "region": "島根県",
+    "category": "sweets",
+    "thumbnail": "/assets/batch-c/photos/icecream.webp",
+    "summary": "出雲市所原町の「空ト風ト」。紹介記事では、田んぼに囲まれた小さなお店として案内されています。",
+    "palette": [
+      "#F5F4EC",
+      "#4D643C",
+      "#9A743A"
+    ],
+    "sourceUrls": [
+      "https://unseki.co.jp/blog/open/cake/27827"
+    ],
+    "place": "島根県・出雲市",
+    "designReferenceUrls": [
+      "https://unseki.co.jp/blog/open/cake/27827"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-073",
+    "slug": "bone-and-peace",
+    "path": "/bone-and-peace/",
+    "name": "Bone&Peace",
+    "region": "岡山県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "summary": "津山市志戸部のカフェ「Bone&Peace」。第三者の訪問記では、牛骨スープのフォーが紹介されています。",
+    "palette": [
+      "#F4F2EA",
+      "#3D443A",
+      "#A7AF98"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/okayama/A3304/A330401/33022358/"
+    ],
+    "place": "岡山県・津山市",
+    "designReferenceUrls": [
+      "https://tabelog.com/okayama/A3304/A330401/33022358/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-074",
+    "slug": "kinkin",
+    "path": "/kinkin/",
+    "name": "Cafe Stand kinkin",
+    "region": "岡山県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "summary": "倉敷市阿知のコーヒースタンド「Cafe Stand kinkin」。取材記事では、ドリップコーヒーとスイーツ、6席のイートインスペースが紹介されています。",
+    "palette": [
+      "#F0E8D9",
+      "#332C28",
+      "#487B99"
+    ],
+    "sourceUrls": [
+      "https://tokumori.tv.kct.jp/gourmet/83551/"
+    ],
+    "place": "岡山県・倉敷市",
+    "designReferenceUrls": [
+      "https://tokumori.tv.kct.jp/gourmet/83551/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-075",
+    "slug": "pechunia-cafe",
+    "path": "/pechunia-cafe/",
+    "name": "Pechunia cafe",
+    "region": "岡山県",
+    "category": "sweets",
+    "thumbnail": "/assets/batch-c/photos/latte.webp",
+    "summary": "倉敷市鶴形の「Pechunia cafe」。公開記事では夜カフェとして紹介され、店舗紹介には黒ゴマのバスクチーズケーキや季節のパフェが掲載されています。",
+    "palette": [
+      "#221D21",
+      "#E6C998",
+      "#847087"
+    ],
+    "sourceUrls": [
+      "https://soja-kurashiki.okayama.jp/2026/10/05/pechunia-cafe-kurashiki-tsurugata-open-20261005/",
+      "https://www.hotpepper.jp/strJ004698503/appearance/"
+    ],
+    "place": "岡山県・倉敷市",
+    "designReferenceUrls": [
+      "https://www.hotpepper.jp/strJ004698503/appearance/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-076",
+    "slug": "chouchou-cafe",
+    "path": "/chouchou-cafe/",
+    "name": "chouchou cafe",
+    "region": "広島県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/cookies.webp",
+    "summary": "呉市中通の「chouchou cafe」。紹介記事では、間借り営業から実店舗へ移転したカフェとして、食事とデザートが紹介されています。",
+    "palette": [
+      "#F8F4EA",
+      "#8B4638",
+      "#A8BDB2"
+    ],
+    "sourceUrls": [
+      "https://iraw.rcc.jp/topics/articles/37351"
+    ],
+    "place": "広島県・呉市",
+    "designReferenceUrls": [
+      "https://iraw.rcc.jp/topics/articles/37351"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-077",
+    "slug": "curry-cafe-m",
+    "path": "/curry-cafe-m/",
+    "name": "curry＆cafe M",
+    "region": "広島県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "summary": "廿日市市地御前の「curry＆cafe M」。公開の店舗紹介では、カレーとナンカレーが案内されています。",
+    "palette": [
+      "#F7F5EF",
+      "#202321",
+      "#B58845"
+    ],
+    "sourceUrls": [
+      "https://www.hotpepper.jp/strJ001264169/"
+    ],
+    "place": "広島県・廿日市",
+    "designReferenceUrls": [
+      "https://www.hotpepper.jp/strJ001264169/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-078",
+    "slug": "caffe-rieta",
+    "path": "/caffe-rieta/",
+    "name": "Caffe Rieta",
+    "region": "山口県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "summary": "徳山駅新幹線口近く、AZURE徳山1階の「Caffe Rieta」。紹介記事では、ハワイをテーマにしたカフェとして案内されています。",
+    "palette": [
+      "#EEF2EE",
+      "#294B61",
+      "#B29456"
+    ],
+    "sourceUrls": [
+      "https://shunan.keizai.biz/headline/2265/",
+      "https://tabelog.com/yamaguchi/A3505/A350501/35015082/"
+    ],
+    "place": "山口県・周南市",
+    "designReferenceUrls": [
+      "https://shunan.keizai.biz/headline/2265/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-079",
+    "slug": "sora16cafe",
+    "path": "/sora16cafe/",
+    "name": "sora16cafe",
+    "region": "山口県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/cookies.webp",
+    "summary": "川棚温泉駅から徒歩4〜5分ほどと紹介されている「sora16cafe」。公開記事では、青い扉の店構えと、小鉢を添えた定食が紹介されています。",
+    "palette": [
+      "#F5F4ED",
+      "#326D72",
+      "#AC9168"
+    ],
+    "sourceUrls": [
+      "https://article.yahoo.co.jp/detail/6dd4b1c1ed63344d8d60f54556dad2ea0c2ffa50",
+      "https://tabelog.com/yamaguchi/A3502/A350201/35015032/"
+    ],
+    "place": "山口県・下関市",
+    "designReferenceUrls": [
+      "https://article.yahoo.co.jp/detail/6dd4b1c1ed63344d8d60f54556dad2ea0c2ffa50"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-080",
+    "slug": "kamo-no-hitotoki",
+    "path": "/kamo-no-hitotoki/",
+    "name": "鴨のひととき",
+    "region": "徳島県",
+    "category": "bakery",
+    "thumbnail": "/assets/batch-c/photos/bread.webp",
+    "summary": "吉野川市鴨島町のベイクショップ「鴨のひととき」。取材記事では、食パンやクロワッサンなどのパンが紹介されています。",
+    "palette": [
+      "#F3F0E5",
+      "#5C6C50",
+      "#A66C35"
+    ],
+    "sourceUrls": [
+      "https://awawa.app/pages/article_detail.php?app_no=51&report_no=11669&tab_no=0"
+    ],
+    "place": "徳島県・吉野川市",
+    "designReferenceUrls": [
+      "https://awawa.app/pages/article_detail.php?app_no=51&report_no=11669&tab_no=0"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-081",
+    "slug": "cafe-amie",
+    "path": "/cafe-amie/",
+    "name": "cafe amie",
+    "region": "香川県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/table.webp",
+    "summary": "坂出市川津町の「cafe amie」。紹介記事では、主菜と副菜が週替わりの「アミごはん」を中心に、ごはんとカフェの時間が案内されています。",
+    "palette": [
+      "#f5f4ed",
+      "#243e53",
+      "#a77a52"
+    ],
+    "sourceUrls": [
+      "https://www.coolkagawa.jp/news/entry-6007.html",
+      "https://tabelog.com/kagawa/A3702/A370201/37015143/"
+    ],
+    "place": "香川県・坂出市",
+    "designReferenceUrls": [
+      "https://www.coolkagawa.jp/news/entry-6007.html"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-082",
+    "slug": "muregurashi",
+    "path": "/muregurashi/",
+    "name": "むれぐらし喫茶",
+    "region": "香川県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/tea.webp",
+    "summary": "高松市牟礼町の「むれぐらし喫茶」。紹介記事では、手作りの内装と木のぬくもり、モーニングや日替わりランチを伝えています。",
+    "palette": [
+      "#f2eadc",
+      "#334d43",
+      "#805330"
+    ],
+    "sourceUrls": [
+      "https://www.coolkagawa.jp/news/entry-6005.html",
+      "https://tabelog.com/kagawa/A3701/A370101/37015113/"
+    ],
+    "place": "香川県・高松市",
+    "designReferenceUrls": [
+      "https://www.coolkagawa.jp/news/entry-6005.html"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-083",
+    "slug": "hajimari-no-maho",
+    "path": "/hajimari-no-maho/",
+    "name": "Cafe&Lunch Box 一の魔法",
+    "region": "愛媛県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/sandwich.webp",
+    "summary": "松山市柳井町、シェアキッチンNABi内の「Cafe&Lunch Box 一の魔法」。紹介記事では、おにぎらずやランチセットをはじめ、スイーツとドリンクが案内されています。",
+    "palette": [
+      "#f8f5ee",
+      "#722b2d",
+      "#28241f"
+    ],
+    "sourceUrls": [
+      "https://matsuyama.goguynet.jp/2026/10/05/ichinomahou/",
+      "https://tabelog.com/ehime/A3801/A380101/38017430/"
+    ],
+    "place": "愛媛県・松山市",
+    "designReferenceUrls": [
+      "https://matsuyama.goguynet.jp/2026/10/05/ichinomahou/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-084",
+    "slug": "country-house-f",
+    "path": "/country-house-f/",
+    "name": "Country House.F",
+    "region": "愛媛県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/table.webp",
+    "summary": "松山市高砂町のカフェ＆レストラン「Country House.F」。公開記事では、和食・洋食とカフェメニューが紹介されています。",
+    "palette": [
+      "#f5f4eb",
+      "#553c2a",
+      "#b99a68"
+    ],
+    "sourceUrls": [
+      "https://ehime-epuri.jp/82383",
+      "https://tabelog.com/ehime/A3801/A380101/38017347/"
+    ],
+    "place": "愛媛県・松山市",
+    "designReferenceUrls": [
+      "https://ehime-epuri.jp/82383"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-085",
+    "slug": "nuie-luce-food",
+    "path": "/nuie-luce-food/",
+    "name": "NUiE LUCE food",
+    "region": "高知県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/sandwich.webp",
+    "summary": "高知市宝永町へ移転した「NUiE LUCE food」。紹介記事では、カウンターのある空間と、週替わりランチや宝永タコライススペシャルが案内されています。",
+    "palette": [
+      "#f8f7ee",
+      "#374b3d",
+      "#ad8d5b"
+    ],
+    "sourceUrls": [
+      "https://eimons.jp/gourmet/nuieluce_food",
+      "https://tabelog.com/kochi/A3901/A390101/39009182/"
+    ],
+    "place": "高知県・高知市",
+    "designReferenceUrls": [
+      "https://eimons.jp/gourmet/nuieluce_food"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-086",
+    "slug": "3nen-bgumi",
+    "path": "/3nen-bgumi/",
+    "name": "3年B組",
+    "region": "福岡県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/table.webp",
+    "summary": "北九州市八幡西区永犬丸東町のカフェ「3年B組」。公開の店舗基本情報では完全予約制と案内されています。訪問前にお店へ営業日と予約方法をご確認ください。",
+    "palette": [
+      "#eee9df",
+      "#233f50",
+      "#a78350"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/fukuoka/A4004/A400404/40074985/"
+    ],
+    "place": "福岡県・北九州市",
+    "designReferenceUrls": [
+      "https://tabelog.com/fukuoka/A4004/A400404/40074985/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-087",
+    "slug": "backer",
+    "path": "/backer/",
+    "name": "BÄCKER",
+    "region": "福岡県",
+    "category": "bakery",
+    "thumbnail": "/assets/batch-c/photos/croissant.webp",
+    "summary": "苅田町富久町の「BÄCKER」。KBCの紹介記事では、塩バターロールなどのパンと、イートインでのコーヒーが案内されています。",
+    "palette": [
+      "#f7efdc",
+      "#3c291b",
+      "#b7742f"
+    ],
+    "sourceUrls": [
+      "https://www.kbc.co.jp/wish/article/47595/",
+      "https://tabelog.com/fukuoka/A4006/A400601/40074898/",
+      "https://kaiten-heiten.com/coffee-and-bakery-backer/"
+    ],
+    "place": "福岡県・京都郡",
+    "designReferenceUrls": [
+      "https://www.kbc.co.jp/wish/article/47595/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-088",
+    "slug": "cafe-bar-en",
+    "path": "/cafe-bar-en/",
+    "name": "Cafe Bar えん",
+    "region": "福岡県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "summary": "北九州市八幡西区割子川、Kビル1階の「Cafe Bar えん」。公開情報では、旧上の原から移転した店舗として案内されています。",
+    "palette": [
+      "#f7f4ed",
+      "#333b3d",
+      "#994b39"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/fukuoka/A4004/A400404/40075128/"
+    ],
+    "place": "福岡県・北九州市",
+    "designReferenceUrls": [
+      "https://tabelog.com/fukuoka/A4004/A400404/40075128/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-089",
+    "slug": "curry-coffee-wine",
+    "path": "/curry-coffee-wine/",
+    "name": "カレーのち珈琲、ときどきワイン",
+    "region": "佐賀県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "summary": "佐賀市嘉瀬町扇町の「カレーのち珈琲、ときどきワイン」。取材記事では、カレーにサイホンコーヒーやワインを合わせるお店として紹介されています。",
+    "palette": [
+      "#f8f1df",
+      "#69222e",
+      "#232425"
+    ],
+    "sourceUrls": [
+      "https://saga.keizai.biz/headline/2378/",
+      "https://tabelog.com/saga/A4101/A410101/41008914/"
+    ],
+    "place": "佐賀県・佐賀市",
+    "designReferenceUrls": [
+      "https://saga.keizai.biz/headline/2378/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-090",
+    "slug": "goodstock-unzen",
+    "path": "/goodstock-unzen/",
+    "name": "goodstock unzen",
+    "region": "長崎県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/table.webp",
+    "summary": "雲仙市の「goodstock unzen」。お店のnoteでは、カフェとお土産店として案内され、食事やおやつについて発信しています。",
+    "palette": [
+      "#f3f0e7",
+      "#3a3027",
+      "#657c80"
+    ],
+    "sourceUrls": [
+      "https://note.com/goodstock_unzen",
+      "https://tabelog.com/nagasaki/A4203/A420301/42015627/"
+    ],
+    "place": "長崎県・雲仙市",
+    "designReferenceUrls": [
+      "https://note.com/goodstock_unzen/n/n5bff5baff68f"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-091",
+    "slug": "yakuzen-den",
+    "path": "/yakuzen-den/",
+    "name": "お米屋さんの薬膳米カフェ 田",
+    "region": "熊本県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/tea.webp",
+    "summary": "水前寺駅近く、田中米穀店の隣にある「お米屋さんの薬膳米カフェ 田」。紹介記事では、朝ご飯と薬膳茶を楽しむカフェとして案内されています。",
+    "palette": [
+      "#F6F4EA",
+      "#234D43",
+      "#BE8A4B"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/kumamoto/A4301/A430101/43020761/",
+      "https://higojournal.com/archives/den-2.html"
+    ],
+    "place": "熊本県・熊本市",
+    "designReferenceUrls": [
+      "https://higojournal.com/archives/den-2.html"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-092",
+    "slug": "nikkori-cute",
+    "path": "/nikkori-cute/",
+    "name": "にっこりキュート",
+    "region": "熊本県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-c/photos/sandwich.webp",
+    "summary": "熊本市東区長嶺南のカフェ「にっこりキュート」。取材記事では、コーヒーとサンドイッチ、くまさんドリンクが紹介されています。",
+    "palette": [
+      "#F3EEE5",
+      "#29494D",
+      "#B47A4D"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/kumamoto/A4301/A430101/43020405/",
+      "https://higojournal.com/archives/nikkori-cute.html"
+    ],
+    "place": "熊本県・熊本市",
+    "designReferenceUrls": [
+      "https://higojournal.com/archives/nikkori-cute.html"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-093",
+    "slug": "maruta-chaya",
+    "path": "/maruta-chaya/",
+    "name": "丸太茶屋",
+    "region": "熊本県",
+    "category": "tea",
+    "thumbnail": "/assets/batch-c/photos/tea.webp",
+    "summary": "阿蘇郡高森町上色見の「丸太茶屋」。公開の訪問記事では、古民家の和カフェとして、つけ麺と七輪炭焼きだんごが紹介されています。",
+    "palette": [
+      "#F5F0DF",
+      "#3E3025",
+      "#25482E"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/kumamoto/A4302/A430202/43020771/",
+      "https://ameblo.jp/ty-kame3/entry-12984616499.html"
+    ],
+    "place": "熊本県・阿蘇郡",
+    "designReferenceUrls": [
+      "https://ameblo.jp/ty-kame3/entry-12984616499.html"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-094",
+    "slug": "imo-danshaku",
+    "path": "/imo-danshaku/",
+    "name": "芋男爵",
+    "region": "熊本県",
+    "category": "meal",
+    "thumbnail": "/assets/batch-c/photos/cookies.webp",
+    "summary": "熊本市中央区草葉町、コアスクエア上乃裏2階の「芋男爵」。紹介記事では、ジャケットポテトの専門店として案内されています。",
+    "palette": [
+      "#292B29",
+      "#F7F2E7",
+      "#EABF45"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/kumamoto/A4301/A430101/43020633/",
+      "https://higojournal.com/archives/imodansyaku-kumamoto.html"
+    ],
+    "place": "熊本県・熊本市",
+    "designReferenceUrls": [
+      "https://higojournal.com/archives/imodansyaku-kumamoto.html"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-095",
+    "slug": "joko-coffee",
+    "path": "/joko-coffee/",
+    "name": "上甲珈琲",
+    "region": "大分県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "summary": "大分市中島中央の「上甲珈琲」。紹介記事では、住宅地にあるスペシャリティコーヒー店で、ギャラリーを兼ねると紹介されています。",
+    "palette": [
+      "#EFEEE7",
+      "#32383D",
+      "#B64A35"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/oita/A4401/A440101/44015084/",
+      "https://ooita.goguynet.jp/2026/10/14/jokocoffee/"
+    ],
+    "place": "大分県・大分市",
+    "designReferenceUrls": [
+      "https://ooita.goguynet.jp/2026/10/14/jokocoffee/",
+      "https://tabelog.com/oita/A4401/A440101/44015084/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-096",
+    "slug": "sunnote",
+    "path": "/sunnote/",
+    "name": "sunnote coffee and bake",
+    "region": "宮崎県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-c/photos/latte.webp",
+    "summary": "宮崎市橘通東の「sunnote coffee and bake」。紹介記事では、コーヒーやカフェラテと、プリンやキャロットケーキが案内されています。",
+    "palette": [
+      "#FBF9EF",
+      "#34352C",
+      "#E5C84B"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/miyazaki/A4501/A450101/45014223/",
+      "https://myzkc.jp/sunnote20261029/"
+    ],
+    "place": "宮崎県・宮崎市",
+    "designReferenceUrls": [
+      "https://myzkc.jp/sunnote20261029/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-097",
+    "slug": "rinz",
+    "path": "/rinz/",
+    "name": "輪'z",
+    "region": "宮崎県",
+    "category": "coffee",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "summary": "宮崎港近くの日ノ出町へ移転した喫茶店「輪'z」。取材記事では、厚切りトーストや洋食メニューが紹介されています。",
+    "palette": [
+      "#F3E7CB",
+      "#442E24",
+      "#923E32"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/miyazaki/A4501/A450101/45013833/",
+      "https://miyazaki.keizai.biz/headline/2424/"
+    ],
+    "place": "宮崎県・宮崎市",
+    "designReferenceUrls": [
+      "https://miyazaki.keizai.biz/headline/2424/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-098",
+    "slug": "teddy-bakery",
+    "path": "/teddy-bakery/",
+    "name": "TEDDY BAKERY",
+    "region": "鹿児島県",
+    "category": "bakery",
+    "thumbnail": "/assets/batch-c/photos/bread.webp",
+    "summary": "薩摩川内市天辰町のパン店「TEDDY BAKERY」。紹介記事では、パンに加えて焼き菓子も扱うお店として案内されています。",
+    "palette": [
+      "#FBF7EC",
+      "#293D43",
+      "#68848E"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/kagoshima/A4602/A460201/46019271/",
+      "https://gururi-japan.com/apps/note/column/junko_34/"
+    ],
+    "place": "鹿児島県・薩摩川内市",
+    "designReferenceUrls": [
+      "https://gururi-japan.com/apps/note/column/junko_34/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-099",
+    "slug": "minori",
+    "path": "/minori/",
+    "name": "実リ",
+    "region": "鹿児島県",
+    "category": "bakery",
+    "thumbnail": "/assets/batch-c/photos/bread.webp",
+    "summary": "鹿児島市新屋敷町の「実リ」。公開記事ではベーグルの販売を紹介し、営業日と時間はInstagramで確認するよう案内しています。",
+    "palette": [
+      "#F8F5E9",
+      "#3C403B",
+      "#B07C43"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/kagoshima/A4601/A460101/46019223/",
+      "https://kagoshima-gourmet.com/minori/"
+    ],
+    "place": "鹿児島県・鹿児島市",
+    "designReferenceUrls": [
+      "https://kagoshima-gourmet.com/minori/"
+    ],
+    "thumbnailType": "image-photo"
+  },
+  {
+    "id": "CAFE-100",
+    "slug": "oki-zen",
+    "path": "/oki-zen/",
+    "name": "OKI ZEN",
+    "region": "沖縄県",
+    "category": "tea",
+    "thumbnail": "/assets/batch-c/photos/tea.webp",
+    "summary": "那覇市牧志のカフェ「OKI ZEN」。公開の店舗情報では牧志2-1-13の所在地を案内しています。",
+    "palette": [
+      "#F3F3EB",
+      "#303F32",
+      "#657943"
+    ],
+    "sourceUrls": [
+      "https://tabelog.com/okinawa/A4701/A470101/47035379/",
+      "https://orecyan.com/archives/21776"
+    ],
+    "place": "沖縄県・那覇市",
+    "designReferenceUrls": [
+      "https://tabelog.com/okinawa/A4701/A470101/47035379/"
+    ],
+    "thumbnailType": "image-photo"
+  }
+]

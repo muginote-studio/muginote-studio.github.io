@@ -1,0 +1,32 @@
+/* Collection-only styles; the ten existing store designs keep their shared CSS. */
+.gallery-page{font-size:1rem}
+.gallery-intro .eyebrow,.collection-count{font-size:.875rem}
+.gallery-controls[hidden],.gallery-empty[hidden],.gallery-card[hidden]{display:none!important}
+#collection-search{display:grid;grid-template-columns:minmax(0,1fr) minmax(190px,240px) auto;gap:18px;align-items:end;padding:24px 0;border-top:1px solid var(--line)}
+.search-field,.region-field{display:grid;gap:9px;min-width:0}
+.gallery-controls label{font-size:.875rem}
+.gallery-controls input,.gallery-controls select{font:inherit;color:var(--ink);background:#fff;border:1px solid var(--line);border-radius:3px;width:100%;min-height:48px;padding:10px 14px}
+.gallery-controls input:focus-visible,.gallery-controls select:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+.gallery-controls input::placeholder{color:#667369;opacity:1}
+.region-field{position:relative}
+.region-field:after{content:"";position:absolute;right:18px;bottom:21px;width:8px;height:8px;border-right:1.5px solid currentColor;border-bottom:1.5px solid currentColor;transform:rotate(45deg);pointer-events:none}
+.gallery-controls select{appearance:none;-webkit-appearance:none;padding-right:42px}
+.clear-filters{min-height:48px;padding:10px 18px;border:1px solid var(--line);border-radius:3px;font-size:.875rem;background:transparent;white-space:nowrap}
+.clear-filters:hover{background:var(--panel)}
+.gallery-tools{border-top:0;padding-top:0;align-items:flex-start;gap:20px}
+.filters button{font-size:.875rem;min-height:44px;padding:8px 16px}
+#filter-status{font-size:.875rem;padding:10px 0;line-height:1.7}
+.gallery-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:48px 30px}
+.gallery-image{height:auto;aspect-ratio:4/3}
+.gallery-image img{height:100%;width:100%;object-fit:cover}
+.gallery-image>span{font-size:.75rem;letter-spacing:.06em;left:12px;bottom:12px}
+.card-info{padding-right:0;margin-top:16px;overflow-wrap:anywhere}
+.card-info>p,.card-cta{font-size:.875rem}
+.card-info h2{font-size:clamp(1.25rem,1.7vw,1.7rem);overflow-wrap:anywhere;word-break:normal;line-height:1.6}
+.card-palette{display:flex;gap:4px;min-height:5px;margin-top:16px}
+.card-palette span{display:block;width:30px;height:5px}
+.gallery-empty{font-size:1rem;padding:56px 24px;background:var(--panel);text-align:center;line-height:2}
+.gallery-note{max-width:900px}.gallery-note p{font-size:1rem}
+@media(max-width:1100px){.gallery-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.gallery-tools{flex-direction:column;gap:8px}}
+@media(max-width:760px){#collection-search{grid-template-columns:minmax(0,1fr) auto;gap:16px}.search-field{grid-column:1/-1}.region-field{grid-column:1}.clear-filters{grid-column:2;align-self:end}.gallery-grid{grid-template-columns:1fr;gap:36px}.gallery-image{height:auto}.gallery-image>span{font-size:.75rem}.filters{gap:8px}.filters button{font-size:.875rem;padding:8px 14px}.card-info h2{font-size:1.5rem}.gallery-intro .eyebrow,.collection-count{font-size:.8rem}.gallery-tools{margin-bottom:25px}}
+@media(max-width:360px){#collection-search{grid-template-columns:1fr}.search-field,.region-field,.clear-filters{grid-column:1}.clear-filters{justify-self:start}.gallery-controls input{font-size:1rem}}
