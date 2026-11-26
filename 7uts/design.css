@@ -1,2 +1,3 @@
-:root{--paper:#f1eddf;--ink:#252f63;--accent:#334197;--wash:#e3c33a;--font:var(--sans);}
-.hero-name{font-size:clamp(7rem,20vw,19rem);font-weight:950;font-style:italic}.hero-art{border-radius:45% 15% 45% 15%}
+:root { --paper: #242f85; --ink: #f8f0d6; --accent: #f3da83; --wash: #343f96; --font: var(--sans); --photo-position: 50% 50%; }
+.store-7uts .hero-title { font-family:var(--sans);font-size:clamp(8rem,26vw,27rem);font-weight:800;font-style:italic;letter-spacing:-.1em; }
+@media(max-width:900px){.store-7uts .hero-title{font-size:clamp(7rem,34vw,15rem);}}

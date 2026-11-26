@@ -1,0 +1,348 @@
+{
+  "photos": [
+    {
+      "name": "sunlit-cafe",
+      "path": "/assets/batch-b/editorial/sunlit-cafe.webp",
+      "source": "https://images.unsplash.com/photo-1754842382582-b643e9af5a27?auto=format&fit=max&w=1800&q=85",
+      "photoPage": "https://unsplash.com/photos/U_lZQfczRRw",
+      "photographer": "Julen Rey Azcona",
+      "licenseUrl": "https://unsplash.com/license",
+      "licenseEvidence": "Photo page states Free to use under the Unsplash License; image link followed to identify the exact source URL.",
+      "checkedAt": "2026-11-26",
+      "usage": "イメージ写真。実店舗・実商品とは異なります。",
+      "alt": "Sunlight in a cafe",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "bytes": 267364,
+      "sha256": "ccc0a9730d66199d55f2afe37947b9c78234d32a1e49c2206a0b3e4d39075b75"
+    },
+    {
+      "name": "warm-window",
+      "path": "/assets/batch-b/editorial/warm-window.webp",
+      "source": "https://images.unsplash.com/photo-1774683272173-4f72fd508739?auto=format&fit=max&w=1800&q=85",
+      "photoPage": "https://unsplash.com/photos/gd19PWxot6U",
+      "photographer": "Long Chung",
+      "licenseUrl": "https://unsplash.com/license",
+      "licenseEvidence": "Photo page states Free to use under the Unsplash License; image link followed to identify the exact source URL.",
+      "checkedAt": "2026-11-26",
+      "usage": "イメージ写真。実店舗・実商品とは異なります。",
+      "alt": "Warm light by a cafe window",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "bytes": 146300,
+      "sha256": "1b41ac6a465b1d253ed3676accf856b13433a2767983706538a2d6ce57a03314"
+    },
+    {
+      "name": "quiet-cafe",
+      "path": "/assets/batch-b/editorial/quiet-cafe.webp",
+      "source": "https://images.unsplash.com/photo-1771575520070-077447ccd993?auto=format&fit=max&w=1800&q=85",
+      "photoPage": "https://unsplash.com/photos/4kec8iH9Ya4",
+      "photographer": "Adhitya Sibikumar",
+      "licenseUrl": "https://unsplash.com/license",
+      "licenseEvidence": "Photo page states Free to use under the Unsplash License; image link followed to identify the exact source URL.",
+      "checkedAt": "2026-11-26",
+      "usage": "イメージ写真。実店舗・実商品とは異なります。",
+      "alt": "Quiet cafe interior",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "bytes": 103800,
+      "sha256": "1d24da608be41ca1274efb388bb2bff608cbb4f3f66ca73a809d6fd0cba7fd94"
+    },
+    {
+      "name": "sunlit-table",
+      "path": "/assets/batch-b/editorial/sunlit-table.webp",
+      "source": "https://images.unsplash.com/photo-1777008889704-31e1bcdd724e?auto=format&fit=max&w=1800&q=85",
+      "photoPage": "https://unsplash.com/photos/6_Yye5kmEkM",
+      "photographer": "Long Chung",
+      "licenseUrl": "https://unsplash.com/license",
+      "licenseEvidence": "Photo page states Free to use under the Unsplash License; image link followed to identify the exact source URL.",
+      "checkedAt": "2026-11-26",
+      "usage": "イメージ写真。実店舗・実商品とは異なります。",
+      "alt": "Sunlight falling on a cafe table",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "bytes": 136038,
+      "sha256": "d7ec85d97d5b25e446cfaa71ef367065ade0b199b0ccb85011d5db3e6b69183d"
+    },
+    {
+      "name": "wood-booths",
+      "path": "/assets/batch-b/editorial/wood-booths.webp",
+      "source": "https://images.unsplash.com/photo-1789117905364-24edc50405ee?auto=format&fit=max&w=1800&q=85",
+      "photoPage": "https://unsplash.com/photos/8gyOnaWFnGA",
+      "photographer": "Samuel Isaacs",
+      "licenseUrl": "https://unsplash.com/license",
+      "licenseEvidence": "Photo page states Free to use under the Unsplash License; image link followed to identify the exact source URL.",
+      "checkedAt": "2026-11-26",
+      "usage": "イメージ写真。実店舗・実商品とは異なります。",
+      "alt": "Wooden cafe booths",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "bytes": 175522,
+      "sha256": "2a1cfbba95233e8ba677b4d8ebeba2fe0d85881ab34163a81f7824da3c06321e"
+    },
+    {
+      "name": "croissant-table",
+      "path": "/assets/batch-b/editorial/croissant-table.webp",
+      "source": "https://images.unsplash.com/photo-1773894470970-2908e13f3940?auto=format&fit=max&w=1800&q=85",
+      "photoPage": "https://unsplash.com/photos/hv-c5a8YfDk",
+      "photographer": "Kyle Hang",
+      "licenseUrl": "https://unsplash.com/license",
+      "licenseEvidence": "Photo page states Free to use under the Unsplash License; image link followed to identify the exact source URL.",
+      "checkedAt": "2026-11-26",
+      "usage": "イメージ写真。実店舗・実商品とは異なります。",
+      "alt": "Croissant and pastry on a table",
+      "dimensions": [
+        1350,
+        1800
+      ],
+      "bytes": 318890,
+      "sha256": "10667fbb302f7dac4f15a6ffe7d7a6c5c14ad19cace50a4a2fa5c969ee5e88aa"
+    },
+    {
+      "name": "croissant-detail",
+      "path": "/assets/batch-b/editorial/croissant-detail.webp",
+      "source": "https://images.unsplash.com/photo-1759566926618-163d14e00fc8?auto=format&fit=max&w=1800&q=85",
+      "photoPage": "https://unsplash.com/photos/D2SDg1PSYhE",
+      "photographer": "Monaz Hastam",
+      "licenseUrl": "https://unsplash.com/license",
+      "licenseEvidence": "Photo page states Free to use under the Unsplash License; image link followed to identify the exact source URL.",
+      "checkedAt": "2026-11-26",
+      "usage": "イメージ写真。実店舗・実商品とは異なります。",
+      "alt": "Croissant on a white background",
+      "dimensions": [
+        1202,
+        1800
+      ],
+      "bytes": 32966,
+      "sha256": "62237618aff1688b6aa859e271f2b7d9d05ed1ebb7914d710626f036daf49be4"
+    },
+    {
+      "name": "baked-croissants",
+      "path": "/assets/batch-b/editorial/baked-croissants.webp",
+      "source": "https://images.unsplash.com/photo-1568471382005-99e347e2aef0?auto=format&fit=max&w=1800&q=85",
+      "photoPage": "https://unsplash.com/photos/12c8IxvlsOU",
+      "photographer": "Sergio Arze",
+      "licenseUrl": "https://unsplash.com/license",
+      "licenseEvidence": "Photo page states Free to use under the Unsplash License; image link followed to identify the exact source URL.",
+      "checkedAt": "2026-11-26",
+      "usage": "イメージ写真。実店舗・実商品とは異なります。",
+      "alt": "Baked croissants",
+      "dimensions": [
+        1800,
+        1164
+      ],
+      "bytes": 555618,
+      "sha256": "82f9fefc8dfa6762a47923639b4ef730bed49fcce1409fdbdd53770918f61dd8"
+    },
+    {
+      "name": "coffee-croissant",
+      "path": "/assets/batch-b/editorial/coffee-croissant.webp",
+      "source": "https://images.unsplash.com/photo-1769138886199-7cc55bf86da5?auto=format&fit=max&w=1800&q=85",
+      "photoPage": "https://unsplash.com/photos/RxMActpuDzE",
+      "photographer": "Inc inductgroup",
+      "licenseUrl": "https://unsplash.com/license",
+      "licenseEvidence": "Photo page states Free to use under the Unsplash License; image link followed to identify the exact source URL.",
+      "checkedAt": "2026-11-26",
+      "usage": "イメージ写真。実店舗・実商品とは異なります。",
+      "alt": "Croissant and coffee on a table",
+      "dimensions": [
+        1800,
+        1202
+      ],
+      "bytes": 80692,
+      "sha256": "6353414dbc5cce632139d77d51ff5688a9cd6f72d50835d6239bb87295ca3455"
+    },
+    {
+      "name": "cake-coffee",
+      "path": "/assets/batch-b/editorial/cake-coffee.webp",
+      "source": "https://images.unsplash.com/photo-1467189386127-c4e5e31ee213?auto=format&fit=max&w=1800&q=85",
+      "photoPage": "https://unsplash.com/photos/W6sqUYlJRiw",
+      "photographer": "Toa Heftiba",
+      "licenseUrl": "https://unsplash.com/license",
+      "licenseEvidence": "Photo page states Free to use under the Unsplash License; image link followed to identify the exact source URL.",
+      "checkedAt": "2026-11-26",
+      "usage": "イメージ写真。実店舗・実商品とは異なります。",
+      "alt": "Coffee and sliced cake",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "bytes": 177852,
+      "sha256": "605fb1f6238cbba437b4169a512aed4528672c8c2d702b5d6d62d55101d1c314"
+    },
+    {
+      "name": "white-counter",
+      "path": "/assets/batch-b/editorial/white-counter.webp",
+      "source": "https://images.unsplash.com/photo-1712262583546-8caaeb0e4761?auto=format&fit=max&w=1800&q=85",
+      "photoPage": "https://unsplash.com/photos/lB8t-vLGC2Q",
+      "photographer": "Olga Petnyunene",
+      "licenseUrl": "https://unsplash.com/license",
+      "licenseEvidence": "Photo page states Free to use under the Unsplash License; image link followed to identify the exact source URL.",
+      "checkedAt": "2026-11-26",
+      "usage": "イメージ写真。実店舗・実商品とは異なります。",
+      "alt": "Croissants on a white counter",
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "bytes": 95200,
+      "sha256": "7d37b7d3676ecc99d4205f0ef15ab79007745b014765cde4444faf0c1a5ed001"
+    },
+    {
+      "name": "ceramic-cup",
+      "path": "/assets/batch-b/editorial/ceramic-cup.webp",
+      "source": "https://images.unsplash.com/photo-1505148454817-2fb30960599d?auto=format&fit=max&w=1800&q=85",
+      "photoPage": "https://unsplash.com/photos/pCSxzWX-29Y",
+      "photographer": "Rachel Lees",
+      "licenseUrl": "https://unsplash.com/license",
+      "licenseEvidence": "Photo page states Free to use under the Unsplash License; image link followed to identify the exact source URL.",
+      "checkedAt": "2026-11-26",
+      "usage": "イメージ写真。実店舗・実商品とは異なります。",
+      "alt": "Teacup on a saucer",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "bytes": 154238,
+      "sha256": "9058c07543c49b2c18f237801f9b6cf93dc17a7feb43b39bbb9977d972c94a84"
+    },
+    {
+      "name": "latte-still-life",
+      "path": "/assets/batch-b/editorial/latte-still-life.webp",
+      "source": "https://images.unsplash.com/photo-1485808191679-5f86510681a2?auto=format&fit=max&w=1800&q=85",
+      "photoPage": "https://unsplash.com/photos/jn-HaGWe4yw",
+      "photographer": "Jeremy Yap",
+      "licenseUrl": "https://unsplash.com/license",
+      "licenseEvidence": "Photo page states Free to use under the Unsplash License; image link followed to identify the exact source URL.",
+      "checkedAt": "2026-11-26",
+      "usage": "イメージ写真。実店舗・実商品とは異なります。",
+      "alt": "Latte in a teacup",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "bytes": 63140,
+      "sha256": "ddeb285d43a96c490e1005c896bb92757749e10877e85612525f33921f231871"
+    },
+    {
+      "name": "light-cup",
+      "path": "/assets/batch-b/editorial/light-cup.webp",
+      "source": "https://images.unsplash.com/photo-1536953199170-18706ab6a430?auto=format&fit=max&w=1800&q=85",
+      "photoPage": "https://unsplash.com/photos/q2eMdadq9HA",
+      "photographer": "Vera",
+      "licenseUrl": "https://unsplash.com/license",
+      "licenseEvidence": "Photo page states Free to use under the Unsplash License; image link followed to identify the exact source URL.",
+      "checkedAt": "2026-11-26",
+      "usage": "イメージ写真。実店舗・実商品とは異なります。",
+      "alt": "White teacup on a saucer",
+      "dimensions": [
+        1190,
+        1800
+      ],
+      "bytes": 407038,
+      "sha256": "0f46de71eb7c4063f31c0eff9fc6d0084ebf74e007fe0bc1ce351112e78fc784"
+    },
+    {
+      "name": "glass-cup",
+      "path": "/assets/batch-b/editorial/glass-cup.webp",
+      "source": "https://images.unsplash.com/photo-1592991694176-3878d223a0f7?auto=format&fit=max&w=1800&q=85",
+      "photoPage": "https://unsplash.com/photos/41cnAvPFP0A",
+      "photographer": "Goran Ivos",
+      "licenseUrl": "https://unsplash.com/license",
+      "licenseEvidence": "Photo page states Free to use under the Unsplash License; image link followed to identify the exact source URL.",
+      "checkedAt": "2026-11-26",
+      "usage": "イメージ写真。実店舗・実商品とは異なります。",
+      "alt": "Clear glass cup on a white table",
+      "dimensions": [
+        1352,
+        1800
+      ],
+      "bytes": 194848,
+      "sha256": "c0a89c5e9a72b86773a649572be16ec27beceea1707519d31ed8fd861a29f1de"
+    },
+    {
+      "name": "black-teapot",
+      "path": "/assets/batch-b/editorial/black-teapot.webp",
+      "source": "https://images.unsplash.com/photo-1470162656305-6f429ba817bf?auto=format&fit=max&w=1800&q=85",
+      "photoPage": "https://unsplash.com/photos/mumpl9-D7Uc",
+      "photographer": "Alisher Sharip",
+      "licenseUrl": "https://unsplash.com/license",
+      "licenseEvidence": "Photo page states Free to use under the Unsplash License; image link followed to identify the exact source URL.",
+      "checkedAt": "2026-11-26",
+      "usage": "イメージ写真。実店舗・実商品とは異なります。",
+      "alt": "Black ceramic teapot with cups",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "bytes": 207940,
+      "sha256": "11c36f0419f3d765be31bd11fce026817034d3af033062eef1a7b9ccaf6d35d4"
+    },
+    {
+      "name": "white-teapot",
+      "path": "/assets/batch-b/editorial/white-teapot.webp",
+      "source": "https://images.unsplash.com/photo-1562097691-905c0a23ee19?auto=format&fit=max&w=1800&q=85",
+      "photoPage": "https://unsplash.com/photos/NE0S_FZnMtM",
+      "photographer": "Matt Seymour",
+      "licenseUrl": "https://unsplash.com/license",
+      "licenseEvidence": "Photo page states Free to use under the Unsplash License; image link followed to identify the exact source URL.",
+      "checkedAt": "2026-11-26",
+      "usage": "イメージ写真。実店舗・実商品とは異なります。",
+      "alt": "Tea in a white ceramic teapot",
+      "dimensions": [
+        1800,
+        1352
+      ],
+      "bytes": 73092,
+      "sha256": "a2781afce3a83968c6af053a8c377de52540b2c414e31695431bce1b75d97490"
+    }
+  ],
+  "fonts": [
+    {
+      "family": "Cormorant Garamond",
+      "style": "italic",
+      "path": "/assets/batch-b/editorial/cormorant-garamond-italic.woff2",
+      "source": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtImSo.woff2",
+      "license": "SIL Open Font License 1.1",
+      "licensePath": "/assets/batch-b/editorial/cormorantgaramond-OFL.txt",
+      "weightRange": "300 700",
+      "coverage": "Latin subset, use Japanese fallback fonts",
+      "licenseSource": "https://raw.githubusercontent.com/google/fonts/main/ofl/cormorantgaramond/OFL.txt",
+      "sha256": "6f2f5c3b1abc3d0bb035a927f66a90ca873f94fc31c4966c8d024142c2036e55"
+    },
+    {
+      "family": "Cormorant Garamond",
+      "style": "normal",
+      "path": "/assets/batch-b/editorial/cormorant-garamond.woff2",
+      "source": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtK.woff2",
+      "license": "SIL Open Font License 1.1",
+      "licensePath": "/assets/batch-b/editorial/cormorantgaramond-OFL.txt",
+      "weightRange": "300 700",
+      "coverage": "Latin subset, use Japanese fallback fonts",
+      "licenseSource": "https://raw.githubusercontent.com/google/fonts/main/ofl/cormorantgaramond/OFL.txt",
+      "sha256": "d80df8ff5aecd299a61549f9e29ab1ed0b9b05f4ea71d50fe978e07d5240b235"
+    },
+    {
+      "family": "Manrope",
+      "style": "normal",
+      "path": "/assets/batch-b/editorial/manrope.woff2",
+      "source": "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggexSg.woff2",
+      "license": "SIL Open Font License 1.1",
+      "licensePath": "/assets/batch-b/editorial/manrope-OFL.txt",
+      "weightRange": "200 800",
+      "coverage": "Latin subset, use Japanese fallback fonts",
+      "licenseSource": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/OFL.txt",
+      "sha256": "8c2def024c1bf31aacf3624ae3c4d701269b4ec3dc765c04830839f0d36b2d9e"
+    }
+  ]
+}

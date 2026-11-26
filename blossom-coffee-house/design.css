@@ -1,2 +1,3 @@
-:root{--paper:#e9e7e5;--ink:#202021;--accent:#9d1557;--wash:#e7c4d3;--font:var(--sans);}
-.hero-name{font-weight:950;letter-spacing:-.055em}.hero-art{border-radius:50%}
+:root { --paper: #191919; --ink: #f7f0e9; --accent: #eda1c7; --wash: #282024; --font: var(--sans); --photo-position: 50% 50%; }
+.store-blossom-coffee-house .hero-title { font-size:clamp(3.2rem,13.4vw,13rem);font-weight:800;letter-spacing:-.08em;color:var(--accent); }.store-blossom-coffee-house .hero-title .title-small { font-size:.22em;font-weight:500;letter-spacing:.15em; }.hero-media img { filter:saturate(.65); }
+@media(max-width:900px){.store-blossom-coffee-house .hero-title{font-size:clamp(2.8rem,12.8vw,7rem);}}

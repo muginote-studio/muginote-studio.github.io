@@ -1,2 +1,3 @@
-:root{--paper:#eceddf;--ink:#203c31;--accent:#4b6352;--wash:#cbb58d;--font:var(--serif);}
-.hero-name{letter-spacing:.12em;font-weight:400}.hero-art{border-radius:0}
+:root { --paper: #143b2e; --ink: #f1eddf; --accent: #c8c4a8; --wash: #214c3b; --font: var(--serif); --photo-position: 50% 50%; }
+.store-kigi .hero-title { font-size:clamp(6rem,15vw,15rem);font-weight:400;letter-spacing:.02em; }.store-kigi .hero-title .title-small { letter-spacing:.08em; }
+@media(max-width:900px){.store-kigi .hero-title{font-size:clamp(6rem,30vw,14rem);}}

@@ -1,2 +1,3 @@
-:root{--paper:#f3ecdb;--ink:#392d26;--accent:#695334;--wash:#ddd0ad;--font:var(--serif);}
-.hero-name{letter-spacing:.2em}.hero-art{border-radius:0}
+:root { --paper: #2d2921; --ink: #f5eedf; --accent: #dcc9a0; --wash: #3b352b; --font: var(--serif); --photo-position: 50% 50%; }
+.store-cafe-hana .hero-title { font-weight:400;letter-spacing:.12em; }
+@media(max-width:900px){.store-cafe-hana .hero-title{font-size:clamp(4rem,14vw,6rem);}}

@@ -1,2 +1,3 @@
-:root{--paper:#fbf0d7;--ink:#632820;--accent:#a33327;--wash:#e6c394;--font:var(--sans);}
-.hero-name{font-size:clamp(7rem,20vw,19rem);font-weight:950}.hero-art{transform:rotate(4deg)}
+:root { --paper: #f4e8cc; --ink: #732b22; --accent: #8d3024; --wash: #e4c1a1; --font: var(--sans); --photo-position: 50% 50%; }
+.store-del .hero-title { font-size:clamp(9rem,29vw,29rem);font-weight:750;letter-spacing:-.075em; }
+@media(max-width:900px){.store-del .hero-title{font-size:clamp(8rem,40vw,17rem);}}

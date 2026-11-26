@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc"><title id="title">7uts デザインイラスト</title><desc id="desc">配色に合わせた自主制作の抽象図形。実店舗や実商品の再現ではありません。</desc><rect width="1000" height="1000" fill="#e3c33a"/><circle cx="760" cy="220" r="190" fill="#f1eddf"/><path d="M180 380 Q270 200 410 320 L390 560 Q200 630 180 380" fill="#334197"/><circle cx="680" cy="350" r="140" fill="#f1eddf" stroke="#252f63" stroke-width="5"/><path d="M440 580 L720 520 L820 760 L480 810Z" fill="#f1eddf" stroke="#252f63" stroke-width="5"/><path d="M210 720 Q290 600 350 760 Q380 850 210 850Z" fill="#334197"/><path d="M130 900 H870" stroke="#252f63" stroke-width="2"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+<title id="title">7uts 非公式デザイン案</title>
+<desc id="desc">店舗名と公開資料を参考にした配色による自主制作のタイポグラフィ。店舗の公式ロゴではありません。</desc>
+<rect width="1000" height="1000" fill="#242f85"/>
+<path d="M72 155H928 M72 830H928" fill="none" stroke="#f8f0d6" stroke-width="1.5" opacity="0.4"/>
+<text x="76" y="111" fill="#f8f0d6" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="4">UNOFFICIAL DESIGN</text>
+<text x="924" y="111" text-anchor="end" fill="#f8f0d6" font-family="Arial, Helvetica, sans-serif" font-size="23">三重県</text>
+<path d="M75 190H155" stroke="#f3da83" stroke-width="5"/>
+<text x="76" y="670" fill="#f3da83" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-style="normal" font-size="360" text-anchor="start" textLength="810" lengthAdjust="spacingAndGlyphs">7uts</text>
+<text x="76" y="882" fill="#f8f0d6" font-family="Arial, Helvetica, sans-serif" font-size="23" textLength="140" lengthAdjust="spacingAndGlyphs">7uts</text>
+<text x="76" y="927" fill="#f8f0d6" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="2">自主制作・店舗未承認</text>
+</svg>

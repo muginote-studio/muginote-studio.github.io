@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc"><title id="title">Renelle デザインイラスト</title><desc id="desc">配色に合わせた自主制作の抽象図形。実店舗や実商品の再現ではありません。</desc><rect width="1000" height="1000" fill="#e8ddd1"/><circle cx="230" cy="220" r="190" fill="#f8f5f1"/><ellipse cx="500" cy="760" rx="320" ry="60" fill="#f8f5f1" stroke="#3c4244" stroke-width="4"/><path d="M250 550 L640 310 L760 580 L420 740 L250 650Z" fill="#f8f5f1" stroke="#3c4244" stroke-width="6"/><path d="M250 550 L640 310 L760 480 L420 640Z" fill="#606e7d" stroke="#3c4244" stroke-width="6"/><path d="M310 600 L410 670 L700 535" fill="none" stroke="#3c4244" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><circle cx="580" cy="350" r="36" fill="#e8ddd1" stroke="#3c4244" stroke-width="5"/><path d="M130 900 H870" stroke="#3c4244" stroke-width="2"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+<title id="title">ルネル洋菓子店 非公式デザイン案</title>
+<desc id="desc">店舗名と公開資料を参考にした配色による自主制作のタイポグラフィ。店舗の公式ロゴではありません。</desc>
+<rect width="1000" height="1000" fill="#f5f3f0"/>
+<path d="M72 155H928 M72 830H928" fill="none" stroke="#3b4145" stroke-width="1.5" opacity="0.4"/>
+<text x="76" y="111" fill="#3b4145" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="4">UNOFFICIAL DESIGN</text>
+<text x="924" y="111" text-anchor="end" fill="#3b4145" font-family="Arial, Helvetica, sans-serif" font-size="23">愛知県</text>
+<path d="M75 190H120" stroke="#596875" stroke-width="5"/>
+<text x="500" y="470" fill="#3b4145" font-family="'Yu Mincho', 'Hiragino Mincho ProN', serif" font-weight="400" font-style="normal" font-size="180" text-anchor="middle" textLength="720" lengthAdjust="spacingAndGlyphs">ルネル</text>
+<text x="500" y="675" fill="#3b4145" font-family="'Yu Mincho', 'Hiragino Mincho ProN', serif" font-weight="400" font-style="normal" font-size="118" text-anchor="middle" textLength="650" lengthAdjust="spacingAndGlyphs">洋菓子店</text>
+<text x="76" y="882" fill="#3b4145" font-family="Arial, Helvetica, sans-serif" font-size="23" textLength="140" lengthAdjust="spacingAndGlyphs">ルネル洋菓子店</text>
+<text x="76" y="927" fill="#3b4145" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="2">自主制作・店舗未承認</text>
+</svg>

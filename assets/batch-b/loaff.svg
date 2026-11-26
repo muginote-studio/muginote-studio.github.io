@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc"><title id="title">LOAFF デザインイラスト</title><desc id="desc">配色に合わせた自主制作の抽象図形。実店舗や実商品の再現ではありません。</desc><rect width="1000" height="1000" fill="#e0d2b3"/><circle cx="760" cy="220" r="190" fill="#f7f3e9"/><ellipse cx="500" cy="760" rx="320" ry="60" fill="#f7f3e9" stroke="#292f2a" stroke-width="4"/><path d="M250 700 V430 Q210 270 370 270 H650 Q790 270 750 430 V700Z" fill="#f7f3e9" stroke="#292f2a" stroke-width="7"/><path d="M340 410 Q300 340 390 340 M490 410 Q450 340 540 340 M630 410 Q590 340 680 340" fill="none" stroke="#292f2a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="M270 660 H730" stroke="#5b614d" stroke-width="28"/><path d="M130 900 H870" stroke="#292f2a" stroke-width="2"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+<title id="title">LOAFF 非公式デザイン案</title>
+<desc id="desc">店舗名と公開資料を参考にした配色による自主制作のタイポグラフィ。店舗の公式ロゴではありません。</desc>
+<rect width="1000" height="1000" fill="#f3f1e8"/>
+<path d="M72 155H928 M72 830H928" fill="none" stroke="#30382d" stroke-width="1.5" opacity="0.4"/>
+<text x="76" y="111" fill="#30382d" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="4">UNOFFICIAL DESIGN</text>
+<text x="924" y="111" text-anchor="end" fill="#30382d" font-family="Arial, Helvetica, sans-serif" font-size="23">大阪府</text>
+<path d="M75 190H155" stroke="#53644d" stroke-width="5"/>
+<text x="76" y="620" fill="#30382d" font-family="Arial, Helvetica, sans-serif" font-weight="500" font-style="normal" font-size="230" text-anchor="start" textLength="810" lengthAdjust="spacingAndGlyphs">LOAFF</text>
+<text x="76" y="882" fill="#30382d" font-family="Arial, Helvetica, sans-serif" font-size="23" textLength="140" lengthAdjust="spacingAndGlyphs">LOAFF</text>
+<text x="76" y="927" fill="#30382d" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="2">自主制作・店舗未承認</text>
+</svg>

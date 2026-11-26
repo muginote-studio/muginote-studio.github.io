@@ -1,2 +1,3 @@
-:root{--paper:#f5eedf;--ink:#493c30;--accent:#776446;--wash:#d7c4a0;--font:var(--serif);}
-.hero-name{font-weight:400;letter-spacing:.08em}.hero-art{border-radius:50%}
+:root { --paper: #f0e9db; --ink: #4c3d2a; --accent: #725b39; --wash: #dfd0b7; --font: var(--serif); --photo-position: 50% 50%; }
+.store-kirara-cafe .hero-title { font-size:clamp(6rem,16vw,15rem);font-weight:400;letter-spacing:-.035em; }
+@media(max-width:900px){.store-kirara-cafe .hero-title{font-size:clamp(5rem,25vw,11rem);}}

@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc"><title id="title">Stern デザインイラスト</title><desc id="desc">配色に合わせた自主制作の抽象図形。実店舗や実商品の再現ではありません。</desc><rect width="1000" height="1000" fill="#d2b68a"/><rect x="35" y="35" width="930" height="930" rx="16" fill="none" stroke="#472f29" stroke-width="2"/><ellipse cx="500" cy="760" rx="320" ry="60" fill="#f3eadc" stroke="#472f29" stroke-width="4"/><path d="M250 550 L640 310 L760 580 L420 740 L250 650Z" fill="#f3eadc" stroke="#472f29" stroke-width="6"/><path d="M250 550 L640 310 L760 480 L420 640Z" fill="#765342" stroke="#472f29" stroke-width="6"/><path d="M310 600 L410 670 L700 535" fill="none" stroke="#472f29" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><circle cx="580" cy="350" r="36" fill="#d2b68a" stroke="#472f29" stroke-width="5"/><path d="M130 900 H870" stroke="#472f29" stroke-width="2"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+<title id="title">喫茶 Stern 非公式デザイン案</title>
+<desc id="desc">店舗名と公開資料を参考にした配色による自主制作のタイポグラフィ。店舗の公式ロゴではありません。</desc>
+<rect width="1000" height="1000" fill="#36291f"/>
+<path d="M72 155H928 M72 830H928" fill="none" stroke="#f3ebda" stroke-width="1.5" opacity="0.4"/>
+<text x="76" y="111" fill="#f3ebda" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="4">UNOFFICIAL DESIGN</text>
+<text x="924" y="111" text-anchor="end" fill="#f3ebda" font-family="Arial, Helvetica, sans-serif" font-size="23">兵庫県</text>
+<path d="M75 190H155" stroke="#dbc9a6" stroke-width="5"/>
+<text x="76" y="360" fill="#f3ebda" font-family="'Yu Mincho', 'Hiragino Mincho ProN', serif" font-weight="400" font-style="italic" font-size="72" text-anchor="start" textLength="210" lengthAdjust="spacingAndGlyphs">喫茶</text>
+<text x="76" y="660" fill="#f3ebda" font-family="Georgia, 'Times New Roman', 'Yu Mincho', serif" font-weight="400" font-style="italic" font-size="255" text-anchor="start" textLength="810" lengthAdjust="spacingAndGlyphs">Stern</text>
+<text x="76" y="882" fill="#f3ebda" font-family="Arial, Helvetica, sans-serif" font-size="23" textLength="152" lengthAdjust="spacingAndGlyphs">喫茶 Stern</text>
+<text x="76" y="927" fill="#f3ebda" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="2">自主制作・店舗未承認</text>
+</svg>

@@ -1,2 +1,3 @@
-:root{--paper:#f3f2ed;--ink:#3c4546;--accent:#526e72;--wash:#d9dedd;--font:var(--sans);}
-.hero-name{font-weight:400;letter-spacing:.06em}.hero-art{border-radius:45% 45% 3rem 3rem}
+:root { --paper: #edf0eb; --ink: #2e4644; --accent: #456b69; --wash: #d8e2db; --font: var(--serif); --photo-position: 50% 45%; }
+.store-cafe-minamo .hero-title { font-family:var(--japanese-serif);font-size:clamp(3.8rem,9vw,8.5rem);font-weight:400;letter-spacing:.12em; }
+@media(max-width:900px){.store-cafe-minamo .hero-title{font-size:clamp(3rem,12vw,7rem);}}

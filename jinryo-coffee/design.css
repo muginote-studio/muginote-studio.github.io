@@ -1,2 +1,3 @@
-:root{--paper:#f5eee2;--ink:#44362b;--accent:#47654c;--wash:#d6c5a3;--font:var(--serif);}
-.hero-name{font-style:italic;font-size:clamp(3.1rem,6vw,6rem)}.hero-art{border-radius:50% 50% 0 0}
+:root { --paper: #f4eee2; --ink: #3f3d2c; --accent: #49654a; --wash: #d6d3bd; --font: var(--serif); --photo-position: 45% 50%; }
+.store-jinryo-coffee .hero-title { font-size:clamp(4.5rem,10vw,10rem);font-weight:400;letter-spacing:-.05em; }
+@media(max-width:900px){.store-jinryo-coffee .hero-title{font-size:clamp(4rem,18vw,9rem);}}

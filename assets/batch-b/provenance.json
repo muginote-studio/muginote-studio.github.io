@@ -3,12 +3,12 @@
     "id": "CAFE-041",
     "name": "mico",
     "path": "/mico/",
-    "layout": "split",
+    "layout": "cover",
     "palette": [
-      "#f0f1eb",
-      "#25332c",
-      "#466651",
-      "#d7ded3"
+      "#152c28",
+      "#f0f2e9",
+      "#d2dbc7",
+      "#213c35"
     ],
     "designNotes": "Instagramプロフィール画像の銀色の立体文字と白地、食べログの銀のトレー・深緑の器を参照。白とグレーを基調に、料理写真の緑を補助色へ。",
     "sources": [
@@ -22,9 +22,11 @@
     "checkedAt": "2026-11-26",
     "hours": "火〜金 9:00〜17:00（料理L.O.16:30）／月・土・日休",
     "hoursNote": "食べログ掲載値。臨時営業・休業は公式情報をご確認ください。",
-    "photo": "/assets/batch-b/tea.webp",
+    "photo": "/assets/batch-b/editorial/glass-cup.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/black-teapot.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-042",
@@ -32,10 +34,10 @@
     "path": "/kissa-kobito/",
     "layout": "vertical",
     "palette": [
-      "#f5f0e5",
-      "#49302a",
-      "#7b3e31",
-      "#e3d7c2"
+      "#f7f3ec",
+      "#50362d",
+      "#793f31",
+      "#e9dfd2"
     ],
     "designNotes": "Instagramの赤茶の縦組みロゴ、こまつ観光ナビの喫茶コビト写真の木製家具と白壁を参照。縦の文字組みと暖かい木肌色。",
     "sources": [
@@ -51,20 +53,22 @@
     "checkedAt": "2026-11-26",
     "hours": "10:00〜16:00／水・木休",
     "hoursNote": "こまつ観光ナビ・食べログ掲載値。不定期の夜営業は公式情報をご確認ください。",
-    "photo": "/assets/batch-b/cookies.webp",
+    "photo": "/assets/batch-b/editorial/warm-window.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/ceramic-cup.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-043",
     "name": "our",
     "path": "/our/",
-    "layout": "collage",
+    "layout": "editorial",
     "palette": [
-      "#f8f5ec",
-      "#242b30",
-      "#245d89",
-      "#ecd37d"
+      "#f5f3eb",
+      "#213a4e",
+      "#1e5b82",
+      "#ebd268"
     ],
     "designNotes": "Instagramプロフィールの青・黄・オレンジの抽象形と、食べログの木目・白いカップを参照。青い文字と切り紙状の図形で構成。久米繊維の記事写真は衣類中心のため店内配色とは扱わない。",
     "sources": [
@@ -80,20 +84,22 @@
     "checkedAt": "2026-11-26",
     "hours": "11:00〜17:00／金曜＋不定休",
     "hoursNote": "久米繊維・食べログ掲載値。最新の営業予定は公式Instagramをご確認ください。",
-    "photo": "/assets/batch-b/cookies.webp",
+    "photo": "/assets/batch-b/editorial/sunlit-table.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/white-counter.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-044",
     "name": "カフェ花",
     "path": "/cafe-hana/",
-    "layout": "frame",
+    "layout": "vertical",
     "palette": [
-      "#f3ecdb",
-      "#392d26",
-      "#695334",
-      "#ddd0ad"
+      "#2d2921",
+      "#f5eedf",
+      "#dcc9a0",
+      "#3b352b"
     ],
     "designNotes": "食べログのモーニング写真の飴色の卓と黒い器を参照。ふーぽの複数店記事の先頭画像はいなり寿司で別店のため、花の配色根拠から除外。落ち着いた茶と紙色の額縁構成。",
     "sources": [
@@ -108,20 +114,22 @@
     "checkedAt": "2026-11-26",
     "hours": "月・火・木・金 8:00〜15:00／水・土・日休",
     "hoursNote": "食べログ掲載値。公式Instagramは未特定のため、紹介サイトの情報をご確認ください。",
-    "photo": "/assets/batch-b/coffee.webp",
+    "photo": "/assets/batch-b/editorial/quiet-cafe.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/latte-still-life.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-045",
     "name": "3POZZO cafe",
     "path": "/3pozzo-cafe/",
-    "layout": "arch",
+    "layout": "split",
     "palette": [
-      "#f4f5e8",
-      "#163f41",
-      "#207983",
-      "#dfc78f"
+      "#eff2e9",
+      "#143f44",
+      "#246571",
+      "#ccded8"
     ],
     "designNotes": "Instagramプロフィールのターコイズと白い輪郭、PORTAの青緑の皿・木の卓を参照。丸い縁とアーチで柔らかい構成。",
     "sources": [
@@ -137,20 +145,22 @@
     "checkedAt": "2026-11-26",
     "hours": null,
     "hoursNote": "PORTAと食べログで週末の閉店時刻に差があります。現在の営業時間と利用条件は公式Instagramでご確認ください。",
-    "photo": "/assets/batch-b/table.webp",
+    "photo": "/assets/batch-b/editorial/sunlit-cafe.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/light-cup.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-046",
     "name": "cohaccha",
     "path": "/cohaccha/",
-    "layout": "notebook",
+    "layout": "editorial",
     "palette": [
-      "#fbf4e8",
-      "#3d3525",
-      "#58704c",
-      "#e7c99b"
+      "#f6f2e9",
+      "#363a2a",
+      "#52663d",
+      "#e4dccb"
     ],
     "designNotes": "Instagramプロフィール画像の木製サインと黒い筆記体、食べログの白い花柄の皿と木の卓を参照。紙のメニュー帳のような構成。",
     "sources": [
@@ -164,9 +174,11 @@
     "checkedAt": "2026-11-26",
     "hours": null,
     "hoursNote": "食べログの営業曜日は限定的な記載のため、現在の営業予定は公式Instagramでご確認ください。",
-    "photo": "/assets/batch-b/table.webp",
+    "photo": "/assets/batch-b/editorial/wood-booths.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/croissant-table.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-047",
@@ -174,10 +186,10 @@
     "path": "/kominka-onn/",
     "layout": "vertical",
     "palette": [
-      "#f0ebdb",
-      "#302e24",
-      "#2d706c",
-      "#d5be85"
+      "#eee8da",
+      "#303328",
+      "#386554",
+      "#d9d3c0"
     ],
     "designNotes": "Instagramプロフィールの黒い円と稲穂、PORTAの木の卓・深い色の器、食べログの青緑のカップを参照。縦組みと墨色の罫線。",
     "sources": [
@@ -193,20 +205,22 @@
     "checkedAt": "2026-11-26",
     "hours": null,
     "hoursNote": "資料間で季節・曜日別の閉店時刻に差があります。最新の営業時間は公式Instagramをご確認ください。",
-    "photo": "/assets/batch-b/tea.webp",
+    "photo": "/assets/batch-b/editorial/black-teapot.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/sunlit-table.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-048",
     "name": "LAVENDER LANE Tea Room",
     "path": "/lavender-lane/",
-    "layout": "frame",
+    "layout": "panorama",
     "palette": [
-      "#f8f3f8",
-      "#492c5d",
-      "#72458f",
-      "#e5d8e7"
+      "#eee8f1",
+      "#3f2a50",
+      "#65457f",
+      "#dfd4e8"
     ],
     "designNotes": "Instagramの紫のティーポットのプロフィール画像と、食べログのティースタンド・白い茶器を参照。紫の細い枠線と欧文セリフ。紹介記事の先頭道路写真は配色根拠から除外。",
     "sources": [
@@ -222,9 +236,11 @@
     "checkedAt": "2026-11-26",
     "hours": "木・金・土 11:00〜17:00／月・火・水・日休",
     "hoursNote": "食べログ掲載値。予約方法・営業日は公式Instagramをご確認ください。",
-    "photo": "/assets/batch-b/tea.webp",
+    "photo": "/assets/batch-b/editorial/white-teapot.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/black-teapot.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-049",
@@ -232,10 +248,10 @@
     "path": "/cafe-minamo/",
     "layout": "panorama",
     "palette": [
-      "#f3f2ed",
-      "#3c4546",
-      "#526e72",
-      "#d9dedd"
+      "#edf0eb",
+      "#2e4644",
+      "#456b69",
+      "#d8e2db"
     ],
     "designNotes": "Instagramプロフィールの濃いグレーの曲線、Web-Komachiの淡い暖簾とグレーの外観、食べログの白皿を参照。水面状の線は自主制作で、店名由来の説明ではない。",
     "sources": [
@@ -251,20 +267,22 @@
     "checkedAt": "2026-11-26",
     "hours": null,
     "hoursNote": "食べログにはプレオープン時の記述が残るため、現在の営業時間は公式Instagramをご確認ください。",
-    "photo": "/assets/batch-b/cookies.webp",
+    "photo": "/assets/batch-b/editorial/glass-cup.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/cake-coffee.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-050",
     "name": "anew egg sandwich & cafe",
     "path": "/anew/",
-    "layout": "diner",
+    "layout": "poster",
     "palette": [
-      "#fff5db",
-      "#4c351c",
-      "#885421",
-      "#f0bf55"
+      "#ffefcc",
+      "#4a3020",
+      "#784522",
+      "#ecc379"
     ],
     "designNotes": "Instagramのたまごサンドのイラスト、クリーム色の地と茶色の文字、食べログの商品写真の黄色を参照。黄・茶の大きな文字とサンド状の層。",
     "sources": [
@@ -280,18 +298,20 @@
     "hoursNote": "食べログ掲載値。現在のメニュー・営業予定は公式Instagramをご確認ください。",
     "photo": "/assets/batch-b/sandwich.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/ceramic-cup.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-051",
     "name": "Campanella",
     "path": "/campanella/",
-    "layout": "editorial",
+    "layout": "cover",
     "palette": [
-      "#eae6d7",
-      "#223936",
-      "#2e5d59",
-      "#c5ab62"
+      "#173b37",
+      "#f2edda",
+      "#d2c08f",
+      "#254b45"
     ],
     "designNotes": "食べログの青緑と金彩の皿、木目の卓、ラテの写真を参照。深い青緑と真鍮色の細線、雑誌のような段組み。公式Instagramは未特定。",
     "sources": [
@@ -306,20 +326,22 @@
     "checkedAt": "2026-11-26",
     "hours": "月・水〜金 10:30〜19:30／土・日 10:30〜20:00／火休",
     "hoursNote": "食べログ掲載値。祝日・祝前日は時間が異なるため掲載元をご確認ください。",
-    "photo": "/assets/batch-b/coffee.webp",
+    "photo": "/assets/batch-b/editorial/quiet-cafe.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/coffee-croissant.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-052",
     "name": "Cafe R･Dreams",
     "path": "/r-dreams/",
-    "layout": "notebook",
+    "layout": "panorama",
     "palette": [
-      "#f7efde",
-      "#503a2a",
-      "#855d36",
-      "#dfc296"
+      "#eee7d9",
+      "#3f3026",
+      "#715235",
+      "#ded0b9"
     ],
     "designNotes": "Instagramプロフィールの木の看板と白いカップ、食べログのタイルの外観を参照。木色と白い線の手帳構成。店舗内部と投稿写真の全体傾向は未確認。",
     "sources": [
@@ -335,9 +357,11 @@
     "checkedAt": "2026-11-26",
     "hours": "金・土・日 10:00〜15:00／月〜木休",
     "hoursNote": "食べログ掲載値。臨時休業の記載があるため、来店前に公式情報をご確認ください。",
-    "photo": "/assets/batch-b/coffee.webp",
+    "photo": "/assets/batch-b/editorial/warm-window.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/coffee.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-053",
@@ -345,10 +369,10 @@
     "path": "/blossom-coffee-house/",
     "layout": "poster",
     "palette": [
-      "#e9e7e5",
-      "#202021",
-      "#9d1557",
-      "#e7c4d3"
+      "#191919",
+      "#f7f0e9",
+      "#eda1c7",
+      "#282024"
     ],
     "designNotes": "Instagramプロフィール画像の黒地・鮮やかなピンク、食べログの商品写真のコンクリートグレーを参照。太い欧文とピンクの面。実際のブランドロゴは複製しない。",
     "sources": [
@@ -362,20 +386,22 @@
     "checkedAt": "2026-11-26",
     "hours": "9:00〜22:00／火休",
     "hoursNote": "食べログ掲載値。営業変更の有無は公式Instagramをご確認ください。",
-    "photo": "/assets/batch-b/latte.webp",
+    "photo": "/assets/batch-b/editorial/latte-still-life.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/baked-croissants.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-054",
     "name": "Jinryo Coffee",
     "path": "/jinryo-coffee/",
-    "layout": "arch",
+    "layout": "split",
     "palette": [
-      "#f5eee2",
-      "#44362b",
-      "#47654c",
-      "#d6c5a3"
+      "#f4eee2",
+      "#3f3d2c",
+      "#49654a",
+      "#d6d3bd"
     ],
     "designNotes": "Instagramプロフィールの茶色の抽象カップ、食べログの木のトレーと青緑の皿を参照。松本珈琲工房の記事先頭の緑の外観は店舗同定できないため配色根拠に使わない。",
     "sources": [
@@ -391,9 +417,11 @@
     "checkedAt": "2026-11-26",
     "hours": "月・火・金〜日 9:00〜17:00（L.O.16:30）／水・木休",
     "hoursNote": "食べログ掲載値。最新の営業日は公式Instagramをご確認ください。",
-    "photo": "/assets/batch-b/coffee.webp",
+    "photo": "/assets/batch-b/editorial/ceramic-cup.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/coffee.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-055",
@@ -401,10 +429,10 @@
     "path": "/kigi/",
     "layout": "editorial",
     "palette": [
-      "#eceddf",
-      "#203c31",
-      "#4b6352",
-      "#cbb58d"
+      "#143b2e",
+      "#f1eddf",
+      "#c8c4a8",
+      "#214c3b"
     ],
     "designNotes": "Instagramプロフィールの深い緑地と白いセリフ体、食べログの縦長パフェと灰紫の背景を参照。緑の見開き、縦長の図形と欧文セリフ。",
     "sources": [
@@ -418,20 +446,22 @@
     "checkedAt": "2026-11-26",
     "hours": "木・日 12:00〜20:00／金・土 12:00〜22:00／月〜水休",
     "hoursNote": "食べログ掲載値。商品・営業日は公式Instagramをご確認ください。",
-    "photo": "/assets/batch-b/cookies.webp",
+    "photo": "/assets/batch-b/editorial/cake-coffee.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/croissant-detail.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-056",
     "name": "ルネル洋菓子店",
     "path": "/renelle/",
-    "layout": "gallery",
+    "layout": "editorial",
     "palette": [
-      "#f8f5f1",
-      "#3c4244",
-      "#606e7d",
-      "#e8ddd1"
+      "#f5f3f0",
+      "#3b4145",
+      "#596875",
+      "#dddeda"
     ],
     "designNotes": "Instagramの白地と細い黒い筆記体、食べログの青い背景・白いクリーム・黒皿を参照。白い展示室のような余白と青灰色の文字。",
     "sources": [
@@ -445,20 +475,22 @@
     "checkedAt": "2026-11-26",
     "hours": "月・木〜日 10:00〜19:00／火・水休",
     "hoursNote": "食べログ掲載値。最新の営業予定は公式Instagramをご確認ください。",
-    "photo": "/assets/batch-b/cookies.webp",
+    "photo": "/assets/batch-b/editorial/white-counter.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/croissant-table.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-057",
     "name": "7uts",
     "path": "/7uts/",
-    "layout": "poster",
+    "layout": "cover",
     "palette": [
-      "#f1eddf",
-      "#252f63",
-      "#334197",
-      "#e3c33a"
+      "#242f85",
+      "#f8f0d6",
+      "#f3da83",
+      "#343f96"
     ],
     "designNotes": "Instagramプロフィールの丸い青い文字、号外NETの木の棚・青文字のクッション・黄色やオレンジのランプを参照。太い文字と丸い面を重ねたポスター構成。",
     "sources": [
@@ -474,20 +506,22 @@
     "checkedAt": "2026-11-26",
     "hours": "月・木〜日 11:30〜14:30、17:30〜22:00／火・水休",
     "hoursNote": "食べログ掲載値。臨時の変更は公式Instagramをご確認ください。",
-    "photo": "/assets/batch-b/latte.webp",
+    "photo": "/assets/batch-b/editorial/light-cup.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/latte-still-life.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-058",
     "name": "riverside cafe ＆ sleep",
     "path": "/riverside-cafe-sleep/",
-    "layout": "panorama",
+    "layout": "cover",
     "palette": [
-      "#e6efea",
-      "#263f38",
-      "#46695e",
-      "#acd0c8"
+      "#183d39",
+      "#e9eee3",
+      "#bbd6ca",
+      "#28514b"
     ],
     "designNotes": "Instagramプロフィールの淡い青緑と茶の輪、紹介記事の木の建物と緑、食べログの青いカップを参照。横に広い構成と川のような線。",
     "sources": [
@@ -503,20 +537,22 @@
     "checkedAt": "2026-11-26",
     "hours": "火・木〜日 11:00〜19:00（L.O.17:00）／月・水休",
     "hoursNote": "食べログ掲載値。ラストオーダーと営業日は公式Instagramをご確認ください。",
-    "photo": "/assets/batch-b/table.webp",
+    "photo": "/assets/batch-b/editorial/sunlit-table.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/glass-cup.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-059",
     "name": "カフェとごはん ひだまり",
     "path": "/hidamari/",
-    "layout": "notebook",
+    "layout": "panorama",
     "palette": [
-      "#fff7e1",
-      "#463b26",
-      "#856524",
-      "#ecd37f"
+      "#f7efd9",
+      "#4b3c24",
+      "#7f5a21",
+      "#ead08c"
     ],
     "designNotes": "Instagramプロフィールの黄色の円と手書き文字、食べログ・滋賀つーしんの御膳の木色と白い器を参照。黄色の余白と献立帳のような罫線。",
     "sources": [
@@ -532,20 +568,22 @@
     "checkedAt": "2026-11-26",
     "hours": "月〜木 11:00〜17:30／金・土 11:00〜21:00／日休",
     "hoursNote": "食べログ掲載値。移転後の鷹飼町の住所を掲載しています。",
-    "photo": "/assets/batch-b/tea.webp",
+    "photo": "/assets/batch-b/editorial/warm-window.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/tea.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-060",
     "name": "給食日和",
     "path": "/kyushoku-biyori/",
-    "layout": "diner",
+    "layout": "panorama",
     "palette": [
-      "#fff1d3",
-      "#54382d",
-      "#a3412c",
-      "#e8b341"
+      "#f7ecd0",
+      "#52392c",
+      "#984229",
+      "#e6be76"
     ],
     "designNotes": "Instagramプロフィールの黄色の円とえんじの縁、食べログの金属トレー・白い皿を参照。給食のトレーを抽象化した図形と明るい見出し。",
     "sources": [
@@ -561,20 +599,22 @@
     "checkedAt": "2026-11-26",
     "hours": "木〜土 11:30〜16:00／その他の曜日は予約条件あり",
     "hoursNote": "ココイロ・食べログ掲載。予約の期限・祝日の扱いは公式Instagramでご確認ください。",
-    "photo": "/assets/batch-b/toast.webp",
+    "photo": "/assets/batch-b/editorial/wood-booths.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/toast.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-061",
     "name": "TOWZA DINER 1830",
     "path": "/towza-diner/",
-    "layout": "diner",
+    "layout": "poster",
     "palette": [
+      "#a62e23",
       "#fff0d8",
-      "#652d25",
-      "#b52d1d",
-      "#edc078"
+      "#fff0d8",
+      "#ba3f30"
     ],
     "designNotes": "Instagramプロフィールの鮮やかな赤と白い太字だけを直接確認。食べログの代表画像はNO PHOTOで、店内・商品写真は未確認。赤い活字を起点にした暫定デザイン。",
     "sources": [
@@ -590,18 +630,20 @@
     "hoursNote": "食べログ掲載値。定休日の最新情報は公式Instagramをご確認ください。",
     "photo": "/assets/batch-b/sandwich.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/baked-croissants.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-062",
     "name": "DEL",
     "path": "/del/",
-    "layout": "collage",
+    "layout": "poster",
     "palette": [
-      "#fbf0d7",
-      "#632820",
-      "#a33327",
-      "#e6c394"
+      "#f4e8cc",
+      "#732b22",
+      "#8d3024",
+      "#e4c1a1"
     ],
     "designNotes": "Instagramプロフィールのクリーム色と赤い太字、食べログの赤いカップ印刷・木の卓を参照。切り紙状の赤い面と大きな活字。",
     "sources": [
@@ -615,20 +657,22 @@
     "checkedAt": "2026-11-26",
     "hours": null,
     "hoursNote": "食べログには開店前の記述が残るため、現在の営業状況・営業時間は公式Instagramでご確認ください。",
-    "photo": "/assets/batch-b/cookies.webp",
+    "photo": "/assets/batch-b/editorial/croissant-detail.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/cake-coffee.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-063",
     "name": "LOAFF",
     "path": "/loaff/",
-    "layout": "gallery",
+    "layout": "editorial",
     "palette": [
-      "#f7f3e9",
-      "#292f2a",
-      "#5b614d",
-      "#e0d2b3"
+      "#f3f1e8",
+      "#30382d",
+      "#53644d",
+      "#dadccf"
     ],
     "designNotes": "Instagramプロフィールのオフホワイト・黒い広い字間、食べログのカップ写真の白とシナモン色を参照。広い余白、水平の文字組みと二面の写真。",
     "sources": [
@@ -644,9 +688,11 @@
     "checkedAt": "2026-11-26",
     "hours": "月・火・木・金 8:00〜18:00／土・日 8:00〜19:00／水休",
     "hoursNote": "食べログ掲載値。ブランチの提供時間は公式Instagramをご確認ください。",
-    "photo": "/assets/batch-b/toast.webp",
+    "photo": "/assets/batch-b/editorial/croissant-table.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/coffee-croissant.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-064",
@@ -654,10 +700,10 @@
     "path": "/on-cafe/",
     "layout": "split",
     "palette": [
-      "#f4f2ed",
-      "#252b29",
-      "#5d6d60",
-      "#ddd8c9"
+      "#eeede6",
+      "#293932",
+      "#486451",
+      "#d5d9cd"
     ],
     "designNotes": "Instagramプロフィールの白黒の円形サインと筆記体、食べログの白い壁・木の棚を参照。円と余白の構成。コピーのonはデザイン表現で、店名由来の説明ではない。",
     "sources": [
@@ -671,20 +717,22 @@
     "checkedAt": "2026-11-26",
     "hours": "月〜水・金〜日 10:00〜17:00（L.O.16:30）／木休",
     "hoursNote": "食べログ掲載値。最新の営業予定は公式Instagramをご確認ください。",
-    "photo": "/assets/batch-b/latte.webp",
+    "photo": "/assets/batch-b/editorial/latte-still-life.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/croissant-detail.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-065",
     "name": "喫茶 Stern",
     "path": "/kissa-stern/",
-    "layout": "editorial",
+    "layout": "cover",
     "palette": [
-      "#f3eadc",
-      "#472f29",
-      "#765342",
-      "#d2b68a"
+      "#36291f",
+      "#f3ebda",
+      "#dbc9a6",
+      "#49372a"
     ],
     "designNotes": "Instagramの白地と細い黒の文字、移転後のKOBE Brightenの記事にある木の壁・茶色の空間と白皿を参照。移転前店舗の写真と区別し、木色の誌面を構成。",
     "sources": [
@@ -700,20 +748,22 @@
     "checkedAt": "2026-11-26",
     "hours": "11:00〜18:00／不定休",
     "hoursNote": "KOBE Brighten・食べログ掲載。貸切営業などは公式カレンダーをご確認ください。",
-    "photo": "/assets/batch-b/sandwich.webp",
+    "photo": "/assets/batch-b/editorial/coffee-croissant.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/cake-coffee.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-066",
     "name": "キララカフェ",
     "path": "/kirara-cafe/",
-    "layout": "arch",
+    "layout": "split",
     "palette": [
-      "#f5eedf",
-      "#493c30",
-      "#776446",
-      "#d7c4a0"
+      "#f0e9db",
+      "#4c3d2a",
+      "#725b39",
+      "#dfd0b7"
     ],
     "designNotes": "Instagramプロフィールの生成りの円形看板と細い茶色の文字、食べログの木のカウンター・白いカップを参照。細い植物の線と丸い写真枠。星の文字装飾は使用しない。",
     "sources": [
@@ -727,20 +777,22 @@
     "checkedAt": "2026-11-26",
     "hours": "9:00〜16:00／不定休",
     "hoursNote": "食べログ掲載値。営業日と臨時休業は公式Instagramをご確認ください。",
-    "photo": "/assets/batch-b/coffee.webp",
+    "photo": "/assets/batch-b/editorial/sunlit-cafe.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/ceramic-cup.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-067",
     "name": "good",
     "path": "/good/",
-    "layout": "split",
+    "layout": "poster",
     "palette": [
-      "#eef2f5",
-      "#173d78",
-      "#224f8e",
-      "#dce3eb"
+      "#123e86",
+      "#f2f0e6",
+      "#f2f0e6",
+      "#245399"
     ],
     "designNotes": "Instagramプロフィールの濃い青と白い斜体、食べログの白皿のモーニング、紹介記事の青いメニュー文字を参照。青白の明快な二分割と欧文イタリック。",
     "sources": [
@@ -758,18 +810,20 @@
     "hoursNote": "食べログ掲載値。公式Instagramで営業予定をご確認ください。",
     "photo": "/assets/batch-b/toast.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/light-cup.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-068",
     "name": "ponte",
     "path": "/ponte/",
-    "layout": "collage",
+    "layout": "editorial",
     "palette": [
-      "#f7f0de",
-      "#493523",
-      "#616d3c",
-      "#e6b65c"
+      "#efe9d8",
+      "#493923",
+      "#5b6b3d",
+      "#ddc182"
     ],
     "designNotes": "Instagramプロフィールの茶色の橋・緑の芽と白地、食べログの木の卓と青灰のカップを参照。茶と緑に、柑橘を連想する自主制作の黄の円を加えた。",
     "sources": [
@@ -783,9 +837,11 @@
     "checkedAt": "2026-11-26",
     "hours": "土・日・祝日 10:00〜15:00（L.O.14:30）／平日休",
     "hoursNote": "食べログ掲載値。現在の営業予定は公式Instagramをご確認ください。",
-    "photo": "/assets/batch-b/tea.webp",
+    "photo": "/assets/batch-b/editorial/glass-cup.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/sunlit-table.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-069",
@@ -793,10 +849,10 @@
     "path": "/ara/",
     "layout": "panorama",
     "palette": [
-      "#eeefeb",
-      "#303b3f",
-      "#506a74",
-      "#cfdadd"
+      "#e5e9e6",
+      "#34484d",
+      "#4a6972",
+      "#cbd6d3"
     ],
     "designNotes": "Instagramの黒い円と流れる白文字、食べログの灰色の卓・白い器とアイスコーヒーを参照。海が見えるという掲載情報に合わせた青灰はデザイン上の選択で、海の実景写真は未確認。",
     "sources": [
@@ -810,20 +866,22 @@
     "checkedAt": "2026-11-26",
     "hours": "火〜金 12:00〜16:00／月・土・日休",
     "hoursNote": "食べログ掲載値。最新の営業予定は公式Instagramをご確認ください。",
-    "photo": "/assets/batch-b/cookies.webp",
+    "photo": "/assets/batch-b/editorial/ceramic-cup.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/glass-cup.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   },
   {
     "id": "CAFE-070",
     "name": "おやじかふぇ",
     "path": "/oyaji-cafe/",
-    "layout": "frame",
+    "layout": "cover",
     "palette": [
-      "#f0e3cd",
-      "#402b23",
-      "#8a4430",
-      "#c2a16d"
+      "#3c2921",
+      "#f0e5cf",
+      "#d7bc8c",
+      "#51372b"
     ],
     "designNotes": "とっとりずむの赤茶レンガ・木の家具・赤い座面と、食べログの黒い料理皿を参照。茶とえんじ、レコード状の円。Instagramの人物プロフィール画像は複製しない。",
     "sources": [
@@ -839,8 +897,10 @@
     "checkedAt": "2026-11-26",
     "hours": "11:30〜19:00／不定休",
     "hoursNote": "とっとりずむ・食べログ掲載値。最新の営業予定は公式Instagramをご確認ください。",
-    "photo": "/assets/batch-b/interior.webp",
+    "photo": "/assets/batch-b/editorial/wood-booths.webp",
     "factPolicy": "価格・口コミ・店名由来・未検証の連絡先は掲載しない。現行商品の提供保証はしない。",
-    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。"
+    "imagePolicy": "店の写真・ロゴは転載せず、自主制作図形と利用条件を確認したイメージ写真を使用。",
+    "secondaryPhoto": "/assets/batch-b/editorial/latte-still-life.webp",
+    "redesign": "写真主体の編集的レイアウト。実店舗・実商品とは異なるイメージ素材。"
   }
 ]

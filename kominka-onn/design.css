@@ -1,2 +1,3 @@
-:root{--paper:#f0ebdb;--ink:#302e24;--accent:#2d706c;--wash:#d5be85;--font:var(--serif);}
-.hero-name{letter-spacing:.12em}.hero-art{border-radius:0}
+:root { --paper: #eee8da; --ink: #303328; --accent: #386554; --wash: #d9d3c0; --font: var(--serif); --photo-position: 50% 50%; }
+.store-kominka-onn .hero-title { font-weight:400; }.store-kominka-onn .hero-title .title-small { font-family:var(--japanese-serif); }
+@media(max-width:900px){.store-kominka-onn .hero-title{font-size:clamp(4rem,14vw,6rem);}}

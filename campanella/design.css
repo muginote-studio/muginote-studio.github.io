@@ -1,2 +1,3 @@
-:root{--paper:#eae6d7;--ink:#223936;--accent:#2e5d59;--wash:#c5ab62;--font:var(--serif);}
-.hero-name{font-style:italic;letter-spacing:-.04em}.hero-art{border-radius:48% 48% 0 0}
+:root { --paper: #173b37; --ink: #f2edda; --accent: #d2c08f; --wash: #254b45; --font: var(--serif); --photo-position: 50% 50%; }
+.store-campanella .hero-title { font-size:clamp(4rem,12.6vw,12.5rem);font-style:italic;font-weight:400;letter-spacing:-.055em; }
+@media(max-width:900px){.store-campanella .hero-title{font-size:clamp(2.5rem,10.6vw,7rem);}}

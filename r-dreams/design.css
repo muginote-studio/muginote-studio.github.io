@@ -1,2 +1,3 @@
-:root{--paper:#f7efde;--ink:#503a2a;--accent:#855d36;--wash:#dfc296;--font:var(--serif);}
-.hero-name{font-style:italic;font-size:clamp(2.6rem,6vw,6rem)}.hero-art{border-radius:1rem}
+:root { --paper: #eee7d9; --ink: #3f3026; --accent: #715235; --wash: #ded0b9; --font: var(--serif); --photo-position: 50% 50%; }
+.store-r-dreams .hero-title { font-size:clamp(4rem,10vw,10rem);font-weight:400;font-style:italic;letter-spacing:-.045em; }
+@media(max-width:900px){.store-r-dreams .hero-title{font-size:clamp(3rem,14vw,7rem);}}
