@@ -29,12 +29,14 @@
       "#273F36",
       "#A08357"
     ],
-    "composition": "editorial",
+    "composition": "magazine",
     "typography": "serif",
     "illustrativePhotos": [
       "/assets/batch-c/photos/coffee.webp",
       "/assets/batch-c/photos/cookies.webp"
-    ]
+    ],
+    "artDirection": "写真の緑縁の白磁と木製家具から、深緑の文芸誌のような設計。大きい「こつぶ」と小さい「喫茶」のサイズ差、短い縦組み風の余白で静けさを作る。特定メニューを確定できないため、料理写真より文字主導。 配色参考：https://tabelog.com/shimane/A3201/A320101/32008300/",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-072",
@@ -70,12 +72,13 @@
       "#4D643C",
       "#9A743A"
     ],
-    "composition": "banner",
+    "composition": "cover",
     "typography": "sans",
     "illustrativePhotos": [
-      "/assets/batch-c/photos/icecream.webp",
       "/assets/batch-c/photos/tea.webp"
-    ]
+    ],
+    "artDirection": "公式Instagram由来の告知画像を紹介した記事では田の緑とたい焼きの茶が特徴。現在のアイスクリームの大写真ではたい焼きの店の個性が弱い。店名を空と風の二層の文字面として扱い、自然写真がなくても静かな緑の空間で補う。 配色参考：https://unseki.co.jp/blog/open/cake/27827",
+    "heroArtwork": "/assets/batch-c/artwork/sora-to-kaze-to.svg"
   },
   {
     "id": "CAFE-073",
@@ -111,12 +114,13 @@
       "#3D443A",
       "#A7AF98"
     ],
-    "composition": "graphic",
+    "composition": "duotone",
     "typography": "sans",
     "illustrativePhotos": [
-      "/assets/batch-c/photos/coffee.webp",
       "/assets/batch-c/photos/table.webp"
-    ]
+    ],
+    "artDirection": "明るいクリーム壁、セージの椅子、黒い家具の内観を反映。大きな欧文と狭い行間のポスター感で、同じ自然系でも他店の和文余白とは区別。店はフォーの紹介があり、コーヒー主役のヒーローは避けたい。 配色参考：https://tabelog.com/okayama/A3304/A330401/33022358/",
+    "heroArtwork": "/assets/batch-c/artwork/bone-and-peace.svg"
   },
   {
     "id": "CAFE-074",
@@ -152,12 +156,14 @@
       "#332C28",
       "#487B99"
     ],
-    "composition": "editorial",
+    "composition": "poster",
     "typography": "sans",
     "illustrativePhotos": [
       "/assets/batch-c/photos/coffee.webp",
       "/assets/batch-c/photos/latte.webp"
-    ]
+    ],
+    "artDirection": "木のカウンター、黒いカップ、青いネオンのスタンドらしい都市的なポスター。短い店名を画面いっぱいにし、メニュー紹介も小さなカードではなく細い横罫のリストに。完全な店名Cafe Stand kinkinはヘッダーとh1のアクセシブル名に残す。 配色参考：https://tokumori.tv.kct.jp/gourmet/83551/",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-075",
@@ -194,12 +200,14 @@
       "#E6C998",
       "#847087"
     ],
-    "composition": "frame",
+    "composition": "salon",
     "typography": "serif",
     "illustrativePhotos": [
       "/assets/batch-c/photos/cookies.webp",
       "/assets/batch-c/photos/latte.webp"
-    ]
+    ],
+    "artDirection": "琥珀色の低い照明、灰茶のソファ、紫色のモクテルの写真に基づく夜のサロン。大きく傾いたセリフ文字と縦長の暗い写真で、昼カフェ群から一目で区別する。ページの背景と文字色を適切に反転してコントラストを維持。 配色参考：https://www.hotpepper.jp/strJ004698503/appearance/",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-076",
@@ -235,12 +243,13 @@
       "#8B4638",
       "#A8BDB2"
     ],
-    "composition": "arch",
+    "composition": "atelier",
     "typography": "soft",
     "illustrativePhotos": [
-      "/assets/batch-c/photos/cookies.webp",
       "/assets/batch-c/photos/latte.webp"
-    ]
+    ],
+    "artDirection": "赤茶のタイルカウンター、白壁、窓からの明るさ、青緑カップを反映。現在の汎用的なアーチ型ヒーローを外し、細いセリフと水平の赤茶帯、円形の添え写真で器とカウンターのリズムを表す。 配色参考：https://iraw.rcc.jp/topics/articles/37351",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-077",
@@ -276,12 +285,13 @@
       "#202321",
       "#B58845"
     ],
-    "composition": "graphic",
+    "composition": "grid",
     "typography": "sans",
     "illustrativePhotos": [
-      "/assets/batch-c/photos/coffee.webp",
       "/assets/batch-c/photos/sandwich.webp"
-    ]
+    ],
+    "artDirection": "公開ロゴは白黒の楕円と筆記体m。コピーせず白黒の強いコントラストだけ参照し、自主制作のMのタイポグラフィを画面の主役にする。現行ページのコーヒー写真がカレー店の認知を弱めるため、写真の主役感を抑え、カレーは裏付けされたテキストで表す。 配色参考：https://www.hotpepper.jp/strJ001264169/",
+    "heroArtwork": "/assets/batch-c/artwork/curry-cafe-m.svg"
   },
   {
     "id": "CAFE-078",
@@ -322,12 +332,14 @@
       "#294B61",
       "#B29456"
     ],
-    "composition": "journal",
+    "composition": "gallery",
     "typography": "serif",
     "illustrativePhotos": [
-      "/assets/batch-c/photos/coffee.webp",
-      "/assets/batch-c/photos/cookies.webp"
-    ]
+      "/assets/batch-c/photos/cookies.webp",
+      "/assets/batch-c/photos/sandwich.webp"
+    ],
+    "artDirection": "実写真の白とステンレスのカウンター、銀色の家具、黄土色の椅子背、紺皿を参照。料理をゆったり見せるギャラリーの余白と横長の切り取り。現在のクッキーとコーヒー中心はポキボウルを出す店の紹介として薄いため、テキスト主導でハワイ料理を明確に。 配色参考：https://shunan.keizai.biz/headline/2265/",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-079",
@@ -368,12 +380,14 @@
       "#326D72",
       "#AC9168"
     ],
-    "composition": "center",
+    "composition": "magazine",
     "typography": "soft",
     "illustrativePhotos": [
-      "/assets/batch-c/photos/cookies.webp",
+      "/assets/batch-c/photos/table.webp",
       "/assets/batch-c/photos/tea.webp"
-    ]
+    ],
+    "artDirection": "実店舗の青緑の扉、白レンガと木の家具を参照。小鉢の整列を抽象的な誌面グリッドに翻訳し、現在の中央寄せと装飾アーチをやめる。071の文芸誌風とは違い、見出しの左端を揃えた建築雑誌的な冷静さを出す。 配色参考：https://article.yahoo.co.jp/detail/6dd4b1c1ed63344d8d60f54556dad2ea0c2ffa50",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-080",
@@ -409,12 +423,14 @@
       "#5C6C50",
       "#A66C35"
     ],
-    "composition": "poster",
+    "composition": "stack",
     "typography": "sans",
     "illustrativePhotos": [
       "/assets/batch-c/photos/bread.webp",
       "/assets/batch-c/photos/croissant.webp"
-    ]
+    ],
+    "artDirection": "実写真のセージ色の扉枠、白い丸看板の濃茶文字、黄金色のパンを参照。上部に巨大な和文、下部に横長パン写真を積む。手書き風フォントやかわいい鴨イラストに頼らず、焼き色の写真と厳密な余白で上質なベーカリーとして見せる。 配色参考：https://awawa.app/pages/article_detail.php?app_no=51&report_no=11669&tab_no=0",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-081",
@@ -447,12 +463,14 @@
       "#243e53",
       "#a77a52"
     ],
-    "composition": "arch",
+    "composition": "salon",
     "typography": "serif",
     "illustrativePhotos": [
       "/assets/batch-c/photos/cookies.webp",
       "/assets/batch-c/photos/table.webp"
-    ]
+    ],
+    "artDirection": "料理写真の藍色の器と淡青の皿を、アーチ型のかわいさでなく上品な大判誌面として表現。amieの低い小文字を広く使うことで、同じカフェ写真でもゆったりした固有の顔を作る。",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-082",
@@ -489,12 +507,14 @@
       "#334d43",
       "#805330"
     ],
-    "composition": "journal",
+    "composition": "atelier",
     "typography": "serif",
     "illustrativePhotos": [
       "/assets/batch-c/photos/coffee.webp",
       "/assets/batch-c/photos/tea.webp"
-    ]
+    ],
+    "artDirection": "記事にある手作りの木の内装と写真の青緑のカップが根拠。木の温かさをベージュ一色で処理せず、深緑の面と、長い日本語店名の余白で工房風に。",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-083",
@@ -527,12 +547,13 @@
       "#722b2d",
       "#28241f"
     ],
-    "composition": "graphic",
+    "composition": "poster",
     "typography": "sans",
     "illustrativePhotos": [
-      "/assets/batch-c/photos/coffee.webp",
-      "/assets/batch-c/photos/sandwich.webp"
-    ]
+      "/assets/batch-c/photos/coffee.webp"
+    ],
+    "artDirection": "オーナー提供写真のえんじ色メニュー帯、海苔の黒、米と皿の白を使う。おにぎらずの実写真は転載しないが、弁当箱のような四角い写真構図でランチ中心の店の顔を出す。",
+    "heroArtwork": "/assets/batch-c/artwork/hajimari-no-maho.svg"
   },
   {
     "id": "CAFE-084",
@@ -565,12 +586,14 @@
       "#553c2a",
       "#b99a68"
     ],
-    "composition": "split",
+    "composition": "grid",
     "typography": "serif",
     "illustrativePhotos": [
       "/assets/batch-c/photos/table.webp",
       "/assets/batch-c/photos/tea.webp"
-    ]
+    ],
+    "artDirection": "OG写真の白壁、淡木床、OSB調カウンターと木彫りのウェイターから。素朴な田舎風を盛らず、木の建具の直線と欧文店名を現代的なレストラン誌面に置き換える。",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-085",
@@ -607,12 +630,14 @@
       "#374b3d",
       "#ad8d5b"
     ],
-    "composition": "center",
+    "composition": "gallery",
     "typography": "sans",
     "illustrativePhotos": [
       "/assets/batch-c/photos/coffee.webp",
       "/assets/batch-c/photos/sandwich.webp"
-    ]
+    ],
+    "artDirection": "EIMONS写真の自然光、白い建具、明るい梁、木のカウンター、植物の緑。大きい空白の中に組版と写真を離して配置し、光のある空間の感覚を構造で示す。",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-086",
@@ -644,12 +669,14 @@
       "#233f50",
       "#a78350"
     ],
-    "composition": "frame",
+    "composition": "duotone",
     "typography": "mono",
     "illustrativePhotos": [
       "/assets/batch-c/photos/cookies.webp",
       "/assets/batch-c/photos/table.webp"
-    ]
+    ],
+    "artDirection": "当該店舗内観は紺ソファ、明るい木のテーブル、白灰壁。完全予約制という掲載情報があるので、現在の「ふらりと」は削除し、来店方法を暗示しない。",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-087",
@@ -687,12 +714,14 @@
       "#3c291b",
       "#b7742f"
     ],
-    "composition": "poster",
+    "composition": "cover",
     "typography": "sans",
     "illustrativePhotos": [
       "/assets/batch-c/photos/bread.webp",
       "/assets/batch-c/photos/croissant.webp"
-    ]
+    ],
+    "artDirection": "KBC料理写真の木トレー、紙カップ、焼き色、暗い木背景が根拠。長くない固有名詞を表紙の題字として扱い、印刷物のように強いカフェ＆ベーカリーの顔を作る。",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-088",
@@ -724,12 +753,13 @@
       "#333b3d",
       "#994b39"
     ],
-    "composition": "frame",
+    "composition": "salon",
     "typography": "serif",
     "illustrativePhotos": [
-      "/assets/batch-c/photos/coffee.webp",
-      "/assets/batch-c/photos/wine.webp"
-    ]
+      "/assets/batch-c/photos/table.webp"
+    ],
+    "artDirection": "現住所内観の白壁、赤茶ソファ、黒照明、紺の椅子を参照。店名の和文をひとつの大きなタイポグラフィとして扱い、同じsalonでもamieの軽い欧文とは強く区別する。夜営業を確認できていないため夜の店として描かない。",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-089",
@@ -766,12 +796,14 @@
       "#69222e",
       "#232425"
     ],
-    "composition": "banner",
+    "composition": "stack",
     "typography": "serif",
     "illustrativePhotos": [
       "/assets/batch-c/photos/coffee.webp",
       "/assets/batch-c/photos/wine.webp"
-    ]
+    ],
+    "artDirection": "佐賀経済新聞の実外観にある深い赤、黒の腰壁、白ののれん、金色系の店名が最も強い個性。長い店名を収める制約ではなく、主役の3段組として生かす。",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-090",
@@ -804,12 +836,14 @@
       "#3a3027",
       "#657c80"
     ],
-    "composition": "journal",
+    "composition": "magazine",
     "typography": "sans",
     "illustrativePhotos": [
       "/assets/batch-c/photos/coffee.webp",
       "/assets/batch-c/photos/table.webp"
-    ]
+    ],
+    "artDirection": "公式note写真の木組みと白い照明、木カウンター、青灰のカウンター面が根拠。カフェとお土産店という一次情報に沿い、旅の雑誌のような写真・文字のズレを使う。",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-091",
@@ -850,12 +884,14 @@
       "#234D43",
       "#BE8A4B"
     ],
-    "composition": "graphic",
+    "composition": "duotone",
     "typography": "serif",
     "illustrativePhotos": [
       "/assets/batch-c/photos/table.webp",
       "/assets/batch-c/photos/tea.webp"
-    ]
+    ],
+    "artDirection": "肥後ジャーナルの店内写真で見た深い青緑の壁と木材の暖かさを、大胆な和文タイポグラフィへ翻訳。長い正式名はヘッダーとh1のアクセシブル名に保持し、視覚上の主語は「田」にする。健康効果や物語の追加はしない。参考：https://higojournal.com/archives/den-2.html",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-092",
@@ -892,12 +928,14 @@
       "#29494D",
       "#B47A4D"
     ],
-    "composition": "editorial",
+    "composition": "magazine",
     "typography": "soft",
     "illustrativePhotos": [
       "/assets/batch-c/photos/latte.webp",
       "/assets/batch-c/photos/sandwich.webp"
-    ]
+    ],
+    "artDirection": "現行の柔らかなセリフ体より、二行の大きな和文ゴシックと雑誌的な余白で個性を出す。店名からピンクや可愛い熊アイコンを想像せず、記事の青い窓枠、石調外壁、木カウンターに基づく。参考：https://higojournal.com/archives/nikkori-cute.html",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-093",
@@ -934,12 +972,14 @@
       "#3E3025",
       "#25482E"
     ],
-    "composition": "arch",
+    "composition": "atelier",
     "typography": "serif",
     "illustrativePhotos": [
       "/assets/batch-c/photos/cookies.webp",
       "/assets/batch-c/photos/tea.webp"
-    ]
+    ],
+    "artDirection": "訪問写真の古民家の梁・のれん・庭の深緑と巻物のおしながきを、余白の大きい和の組版へ変換。観光案内風の装飾や団子絵文字を増やさず、店名の四文字と罫線で成立させる。参考：https://ameblo.jp/ty-kame3/entry-12984616499.html",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-094",
@@ -979,9 +1019,10 @@
     "composition": "poster",
     "typography": "serif",
     "illustrativePhotos": [
-      "/assets/batch-c/photos/cookies.webp",
-      "/assets/batch-c/photos/tea.webp"
-    ]
+      "/assets/batch-c/photos/table.webp"
+    ],
+    "artDirection": "記事の紙メニューにある黒地・白い太字・黄色・赤白チェックの強い印象が根拠。現行ヒーローのcookies.webpはジャケットポテトと主題が合わないため削除推奨。巨大な店名、短いコピー、太い罫線で写真なしでも完成する構成にする。参考：https://higojournal.com/archives/imodansyaku-kumamoto.html",
+    "heroArtwork": "/assets/batch-c/artwork/imo-danshaku.svg"
   },
   {
     "id": "CAFE-095",
@@ -1019,12 +1060,14 @@
       "#32383D",
       "#B64A35"
     ],
-    "composition": "journal",
+    "composition": "gallery",
     "typography": "serif",
     "illustrativePhotos": [
       "/assets/batch-c/photos/coffee.webp",
       "/assets/batch-c/photos/latte.webp"
-    ]
+    ],
+    "artDirection": "号外NET掲載写真のコンクリート、金属、黒い家具、朱赤の幾何学ロゴと、ギャラリーを兼ねるという紹介に基づく。ロゴは複製せず、色と余白だけを継承。現行の細い上罫＋小さな店名を、巨大な二行和文と余白へ変える。参考：https://ooita.goguynet.jp/2026/10/14/jokocoffee/",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-096",
@@ -1061,12 +1104,14 @@
       "#34352C",
       "#E5C84B"
     ],
-    "composition": "split",
+    "composition": "cover",
     "typography": "sans",
     "illustrativePhotos": [
       "/assets/batch-c/photos/cookies.webp",
       "/assets/batch-c/photos/latte.webp"
-    ]
+    ],
+    "artDirection": "実写真で見た白い看板の淡黄色、暖かな黄色の壁、木製カウンターの明るさを使う。sunnoteは大きく、副題は小さくし、長い店名全体を同じサイズで折り返す現状を解消。公式ロゴの丸い図案は複製しない。参考：https://myzkc.jp/sunnote20261029/",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-097",
@@ -1107,12 +1152,14 @@
       "#442E24",
       "#923E32"
     ],
-    "composition": "frame",
+    "composition": "salon",
     "typography": "serif",
     "illustrativePhotos": [
       "/assets/batch-c/photos/coffee.webp",
       "/assets/batch-c/photos/table.webp"
-    ]
+    ],
+    "artDirection": "移転後の記事写真にある濃茶の長いカウンター、赤い椅子、丸い電球に基づく。深茶と赤茶の二層にして、昭和喫茶の視覚的な密度を出す。宮崎港近くの日ノ出町への移転後住所を保持。参考：https://miyazaki.keizai.biz/headline/2424/",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-098",
@@ -1149,12 +1196,14 @@
       "#293D43",
       "#68848E"
     ],
-    "composition": "arch",
+    "composition": "cover",
     "typography": "soft",
     "illustrativePhotos": [
       "/assets/batch-c/photos/bread.webp",
       "/assets/batch-c/photos/croissant.webp"
-    ]
+    ],
+    "artDirection": "公開記事の白い平屋、黒い看板、水色の内壁、木棚と黄金色のパンが根拠。文字はベーカリーの包装紙のように強く見せ、形は矩形に限定。現行アーチ写真をやめ、二行の英字と広い写真で表紙のような存在感を作る。参考：https://gururi-japan.com/apps/note/column/junko_34/",
+    "heroArtwork": null
   },
   {
     "id": "CAFE-099",
@@ -1191,12 +1240,11 @@
       "#3C403B",
       "#B07C43"
     ],
-    "composition": "center",
+    "composition": "stack",
     "typography": "sans",
-    "illustrativePhotos": [
-      "/assets/batch-c/photos/bread.webp",
-      "/assets/batch-c/photos/cookies.webp"
-    ]
+    "illustrativePhotos": [],
+    "artDirection": "記事写真の白いのれん、墨色の立て看板、木箱に並ぶベーグルに基づく。現状の汎用パンとクッキーの二枚がベーグルの実商品を誤認させやすいため、イメージ写真を従にして文字と抽象的な輪を主役へ。イートインの有無や常設営業日は未確認のまま保持。参考：https://kagoshima-gourmet.com/minori/",
+    "heroArtwork": "/assets/batch-c/artwork/minori.svg"
   },
   {
     "id": "CAFE-100",
@@ -1233,11 +1281,13 @@
       "#303F32",
       "#657943"
     ],
-    "composition": "graphic",
+    "composition": "grid",
     "typography": "sans",
     "illustrativePhotos": [
       "/assets/batch-c/photos/table.webp",
       "/assets/batch-c/photos/tea.webp"
-    ]
+    ],
+    "artDirection": "食べログの実店舗写真で確認した白〜薄灰のミニマルな室内、金属の丸椅子、木製ベンチ、抹茶色を基にする。求人記事の無関係なイメージ画像は根拠に使わない。現行の小さなグリッド図案より、ページ全体の分割と巨大文字でミニマルさを表現。参考：https://tabelog.com/okinawa/A4701/A470101/47035379/",
+    "heroArtwork": null
   }
 ]

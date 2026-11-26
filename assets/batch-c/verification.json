@@ -8,218 +8,248 @@
   "imageDecode": "PASS for all image references",
   "svgAccessibility": "PASS for every new inline SVG",
   "protectedFiles": "No tracked pre-existing files modified",
-  "responsiveReview": "CSS/static review only: 680px breakpoint, single-column layouts, wrapping long text, 16px body text, mobile navigation. Browser rendering not verified.",
-  "browserLimit": "sites-preview relay failed on port 4173; CUA initialization failed: the gaas-browser node_repl sandbox cannot be disabled. Chromium and Safari/WebKit visual, interaction, overflow and console checks not run.",
+  "responsiveReview": "Static CSS review at 390px target: 680px breakpoint, single-column layouts or explicit two-column metadata, wrapping long names, 16px body copy, photo labels >=12px and controls >=14px. Browser rendering not verified.",
+  "browserLimit": "Current retry: sites-preview relay timeout on port 4173; CUA getState failed with gaas-browser node_repl sandbox initialization error. Desktop/390px visual rendering, console, touch and Safari/WebKit remain unverified.",
   "pages": [
     {
       "id": "CAFE-071",
       "path": "/kissa-kotsubu/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "magazine",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-072",
       "path": "/sora-to-kaze-to/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "cover",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-073",
       "path": "/bone-and-peace/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "duotone",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-074",
       "path": "/kinkin/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "poster",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-075",
       "path": "/pechunia-cafe/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "salon",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-076",
       "path": "/chouchou-cafe/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "atelier",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-077",
       "path": "/curry-cafe-m/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "grid",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-078",
       "path": "/caffe-rieta/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "gallery",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-079",
       "path": "/sora16cafe/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "magazine",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-080",
       "path": "/kamo-no-hitotoki/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "stack",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-081",
       "path": "/cafe-amie/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "salon",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-082",
       "path": "/muregurashi/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "atelier",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-083",
       "path": "/hajimari-no-maho/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "poster",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-084",
       "path": "/country-house-f/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "grid",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-085",
       "path": "/nuie-luce-food/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "gallery",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-086",
       "path": "/3nen-bgumi/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "duotone",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-087",
       "path": "/backer/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "cover",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-088",
       "path": "/cafe-bar-en/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "salon",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-089",
       "path": "/curry-coffee-wine/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "stack",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-090",
       "path": "/goodstock-unzen/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "magazine",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-091",
       "path": "/yakuzen-den/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "duotone",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-092",
       "path": "/nikkori-cute/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "magazine",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-093",
       "path": "/maruta-chaya/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "atelier",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-094",
       "path": "/imo-danshaku/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "poster",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-095",
       "path": "/joko-coffee/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "gallery",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-096",
       "path": "/sunnote/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "cover",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-097",
       "path": "/rinz/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "salon",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-098",
       "path": "/teddy-bakery/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "cover",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-099",
       "path": "/minori/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "stack",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     },
     {
       "id": "CAFE-100",
       "path": "/oki-zen/",
       "static": "pass",
-      "photos": "decoded successfully",
-      "browser": "not run: preview relay timeout; CUA sandbox initialization failed"
+      "accessibleShopName": "complete name in h1 aria-label",
+      "composition": "grid",
+      "browser": "not run: relay timeout and CUA sandbox initialization failure"
     }
   ],
   "externalLinks": [
@@ -981,5 +1011,15 @@
   "javascriptBehavior": "PASS: actual script tested in a lightweight DOM stub for open/close, aria-expanded, label, Escape/focus, link close, breakpoint reset. Browser DOM not exercised.",
   "bodyContrast": "PASS: 30 body foreground/background combinations, minimum 5.0:1 (sRGB relative luminance). Decoration colors are not body text colors.",
   "licenseCheck": "Unsplash License text read through web search tool on 2026-11-26. Shell GET returned 401; search retrieval succeeded.",
-  "externalLinksNote": "HTTP 200 does not verify store identity, up-to-date business information or Instagram post access. All Instagram profiles/posts remain directly unconfirmed."
+  "externalLinksNote": "HTTP 200 does not verify store identity, up-to-date business information or Instagram post access. All Instagram profiles/posts remain directly unconfirmed.",
+  "redesignDate": "2026-11-26",
+  "redesign": "30 editorial art directions; local Japanese/Latin fonts; 6 original artworks; 9 compositions with individual overrides; redundant interlude removed",
+  "fontCheck": "PASS: all five local WOFF2 files parsed, Japanese text coverage checked in both JP families, hashes and bundled OFL licenses verified",
+  "coloredHeroContrast": {
+    "result": "PASS: declared normal-text surface pairs >=4.5:1",
+    "minimum": 4.81,
+    "note": "Photo-background compositing and visual readability require browser review."
+  },
+  "independentReview": "Static HTML/CSS review completed; the secondary image disclosure was increased from 9.6px to12px. No other substantive static defect found.",
+  "redesignCheck": "PASS: 30 complete accessible shop names, disclosures, noindex, labels, references, image/SVG/font parsing, allowed edit boundary"
 }

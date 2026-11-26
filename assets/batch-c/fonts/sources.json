@@ -1,0 +1,101 @@
+{
+  "checkedOn": "2026-11-26",
+  "licenseNote": "The SIL OFL 1.1 permits use, embedding, redistribution and modification subject to its terms. Original licenses and copyrights are bundled. Noto Sans JP license reserves the name Source; that name is not used for this Noto Sans JP subset.",
+  "fonts": [
+    {
+      "file": "noto-serif-jp.woff2",
+      "family": "Noto Serif JP",
+      "fontStyle": "normal",
+      "weightRange": [
+        400,
+        600
+      ],
+      "format": "woff2",
+      "sizeBytes": 535664,
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/notoserifjp/NotoSerifJP%5Bwght%5D.ttf",
+      "license": "SIL Open Font License 1.1",
+      "licenseFile": "notoserifjp-OFL.txt",
+      "licenseUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/notoserifjp/OFL.txt",
+      "sourceRepository": "https://github.com/google/fonts/tree/main/ofl/notoserifjp",
+      "modifications": "Subset to all supplied/current cafe text plus Latin, Japanese kana and punctuation. Weight axis restricted; optical-size axis frozen where available. Original copyright and name records retained.",
+      "sha256": "a9dfb0b9cc4f8fa0594524277d81313b8039243d1867bee2234662e7f9c11c47",
+      "coverageCheck": "All current editorial characters supported by the original font remain in this subset."
+    },
+    {
+      "file": "noto-sans-jp.woff2",
+      "family": "Noto Sans JP",
+      "fontStyle": "normal",
+      "weightRange": [
+        400,
+        600
+      ],
+      "format": "woff2",
+      "sizeBytes": 377180,
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansjp/NotoSansJP%5Bwght%5D.ttf",
+      "license": "SIL Open Font License 1.1",
+      "licenseFile": "notosansjp-OFL.txt",
+      "licenseUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansjp/OFL.txt",
+      "sourceRepository": "https://github.com/google/fonts/tree/main/ofl/notosansjp",
+      "modifications": "Subset to all supplied/current cafe text plus Latin, Japanese kana and punctuation. Weight axis restricted; optical-size axis frozen where available. Original copyright and name records retained.",
+      "sha256": "0086f5810e700b35b335f310092ffd0b49e59f29b5c3e70e4c8cae2949b6e70f",
+      "coverageCheck": "All current editorial characters supported by the original font remain in this subset."
+    },
+    {
+      "file": "bodoni-moda.woff2",
+      "family": "Bodoni Moda",
+      "fontStyle": "normal",
+      "weightRange": [
+        400,
+        700
+      ],
+      "format": "woff2",
+      "sizeBytes": 33620,
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/bodonimoda/BodoniModa%5Bopsz%2Cwght%5D.ttf",
+      "license": "SIL Open Font License 1.1",
+      "licenseFile": "bodonimoda-OFL.txt",
+      "licenseUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/bodonimoda/OFL.txt",
+      "sourceRepository": "https://github.com/google/fonts/tree/main/ofl/bodonimoda",
+      "modifications": "Subset to all supplied/current cafe text plus Latin, Japanese kana and punctuation. Weight axis restricted; optical-size axis frozen where available. Original copyright and name records retained.",
+      "sha256": "f53af646acb8e0f7f36d969d5f0c6430e75f23934486ec16702fc80fbcabc12a",
+      "coverageCheck": "All current editorial characters supported by the original font remain in this subset."
+    },
+    {
+      "file": "bodoni-moda-italic.woff2",
+      "family": "Bodoni Moda",
+      "fontStyle": "italic",
+      "weightRange": [
+        400,
+        700
+      ],
+      "format": "woff2",
+      "sizeBytes": 39204,
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/bodonimoda/BodoniModa-Italic%5Bopsz%2Cwght%5D.ttf",
+      "license": "SIL Open Font License 1.1",
+      "licenseFile": "bodonimoda-OFL.txt",
+      "licenseUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/bodonimoda/OFL.txt",
+      "sourceRepository": "https://github.com/google/fonts/tree/main/ofl/bodonimoda",
+      "modifications": "Subset to all supplied/current cafe text plus Latin, Japanese kana and punctuation. Weight axis restricted; optical-size axis frozen where available. Original copyright and name records retained.",
+      "sha256": "f98cd1c108b632f64531bc93c06991ef471fc6a35078571c3c51f2cefd2e6e3d",
+      "coverageCheck": "All current editorial characters supported by the original font remain in this subset."
+    },
+    {
+      "file": "dm-sans.woff2",
+      "family": "DM Sans",
+      "fontStyle": "normal",
+      "weightRange": [
+        400,
+        700
+      ],
+      "format": "woff2",
+      "sizeBytes": 28924,
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/dmsans/DMSans%5Bopsz%2Cwght%5D.ttf",
+      "license": "SIL Open Font License 1.1",
+      "licenseFile": "dmsans-OFL.txt",
+      "licenseUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/dmsans/OFL.txt",
+      "sourceRepository": "https://github.com/google/fonts/tree/main/ofl/dmsans",
+      "modifications": "Subset to all supplied/current cafe text plus Latin, Japanese kana and punctuation. Weight axis restricted; optical-size axis frozen where available. Original copyright and name records retained.",
+      "sha256": "a758b0fcf401007c23da64469578470c34d547d01742fb23d901af2ea138b1aa",
+      "coverageCheck": "All current editorial characters supported by the original font remain in this subset."
+    }
+  ]
+}
