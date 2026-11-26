@@ -1,0 +1,2 @@
+:root{--paper:#f0e3cd;--ink:#402b23;--accent:#8a4430;--wash:#c2a16d;--font:var(--serif);}
+.hero-name{font-size:clamp(3.1rem,7vw,7rem);letter-spacing:.06em}.hero-art{border-radius:50%}

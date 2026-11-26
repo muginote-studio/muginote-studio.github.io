@@ -1,0 +1,2 @@
+:root{--paper:#fbf0d7;--ink:#632820;--accent:#a33327;--wash:#e6c394;--font:var(--sans);}
+.hero-name{font-size:clamp(7rem,20vw,19rem);font-weight:950}.hero-art{transform:rotate(4deg)}

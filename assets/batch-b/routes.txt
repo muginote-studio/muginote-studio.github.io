@@ -1,0 +1,30 @@
+CAFE-041	/mico/	mico
+CAFE-042	/kissa-kobito/	喫茶コビト
+CAFE-043	/our/	our
+CAFE-044	/cafe-hana/	カフェ花
+CAFE-045	/3pozzo-cafe/	3POZZO cafe
+CAFE-046	/cohaccha/	cohaccha
+CAFE-047	/kominka-onn/	古民家カフェ 温
+CAFE-048	/lavender-lane/	LAVENDER LANE Tea Room
+CAFE-049	/cafe-minamo/	カフェみなも
+CAFE-050	/anew/	anew egg sandwich & cafe
+CAFE-051	/campanella/	Campanella
+CAFE-052	/r-dreams/	Cafe R･Dreams
+CAFE-053	/blossom-coffee-house/	BLOSSOM COFFEE HOUSE
+CAFE-054	/jinryo-coffee/	Jinryo Coffee
+CAFE-055	/kigi/	PATISSERIE & 喫茶 KIGI
+CAFE-056	/renelle/	ルネル洋菓子店
+CAFE-057	/7uts/	7uts
+CAFE-058	/riverside-cafe-sleep/	riverside cafe ＆ sleep
+CAFE-059	/hidamari/	カフェとごはん ひだまり
+CAFE-060	/kyushoku-biyori/	給食日和
+CAFE-061	/towza-diner/	TOWZA DINER 1830
+CAFE-062	/del/	DEL
+CAFE-063	/loaff/	LOAFF
+CAFE-064	/on-cafe/	on cafe
+CAFE-065	/kissa-stern/	喫茶 Stern
+CAFE-066	/kirara-cafe/	キララカフェ
+CAFE-067	/good/	good
+CAFE-068	/ponte/	ponte
+CAFE-069	/ara/	ara
+CAFE-070	/oyaji-cafe/	おやじかふぇ
