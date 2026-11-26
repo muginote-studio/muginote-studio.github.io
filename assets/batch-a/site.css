@@ -1,1023 +1,381 @@
-/* Batch A only: editorial cafe proposals, independent of the shared site. */
-*{
-box-sizing:border-box}
-html{
-  scroll-behavior:smooth;
-scroll-padding-top:2rem}
-body{
-  margin:0;
-  background:var(--paper);
-  color:var(--ink);
-  font:400 1rem/1.9 -apple-system,BlinkMacSystemFont,"Noto Sans JP","Hiragino Kaku Gothic ProN","Yu Gothic",sans-serif;
-overflow-wrap:anywhere}
-a{
-  color:inherit;
-  text-underline-offset:.3em;
-text-decoration-thickness:1px}
-a:hover{
-text-decoration-thickness:2px}
-button{
-font:inherit}
-button,a,summary{
--webkit-tap-highlight-color:transparent}
-a:focus-visible,button:focus-visible,summary:focus-visible{
-  outline:3px solid var(--accent);
-outline-offset:5px}
-img{
-  display:block;
-  width:100%;
-  height:100%;
-object-fit:cover}
-figure{
-  margin:0;
-min-width:0}
-figcaption{
-  font:400 .8125rem/1.6 -apple-system,BlinkMacSystemFont,"Yu Gothic",sans-serif;
-  letter-spacing:0;
-  padding:.65rem 0;
-color:var(--ink)}
-h1,h2,p{
-margin:0}
-h1,h2{
-  font-weight:500;
-line-height:1.5}
-h1{
-  font-size:clamp(3rem,6.3vw,7rem);
-  line-height:1.15;
-  letter-spacing:-.035em;
-text-wrap:balance}
-h2{
-  font-size:clamp(1.7rem,2.5vw,2.8rem);
-  letter-spacing:.02em;
-text-wrap:balance}
-.type-serif h1,.type-serif h2,.type-serif .wordmark,.type-serif .hero-line,.type-serif .interlude-copy>p{
-font-family:"Noto Serif JP","Hiragino Mincho ProN","Yu Mincho",Georgia,serif}
-.type-sans h1{
-font-weight:750}
-.eyebrow{
-  font-size:.875rem;
-  letter-spacing:.13em;
-margin-bottom:1.5rem}
-.disclosure{
-  text-align:center;
-  border-bottom:1px solid currentColor;
-  padding:.35rem 1rem;
-  font-size:.8125rem;
-letter-spacing:.04em}
-.site-header{
-  max-width:1440px;
-  margin:auto;
-  padding:1.5rem 4vw;
-  display:flex;
-  align-items:center;
-  justify-content:space-between;
-gap:1.5rem}
-.wordmark{
-  font-size:1.125rem;
-  line-height:1.6;
-  text-decoration:none;
-  max-width:50%;
-font-weight:600}
-.site-header nav{
-  display:flex;
-  gap:1.8rem;
-  font-size:.875rem;
-align-items:center}
-.site-header nav a{
-text-decoration:none}
-.site-header nav a:hover{
-text-decoration:underline}
-.menu-toggle{
-display:none}
-.hero{
-  max-width:1440px;
-  margin:auto;
-  padding:2.5rem 4vw 5rem;
-position:relative}
-.title-block{
-min-width:0}
-.hero-line{
-  margin-top:2rem;
-  font-size:clamp(1.1rem,1.8vw,1.5rem);
-line-height:1.8}
-.text-link{
-  display:inline-block;
-  margin-top:1.8rem;
-  font-size:.9375rem;
-  padding-bottom:.2rem;
-  text-decoration:none;
-border-bottom:1px solid currentColor}
-.hero-mark{
-  display:flex;
-  flex-direction:column;
-  align-items:center;
-  gap:.6rem;
-  font-size:.8125rem;
-  letter-spacing:.12em;
-color:var(--accent)}
-.glyph-motif{
-  width:75px;
-  height:80px;
-flex:none}
-.hero-photo img{
-height:clamp(350px,43vw,640px)}
-.side-photo img{
-height:420px}
-.hero-split{
-  display:grid;
-  grid-template-columns:1fr 1.06fr;
-  gap:3rem;
-  align-items:center;
-min-height:740px}
-.hero-split .title-block{
-padding:3rem 0 4rem}
-.hero-split .hero-photo img{
-  border-radius:48% 48% 0 0;
-height:580px}
-.hero-split>.hero-mark{
-  position:absolute;
-  left:5vw;
-  bottom:2rem;
-flex-direction:row}
-.hero-frame{
-  max-width:1250px;
-  padding:2rem 4vw 5rem;
-  border:1px solid var(--accent);
-  margin-top:1.4rem;
-width:92%}
-.frame-top{
-  display:flex;
-  flex-direction:column;
-  align-items:center;
-  text-align:center;
-  padding:1rem 0 3rem;
-gap:1.5rem}
-.frame-top .hero-mark span{
-display:none}
-.frame-top .glyph-motif{
-  width:52px;
-height:56px}
-.hero-frame h1{
-font-size:clamp(3rem,6vw,5.7rem)}
-.hero-frame .hero-photo{
-  padding:.7rem;
-border:1px solid var(--accent)}
-.hero-frame .hero-photo img{
-height:470px}
-.hero-diptych>.title-block{
-  text-align:center;
-  max-width:950px;
-margin:0 auto 3.5rem}
-.photo-pair{
-  display:grid;
-  grid-template-columns:1.5fr 1fr;
-  gap:2rem;
-align-items:end}
-.photo-pair .side-photo{
-padding-bottom:2.5rem}
-.photo-pair .side-photo img{
-height:380px}
-.hero-letter{
-  display:grid;
-  grid-template-columns:1fr 1fr;
-  gap:6vw;
-  align-items:center;
-padding-top:3.5rem}
-.letter-intro{
-  border-top:1px solid var(--accent);
-  border-bottom:1px solid var(--accent);
-padding:2.5rem 0 3rem}
-.letter-intro .hero-mark{
-  align-items:flex-start;
-margin-bottom:2rem}
-.letter-intro .hero-mark span{
-display:none}
-.hero-letter h1{
-font-size:clamp(2.8rem,5vw,5.5rem)}
-.hero-letter .hero-photo{
-padding-top:4rem}
-.hero-letter .hero-photo img{
-height:560px}
-.poster-head{
-  display:flex;
-  gap:3rem;
-  align-items:center;
-  justify-content:space-between;
-  padding-bottom:2rem;
-  border-bottom:3px solid var(--ink);
-margin-bottom:2.5rem}
-.poster-head h1{
-font-size:clamp(2.8rem,6.5vw,6.7rem)}
-.poster-head .hero-mark{
-  border:1px solid currentColor;
-  border-radius:50%;
-  width:145px;
-  height:145px;
-  justify-content:center;
-flex:none}
-.hero-poster .hero-photo img{
-height:480px}
-.hero-night{
-  display:grid;
-  grid-template-columns:.9fr 1.2fr;
-  gap:5vw;
-  align-items:center;
-padding-top:4rem}
-.hero-night .title-block{
-padding-left:6vw}
-.hero-night h1{
-  writing-mode:vertical-rl;
-  max-height:400px;
-  min-height:250px;
-  font-size:clamp(3rem,6vw,5.8rem);
-letter-spacing:.16em}
-.hero-night .eyebrow{
-letter-spacing:.04em}
-.night-image{
-position:relative}
-.night-image .hero-photo img{
-  height:620px;
-filter:brightness(.8)}
-.night-image .hero-mark{
-  position:absolute;
-  right:1.5rem;
-  top:1.5rem;
-  background:var(--paper);
-padding:1rem}
-.night-image .hero-mark span{
-display:none}
-.grid-heading{
-  display:flex;
-  justify-content:space-between;
-  gap:2rem;
-  align-items:center;
-  padding:1.5rem 0 3rem;
-border-top:1px solid var(--ink)}
-.hero-grid .photo-pair{
-  grid-template-columns:1fr 1fr;
-gap:1.3rem}
-.hero-grid .photo-pair .side-photo{
-padding:0}
-.hero-grid .photo-pair img{
-height:430px}
-.hero-grid h1{
-font-size:clamp(3.5rem,7vw,7rem)}
-.hero-editorial{
-  display:grid;
-  grid-template-columns:1fr 1.2fr .55fr;
-  gap:2rem;
-align-items:start}
-.editorial-title{
-  padding-top:4rem;
-min-width:0}
-.editorial-title .hero-mark{
-  align-items:flex-start;
-margin-top:2rem}
-.editorial-title .hero-mark span{
-display:none}
-.hero-editorial h1{
-font-size:clamp(3.5rem,6.5vw,6rem)}
-.hero-editorial>.hero-photo{
-padding-top:1rem}
-.hero-editorial>.hero-photo img{
-height:610px}
-.hero-editorial>.side-photo{
-padding-top:17rem}
-.hero-editorial>.side-photo img{
-height:300px}
-.hero-arch{
-  display:grid;
-  grid-template-columns:.9fr 1.1fr;
-  gap:7vw;
-  align-items:center;
-  max-width:1280px;
-padding-top:5rem}
-.arch-image{
-position:relative}
-.arch-image .hero-photo img{
-  height:610px;
-border-radius:50% 50% 0 0}
-.arch-image .hero-mark{
-  position:absolute;
-  left:-2rem;
-  bottom:5rem;
-  background:var(--paper);
-  border:1px solid var(--accent);
-  border-radius:50%;
-padding:1rem}
-.arch-image .hero-mark span{
-display:none}
-.hero-vertical{
-  display:grid;
-  grid-template-columns:.9fr 1.2fr;
-  gap:4rem;
-  align-items:center;
-  max-width:1280px;
-padding-top:4rem}
-.hero-vertical .title-block{
-  display:flex;
-  flex-direction:column;
-align-items:center}
-.hero-vertical h1{
-  writing-mode:vertical-rl;
-  max-height:480px;
-  min-height:240px;
-  letter-spacing:.09em;
-font-size:clamp(3rem,6vw,5.3rem)}
-.hero-vertical .hero-line{
-font-size:1.1rem}
-.vertical-image{
-position:relative}
-.vertical-image .hero-photo img{
-height:640px}
-.vertical-image .hero-mark{
-  position:absolute;
-  left:1.3rem;
-  top:1.3rem;
-  background:var(--paper);
-padding:.8rem}
-.vertical-image .hero-mark span{
-display:none}
-.hero-garden{
-  display:grid;
-  grid-template-columns:70px 1fr 1.25fr;
-  gap:2rem;
-  align-items:center;
-padding-top:4rem}
-.hero-garden>.hero-mark{
-  align-self:start;
-padding-top:1rem}
-.hero-garden>.hero-mark span{
-writing-mode:vertical-rl}
-.hero-garden h1{
-font-size:clamp(3rem,5.5vw,5.6rem)}
-.garden-image{
-  padding:1rem;
-  border:1px solid var(--accent);
-border-radius:48% 48% 0 0}
-.garden-image .hero-photo img{
-  height:600px;
-border-radius:48% 48% 0 0}
-.hero-pop{
-  display:grid;
-  grid-template-columns:1fr 1.1fr;
-  gap:3rem;
-  align-items:center;
-padding-top:4rem}
-.hero-pop h1{
-font-size:clamp(3.8rem,8vw,8rem)}
-.pop-image{
-position:relative}
-.pop-image .hero-photo img{
-  height:530px;
-border-radius:50%}
-.pop-image .hero-mark{
-  background:var(--soft);
-  border:2px solid var(--ink);
-  border-radius:50%;
-  width:140px;
-  height:140px;
-  justify-content:center;
-  position:absolute;
-  bottom:3.5rem;
-  left:-1rem;
-  transform:rotate(-10deg);
-color:var(--ink)}
-.diner-heading{
-  display:flex;
-  gap:2.5rem;
-  align-items:center;
-padding:2rem 0 3rem}
-.hero-diner h1{
-  font-size:clamp(3rem,7vw,7rem);
-  font-weight:900;
-line-height:1.1}
-.hero-diner .hero-photo{
-  border-top:16px solid var(--accent);
-padding-top:1rem}
-.hero-diner .hero-photo img{
-height:470px}
-.layout-diner .disclosure{
-  background:var(--ink);
-color:var(--paper)}
-.layout-diner .site-header{
-  border-bottom:12px solid transparent;
-border-image:repeating-linear-gradient(90deg,var(--ink) 0 20px,var(--paper) 20px 40px) 12}
-.about{
-  max-width:1250px;
-  margin:3rem auto 0;
-  padding:4rem 4vw 6rem;
-  display:grid;
-  grid-template-columns:1fr 1fr;
-  gap:2rem 5vw;
-border-top:1px solid var(--accent)}
-.about-copy{
-padding-top:2.5rem}
-.source-inline{
-  font-size:.875rem;
-margin-top:1.5rem}
-.place-notes{
-  grid-column:1/-1;
-  display:flex;
-  flex-wrap:wrap;
-  gap:1.5rem 4rem;
-  border-top:1px solid var(--accent);
-  padding-top:1.8rem;
-margin-top:1rem}
-.place-notes p{
-font-size:1rem}
-.about-night,.about-vertical{
-grid-template-columns:.8fr 1fr}
-.about-poster,.about-diner{
-border-top-width:3px}
-.about-grid .about-copy{
-padding-top:0}
-.interlude{
-  max-width:1250px;
-  margin:0 auto 5rem;
-  padding:0 4vw;
-  display:grid;
-  grid-template-columns:1.15fr 1fr;
-  gap:5vw;
-align-items:center}
-.interlude .side-photo img{
-height:410px}
-.interlude-copy{
-padding:2rem 1rem}
-.interlude-copy>p{
-  font-size:clamp(1.7rem,2.7vw,2.7rem);
-line-height:1.7}
-.interlude-copy .glyph-motif{
-  color:var(--accent);
-margin-bottom:1rem}
-.layout-vertical .interlude,.layout-letter .interlude{
-direction:rtl}
-.layout-vertical .interlude>*,.layout-letter .interlude>*{
-direction:ltr}
-.layout-arch .interlude img{
-border-radius:2px 100px 2px 2px}
-.layout-pop .interlude{
-  border-radius:2rem;
-  background:var(--soft);
-  padding:3rem;
-margin-bottom:6rem}
-.layout-pop .interlude img{
-border-radius:1rem}
-.latest{
-  max-width:1150px;
-  margin:0 auto 5rem;
-  padding:3rem 4vw;
-  background:var(--soft);
-  display:flex;
-  align-items:center;
-  justify-content:space-between;
-gap:2rem}
-.latest p{
-font-size:1.5rem}
-.latest a{
-margin:0}
-.visit{
-  background:var(--soft);
-  padding:5rem max(4vw,calc((100vw - 1150px)/2));
-  display:grid;
-  grid-template-columns:.8fr 1.3fr;
-gap:5vw}
-.visit-heading>p:last-child{
-  margin-top:2rem;
-max-width:30ch}
-.visit-details{
-min-width:0}
-.visit dl{
-margin:0}
-.visit dl>div{
-  display:grid;
-  grid-template-columns:8rem 1fr;
-  gap:1rem;
-  padding:1.1rem 0;
-border-bottom:1px solid var(--accent)}
-dt{
-font-size:.9375rem}
-dd{
-  margin:0;
-min-width:0}
-.information-note{
-  font-size:.875rem;
-  line-height:1.85;
-margin-top:1.5rem}
-.visit-actions{
-  display:flex;
-  flex-wrap:wrap;
-  gap:1rem;
-margin-top:2rem}
-.button{
-  display:inline-flex;
-  align-items:center;
-  justify-content:center;
-  min-height:48px;
-  padding:.7rem 1.2rem;
-  background:var(--ink);
-  color:var(--paper);
-  text-decoration:none;
-  font-size:.9375rem;
-border:1px solid var(--ink)}
-.button:hover{
-  background:var(--paper);
-color:var(--ink)}
-.button-secondary{
-  color:var(--ink);
-background:transparent}
-footer{
-  max-width:1250px;
-  margin:auto;
-padding:3rem 4vw}
-footer p{
-  font-size:.875rem;
-margin-top:1rem}
-.footer-heading{
-  display:flex;
-  justify-content:space-between;
-  gap:2rem;
-  margin-bottom:2rem;
-font-size:1rem}
-.footer-heading>span{
-font-weight:600}
-.footer-heading>a{
-  flex:none;
-font-size:.875rem}
-details{
-  margin-top:2rem;
-  border-top:1px solid var(--accent);
-border-bottom:1px solid var(--accent)}
-summary{
-  cursor:pointer;
-  padding:1rem 0;
-font-size:.9375rem}
-.source-details{
-padding:0 0 1.5rem}
-.source-details h2{
-  font:600 1rem/1.8 -apple-system,BlinkMacSystemFont,"Yu Gothic",sans-serif;
-margin-top:1.5rem}
-.source-details ul{
-padding-left:1.3rem}
-.source-details li{
-  margin:.6rem 0;
-font-size:.875rem}
-.credit{
-  letter-spacing:.12em;
-  font-size:.8125rem;
-margin-top:2rem}
-.skip{
-  position:absolute;
-  top:-100px;
-  left:1rem;
-  z-index:10;
-  padding:1rem;
-background:var(--paper)}
-.skip:focus{
-top:1rem}
-.store-hiyokodo h1,.store-nandemonaihi h1,.store-cafe-zen h1{
-font-size:clamp(2.5rem,5.3vw,5rem)}
-.store-le-lien h1{
-font-size:clamp(2.8rem,6vw,6rem)}
-.store-hiyokodo .poster-head .title-block{
-max-width:850px}
-.store-tabetai .hero-photo img{
-object-position:50% 45%}
-.store-le-chainon .pop-image .hero-photo img{
-object-position:50% 40%}
-.store-mimizu .hero-photo img{
-object-position:60% 50%}
-.store-hoki-cafe h1{
-max-width:7ch}
-.store-cafe-zen .hero-vertical h1{
-  font-size:3rem;
-  writing-mode:horizontal-tb;
-  min-height:0;
-  max-height:none;
-  letter-spacing:.07em;
-line-height:1.8}
-.store-cafe-zen .hero-vertical .title-block{
-align-items:flex-start}
-@media(min-width:1600px){
-  .hero{
-    padding-left:3rem;
-  padding-right:3rem}
-}
-@media(max-width:1000px){
-  .site-header{
-  padding:1.25rem 5vw}
-  .site-header nav{
-  gap:1rem}
-  .hero{
-    padding-left:5vw;
-  padding-right:5vw}
-  .hero-editorial{
-  grid-template-columns:1fr 1fr}
-  .hero-editorial>.side-photo{
-    grid-column:2;
-    padding:0;
-    max-width:70%;
-    margin-top:-4rem;
-    position:relative;
-  transform:translateX(-15%)}
-  .hero-editorial>.side-photo img{
-  height:220px}
-  .hero-garden{
-  grid-template-columns:1fr 1.2fr}
-  .hero-garden>.hero-mark{
-  display:none}
-  .hero-letter{
-  gap:4vw}
-  .hero-letter .hero-photo img,.arch-image .hero-photo img{
-  height:500px}
-  .hero-vertical{
-  gap:2rem}
-  .hero-split{
-    gap:2rem;
-  min-height:650px}
-  .hero-split .hero-photo img{
-  height:500px}
-  .hero-pop{
-  gap:1.5rem}
-  .hero-pop h1{
-  font-size:clamp(3.2rem,7vw,5.5rem)}
-  .pop-image .hero-photo img{
-  height:440px}
-  .visit{
-  grid-template-columns:1fr 1.5fr}
-  .visit dl>div{
-  grid-template-columns:6rem 1fr}
-  .hero-night .title-block{
-  padding-left:0}
-  .hero-night h1{
-  font-size:4rem}
-  .hero-night .hero-line{
-  font-size:1rem}
-  .interlude{
-  gap:2rem}
+/* Batch A: typography and compositions tailored to the public visual references. */
+@font-face{font-family:Studio Serif;src:url('./fonts/serif.woff2') format('woff2');font-style:normal;font-weight:500;font-display:swap}
+@font-face{font-family:Studio Sans;src:url('./fonts/sans.woff2') format('woff2');font-style:normal;font-weight:500;font-display:swap}
+@font-face{font-family:Studio Condensed;src:url('./fonts/condensed.woff2') format('woff2');font-style:normal;font-weight:700;font-display:swap}
+@font-face{font-family:Studio Mincho;src:url('./fonts/mincho.woff2') format('woff2');font-style:normal;font-weight:500;font-display:swap}
+@font-face{font-family:Studio Kaku;src:url('./fonts/kaku.woff2') format('woff2');font-style:normal;font-weight:600;font-display:swap}
+*{box-sizing:border-box}
+:root{--gutter:clamp(1.25rem,4.5vw,5rem);--serif:'Studio Serif','Studio Mincho','Yu Mincho',serif;--sans:'Studio Sans','Studio Kaku',-apple-system,BlinkMacSystemFont,'Yu Gothic',sans-serif}
+html{scroll-behavior:smooth;scroll-padding-top:2rem}
+body{margin:0;background:var(--paper);color:var(--ink);font:400 1rem/1.95 -apple-system,BlinkMacSystemFont,'Hiragino Kaku Gothic ProN','Yu Gothic',sans-serif;overflow-wrap:anywhere;-webkit-font-smoothing:antialiased}
+img{display:block;width:100%;height:100%;object-fit:cover}
+figure{margin:0;min-width:0}
+p,h1,h2{margin:0}
+a{color:inherit;text-underline-offset:.4em;text-decoration-thickness:1px}
+a:hover{text-decoration-thickness:2px}
+button{font:inherit}
+a,button,summary{-webkit-tap-highlight-color:transparent}
+a:focus-visible,button:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:6px}
+.skip{position:absolute;top:-100px;left:1rem;z-index:20;padding:1rem;background:var(--paper)}
+.skip:focus{top:1rem}
+.disclosure{padding:.4rem var(--gutter);font-size:.75rem;letter-spacing:.06em;border-bottom:1px solid var(--soft)}
+.site-header{padding:1.6rem var(--gutter);display:flex;justify-content:space-between;align-items:center;gap:2rem;max-width:1800px;margin:auto}
+.wordmark{font:500 .9375rem/1.6 var(--sans);text-decoration:none;max-width:55%;letter-spacing:.02em}
+.site-header nav{display:flex;gap:2.5rem;align-items:center;font-size:.875rem}
+.site-header nav a{text-decoration:none}
+.site-header nav a:hover{text-decoration:underline}
+.menu-toggle{display:none}
+.eyebrow,.section-label{font:500 .8125rem/1.7 var(--sans);letter-spacing:.13em}
+.hero{padding:3.2rem var(--gutter) 5rem;position:relative;max-width:1800px;margin:auto;isolation:isolate}
+.title-block{position:relative;z-index:2;min-width:0}
+.hero .eyebrow{margin-bottom:2.5rem;max-width:45ch}
+.store-name{font:500 clamp(5rem,9.7vw,10rem)/.86 var(--serif);letter-spacing:-.06em;overflow-wrap:normal}
+.store-name>span{display:block}
+.name-small{font:500 1rem/1.8 var(--sans);letter-spacing:.1em;margin-bottom:.9rem}
+.name-inline{display:inline-block;margin:0 0 0 .3em}
+.type-sans .store-name{font-family:var(--sans);font-weight:500;line-height:.94;letter-spacing:-.065em}
+.type-serif .hero-line,.type-serif h2{font-family:var(--serif)}
+.hero-line{font-size:1.0625rem;letter-spacing:.06em;line-height:1.9;margin-top:2.5rem}
+.text-link{display:inline-flex;align-items:center;min-height:44px;padding:.6rem 0;text-decoration:none;border-bottom:1px solid currentColor;font-size:.875rem;line-height:1.8;margin-top:1.6rem;transition:opacity .2s}
+.text-link:hover{opacity:.7}
+.hero-location{font:500 .75rem/1.7 var(--sans);letter-spacing:.16em;color:var(--accent)}
+.photo img{height:clamp(380px,55vw,730px)}
+figcaption{font-size:.75rem;line-height:1.6;padding:.7rem 0;letter-spacing:0}
+.hero-media{position:relative;min-width:0}
+/* A firm split with a tall photograph: Hoki and the teal Akita cafe. */
+.hero-split{display:grid;grid-template-columns:1fr 1fr;column-gap:4vw;align-items:center;padding-top:1rem}
+.hero-split .title-block{padding-bottom:3rem}
+.hero-split .hero-media img{height:min(73svh,810px);min-height:560px}
+.hero-split .hero-location{grid-column:1;grid-row:2;margin-top:-2rem}
+.store-hoki-cafe .store-name{font-family:var(--serif);font-size:clamp(7rem,14.5vw,16rem);font-weight:500;line-height:.79}
+.store-hoki-cafe .store-name span+span{margin-left:1.1ch}
+.store-hoki-cafe .hero-line{margin-top:3rem}
+.store-kyado-ponponjina .store-name{font-family:'Studio Kaku',sans-serif;font-size:clamp(2.7rem,4.4vw,5rem);line-height:1.5;letter-spacing:-.05em}
+/* The old frame becomes a masthead and a panoramic image. */
+.hero-frame{padding-top:3rem}
+.hero-frame .title-block{padding-bottom:3.5rem}
+.hero-frame .store-name{font-size:clamp(6rem,16.5vw,17rem);line-height:.95}
+.hero-frame .store-name .name-small{font-size:1rem}
+.hero-frame .hero-line{position:absolute;right:0;bottom:0;max-width:18ch;margin:0}
+.hero-frame .text-link{margin-top:2rem}
+.hero-frame>.hero-photo img{height:min(61vw,640px);min-height:400px}
+.hero-frame .hero-location{position:absolute;right:var(--gutter);bottom:3.5rem}
+.store-kissa-blondy .store-name{font-family:'Studio Mincho',serif;font-size:clamp(3.5rem,8.3vw,9rem);letter-spacing:-.04em}
+.store-quebectei .store-name{font-size:clamp(5.5rem,15vw,16rem)}
+.store-kissa-perla .store-name{font-size:clamp(7rem,20vw,23rem)}
+/* Two photographs share a baseline rather than equal cards. */
+.hero-diptych .title-block{text-align:center;padding:1rem 6vw 4rem}
+.hero-diptych .store-name{font-size:clamp(6rem,14vw,16rem)}
+.hero-diptych .hero-line{margin-top:2rem}
+.photo-pair{display:grid;grid-template-columns:1.65fr 1fr;gap:5vw;align-items:end}
+.photo-pair .hero-photo img{height:clamp(400px,50vw,690px)}
+.photo-pair .side-photo{margin-bottom:6rem}
+.photo-pair .side-photo img{height:clamp(240px,30vw,420px)}
+.hero-diptych .hero-location{margin-top:1.2rem}
+.store-ten .store-name{font-size:clamp(8rem,21vw,23rem)}
+/* A quiet layout led by Japanese type and a portrait. */
+.hero-letter{display:grid;grid-template-columns:.93fr 1fr;gap:7vw;align-items:center;padding-top:4rem}
+.hero-letter .store-name{font-family:'Studio Mincho',serif;line-height:1.4;font-size:clamp(3.5rem,7.7vw,8rem);letter-spacing:.02em}
+.hero-letter .hero-media{padding-top:4rem}
+.hero-letter .hero-media img{height:clamp(480px,54vw,760px)}
+.hero-letter .hero-location{grid-column:1;align-self:end;margin-top:-3rem;padding-bottom:1rem}
+.store-nandemonaihi .store-name{font-size:clamp(2.2rem,3.9vw,4.2rem);line-height:1.7;letter-spacing:-.035em}
+.store-sena-coffee .store-name{font-size:clamp(3rem,6.7vw,7.7rem);letter-spacing:-.02em}
+/* Posters use broad lettering and no repeated badges. */
+.hero-poster{padding-top:2rem}
+.hero-poster .title-block{padding-bottom:3rem}
+.hero-poster .store-name{font-family:'Studio Mincho',serif;font-size:clamp(4rem,12.5vw,14rem);letter-spacing:-.05em;line-height:1.1}
+.hero-poster .hero-line{position:absolute;right:0;bottom:1rem;margin:0;max-width:15ch}
+.hero-poster .hero-media img{height:clamp(380px,45vw,650px)}
+.hero-poster .hero-location{position:absolute;right:var(--gutter);bottom:3.3rem}
+.store-resky .store-name{font-family:var(--serif);font-size:clamp(7rem,20vw,23rem);letter-spacing:-.06em;line-height:.9}
+.store-hiyokodo .hero-media{border-top:8px solid var(--ink);padding-top:1.2rem}
+/* Night cafe: a vertical name next to a dark portrait. */
+.hero-night{display:grid;grid-template-columns:.7fr 1.5fr;gap:4vw;align-items:center;padding-top:2rem}
+.hero-night .title-block{justify-self:center;display:flex;flex-direction:column;align-items:center}
+.hero-night .eyebrow{font-size:.75rem;letter-spacing:.02em}
+.hero-night .store-name{font-family:'Studio Mincho',serif;font-size:clamp(5rem,9vw,10rem);line-height:1.5;letter-spacing:.08em;writing-mode:vertical-rl;max-height:530px}
+.hero-night .store-name .name-small{font-family:'Studio Mincho',serif;letter-spacing:.25em;font-size:1.2rem;margin:0 0 0 1rem}
+.hero-night .hero-line{writing-mode:vertical-rl;height:16em;font-size:.875rem;margin-top:2rem}
+.hero-night .text-link{font-size:.8125rem}
+.hero-night .hero-media img{height:min(84svh,950px);min-height:670px;filter:brightness(.68) saturate(.78)}
+.hero-night .hero-location{position:absolute;left:var(--gutter);bottom:2.5rem}
+/* White and green grid: oversized serif masthead, carefully unequal images. */
+.hero-grid .title-block{padding:2rem 0 3rem}
+.hero-grid .store-name{font-size:clamp(6rem,17vw,19rem);line-height:.9;letter-spacing:-.06em}
+.hero-grid .hero-line{position:absolute;right:0;bottom:3rem;margin:0;font-size:.9375rem}
+.hero-grid .text-link{margin-top:2.5rem}
+.hero-grid .photo-pair{grid-template-columns:1.7fr 1fr;gap:2vw;align-items:start}
+.hero-grid .photo-pair .hero-photo img{height:clamp(400px,40vw,600px)}
+.hero-grid .photo-pair .side-photo{margin:5rem 0 0}
+.hero-grid .photo-pair .side-photo img{height:clamp(280px,30vw,450px)}
+.hero-grid .hero-location{margin-top:1rem}
+.store-cafe-marm .store-name{font-size:clamp(6rem,16vw,18rem)}
+.store-bounce .store-name{font-family:var(--serif);font-size:clamp(6rem,18vw,20rem)}
+/* A magazine opening: one large photograph and a small inset. */
+.hero-editorial{display:grid;grid-template-columns:1fr 1.1fr;gap:4vw;align-items:center;padding-top:3rem;padding-bottom:9rem}
+.hero-editorial .store-name{font-size:clamp(5rem,8.3vw,10rem)}
+.editorial-photos{position:relative;min-width:0;padding-bottom:2rem}
+.editorial-photos .hero-photo img{height:clamp(480px,55vw,800px)}
+.editorial-photos .side-photo{width:42%;position:absolute;left:-22%;bottom:-5rem;background:var(--paper);padding:.6rem}
+.editorial-photos .side-photo img{height:clamp(190px,22vw,320px)}
+.editorial-photos .side-photo figcaption{font-size:.75rem}
+.hero-editorial .hero-location{position:absolute;left:var(--gutter);bottom:4.5rem}
+.store-mimizu .store-name{font-family:'Studio Mincho',serif;font-size:clamp(7rem,13vw,14rem);letter-spacing:-.08em}
+/* Former arches: hard-edged portraits, a narrow rule and ample space. */
+.hero-arch{display:grid;grid-template-columns:1fr 1fr;gap:8vw;align-items:center;padding-top:4rem}
+.hero-arch .hero-media{padding:0 0 3rem 1.4rem;border-left:1px solid var(--accent)}
+.hero-arch .hero-media img{height:clamp(500px,55vw,780px)}
+.hero-arch .store-name{font-size:clamp(5rem,8.5vw,10rem)}
+.hero-arch .hero-location{grid-column:1;margin-top:-2rem}
+.store-ko-meguri .store-name{font-size:clamp(4.3rem,7.6vw,8.5rem)}
+.store-tarte-plus .store-name{font-size:clamp(5rem,10vw,11rem);line-height:.82}
+.store-tarte-plus .store-name .name-small{font-size:1.3rem;margin-bottom:1.5rem}
+/* Vertical Japanese names, a fine rule, and open space. */
+.hero-vertical{display:grid;grid-template-columns:.9fr 1.15fr;gap:5vw;align-items:center;padding-top:3rem}
+.hero-vertical .title-block{display:flex;flex-direction:column;align-items:center;padding:0 1rem}
+.hero-vertical .store-name{font-family:'Studio Mincho',serif;writing-mode:vertical-rl;font-size:clamp(4rem,6.8vw,8rem);line-height:1.65;letter-spacing:.12em;max-height:520px}
+.hero-vertical .hero-line{font-family:'Studio Mincho',serif;font-size:.9375rem;line-height:2;letter-spacing:.12em;text-align:center}
+.hero-vertical .hero-media{border-top:1px solid var(--accent);padding-top:1.4rem}
+.hero-vertical .hero-media img{height:clamp(500px,57vw,820px)}
+.hero-vertical .hero-location{position:absolute;left:var(--gutter);bottom:2rem}
+.store-toki .hero-vertical .store-name{font-size:clamp(6rem,10vw,11rem);letter-spacing:.3em}
+.store-cafe-zen .hero-vertical .store-name{writing-mode:horizontal-tb;font-size:clamp(3rem,6vw,7rem);line-height:1.4;letter-spacing:-.04em}
+.store-cafe-zen .hero-vertical .title-block{align-items:flex-start;padding:0}
+.store-cafe-zen .hero-vertical .hero-line{text-align:left}
+/* Green stores: a large photo and typography on an unbroken field. */
+.hero-garden{display:grid;grid-template-columns:1fr 1.1fr;gap:6vw;align-items:center;padding-top:4rem}
+.hero-garden .title-block{grid-column:2;grid-row:1}
+.hero-garden .hero-media{grid-column:1;grid-row:1}
+.hero-garden .hero-media img{height:clamp(500px,58vw,810px)}
+.hero-garden .store-name{font-size:clamp(5rem,11vw,13rem)}
+.hero-garden .hero-location{grid-column:2;margin-top:-3rem}
+.store-green-cafe-hana .store-name{font-size:clamp(5rem,9vw,11rem)}
+.store-vigo .store-name{font-size:clamp(8rem,15vw,17rem)}
+/* Honey and lilac fields, with a strong rectangular product-photo composition. */
+.hero-pop{display:grid;grid-template-columns:1.1fr 1fr;gap:3vw;align-items:center;padding-top:4rem}
+.hero-pop .store-name{font-size:clamp(4.5rem,7vw,8rem);font-weight:500;line-height:1}
+.hero-pop .hero-media{padding:0 1.1rem 1.1rem 0}
+.hero-pop .hero-media::before{content:'';position:absolute;z-index:-1;inset:1.2rem 0 0 1.2rem;background:var(--ink)}
+.hero-pop .hero-media img{height:clamp(470px,50vw,700px)}
+.hero-pop .hero-location{grid-column:1;margin-top:-2rem}
+.store-my-honey .store-name{font-family:var(--serif);font-size:clamp(4.8rem,8.2vw,10rem);letter-spacing:-.07em}
+.store-le-chainon .store-name{font-family:var(--serif);font-size:clamp(4.5rem,7.7vw,9rem);letter-spacing:-.07em}
+/* HOODHOUSE: condensed type, red and yellow, one restrained checker stripe. */
+.hero-diner{display:grid;grid-template-columns:1fr 1fr;gap:4vw;align-items:center;padding-top:3rem}
+.hero-diner .store-name{font-family:'Studio Condensed','Arial Narrow',sans-serif;font-size:clamp(7rem,15.6vw,18rem);font-weight:700;line-height:.78;letter-spacing:-.035em}
+.hero-diner .store-name .name-small{font-family:'Studio Kaku',sans-serif;font-size:.9375rem;line-height:1.6;letter-spacing:.12em;color:var(--accent);margin-bottom:2rem}
+.hero-diner .hero-line{font-family:'Studio Kaku',sans-serif;color:var(--accent);font-size:1.125rem;margin-top:3rem}
+.hero-diner .hero-media img{height:clamp(550px,60vw,850px)}
+.hero-diner .hero-location{grid-column:1;margin-top:-2rem}
+.layout-diner .hero::after{content:'';grid-column:1/-1;height:14px;margin-top:2rem;background:repeating-linear-gradient(90deg,var(--ink) 0 14px,var(--paper) 14px 28px)}
+/* An editorial reading rhythm continues after the first photograph. */
+.about{padding:6rem var(--gutter) 7rem;max-width:1480px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;column-gap:8vw;row-gap:3.5rem;border-top:1px solid var(--soft)}
+.about h2{font:500 clamp(2rem,3.4vw,3.7rem)/1.75 var(--serif);letter-spacing:-.03em;max-width:13ch;text-wrap:balance}
+.about-heading .eyebrow{color:var(--accent);margin-bottom:2rem}
+.about-copy{padding-top:3.5rem;max-width:45ch;line-height:2.3}
+.source-inline{margin-top:1.8rem;font-size:.8125rem}
+.place-notes{grid-column:1/-1;display:flex;gap:2rem 5vw;flex-wrap:wrap;padding-top:2rem;border-top:1px solid var(--soft);font-size:.9375rem}
+.interlude{max-width:1480px;margin:0 auto;padding:0 var(--gutter) 7rem;display:grid;grid-template-columns:1.2fr 1fr;gap:9vw;align-items:center}
+.interlude .side-photo img{height:clamp(350px,38vw,560px)}
+.interlude-copy{padding-right:2rem}
+.interlude-copy .section-label{color:var(--accent);display:block;margin-bottom:2rem}
+.interlude-copy>p{font:500 clamp(1.75rem,3.2vw,3.2rem)/1.6 var(--serif);letter-spacing:-.04em}
+.layout-letter .interlude,.layout-vertical .interlude{grid-template-columns:1fr 1.2fr}
+.layout-letter .interlude .side-photo,.layout-vertical .interlude .side-photo{grid-column:2;grid-row:1}
+.layout-letter .interlude-copy,.layout-vertical .interlude-copy{grid-column:1;grid-row:1}
+.latest{max-width:1480px;margin:0 auto;padding:1rem var(--gutter) 6rem;display:flex;align-items:center;justify-content:space-between;gap:3rem}
+.latest p{font:500 clamp(1.75rem,3vw,3rem)/1.5 var(--serif);letter-spacing:-.04em}
+.latest .text-link{margin:0}
+.visit{padding:6rem max(var(--gutter),calc((100vw - 1300px)/2));background:var(--soft);display:grid;grid-template-columns:.9fr 1.2fr;gap:7vw}
+.visit-heading .eyebrow{color:var(--accent);margin-bottom:1.8rem}
+.visit-heading h2{font:500 clamp(2rem,3.7vw,4rem)/1.6 var(--serif);letter-spacing:-.06em}
+.visit-heading>p:last-child{max-width:27ch;font-size:.9375rem;line-height:2.1;margin-top:2rem}
+.visit-details{min-width:0}
+.visit dl{margin:0}
+.visit dl>div{display:grid;grid-template-columns:8rem 1fr;gap:1.2rem;border-bottom:1px solid var(--ink);padding:1.35rem 0}
+.visit dt{font-size:.875rem}
+.visit dd{margin:0;font-size:1rem;min-width:0}
+.information-note{font-size:.8125rem;line-height:1.9;margin-top:1.8rem}
+.visit-actions{display:flex;flex-wrap:wrap;gap:.8rem;margin-top:2.3rem}
+.button{display:inline-flex;align-items:center;justify-content:center;min-height:52px;padding:.85rem 1.2rem;font-size:.875rem;line-height:1.7;text-decoration:none;border:1px solid var(--ink);background:var(--ink);color:var(--paper);transition:background .2s,color .2s}
+.button:hover{background:var(--paper);color:var(--ink)}
+.button-secondary{background:transparent;color:var(--ink)}
+footer{max-width:1480px;margin:auto;padding:4rem var(--gutter) 2rem}
+.footer-heading{display:flex;justify-content:space-between;align-items:flex-start;gap:2rem;padding-bottom:2rem;margin-bottom:2rem;border-bottom:1px solid var(--soft)}
+.footer-name{font:500 1.4rem/1.4 var(--serif);max-width:70%}
+.footer-heading>a{font-size:.8125rem;flex-shrink:0}
+footer>p{font-size:.8125rem;line-height:1.9;max-width:90ch;margin-top:.8rem}
+footer details{margin-top:2.5rem;padding:1rem 0;border-top:1px solid var(--soft);border-bottom:1px solid var(--soft)}
+footer summary{cursor:pointer;min-height:32px;font-size:.875rem}
+.source-details{padding:1rem 0}
+.source-details h2{font:600 1rem/1.8 var(--sans);margin:1.7rem 0 .8rem}
+.source-details p,.source-details li{font-size:.875rem;line-height:1.9;margin-top:.7rem}
+.source-details ul{padding-left:1.3rem}
+.credit{font:500 .6875rem/1.7 var(--sans);letter-spacing:.15em;margin-top:2rem}
+@media(min-width:1800px){.hero-location{right:var(--gutter)}}
+@media(max-width:1100px){
+ .hero{padding-top:2.5rem}
+ .hero .eyebrow{margin-bottom:2rem;font-size:.75rem;letter-spacing:.08em}
+ .site-header nav{gap:1.5rem}
+ .store-name{font-size:clamp(4rem,9vw,7rem)}
+ .hero-frame .hero-line,.hero-grid .hero-line,.hero-poster .hero-line{position:static;margin-top:1.6rem;max-width:none}
+ .hero-frame .title-block,.hero-poster .title-block{padding-bottom:2.5rem}
+ .hero-letter{gap:5vw}
+ .hero-split .hero-media img{min-height:500px}
+ .hero-night{grid-template-columns:.9fr 1.2fr}
+ .hero-night .hero-line{writing-mode:horizontal-tb;height:auto;text-align:center;max-width:15ch}
+ .hero-editorial{gap:3vw}
+ .hero-editorial .store-name{font-size:7.6vw}
+ .hero-editorial .hero-line{font-size:.9375rem}
+ .hero-arch{gap:5vw}
+ .hero-pop{grid-template-columns:1fr 1fr}
+ .hero-garden{gap:4vw}
+ .about{column-gap:5vw}
+ .visit{grid-template-columns:.8fr 1.3fr;gap:5vw}
+ .visit dl>div{grid-template-columns:6rem 1fr}
 }
 @media(max-width:680px){
-  html{
-  scroll-padding-top:1rem}
-  body{
-  line-height:1.9}
-  .disclosure{
-    font-size:.75rem;
-  padding:.5rem .8rem}
-  .site-header{
-    flex-wrap:wrap;
-    gap:.8rem;
-  padding:1rem 6vw}
-  .wordmark{
-    font-size:1rem;
-  max-width:77%}
-  .site-header nav{
-    width:100%;
-    display:flex;
-    flex-wrap:wrap;
-    gap:.4rem 1.5rem;
-    padding:.5rem 0;
-  font-size:.875rem}
-  .site-header nav a{
-  padding:.25rem 0}
-  .enhanced .menu-toggle{
-    display:block;
-    font-size:.875rem;
-    padding:.4rem .65rem;
-    color:var(--ink);
-    background:transparent;
-    border:1px solid var(--ink);
-  min-height:44px}
-  .enhanced .site-header nav[hidden]{
-  display:none}
-  .hero{
-    padding:2rem 6vw 3rem;
-    min-height:0;
-  gap:2rem}
-  .eyebrow{
-    font-size:.8125rem;
-    letter-spacing:.07em;
-  margin-bottom:1.25rem}
-  h1{
-    font-size:clamp(2.7rem,12vw,4rem);
-    line-height:1.3;
-  letter-spacing:-.03em}
-  h2{
-  font-size:1.8rem}
-  .hero-line{
-    font-size:1.125rem;
-  margin-top:1.4rem}
-  .text-link{
-  margin-top:1.4rem}
-  .hero-photo img{
-  height:370px}
-  .hero-split,.hero-letter,.hero-night,.hero-arch,.hero-vertical,.hero-garden,.hero-pop{
-    display:flex;
-    flex-direction:column;
-  align-items:stretch}
-  .hero-split .title-block{
-  padding:0}
-  .hero-split .hero-photo img{
-    height:410px;
-  border-radius:46% 46% 0 0}
-  .hero-split>.hero-mark{
-    position:static;
-    flex-direction:row;
-  justify-content:center}
-  .hero-split>.hero-mark .glyph-motif{
-    width:42px;
-  height:45px}
-  .hero-frame{
-    padding:1.5rem 4vw 2rem;
-  margin-top:1rem}
-  .frame-top{
-    padding:0 0 2rem;
-  gap:1rem}
-  .hero-frame h1{
-  font-size:2.8rem}
-  .hero-frame .hero-photo{
-  padding:.4rem}
-  .hero-frame .hero-photo img{
-  height:330px}
-  .hero-diptych>.title-block{
-    margin-bottom:2rem;
-  text-align:left}
-  .photo-pair{
-    gap:1rem;
-  grid-template-columns:1fr .7fr}
-  .photo-pair .hero-photo img{
-  height:340px}
-  .photo-pair .side-photo{
-  padding-bottom:0}
-  .photo-pair .side-photo img{
-  height:220px}
-  .photo-pair figcaption{
-  font-size:.75rem}
-  .hero-letter{
-  padding-top:1rem}
-  .letter-intro{
-  padding:1.5rem 0 2rem}
-  .letter-intro .hero-mark{
-  margin-bottom:1rem}
-  .letter-intro .glyph-motif{
-    width:45px;
-  height:48px}
-  .hero-letter h1{
-  font-size:2.9rem}
-  .hero-letter .hero-photo{
-  padding-top:0}
-  .hero-letter .hero-photo img{
-  height:380px}
-  .poster-head{
-    gap:1rem;
-    margin-bottom:1.7rem;
-  padding-bottom:1.7rem}
-  .poster-head h1{
-  font-size:2.8rem}
-  .poster-head .hero-mark{
-    width:65px;
-  height:65px}
-  .poster-head .glyph-motif{
-    width:36px;
-  height:39px}
-  .poster-head .hero-mark span{
-  display:none}
-  .hero-poster .hero-photo img{
-  height:350px}
-  .hero-night .title-block{
-    display:flex;
-    flex-direction:column;
-    align-items:center;
-  padding-bottom:1rem}
-  .hero-night h1{
-    font-size:3.6rem;
-    max-height:340px;
-  min-height:0}
-  .night-image .hero-photo img{
-  height:400px}
-  .night-image .hero-mark{
-    right:1rem;
-    top:1rem;
-  padding:.5rem}
-  .night-image .glyph-motif{
-    width:42px;
-  height:45px}
-  .grid-heading{
-    padding:.5rem 0 2rem;
-  gap:1rem}
-  .grid-heading .glyph-motif{
-    width:45px;
-  height:48px}
-  .grid-heading .hero-mark span{
-  display:none}
-  .hero-grid h1{
-  font-size:3.5rem}
-  .hero-grid .photo-pair{
-    grid-template-columns:1fr;
-  gap:1rem}
-  .hero-grid .photo-pair .hero-photo img{
-  height:330px}
-  .hero-grid .photo-pair .side-photo{
-    width:70%;
-  margin-left:auto}
-  .hero-grid .photo-pair .side-photo img{
-  height:230px}
-  .hero-editorial{
-    display:grid;
-    grid-template-columns:1fr .35fr;
-  gap:1.5rem}
-  .editorial-title{
-    grid-column:1/-1;
-    display:flex;
-    justify-content:space-between;
-    gap:1rem;
-  padding-top:0}
-  .editorial-title .hero-mark{
-    margin:0;
-  align-self:center}
-  .editorial-title .glyph-motif{
-    width:44px;
-  height:46px}
-  .hero-editorial h1{
-  font-size:3.7rem}
-  .hero-editorial>.hero-photo{
-    grid-column:1/-1;
-  padding:0}
-  .hero-editorial>.hero-photo img{
-  height:390px}
-  .hero-editorial>.side-photo{
-    grid-column:1/-1;
-    justify-self:end;
-    width:55%;
-    margin-top:-6rem;
-    max-width:none;
-    transform:none;
-    padding:5px;
-  background:var(--paper)}
-  .hero-editorial>.side-photo img{
-  height:220px}
-  .hero-arch{
-  padding-top:2rem}
-  .hero-arch h1{
-  font-size:3rem}
-  .arch-image .hero-photo img{
-  height:450px}
-  .arch-image .hero-mark{
-    left:-.4rem;
-    bottom:3.8rem;
-  padding:.65rem}
-  .arch-image .glyph-motif{
-    width:55px;
-  height:59px}
-  .hero-vertical .title-block{
-  align-items:center}
-  .hero-vertical h1{
-    font-size:3.5rem;
-    max-height:340px;
-  min-height:0}
-  .hero-vertical .eyebrow{
-  text-align:center}
-  .hero-vertical .hero-line{
-    text-align:center;
-  font-size:1.1rem}
-  .vertical-image .hero-photo img{
-  height:400px}
-  .vertical-image .glyph-motif{
-    width:45px;
-  height:48px}
-  .hero-garden h1{
-  font-size:2.9rem}
-  .garden-image{
-    padding:.7rem;
-  border-radius:48% 48% 0 0}
-  .garden-image .hero-photo img{
-  height:430px}
-  .hero-pop h1{
-  font-size:3.8rem}
-  .pop-image{
-  padding-top:1rem}
-  .pop-image .hero-photo img{
-  height:350px}
-  .pop-image .hero-mark{
-    width:95px;
-    height:95px;
-    left:-.4rem;
-    bottom:3.8rem;
-  gap:0}
-  .pop-image .glyph-motif{
-    width:45px;
-  height:48px}
-  .pop-image .hero-mark span{
-  font-size:.6875rem}
-  .diner-heading{
-    display:block;
-  padding:0 0 2rem}
-  .diner-heading>.hero-mark{
-    flex-direction:row;
-    justify-content:start;
-    margin-bottom:1.5rem;
-  gap:1rem}
-  .diner-heading>.hero-mark .glyph-motif{
-    width:45px;
-  height:48px}
-  .hero-diner h1{
-  font-size:3rem}
-  .hero-diner .hero-photo img{
-  height:350px}
-  .about{
-    margin-top:1rem;
-    padding:3rem 6vw 3.5rem;
-    display:block;
-    border-left:0;
-  border-right:0}
-  .about-copy{
-  padding-top:1.5rem}
-  .place-notes{
-    display:block;
-    padding-top:1rem;
-  margin-top:1.5rem}
-  .place-notes p+p{
-  margin-top:.6rem}
-  .interlude,.layout-vertical .interlude,.layout-letter .interlude{
-    display:block;
-    padding:0 6vw;
-    margin-bottom:3.5rem;
-  direction:ltr}
-  .interlude .side-photo img{
-  height:300px}
-  .interlude-copy{
-  padding:2rem 0 0}
-  .interlude-copy .glyph-motif{
-    width:50px;
-  height:54px}
-  .interlude-copy>p{
-  font-size:1.8rem}
-  .layout-pop .interlude{
-    margin:0 5vw 3.5rem;
-    padding:1.2rem;
-  border-radius:1rem}
-  .layout-pop .interlude img{
-  height:280px}
-  .layout-pop .interlude-copy{
-  padding:1rem .4rem}
-  .latest{
-    margin:0 6vw 3rem;
-    display:block;
-  padding:1.5rem}
-  .latest p{
-  font-size:1.25rem}
-  .latest a{
-  margin-top:1rem}
-  .visit{
-    display:block;
-  padding:3rem 6vw}
-  .visit-heading>p:last-child{
-    margin-top:1rem;
-  max-width:none}
-  .visit-details{
-  margin-top:2rem}
-  .visit dl>div{
-    display:block;
-  padding:1rem 0}
-  .visit dt{
-    font-size:.875rem;
-  margin-bottom:.4rem}
-  .visit dd{
-  font-size:1rem}
-  .visit-actions{
-    display:grid;
-    grid-template-columns:1fr;
-  gap:.8rem}
-  .button{
-    min-height:52px;
-  font-size:.9375rem}
-  footer{
-  padding:2.5rem 6vw}
-  .footer-heading{
-    align-items:start;
-  gap:1rem}
-  .footer-heading>span{
-  max-width:65%}
-  figcaption{
-    font-size:.75rem;
-  line-height:1.7}
-  .store-hiyokodo h1,.store-nandemonaihi h1{
-  font-size:2.4rem}
-  .store-hiyokodo .poster-head>.hero-mark{
-  display:none}
-  .store-le-lien h1{
-  font-size:2.7rem}
-  .store-cafe-zen .hero-vertical h1{
-    font-size:2.3rem;
-  line-height:1.6}
-  .store-cafe-zen .hero-vertical .title-block{
-  align-items:flex-start}
-  .store-cafe-zen .hero-vertical .eyebrow,.store-cafe-zen .hero-vertical .hero-line{
-  text-align:left}
-  .store-hoki-cafe h1{
-  max-width:none}
+ :root{--gutter:1.25rem}
+ html{scroll-padding-top:1rem}
+ .disclosure{font-size:.75rem;padding:.5rem var(--gutter)}
+ .site-header{padding:1.1rem var(--gutter);flex-wrap:wrap;gap:.8rem}
+ .wordmark{font-size:.875rem;max-width:76%}
+ .site-header nav{width:100%;gap:.25rem 1.6rem;flex-wrap:wrap;font-size:.875rem;padding:.6rem 0}
+ .site-header nav a{padding:.3rem 0}
+ .enhanced .menu-toggle{display:block;color:var(--ink);background:transparent;border:0;border-bottom:1px solid currentColor;font-size:.8125rem;min-height:44px;padding:.25rem 0}
+ .enhanced .site-header nav[hidden]{display:none}
+ .hero{display:block;padding:2rem var(--gutter) 3rem}
+ .hero .eyebrow{font-size:.75rem;margin-bottom:2rem;letter-spacing:.04em}
+ .hero .title-block{padding:0 0 2.5rem}
+ .store-name{font-size:clamp(4rem,15vw,6rem);line-height:.95;letter-spacing:-.06em}
+ .name-small{font-size:.8125rem;line-height:1.7;margin-bottom:1rem;letter-spacing:.08em}
+ .hero-line{font-size:1rem;margin-top:1.8rem;letter-spacing:.03em}
+ .text-link{font-size:.875rem;margin-top:1.1rem;min-height:44px}
+ .hero-location{display:block;font-size:.6875rem;letter-spacing:.12em;margin-top:1rem!important;position:static!important;padding:0}
+ .hero .hero-media{padding:0;border:0}
+ .hero .hero-photo img{height:440px;min-height:0;max-height:none}
+ figcaption{font-size:.75rem;line-height:1.7;padding:.6rem 0}
+ .hero-split .hero-media img{height:460px;min-height:0}
+ .store-hoki-cafe .store-name{font-size:clamp(6rem,27vw,10rem);line-height:.75}
+ .store-hoki-cafe .store-name span+span{margin-left:.8ch}
+ .store-hoki-cafe .hero-line{margin-top:2.5rem}
+ .store-kyado-ponponjina .store-name{font-size:clamp(1.9rem,7.9vw,3.1rem);line-height:1.5;letter-spacing:-.05em}
+ .hero-frame .store-name{font-size:clamp(4.5rem,20vw,7rem)}
+ .hero-frame .store-name .name-small{font-size:.875rem}
+ .hero-frame .hero-line,.hero-poster .hero-line,.hero-grid .hero-line{position:static;margin-top:1.7rem;max-width:none}
+ .hero-frame>.hero-photo img{height:370px;min-height:0}
+ .store-kissa-blondy .store-name{font-size:clamp(1.9rem,8.1vw,3.4rem);letter-spacing:-.05em;line-height:1.3}
+ .store-quebectei .store-name{font-size:clamp(4.2rem,20vw,7rem)}
+ .store-kissa-perla .store-name{font-size:clamp(6rem,29vw,10rem)}
+ .hero-diptych .title-block{text-align:left}
+ .hero-diptych .store-name{font-size:clamp(5rem,23vw,8rem)}
+ .photo-pair{grid-template-columns:1.4fr 1fr;gap:1rem;align-items:end}
+ .photo-pair .hero-photo img{height:320px}
+ .photo-pair .side-photo{margin-bottom:2rem}
+ .photo-pair .side-photo img{height:200px}
+ .photo-pair figcaption{font-size:.75rem;line-height:1.7}
+ .store-ten .store-name{font-size:clamp(8rem,39vw,13rem)}
+ .hero-letter .store-name{font-size:clamp(3.3rem,15vw,5.5rem);line-height:1.35;letter-spacing:.01em}
+ .hero-letter .hero-media img{height:460px}
+ .store-nandemonaihi .store-name{font-size:clamp(1.6rem,7.2vw,2.5rem);line-height:1.8;letter-spacing:-.04em}
+ .store-sena-coffee .store-name{font-size:clamp(2.5rem,12vw,4rem);letter-spacing:-.02em}
+ .hero-poster .store-name{font-size:clamp(3rem,17vw,6rem);line-height:1.2;letter-spacing:-.05em}
+ .hero-poster .store-name .name-small{font-size:.8125rem}
+ .store-resky .store-name{font-size:clamp(5rem,25vw,9rem);line-height:1}
+ .hero-night{display:grid;grid-template-columns:.75fr 1.2fr;gap:1rem;padding-bottom:3rem}
+ .hero-night .title-block{padding:0;align-self:center}
+ .hero-night .eyebrow{font-size:.75rem;max-width:12ch;text-align:center}
+ .hero-night .store-name{font-size:clamp(2.5rem,12vw,4.4rem);max-height:280px;line-height:1.35;letter-spacing:.08em}
+ .hero-night .store-name .name-small{font-size:.875rem;letter-spacing:.12em;margin-left:.4rem}
+ .hero-night .hero-line{font-size:1rem;line-height:2;max-width:none;margin-top:1.5rem}
+ .hero-night .text-link{font-size:.875rem;text-align:center;margin-top:.8rem}
+ .hero-night .hero-media img{height:480px;min-height:0}
+ .hero-night figcaption{font-size:.75rem}
+ .hero-night .hero-location{grid-column:1/-1;margin-top:0!important}
+ .hero-grid .store-name{font-size:clamp(4.5rem,22vw,7.5rem)}
+ .hero-grid .store-name .name-small{font-size:.875rem}
+ .hero-grid .photo-pair{grid-template-columns:1fr .64fr;gap:.85rem;align-items:end}
+ .hero-grid .photo-pair .hero-photo img{height:350px}
+ .hero-grid .photo-pair .side-photo{margin:0 0 2rem}
+ .hero-grid .photo-pair .side-photo img{height:220px}
+ .store-bounce .store-name{font-size:clamp(4rem,20.9vw,7rem);letter-spacing:-.07em}
+ .store-cafe-marm .store-name{font-size:clamp(4rem,23vw,8rem)}
+ .hero-editorial{padding-bottom:5rem}
+ .hero-editorial .store-name{font-size:clamp(3rem,16vw,6rem)}
+ .hero-editorial .hero-line{font-size:.9375rem}
+ .editorial-photos{padding-bottom:4rem}
+ .editorial-photos .hero-photo img{height:440px}
+ .editorial-photos .side-photo{left:auto;right:-.4rem;bottom:-1rem;width:43%;padding:.4rem}
+ .editorial-photos .side-photo img{height:190px}
+ .editorial-photos .side-photo figcaption{font-size:.75rem}
+ .hero-editorial .hero-location{margin-top:0!important}
+ .store-mimizu .store-name{font-size:clamp(6rem,29vw,10rem)}
+ .hero-arch .store-name{font-size:clamp(4.5rem,22vw,7rem)}
+ .hero-arch .hero-media{padding-left:.9rem;border-left:1px solid var(--accent)}
+ .hero-arch .hero-media img{height:470px}
+ .store-ko-meguri .store-name{font-size:clamp(3.5rem,17vw,6rem)}
+ .store-tarte-plus .store-name{font-size:clamp(5rem,25vw,9rem);line-height:.82}
+ .store-tarte-plus .store-name .name-small{font-size:1rem;margin-bottom:1.3rem}
+ .hero-vertical{display:grid;grid-template-columns:.75fr 1.2fr;gap:1rem;align-items:start}
+ .hero-vertical .title-block{padding:0;align-self:center}
+ .hero-vertical .eyebrow{font-size:.75rem;max-width:12ch;text-align:center}
+ .hero-vertical .store-name{font-size:clamp(2.5rem,10.3vw,3.7rem);line-height:1.6;max-height:310px;letter-spacing:.08em}
+ .hero-vertical .hero-line{font-size:1rem;line-height:1.9;max-width:none;letter-spacing:.03em;margin-top:1.5rem}
+ .hero-vertical .text-link{font-size:.875rem;text-align:center}
+ .hero-vertical .hero-media img{height:490px}
+ .hero-vertical figcaption{font-size:.75rem}
+ .hero-vertical .hero-location{grid-column:1/-1}
+ .store-toki .hero-vertical .store-name{font-size:clamp(3rem,14vw,5rem);letter-spacing:.25em}
+ .store-cafe-zen .hero-vertical{display:block}
+ .store-cafe-zen .hero-vertical .title-block{display:block;padding-bottom:2.5rem}
+ .store-cafe-zen .hero-vertical .store-name{font-size:clamp(2.5rem,12vw,4.5rem);line-height:1.4;max-height:none;letter-spacing:-.03em}
+ .store-cafe-zen .hero-vertical .store-name .name-small{font-size:.875rem;letter-spacing:.05em}
+ .store-cafe-zen .hero-vertical .eyebrow,.store-cafe-zen .hero-vertical .hero-line{text-align:left;max-width:none;font-size:.875rem}
+ .hero-garden .store-name{font-size:clamp(5rem,25vw,9rem)}
+ .hero-garden .hero-media img{height:450px}
+ .store-green-cafe-hana .store-name{font-size:clamp(4.5rem,22vw,8rem)}
+ .store-vigo .store-name{font-size:clamp(7rem,34vw,12rem)}
+ .hero-pop .store-name,.store-my-honey .store-name{font-size:clamp(3.7rem,17.8vw,6rem);letter-spacing:-.065em}
+ .store-le-chainon .store-name{font-size:clamp(3.3rem,15.8vw,5.5rem);letter-spacing:-.06em}
+ .hero-pop .hero-media{padding:0 .75rem .75rem 0}
+ .hero-pop .hero-media::before{inset:.85rem 0 0 .85rem}
+ .hero-pop .hero-media img{height:420px}
+ .hero-diner .store-name{font-size:clamp(7rem,33vw,12rem);line-height:.78;letter-spacing:-.03em}
+ .hero-diner .store-name .name-small{font-size:.8125rem;margin-bottom:1.7rem}
+ .hero-diner .hero-line{margin-top:2rem;font-size:1rem}
+ .hero-diner .hero-media img{height:410px}
+ .layout-diner .hero::after{display:block;height:10px;margin-top:1.4rem;background-size:auto}
+ .about{display:block;padding:3.5rem var(--gutter) 4rem}
+ .about-heading .eyebrow{font-size:.75rem;margin-bottom:1.4rem}
+ .about h2{font-size:1.85rem;line-height:1.8;max-width:none;letter-spacing:-.04em}
+ .about-copy{padding-top:1.8rem;font-size:1rem;line-height:2.1}
+ .source-inline{font-size:.8125rem;margin-top:1.4rem}
+ .place-notes{display:block;margin-top:2.2rem;padding-top:1.2rem;font-size:.875rem}
+ .place-notes p+p{margin-top:.5rem}
+ .interlude,.layout-letter .interlude,.layout-vertical .interlude{display:flex;flex-direction:column;align-items:stretch;padding:0 var(--gutter) 4rem;gap:2rem}
+ .interlude .side-photo img{height:330px}
+ .interlude-copy{padding:0}
+ .interlude-copy .section-label{font-size:.75rem;margin-bottom:1rem}
+ .interlude-copy>p{font-size:1.85rem;line-height:1.6}
+ .latest{padding:0 var(--gutter) 4rem;display:block}
+ .latest p{font-size:1.85rem}
+ .latest .text-link{margin-top:1.3rem}
+ .visit{display:block;padding:3.5rem var(--gutter)}
+ .visit-heading .eyebrow{font-size:.75rem;margin-bottom:1.3rem}
+ .visit-heading h2{font-size:2rem;letter-spacing:-.04em}
+ .visit-heading>p:last-child{max-width:none;font-size:.9375rem;margin-top:1.3rem}
+ .visit-details{margin-top:2.2rem}
+ .visit dl>div{display:block;padding:1rem 0}
+ .visit dt{font-size:.8125rem;margin-bottom:.4rem}
+ .visit dd{font-size:1rem}
+ .visit-actions{display:grid;grid-template-columns:1fr;gap:.8rem}
+ .button{font-size:.875rem;min-height:52px}
+ footer{padding:3rem var(--gutter) 2rem}
+ .footer-name{font-size:1.3rem;max-width:68%}
+ .footer-heading{gap:1rem;padding-bottom:1.5rem;margin-bottom:1.5rem}
+ .footer-heading>a{font-size:.75rem}
+ .source-details h2{font-size:.9375rem}
+ .source-details p,.source-details li{font-size:.8125rem}
 }
-@media(prefers-reduced-motion:reduce){
-  html{
-  scroll-behavior:auto}
-}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}a{transition:none}}

@@ -41,6 +41,7 @@ for row in rows:
     check(row['category'] in ['tea','sweets','coffee','meal','bar','bakery'],slug+': category')
     check((ROOT/row['thumbnail'].lstrip('/')).is_file(),slug+': thumbnail')
     check(p.h1==1,slug+': one h1')
+    check(any(tag=='h1' and a.get('aria-label')==row['name'] for tag,a in p.tags),slug+': accessible store name')
     check(len(p.ids)==len(set(p.ids)),slug+': unique IDs')
     check(any(tag=='meta' and a.get('name')=='robots' and a.get('content')=='noindex,nofollow' for tag,a in p.tags),slug+': robots')
     check('自主制作の非公式デザイン案 / 店舗未承認' in t,slug+': disclosure')
@@ -66,6 +67,20 @@ for photo in json.loads((BATCH/'image-sources.json').read_text()):
     check(photo['license']=='Unsplash License' and photo['licenseUrl']=='https://unsplash.com/license','photo license')
 css=(BATCH/'site.css').read_text()
 check('@media(max-width:680px)' in css and 'overflow-wrap:anywhere' in css,'narrow layout guards')
+# CSS references are not covered by the repository HTML link checker.
+for raw in re.findall(r"url\(\s*['\"]?([^'\")\s]+)",css):
+    if urlparse(raw).scheme: continue
+    target=(BATCH/unquote(raw)).resolve()
+    check(target.is_relative_to(ROOT) and target.is_file(),'CSS resource '+raw)
+font_records=json.loads((BATCH/'font-sources.json').read_text())
+check(len(font_records)==5,'five self-hosted fonts')
+for font in font_records:
+    file=BATCH/font['file']
+    check(file.is_file() and file.read_bytes()[:4]==b'wOF2','WOFF2 header '+font['file'])
+    check(hashlib.sha256(file.read_bytes()).hexdigest()==font['sha256'],'font integrity '+font['file'])
+    check(font['license']=='SIL Open Font License 1.1','font license '+font['file'])
+    check((file.parent/(file.stem+'-OFL.txt')).is_file(),'bundled OFL '+font['file'])
+
 check('prefers-reduced-motion:reduce' in css,'reduced motion')
 check('.enhanced .site-header nav[hidden]' in css,'menu hidden state')
 # WCAG relative luminance; all normal content colors must remain readable.
@@ -83,4 +98,4 @@ for row in rows:
     contrasts.append({'id':row['id'],**values})
 if errors:
     print('\n'.join(errors));raise SystemExit(1)
-print(json.dumps({'result':'PASS','pages':len(rows),'layouts':len({x['layout'] for x in research}),'localPhotos':len(list((BATCH/'images').glob('*.webp'))),'uniqueExternalUrls':len(urls),'contrastMinimum':min(min(v for k,v in r.items() if k!='id') for r in contrasts),'contrast':contrasts},ensure_ascii=False,indent=2))
+print(json.dumps({'result':'PASS','pages':len(rows),'layouts':len({x['layout'] for x in research}),'localPhotos':len(list((BATCH/'images').glob('*.webp'))),'localFonts':len(font_records),'uniqueExternalUrls':len(urls),'contrastMinimum':min(min(v for k,v in r.items() if k!='id') for r in contrasts),'contrast':contrasts},ensure_ascii=False,indent=2))
