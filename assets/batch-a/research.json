@@ -13,10 +13,10 @@
     "layout": "split",
     "font": "sans",
     "palette": [
-      "#f2eee4",
-      "#183141",
-      "#7c570e",
-      "#ded3ac"
+      "#142c3a",
+      "#f3eee3",
+      "#f1ce67",
+      "#233e4c"
     ],
     "photos": [
       "table.webp",
@@ -25,7 +25,9 @@
     "factSources": [
       "https://tabelog.com/hokkaido/A0104/A010401/1086431/",
       "https://www.shopship.jp/asahikawa/open-close/hokicafe1026/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-012",
@@ -41,10 +43,10 @@
     "layout": "frame",
     "font": "serif",
     "palette": [
-      "#f2e6ce",
-      "#3c241d",
-      "#763d27",
-      "#deca9f"
+      "#efe2c7",
+      "#34241b",
+      "#7a4328",
+      "#dfc79b"
     ],
     "photos": [
       "coffee.webp",
@@ -53,7 +55,9 @@
     "factSources": [
       "https://tabelog.com/hokkaido/A0101/A010305/1086434/",
       "https://plaza.rakuten.co.jp/yorozuken/diary/202610240003/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-013",
@@ -69,10 +73,10 @@
     "layout": "diptych",
     "font": "serif",
     "palette": [
-      "#f4efe5",
-      "#382b23",
-      "#6d3c36",
-      "#dbceb3"
+      "#322726",
+      "#f3ede0",
+      "#d9bc91",
+      "#47312f"
     ],
     "photos": [
       "wine.webp",
@@ -81,7 +85,9 @@
     "factSources": [
       "https://tabelog.com/aomori/A0201/A020101/2014023/",
       "https://www.acci.or.jp/salon/【会員事業所紹介】カフェ・バル-asile/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-014",
@@ -97,10 +103,10 @@
     "layout": "letter",
     "font": "serif",
     "palette": [
-      "#edf0eb",
-      "#29382e",
-      "#4a6150",
-      "#ced5c9"
+      "#f3f4ef",
+      "#253c30",
+      "#46624e",
+      "#d5dfcf"
     ],
     "photos": [
       "coffee.webp",
@@ -109,7 +115,9 @@
     "factSources": [
       "https://tabelog.com/aomori/A0202/A020201/2014002/",
       "https://hirosaki.keizai.biz/headline/2773/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-015",
@@ -125,10 +133,10 @@
     "layout": "poster",
     "font": "sans",
     "palette": [
-      "#f7efce",
-      "#303c30",
-      "#9b3125",
-      "#e4c46a"
+      "#f7f0dc",
+      "#702e23",
+      "#9f301f",
+      "#ead5a9"
     ],
     "photos": [
       "sandwich.webp",
@@ -137,7 +145,9 @@
     "factSources": [
       "https://tabelog.com/iwate/A0301/A030103/3013251/",
       "https://kaiten-heiten-24.com/hiyoko-dou/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-016",
@@ -153,10 +163,10 @@
     "layout": "night",
     "font": "serif",
     "palette": [
-      "#20231f",
-      "#f5efdf",
-      "#e5bc77",
-      "#373c33"
+      "#151c1b",
+      "#eee6d7",
+      "#dab477",
+      "#24302c"
     ],
     "photos": [
       "coffee.webp",
@@ -164,7 +174,9 @@
     ],
     "factSources": [
       "https://tabelog.com/iwate/A0301/A030101/3013416/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-017",
@@ -180,10 +192,10 @@
     "layout": "grid",
     "font": "sans",
     "palette": [
-      "#faf7ef",
-      "#3f332b",
-      "#895344",
-      "#e5d5bb"
+      "#f8f6ed",
+      "#282820",
+      "#795342",
+      "#e9dfcc"
     ],
     "photos": [
       "toast.webp",
@@ -192,7 +204,9 @@
     "factSources": [
       "https://tabelog.com/miyagi/A0404/A040404/4030479/",
       "https://freimann.hatenablog.com/entry/2026/10/09/170000"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-018",
@@ -208,10 +222,10 @@
     "layout": "editorial",
     "font": "sans",
     "palette": [
-      "#ede2d2",
-      "#3d2e29",
-      "#99502d",
-      "#d4b08a"
+      "#d58659",
+      "#241a17",
+      "#352019",
+      "#e7ac7b"
     ],
     "photos": [
       "coffee.webp",
@@ -220,7 +234,9 @@
     "factSources": [
       "https://tabelog.com/miyagi/A0401/A040105/4030460/",
       "https://sendaiminami-tusin.com/mimizu2610/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-019",
@@ -236,10 +252,10 @@
     "layout": "arch",
     "font": "serif",
     "palette": [
-      "#f5f3e9",
-      "#374334",
-      "#566746",
-      "#dce1ce"
+      "#f0f0e3",
+      "#2d402b",
+      "#526b3c",
+      "#d3debd"
     ],
     "photos": [
       "table.webp",
@@ -247,7 +263,9 @@
     ],
     "factSources": [
       "https://tabelog.com/akita/A0505/A050501/5011649/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-020",
@@ -263,10 +281,10 @@
     "layout": "split",
     "font": "sans",
     "palette": [
-      "#e8ece9",
-      "#273c3d",
-      "#78513b",
-      "#bdcfc7"
+      "#244a49",
+      "#f1eddb",
+      "#e5bc7e",
+      "#365b58"
     ],
     "photos": [
       "latte.webp",
@@ -275,7 +293,9 @@
     "factSources": [
       "https://tabelog.com/akita/A0501/A050101/5011631/",
       "https://web.akita-townjoho.jp/post-category/20260430-kyadoponponjina/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-021",
@@ -291,10 +311,10 @@
     "layout": "diptych",
     "font": "serif",
     "palette": [
-      "#f9f0e9",
-      "#4f3e35",
-      "#8b4b41",
-      "#e8d2be"
+      "#f6e7dd",
+      "#53302e",
+      "#91524c",
+      "#e6b8a5"
     ],
     "photos": [
       "table.webp",
@@ -302,7 +322,9 @@
     ],
     "factSources": [
       "https://tabelog.com/yamagata/A0602/A060202/6013562/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-022",
@@ -318,10 +340,10 @@
     "layout": "vertical",
     "font": "serif",
     "palette": [
-      "#edece1",
-      "#303e34",
-      "#4d6850",
-      "#d0d6bf"
+      "#e7e5d1",
+      "#25362c",
+      "#4e633e",
+      "#c5ccb0"
     ],
     "photos": [
       "tea.webp",
@@ -331,7 +353,9 @@
       "https://tabelog.com/yamagata/A0602/A060203/6013674/",
       "https://camp-fire.jp/projects/977512/view?list=prefecture_yamagata_projects_fresh",
       "https://camp-fire.jp/projects/977512/view/activities/910342"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-023",
@@ -347,10 +371,10 @@
     "layout": "letter",
     "font": "serif",
     "palette": [
-      "#f6efe3",
-      "#423c2e",
-      "#8c4630",
-      "#e7ceb3"
+      "#efead8",
+      "#383c29",
+      "#904b30",
+      "#dbd1b1"
     ],
     "photos": [
       "sandwich.webp",
@@ -360,7 +384,9 @@
       "https://tabelog.com/yamagata/A0603/A060303/6013517/",
       "https://yama-katsu.jp/press/30267/",
       "https://yuzamachi.com/taberu/nandemonaihini/2026/07/14/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-024",
@@ -376,10 +402,10 @@
     "layout": "garden",
     "font": "serif",
     "palette": [
-      "#edf1e6",
-      "#2c422e",
-      "#486738",
-      "#cbd9b5"
+      "#e6ebce",
+      "#29422a",
+      "#4a6035",
+      "#c9d4a6"
     ],
     "photos": [
       "table.webp",
@@ -388,7 +414,9 @@
     "factSources": [
       "https://tabelog.com/fukushima/A0704/A070401/7021049/",
       "https://www.gurutto-iwaki.com/detail/1792/news/news-931717.html"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-025",
@@ -404,10 +432,10 @@
     "layout": "poster",
     "font": "sans",
     "palette": [
-      "#f3e9dd",
-      "#282d33",
-      "#a74432",
-      "#e6c5a7"
+      "#25282d",
+      "#f6ead6",
+      "#e6a17e",
+      "#3b3b41"
     ],
     "photos": [
       "sandwich.webp",
@@ -416,7 +444,9 @@
     "factSources": [
       "https://tabelog.com/fukushima/A0705/A070501/7020931/",
       "https://www.gurutto-aizu.com/detail/1158/index.html"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-026",
@@ -432,10 +462,10 @@
     "layout": "frame",
     "font": "serif",
     "palette": [
-      "#f1e9da",
-      "#44392d",
-      "#82633f",
-      "#dac7a5"
+      "#ede2c7",
+      "#3d3224",
+      "#785a32",
+      "#d7bc8d"
     ],
     "photos": [
       "tea.webp",
@@ -443,7 +473,9 @@
     ],
     "factSources": [
       "https://tabelog.com/ibaraki/A0805/A080503/8031302/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-027",
@@ -459,10 +491,10 @@
     "layout": "editorial",
     "font": "sans",
     "palette": [
-      "#e9e8dd",
-      "#2e3b32",
-      "#536a4c",
-      "#c9ccb5"
+      "#e8ebdc",
+      "#263c31",
+      "#546940",
+      "#cad3b7"
     ],
     "photos": [
       "coffee.webp",
@@ -471,7 +503,9 @@
     "factSources": [
       "https://tabelog.com/tochigi/A0901/A090101/9024341/",
       "https://www.tochinavi.net/spot/newopen/detail.shtml?id=4313"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-028",
@@ -487,10 +521,10 @@
     "layout": "pop",
     "font": "sans",
     "palette": [
-      "#fff4c7",
-      "#382e24",
-      "#923b2d",
-      "#edbe52"
+      "#f5d66b",
+      "#3c271c",
+      "#833224",
+      "#eaba48"
     ],
     "photos": [
       "sandwich.webp",
@@ -499,7 +533,9 @@
     "factSources": [
       "https://tabelog.com/tochigi/A0901/A090101/9024337/",
       "https://utsunomiya.goguynet.jp/2026/07/14/my-honey/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-029",
@@ -515,10 +551,10 @@
     "layout": "pop",
     "font": "sans",
     "palette": [
-      "#f5edf5",
-      "#48364a",
-      "#725274",
-      "#d8c8e3"
+      "#e6d9ee",
+      "#47304a",
+      "#714779",
+      "#d1bcdf"
     ],
     "photos": [
       "icecream.webp",
@@ -526,7 +562,9 @@
     ],
     "factSources": [
       "https://tabelog.com/gunma/A1001/A100102/10027439/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-030",
@@ -542,10 +580,10 @@
     "layout": "diner",
     "font": "sans",
     "palette": [
-      "#f3dfb5",
-      "#282522",
-      "#982d26",
-      "#e8b64d"
+      "#962d23",
+      "#f8e8bd",
+      "#ffd85d",
+      "#a93a2d"
     ],
     "photos": [
       "sandwich.webp",
@@ -554,7 +592,9 @@
     "factSources": [
       "https://tabelog.com/gunma/A1001/A100101/10026738/",
       "https://saikura.info/open-hood-house-maebashi-20261029/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-031",
@@ -570,10 +610,10 @@
     "layout": "letter",
     "font": "serif",
     "palette": [
-      "#f3eee5",
-      "#46362d",
-      "#784738",
-      "#d8c6ad"
+      "#f1e6d1",
+      "#4b2e22",
+      "#7e432f",
+      "#ddc2a0"
     ],
     "photos": [
       "coffee.webp",
@@ -581,7 +621,9 @@
     ],
     "factSources": [
       "https://tabelog.com/gunma/A1002/A100202/10027456/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-032",
@@ -597,10 +639,10 @@
     "layout": "grid",
     "font": "serif",
     "palette": [
-      "#f0f3ed",
-      "#244432",
-      "#3f634b",
-      "#d5dfd0"
+      "#f2f4ed",
+      "#153b29",
+      "#3f6147",
+      "#dce4d2"
     ],
     "photos": [
       "table.webp",
@@ -608,7 +650,9 @@
     ],
     "factSources": [
       "https://tabelog.com/saitama/A1105/A110503/11068999/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-033",
@@ -624,10 +668,10 @@
     "layout": "arch",
     "font": "serif",
     "palette": [
-      "#f5eae1",
-      "#4c3937",
-      "#8d5255",
-      "#dfc4b5"
+      "#efe0d5",
+      "#573936",
+      "#8b4c4a",
+      "#dec3b1"
     ],
     "photos": [
       "cookies.webp",
@@ -636,7 +680,9 @@
     "factSources": [
       "https://tabelog.com/saitama/A1104/A110402/11068975/",
       "https://kuki-satte.goguynet.jp/2026/11/07/tarte-plus/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-034",
@@ -652,10 +698,10 @@
     "layout": "garden",
     "font": "serif",
     "palette": [
-      "#f0ece0",
-      "#323e30",
-      "#516347",
-      "#d6ccb1"
+      "#243c31",
+      "#f0eddc",
+      "#cfbd82",
+      "#355043"
     ],
     "photos": [
       "cookies.webp",
@@ -664,7 +710,9 @@
     "factSources": [
       "https://tabelog.com/chiba/A1201/A120101/12068435/",
       "https://www.gummaumaimono.info/entry/2026/10/15/214835"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-035",
@@ -680,10 +728,10 @@
     "layout": "diptych",
     "font": "sans",
     "palette": [
-      "#f5eed8",
-      "#30463a",
-      "#48634d",
-      "#d8bca0"
+      "#f2e5c8",
+      "#254236",
+      "#506847",
+      "#d9c69b"
     ],
     "photos": [
       "table.webp",
@@ -691,7 +739,9 @@
     ],
     "factSources": [
       "https://tabelog.com/chiba/A1203/A120301/12068592/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-036",
@@ -707,10 +757,10 @@
     "layout": "vertical",
     "font": "serif",
     "palette": [
-      "#f7f5eb",
-      "#40433e",
-      "#756536",
-      "#e5dfbe"
+      "#f7f6ec",
+      "#3c443e",
+      "#756236",
+      "#e7e2bd"
     ],
     "photos": [
       "tea.webp",
@@ -718,7 +768,9 @@
     ],
     "factSources": [
       "https://tabelog.com/tokyo/A1304/A130401/13326656/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-037",
@@ -734,10 +786,10 @@
     "layout": "arch",
     "font": "serif",
     "palette": [
-      "#f3eee6",
-      "#413d32",
-      "#74633e",
-      "#d6ccb8"
+      "#eee7d7",
+      "#383d2d",
+      "#756039",
+      "#d8ceb6"
     ],
     "photos": [
       "latte.webp",
@@ -745,7 +797,9 @@
     ],
     "factSources": [
       "https://tabelog.com/kanagawa/A1404/A140408/14105535/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-038",
@@ -761,10 +815,10 @@
     "layout": "vertical",
     "font": "serif",
     "palette": [
-      "#eae7da",
-      "#343b2d",
-      "#56613b",
-      "#c7c9b0"
+      "#e7e4d5",
+      "#293729",
+      "#56623b",
+      "#cad0b2"
     ],
     "photos": [
       "tea.webp",
@@ -772,7 +826,9 @@
     ],
     "factSources": [
       "https://tabelog.com/kanagawa/A1404/A140406/14105729/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-039",
@@ -788,10 +844,10 @@
     "layout": "frame",
     "font": "serif",
     "palette": [
-      "#eee9df",
-      "#30383e",
-      "#645740",
-      "#d1c9ba"
+      "#1d292f",
+      "#efe6d3",
+      "#cfb47a",
+      "#2d3e43"
     ],
     "photos": [
       "coffee.webp",
@@ -800,7 +856,9 @@
     "factSources": [
       "https://tabelog.com/niigata/A1501/A150101/15025978/",
       "https://r.gnavi.co.jp/k11bxjtf0000/"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   },
   {
     "id": "CAFE-040",
@@ -816,10 +874,10 @@
     "layout": "poster",
     "font": "serif",
     "palette": [
-      "#f1e8d9",
-      "#183d4e",
-      "#7d4739",
-      "#d7b990"
+      "#eee4d1",
+      "#143c4c",
+      "#7b3f39",
+      "#d7b591"
     ],
     "photos": [
       "tea.webp",
@@ -828,6 +886,8 @@
     "factSources": [
       "https://tabelog.com/toyama/A1602/A160202/16012063/",
       "https://toyama-watch.com/archives/29554"
-    ]
+    ],
+    "designRevision": "Editorial redesign / 2026-11-26",
+    "revisionNotes": "改良版では店舗写真の参考色を保ち、色面の明暗、店名の大小、写真の切り取りを再構成。書体はOFLのローカル配信。公式ロゴの再現ではありません。"
   }
 ]
