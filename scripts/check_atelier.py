@@ -35,6 +35,7 @@ for d,m in zip(data,manifest):
  assert '非公式'in html and '店舗未承認'in html and '実店舗・実商品'in html
  assert all(int(i['width'])>0 and int(i['height'])>0 and 'イメージ'in i['alt']for i in p.images)
  assert len(p.images)==5,(d['slug'],len(p.images))
+ assert len({hashlib.sha256((target.parent/i['src']).read_bytes()).hexdigest()for i in p.images[:4]})==4,('Repeated adjacent stock photos',d['slug'])
  for img in p.images:
   path=(target.parent/img['src']).resolve();rel='/'+str(path.relative_to(ROOT))
   assert rel in credits,('Unattributed photo',rel)

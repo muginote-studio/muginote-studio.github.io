@@ -4,7 +4,7 @@ from pathlib import Path
 from html import escape
 from urllib.parse import urlparse
 from PIL import Image
-import json,re
+import json,re,hashlib
 
 ROOT=Path(__file__).resolve().parents[1]
 DATA=json.loads((ROOT/'assets/atelier/content.json').read_text())
@@ -49,7 +49,10 @@ CUP='<svg viewBox="0 0 80 60" width="80" height="60" aria-hidden="true" focusabl
 def ext(url,label,cls='text-link'):
  return f'<a class="{cls}" href="{e(url)}" target="_blank" rel="noopener noreferrer nofollow">{e(label)}</a>'
 def heading(text):
- return e(text).replace('、','、<br>',1)
+ escaped=e(text)
+ if '、'in text:return escaped.replace('、','、<br>',1)
+ if '。'in text.rstrip('。'):return escaped.replace('。','。<br>',1)
+ return escaped
 
 manifest=[]
 for index,d in enumerate(DATA):
@@ -59,7 +62,12 @@ for index,d in enumerate(DATA):
  if originals:paths=[originals[0]]+[p for p in paths if p!=originals[0]]
  if slug=='uff':paths=['/uff/assets/hero.webp','/uff/assets/bread.webp','/uff/assets/croissant.webp','/uff/assets/latte.webp']
  # Keep every picture slot distinct, reusing attributed repository assets.
- paths=list(dict.fromkeys(paths+PHOTO_SETS['coffee']))[:4]
+ unique=[];seen=set()
+ for path in paths+PHOTO_SETS['coffee']:
+  digest=hashlib.sha256((ROOT/path.lstrip('/')).read_bytes()).hexdigest()
+  if digest not in seen:unique.append(path);seen.add(digest)
+  if len(unique)==4:break
+ paths=unique
  hero_photo=photo(paths[0],'hero-photo',True)
  signature=d['name']
  if len(signature)>24:signature=ENGLISH[category].title()
