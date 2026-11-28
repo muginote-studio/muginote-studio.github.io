@@ -1,0 +1,353 @@
+[
+  {
+    "file": "/assets/batch-a/images/coffee.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "7c978abdbb8a21a204ee87e5ccd7b9c6c0fff234f1b23a233ffdb16791183f9c",
+    "usage": "イメージ写真。実店舗・実商品・店舗の提供メニューを示すものではありません。"
+  },
+  {
+    "file": "/assets/batch-a/images/cookies.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "46dca885a72f664d5195fa1d3fe0fd833fdf6f9fe180c9445303ab8521fb81cd",
+    "usage": "イメージ写真。実店舗・実商品・店舗の提供メニューを示すものではありません。"
+  },
+  {
+    "file": "/assets/batch-a/images/icecream.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1504050502639-3d3c3f6266cd?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "0dca9aba5fc3fcc7e2c110bd91e935b23cb9812bc337cfc6119e313ac6503341",
+    "usage": "イメージ写真。実店舗・実商品・店舗の提供メニューを示すものではありません。"
+  },
+  {
+    "file": "/assets/batch-a/images/latte.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "b220e210803668cd6573033dc77eee343c8e33600137742c2a8eb36933ad15cf",
+    "usage": "イメージ写真。実店舗・実商品・店舗の提供メニューを示すものではありません。"
+  },
+  {
+    "file": "/assets/batch-a/images/sandwich.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "8c41be511489368b7a232e12d300e254bdfcad2de2a870c1cca0a6bb1b1845aa",
+    "usage": "イメージ写真。実店舗・実商品・店舗の提供メニューを示すものではありません。"
+  },
+  {
+    "file": "/assets/batch-a/images/table.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "f10e3fc95f1dae358fb4863aa79c8b115057847d549f35d332a1f2bde87c604a",
+    "usage": "イメージ写真。実店舗・実商品・店舗の提供メニューを示すものではありません。"
+  },
+  {
+    "file": "/assets/batch-a/images/tea.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1721434676608-23d5f3b9aefd?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "120a4fc802edd904ba6f0cd80f0595a763abe059e39ced7578b46aa24c7c3a15",
+    "usage": "イメージ写真。実店舗・実商品・店舗の提供メニューを示すものではありません。"
+  },
+  {
+    "file": "/assets/batch-a/images/toast.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "4ea5530d8598165997e6366ca381f743fb72e2769cffc1627c84beef8e8a1972",
+    "usage": "イメージ写真。実店舗・実商品・店舗の提供メニューを示すものではありません。"
+  },
+  {
+    "file": "/assets/batch-a/images/wine.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "24f96dd0fafb9c608db04dcf91d87268f60cd39cecbcc1de0b7a3e6067fe22e7",
+    "usage": "イメージ写真。実店舗・実商品・店舗の提供メニューを示すものではありません。"
+  },
+  {
+    "file": "/assets/batch-b/coffee.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "7c978abdbb8a21a204ee87e5ccd7b9c6c0fff234f1b23a233ffdb16791183f9c",
+    "usage": "イメージ写真。実店舗・実商品とは異なります。"
+  },
+  {
+    "file": "/assets/batch-b/cookies.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "46dca885a72f664d5195fa1d3fe0fd833fdf6f9fe180c9445303ab8521fb81cd",
+    "usage": "イメージ写真。実店舗・実商品とは異なります。"
+  },
+  {
+    "file": "/assets/batch-b/interior.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "cfcd296e9d5bb9e93f316872febe11b6c6254877b4c09f338d896e4ba180ef83",
+    "usage": "イメージ写真。実店舗・実商品とは異なります。"
+  },
+  {
+    "file": "/assets/batch-b/latte.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "b220e210803668cd6573033dc77eee343c8e33600137742c2a8eb36933ad15cf",
+    "usage": "イメージ写真。実店舗・実商品とは異なります。"
+  },
+  {
+    "file": "/assets/batch-b/sandwich.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "8c41be511489368b7a232e12d300e254bdfcad2de2a870c1cca0a6bb1b1845aa",
+    "usage": "イメージ写真。実店舗・実商品とは異なります。"
+  },
+  {
+    "file": "/assets/batch-b/table.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "f10e3fc95f1dae358fb4863aa79c8b115057847d549f35d332a1f2bde87c604a",
+    "usage": "イメージ写真。実店舗・実商品とは異なります。"
+  },
+  {
+    "file": "/assets/batch-b/tea.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1721434676608-23d5f3b9aefd?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "120a4fc802edd904ba6f0cd80f0595a763abe059e39ced7578b46aa24c7c3a15",
+    "usage": "イメージ写真。実店舗・実商品とは異なります。"
+  },
+  {
+    "file": "/assets/batch-b/toast.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "4ea5530d8598165997e6366ca381f743fb72e2769cffc1627c84beef8e8a1972",
+    "usage": "イメージ写真。実店舗・実商品とは異なります。"
+  },
+  {
+    "file": "/assets/batch-c/photos/bread.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "a0c51080312e2cd1da5f6e0ad312d3a0970886376810b4d3a31ddecd100966b7",
+    "bytes": 235260,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  },
+  {
+    "file": "/assets/batch-c/photos/coffee.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "7c978abdbb8a21a204ee87e5ccd7b9c6c0fff234f1b23a233ffdb16791183f9c",
+    "bytes": 73148,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  },
+  {
+    "file": "/assets/batch-c/photos/cookies.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "46dca885a72f664d5195fa1d3fe0fd833fdf6f9fe180c9445303ab8521fb81cd",
+    "bytes": 49368,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  },
+  {
+    "file": "/assets/batch-c/photos/croissant.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "277224dfd815fbd57531d92ac9a3f8d8a82e2739b6512728198e11f89591b18e",
+    "bytes": 119814,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  },
+  {
+    "file": "/assets/batch-c/photos/icecream.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1504050502639-3d3c3f6266cd?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "0dca9aba5fc3fcc7e2c110bd91e935b23cb9812bc337cfc6119e313ac6503341",
+    "bytes": 241622,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  },
+  {
+    "file": "/assets/batch-c/photos/latte.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "b220e210803668cd6573033dc77eee343c8e33600137742c2a8eb36933ad15cf",
+    "bytes": 89380,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  },
+  {
+    "file": "/assets/batch-c/photos/sandwich.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "8c41be511489368b7a232e12d300e254bdfcad2de2a870c1cca0a6bb1b1845aa",
+    "bytes": 247514,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  },
+  {
+    "file": "/assets/batch-c/photos/table.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "f10e3fc95f1dae358fb4863aa79c8b115057847d549f35d332a1f2bde87c604a",
+    "bytes": 258244,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  },
+  {
+    "file": "/assets/batch-c/photos/tea.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1721434676608-23d5f3b9aefd?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "120a4fc802edd904ba6f0cd80f0595a763abe059e39ced7578b46aa24c7c3a15",
+    "bytes": 71076,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  },
+  {
+    "file": "/assets/coffee.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "7c978abdbb8a21a204ee87e5ccd7b9c6c0fff234f1b23a233ffdb16791183f9c",
+    "bytes": 73148,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  },
+  {
+    "file": "/assets/cookies.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "46dca885a72f664d5195fa1d3fe0fd833fdf6f9fe180c9445303ab8521fb81cd",
+    "bytes": 49368,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  },
+  {
+    "file": "/assets/icecream.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1504050502639-3d3c3f6266cd?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "0dca9aba5fc3fcc7e2c110bd91e935b23cb9812bc337cfc6119e313ac6503341",
+    "bytes": 241622,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  },
+  {
+    "file": "/assets/interior.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "cfcd296e9d5bb9e93f316872febe11b6c6254877b4c09f338d896e4ba180ef83",
+    "bytes": 94032,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  },
+  {
+    "file": "/assets/latte.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "b220e210803668cd6573033dc77eee343c8e33600137742c2a8eb36933ad15cf",
+    "bytes": 89380,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  },
+  {
+    "file": "/assets/sandwich.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "8c41be511489368b7a232e12d300e254bdfcad2de2a870c1cca0a6bb1b1845aa",
+    "bytes": 247514,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  },
+  {
+    "file": "/assets/table.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "f10e3fc95f1dae358fb4863aa79c8b115057847d549f35d332a1f2bde87c604a",
+    "bytes": 258244,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  },
+  {
+    "file": "/assets/tea.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1721434676608-23d5f3b9aefd?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "120a4fc802edd904ba6f0cd80f0595a763abe059e39ced7578b46aa24c7c3a15",
+    "bytes": 71076,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  },
+  {
+    "file": "/assets/toast.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "4ea5530d8598165997e6366ca381f743fb72e2769cffc1627c84beef8e8a1972",
+    "bytes": 214606,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  },
+  {
+    "file": "/assets/wine.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&w=1500&q=80",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "24f96dd0fafb9c608db04dcf91d87268f60cd39cecbcc1de0b7a3e6067fe22e7",
+    "bytes": 68506,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  },
+  {
+    "file": "/uff/assets/bread.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff",
+    "imageSource": "https://images.unsplash.com/photo-1509440159596-0249088772ff",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "provenance": "Existing uff/README.md",
+    "sha256": "a0c51080312e2cd1da5f6e0ad312d3a0970886376810b4d3a31ddecd100966b7",
+    "bytes": 235260,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  },
+  {
+    "file": "/uff/assets/croissant.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1555507036-ab1f4038808a",
+    "imageSource": "https://images.unsplash.com/photo-1555507036-ab1f4038808a",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "provenance": "Existing uff/README.md",
+    "sha256": "277224dfd815fbd57531d92ac9a3f8d8a82e2739b6512728198e11f89591b18e",
+    "bytes": 119814,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  },
+  {
+    "file": "/uff/assets/hero.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1725545904327-4644b45f1a5f",
+    "imageSource": "https://images.unsplash.com/photo-1725545904327-4644b45f1a5f",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "provenance": "Existing uff/README.md",
+    "sha256": "ac5aa9b7379083f5bdcbad95b62ab35aac4f3f24279c93ea12584840eaa07f18",
+    "bytes": 573458,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  },
+  {
+    "file": "/uff/assets/latte.webp",
+    "sourceUrl": "https://images.unsplash.com/photo-1503240778100-fd245e17a273",
+    "imageSource": "https://images.unsplash.com/photo-1503240778100-fd245e17a273",
+    "provider": "Unsplash",
+    "licenseUrl": "https://unsplash.com/license",
+    "provenance": "Existing uff/README.md",
+    "sha256": "c27f29f76275b3950243faf38f806f441031d93607104941df5ad0ed91a0e50d",
+    "bytes": 61992,
+    "usage": "イメージ素材。実店舗・実商品・提供メニューではありません。"
+  }
+]
