@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc"><title id="title">sleep デザインイラスト</title><desc id="desc">配色に合わせた自主制作の抽象図形。実店舗や実商品の再現ではありません。</desc><rect width="1000" height="1000" fill="#acd0c8"/><circle cx="230" cy="220" r="190" fill="#e6efea"/><path d="M230 780 V400 A270 270 0 0 1 770 400 V780Z" fill="#e6efea" stroke="#263f38" stroke-width="6"/><path d="M260 520 Q380 450 500 520 T740 520" fill="none" stroke="#46695e" stroke-width="6"/><path d="M260 585 Q380 515 500 585 T740 585" fill="none" stroke="#46695e" stroke-width="6"/><path d="M260 650 Q380 580 500 650 T740 650" fill="none" stroke="#46695e" stroke-width="6"/><path d="M260 715 Q380 645 500 715 T740 715" fill="none" stroke="#46695e" stroke-width="6"/><circle cx="530" cy="350" r="75" fill="#46695e"/><path d="M130 900 H870" stroke="#263f38" stroke-width="2"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+<title id="title">riverside cafe ＆ sleep 非公式デザイン案</title>
+<desc id="desc">店舗名と公開資料を参考にした配色による自主制作のタイポグラフィ。店舗の公式ロゴではありません。</desc>
+<rect width="1000" height="1000" fill="#183d39"/>
+<path d="M72 155H928 M72 830H928" fill="none" stroke="#e9eee3" stroke-width="1.5" opacity="0.4"/>
+<text x="76" y="111" fill="#e9eee3" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="4">UNOFFICIAL DESIGN</text>
+<text x="924" y="111" text-anchor="end" fill="#e9eee3" font-family="Arial, Helvetica, sans-serif" font-size="23">三重県</text>
+<path d="M75 190H155" stroke="#bbd6ca" stroke-width="5"/>
+<text x="76" y="345" fill="#e9eee3" font-family="Georgia, 'Times New Roman', 'Yu Mincho', serif" font-weight="400" font-style="italic" font-size="46" text-anchor="start" textLength="650" lengthAdjust="spacingAndGlyphs">riverside cafe ＆</text>
+<text x="76" y="650" fill="#e9eee3" font-family="Georgia, 'Times New Roman', 'Yu Mincho', serif" font-weight="400" font-style="italic" font-size="280" text-anchor="start" textLength="810" lengthAdjust="spacingAndGlyphs">sleep</text>
+<text x="76" y="882" fill="#e9eee3" font-family="Arial, Helvetica, sans-serif" font-size="23" textLength="418" lengthAdjust="spacingAndGlyphs">riverside cafe ＆ sleep</text>
+<text x="76" y="927" fill="#e9eee3" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="2">自主制作・店舗未承認</text>
+</svg>

@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc"><title id="title">anew デザインイラスト</title><desc id="desc">配色に合わせた自主制作の抽象図形。実店舗や実商品の再現ではありません。</desc><rect width="1000" height="1000" fill="#f0bf55"/><circle cx="230" cy="220" r="190" fill="#fff5db"/><ellipse cx="500" cy="760" rx="340" ry="55" fill="#fff5db"/><path d="M200 370 L630 240 L820 540 L390 690Z" fill="#fff5db" stroke="#4c351c" stroke-width="7"/><path d="M200 370 V430 L390 750 L820 600 V540 L390 690Z" fill="#885421" stroke="#4c351c" stroke-width="7"/><path d="M200 430 V480 L390 800 L820 650 V600 L390 750Z" fill="#fff5db" stroke="#4c351c" stroke-width="7"/><path d="M300 390 L600 300 M340 460 L650 370 M385 530 L700 440" stroke="#885421" stroke-width="8" stroke-linecap="round"/><path d="M130 900 H870" stroke="#4c351c" stroke-width="2"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+<title id="title">anew egg sandwich &amp; cafe 非公式デザイン案</title>
+<desc id="desc">店舗名と公開資料を参考にした配色による自主制作のタイポグラフィ。店舗の公式ロゴではありません。</desc>
+<rect width="1000" height="1000" fill="#ffefcc"/>
+<path d="M72 155H928 M72 830H928" fill="none" stroke="#4a3020" stroke-width="1.5" opacity="0.4"/>
+<text x="76" y="111" fill="#4a3020" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="4">UNOFFICIAL DESIGN</text>
+<text x="924" y="111" text-anchor="end" fill="#4a3020" font-family="Arial, Helvetica, sans-serif" font-size="23">岐阜県</text>
+<path d="M75 190H155" stroke="#784522" stroke-width="5"/>
+<text x="76" y="570" fill="#4a3020" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-style="normal" font-size="280" text-anchor="start" textLength="800" lengthAdjust="spacingAndGlyphs">anew</text>
+<text x="76" y="690" fill="#4a3020" font-family="Arial, Helvetica, sans-serif" font-weight="400" font-style="normal" font-size="40" text-anchor="start" textLength="600" lengthAdjust="spacingAndGlyphs">egg sandwich &amp; cafe</text>
+<text x="76" y="882" fill="#4a3020" font-family="Arial, Helvetica, sans-serif" font-size="23" textLength="456" lengthAdjust="spacingAndGlyphs">anew egg sandwich &amp; cafe</text>
+<text x="76" y="927" fill="#4a3020" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="2">自主制作・店舗未承認</text>
+</svg>

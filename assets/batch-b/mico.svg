@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc"><title id="title">mico デザインイラスト</title><desc id="desc">配色に合わせた自主制作の抽象図形。実店舗や実商品の再現ではありません。</desc><rect width="1000" height="1000" fill="#d7ded3"/><circle cx="760" cy="220" r="190" fill="#f0f1eb"/><rect x="145" y="260" width="710" height="500" rx="40" fill="#f0f1eb" stroke="#25332c" stroke-width="6"/><circle cx="450" cy="510" r="187" fill="#d7ded3" stroke="#25332c" stroke-width="6"/><circle cx="725" cy="370" r="65" fill="#466651"/><circle cx="730" cy="620" r="70" fill="#d7ded3" stroke="#25332c" stroke-width="5"/><path d="M295 465 H610 Q590 660 450 670 Q310 650 295 465" fill="#466651"/><path d="M350 420 Q450 360 555 420" fill="none" stroke="#25332c" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="M130 900 H870" stroke="#25332c" stroke-width="2"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+<title id="title">mico 非公式デザイン案</title>
+<desc id="desc">店舗名と公開資料を参考にした配色による自主制作のタイポグラフィ。店舗の公式ロゴではありません。</desc>
+<rect width="1000" height="1000" fill="#152c28"/>
+<path d="M72 155H928 M72 830H928" fill="none" stroke="#f0f2e9" stroke-width="1.5" opacity="0.4"/>
+<text x="76" y="111" fill="#f0f2e9" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="4">UNOFFICIAL DESIGN</text>
+<text x="924" y="111" text-anchor="end" fill="#f0f2e9" font-family="Arial, Helvetica, sans-serif" font-size="23">石川県</text>
+<path d="M75 190H155" stroke="#d2dbc7" stroke-width="5"/>
+<text x="76" y="635" fill="#f0f2e9" font-family="Arial, Helvetica, sans-serif" font-weight="400" font-style="normal" font-size="330" text-anchor="start" textLength="775" lengthAdjust="spacingAndGlyphs">mico</text>
+<text x="76" y="882" fill="#f0f2e9" font-family="Arial, Helvetica, sans-serif" font-size="23" textLength="140" lengthAdjust="spacingAndGlyphs">mico</text>
+<text x="76" y="927" fill="#f0f2e9" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="2">自主制作・店舗未承認</text>
+</svg>

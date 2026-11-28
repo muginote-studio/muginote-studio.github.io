@@ -1,2 +1,2 @@
-:root{--paper:#fbf4e8;--ink:#3d3525;--accent:#58704c;--wash:#e7c99b;--font:var(--serif);}
-.hero-name{font-style:italic}.hero-art{transform:rotate(2deg)}
+:root { --paper: #f6f2e9; --ink: #363a2a; --accent: #52663d; --wash: #e4dccb; --font: var(--serif); --photo-position: 45% 50%; }
+.store-cohaccha .hero-title { font-style:italic;font-weight:400;letter-spacing:-.055em; }

@@ -1,2 +1,3 @@
-:root{--paper:#f5f0e5;--ink:#49302a;--accent:#7b3e31;--wash:#e3d7c2;--font:var(--serif);}
-.hero-name{letter-spacing:.16em}.hero-art{border-radius:50% 50% 0 0}
+:root { --paper: #f7f3ec; --ink: #50362d; --accent: #793f31; --wash: #e9dfd2; --font: var(--serif); --photo-position: 50% 50%; }
+.store-kissa-kobito .hero-title { letter-spacing:.14em; }
+@media(max-width:900px){.store-kissa-kobito .hero-title{font-size:clamp(4rem,14vw,6rem);}}

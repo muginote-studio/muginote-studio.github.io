@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc"><title id="title">TOWZA DINER 1830 デザインイラスト</title><desc id="desc">配色に合わせた自主制作の抽象図形。実店舗や実商品の再現ではありません。</desc><rect width="1000" height="1000" fill="#edc078"/><circle cx="760" cy="220" r="190" fill="#fff0d8"/><ellipse cx="500" cy="760" rx="340" ry="55" fill="#fff0d8"/><path d="M200 370 L630 240 L820 540 L390 690Z" fill="#fff0d8" stroke="#652d25" stroke-width="7"/><path d="M200 370 V430 L390 750 L820 600 V540 L390 690Z" fill="#b52d1d" stroke="#652d25" stroke-width="7"/><path d="M200 430 V480 L390 800 L820 650 V600 L390 750Z" fill="#fff0d8" stroke="#652d25" stroke-width="7"/><path d="M300 390 L600 300 M340 460 L650 370 M385 530 L700 440" stroke="#b52d1d" stroke-width="8" stroke-linecap="round"/><path d="M130 900 H870" stroke="#652d25" stroke-width="2"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+<title id="title">TOWZA DINER 1830 非公式デザイン案</title>
+<desc id="desc">店舗名と公開資料を参考にした配色による自主制作のタイポグラフィ。店舗の公式ロゴではありません。</desc>
+<rect width="1000" height="1000" fill="#a62e23"/>
+<path d="M72 155H928 M72 830H928" fill="none" stroke="#fff0d8" stroke-width="1.5" opacity="0.4"/>
+<text x="76" y="111" fill="#fff0d8" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="4">UNOFFICIAL DESIGN</text>
+<text x="924" y="111" text-anchor="end" fill="#fff0d8" font-family="Arial, Helvetica, sans-serif" font-size="23">京都府</text>
+<path d="M75 190H155" stroke="#fff0d8" stroke-width="5"/>
+<text x="76" y="430" fill="#fff0d8" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-style="normal" font-size="165" text-anchor="start" textLength="810" lengthAdjust="spacingAndGlyphs">TOWZA</text>
+<text x="76" y="625" fill="#fff0d8" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-style="normal" font-size="165" text-anchor="start" textLength="810" lengthAdjust="spacingAndGlyphs">DINER</text>
+<text x="76" y="745" fill="#fff0d8" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-style="normal" font-size="85" text-anchor="start" textLength="340" lengthAdjust="spacingAndGlyphs">1830</text>
+<text x="76" y="882" fill="#fff0d8" font-family="Arial, Helvetica, sans-serif" font-size="23" textLength="304" lengthAdjust="spacingAndGlyphs">TOWZA DINER 1830</text>
+<text x="76" y="927" fill="#fff0d8" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="2">自主制作・店舗未承認</text>
+</svg>

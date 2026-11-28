@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc"><title id="title">our デザインイラスト</title><desc id="desc">配色に合わせた自主制作の抽象図形。実店舗や実商品の再現ではありません。</desc><rect width="1000" height="1000" fill="#ecd37d"/><circle cx="760" cy="220" r="190" fill="#f8f5ec"/><path d="M180 380 Q270 200 410 320 L390 560 Q200 630 180 380" fill="#245d89"/><circle cx="680" cy="350" r="140" fill="#f8f5ec" stroke="#242b30" stroke-width="5"/><path d="M440 580 L720 520 L820 760 L480 810Z" fill="#f8f5ec" stroke="#242b30" stroke-width="5"/><path d="M210 720 Q290 600 350 760 Q380 850 210 850Z" fill="#245d89"/><path d="M130 900 H870" stroke="#242b30" stroke-width="2"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+<title id="title">our 非公式デザイン案</title>
+<desc id="desc">店舗名と公開資料を参考にした配色による自主制作のタイポグラフィ。店舗の公式ロゴではありません。</desc>
+<rect width="1000" height="1000" fill="#f5f3eb"/>
+<path d="M72 155H928 M72 830H928" fill="none" stroke="#213a4e" stroke-width="1.5" opacity="0.4"/>
+<text x="76" y="111" fill="#213a4e" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="4">UNOFFICIAL DESIGN</text>
+<text x="924" y="111" text-anchor="end" fill="#213a4e" font-family="Arial, Helvetica, sans-serif" font-size="23">福井県</text>
+<path d="M75 190H155" stroke="#1e5b82" stroke-width="5"/>
+<text x="76" y="640" fill="#1e5b82" font-family="Arial, Helvetica, sans-serif" font-weight="400" font-style="normal" font-size="360" text-anchor="start" textLength="800" lengthAdjust="spacingAndGlyphs">our</text>
+<text x="76" y="882" fill="#213a4e" font-family="Arial, Helvetica, sans-serif" font-size="23" textLength="140" lengthAdjust="spacingAndGlyphs">our</text>
+<text x="76" y="927" fill="#213a4e" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="2">自主制作・店舗未承認</text>
+</svg>

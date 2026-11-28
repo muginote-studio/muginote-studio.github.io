@@ -1,2 +1,3 @@
-:root{--paper:#fff0d8;--ink:#652d25;--accent:#b52d1d;--wash:#edc078;--font:var(--sans);}
-.hero-name{font-weight:950;letter-spacing:-.06em}.hero-art{border-radius:2rem 2rem 0 0}
+:root { --paper: #a62e23; --ink: #fff0d8; --accent: #fff0d8; --wash: #ba3f30; --font: var(--sans); --photo-position: 50% 50%; }
+.store-towza-diner .hero-title { font-size:clamp(4rem,15vw,15rem);font-weight:800;letter-spacing:-.06em;line-height:.92; }.store-towza-diner .hero-title .title-small { font-family:var(--serif);font-style:italic;font-size:.35em; }
+@media(max-width:900px){.store-towza-diner .hero-title{font-size:clamp(4rem,21vw,9rem);}}

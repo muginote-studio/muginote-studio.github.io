@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc"><title id="title">on cafe デザインイラスト</title><desc id="desc">配色に合わせた自主制作の抽象図形。実店舗や実商品の再現ではありません。</desc><rect width="1000" height="1000" fill="#ddd8c9"/><circle cx="230" cy="220" r="190" fill="#f4f2ed"/><ellipse cx="480" cy="720" rx="300" ry="65" fill="#f4f2ed" stroke="#252b29" stroke-width="5"/><path d="M280 370 H680 L650 580 Q625 710 480 710 Q335 710 310 580Z" fill="#f4f2ed" stroke="#252b29" stroke-width="7"/><path d="M680 420 C880 350 860 640 655 600" fill="none" stroke="#252b29" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><ellipse cx="480" cy="380" rx="193" ry="40" fill="#5d6d60"/><path d="M420 285 C360 220 470 200 420 130 M540 285 C480 220 590 200 540 130" fill="none" stroke="#252b29" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="M130 900 H870" stroke="#252b29" stroke-width="2"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+<title id="title">on cafe 非公式デザイン案</title>
+<desc id="desc">店舗名と公開資料を参考にした配色による自主制作のタイポグラフィ。店舗の公式ロゴではありません。</desc>
+<rect width="1000" height="1000" fill="#eeede6"/>
+<path d="M72 155H928 M72 830H928" fill="none" stroke="#293932" stroke-width="1.5" opacity="0.4"/>
+<text x="76" y="111" fill="#293932" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="4">UNOFFICIAL DESIGN</text>
+<text x="924" y="111" text-anchor="end" fill="#293932" font-family="Arial, Helvetica, sans-serif" font-size="23">兵庫県</text>
+<path d="M75 190H155" stroke="#486451" stroke-width="5"/>
+<text x="76" y="610" fill="#293932" font-family="Georgia, 'Times New Roman', 'Yu Mincho', serif" font-weight="400" font-style="italic" font-size="390" text-anchor="start" textLength="655" lengthAdjust="spacingAndGlyphs">on</text>
+<text x="76" y="740" fill="#293932" font-family="Georgia, 'Times New Roman', 'Yu Mincho', serif" font-weight="400" font-style="italic" font-size="90" text-anchor="start" textLength="290" lengthAdjust="spacingAndGlyphs">cafe</text>
+<text x="76" y="882" fill="#293932" font-family="Arial, Helvetica, sans-serif" font-size="23" textLength="140" lengthAdjust="spacingAndGlyphs">on cafe</text>
+<text x="76" y="927" fill="#293932" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="2">自主制作・店舗未承認</text>
+</svg>

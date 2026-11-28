@@ -1,2 +1,3 @@
-:root{--paper:#eeefeb;--ink:#303b3f;--accent:#506a74;--wash:#cfdadd;--font:var(--sans);}
-.hero-name{font-style:italic;font-weight:400;letter-spacing:-.07em}.hero-art{border-radius:50% 50% 0 0}
+:root { --paper: #e5e9e6; --ink: #34484d; --accent: #4a6972; --wash: #cbd6d3; --font: var(--serif); --photo-position: 50% 50%; }
+.store-ara .hero-title { font-size:clamp(8rem,23vw,23rem);font-weight:400;font-style:italic;letter-spacing:-.06em; }
+@media(max-width:900px){.store-ara .hero-title{font-size:clamp(7rem,35vw,15rem);}}

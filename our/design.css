@@ -1,2 +1,3 @@
-:root{--paper:#f8f5ec;--ink:#242b30;--accent:#245d89;--wash:#ecd37d;--font:var(--sans);}
-.hero-name{letter-spacing:-.08em;font-weight:400}.hero-art{transform:rotate(-4deg)}
+:root { --paper: #f5f3eb; --ink: #213a4e; --accent: #1e5b82; --wash: #ebd268; --font: var(--sans); --photo-position: 50% 50%; }
+.store-our .hero-title { font-size:clamp(8rem,24vw,22rem);font-weight:400;letter-spacing:-.075em; }.hero-location { color:var(--accent); }
+@media(max-width:900px){.store-our .hero-title{font-size:clamp(7rem,35vw,15rem);}}
