@@ -14,6 +14,10 @@ jobs:
         run: python3 scripts/check_presentation.py
       - name: Check collection entries and assets
         run: python3 scripts/check_collection.py
+      - name: Check parallel collection and retained store facts
+        run: python3 scripts/check_atelier.py
+      - name: Check parallel collection navigation syntax
+        run: node --check assets/atelier/site.js
       - name: Check search, category and region interactions
         run: node --test scripts/check_collection.cjs
 

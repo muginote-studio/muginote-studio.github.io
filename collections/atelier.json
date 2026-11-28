@@ -1,0 +1,2264 @@
+[
+  {
+    "id": "CAFE-001",
+    "slug": "uff",
+    "name": "Uff Boulangerie & Café",
+    "region": "東京都",
+    "place": "東京・国立",
+    "category": "bakery",
+    "sourceUrls": [
+      "https://tachikawa.keizai.biz/headline/4227/",
+      "https://kunitachi-media.tokyo.jp/archives/1681"
+    ],
+    "path": "/atelier/uff/",
+    "previousPath": "/uff/",
+    "thumbnail": "/uff/assets/hero.webp",
+    "palette": [
+      "#f8f6ef",
+      "#384936",
+      "#eae9e1"
+    ],
+    "textContrast": 8.93,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-002",
+    "slug": "pocha",
+    "name": "日本茶カフェ pocha",
+    "region": "北海道",
+    "place": "札幌・山鼻",
+    "category": "tea",
+    "sourceUrls": [
+      "https://www.poroco.co.jp/newsreport/4106/"
+    ],
+    "path": "/atelier/pocha/",
+    "previousPath": "/pocha/",
+    "thumbnail": "/assets/tea.webp",
+    "palette": [
+      "#f4f3e9",
+      "#2e4838",
+      "#e5e6dc"
+    ],
+    "textContrast": 8.97,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-003",
+    "slug": "collage-co",
+    "name": "Collage.Co",
+    "region": "愛知県",
+    "place": "名古屋・桜山",
+    "category": "sweets",
+    "sourceUrls": [
+      "https://tabelog.com/aichi/A2301/A230108/23097926/"
+    ],
+    "path": "/atelier/collage-co/",
+    "previousPath": "/collage-co/",
+    "thumbnail": "/assets/cookies.webp",
+    "palette": [
+      "#f5eae7",
+      "#442129",
+      "#e8dbd9"
+    ],
+    "textContrast": 11.91,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-004",
+    "slug": "noon",
+    "name": "NOÖN Coffee & Lifestyle",
+    "region": "滋賀県",
+    "place": "滋賀・守山",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://info-shiga.com/open-close/opening/900153/"
+    ],
+    "path": "/atelier/noon/",
+    "previousPath": "/noon/",
+    "thumbnail": "/assets/table.webp",
+    "palette": [
+      "#f3f4f1",
+      "#123dc5",
+      "#e2e6ee"
+    ],
+    "textContrast": 7.61,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-005",
+    "slug": "tori",
+    "name": "cafe & Ice Cream TORI.",
+    "region": "千葉県",
+    "place": "千葉・千葉神社前",
+    "category": "sweets",
+    "sourceUrls": [
+      "https://midori-chiba.mypl.net/article/newopen_chiba/113484"
+    ],
+    "path": "/atelier/tori/",
+    "previousPath": "/tori/",
+    "thumbnail": "/assets/icecream.webp",
+    "palette": [
+      "#fff8e7",
+      "#88322a",
+      "#f6e9d9"
+    ],
+    "textContrast": 7.77,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-006",
+    "slug": "yoca",
+    "name": "cafe yoca",
+    "region": "東京都",
+    "place": "東京・武蔵境",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://mu-navi.com/cafe-yoca/"
+    ],
+    "path": "/atelier/yoca/",
+    "previousPath": "/yoca/",
+    "thumbnail": "/assets/latte.webp",
+    "palette": [
+      "#f2f0eb",
+      "#2e3331",
+      "#e3e2dd"
+    ],
+    "textContrast": 11.28,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-007",
+    "slug": "aioi-coffee",
+    "name": "AIOI COFFEE",
+    "region": "宮城県",
+    "place": "宮城・仙台 榴岡",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://coffee-otaku.com/archives/27254"
+    ],
+    "path": "/atelier/aioi-coffee/",
+    "previousPath": "/aioi-coffee/",
+    "thumbnail": "/assets/coffee.webp",
+    "palette": [
+      "#f4f0e8",
+      "#223e36",
+      "#e4e3db"
+    ],
+    "textContrast": 10.21,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-008",
+    "slug": "cosajiichi",
+    "name": "喫茶 こさじいち",
+    "region": "福岡県",
+    "place": "福岡・笹丘",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tenjin.keizai.biz/headline/8427/"
+    ],
+    "path": "/atelier/cosajiichi/",
+    "previousPath": "/cosajiichi/",
+    "thumbnail": "/assets/toast.webp",
+    "palette": [
+      "#f7f6ef",
+      "#344c3b",
+      "#e8e9e2"
+    ],
+    "textContrast": 8.64,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-009",
+    "slug": "fourth-avenue",
+    "name": "the Fourth Avenue Cafe&Bar",
+    "region": "京都府",
+    "place": "京都・桂",
+    "category": "bar",
+    "sourceUrls": [
+      "https://kansai-kaiten.com/thefourthavenuecafe-kyotokatsura2610/"
+    ],
+    "path": "/atelier/fourth-avenue/",
+    "previousPath": "/fourth-avenue/",
+    "thumbnail": "/assets/wine.webp",
+    "palette": [
+      "#f0eee6",
+      "#152b3a",
+      "#e0dfd9"
+    ],
+    "textContrast": 12.57,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-010",
+    "slug": "eggplant",
+    "name": "EGGPLANT CAFE",
+    "region": "千葉県",
+    "place": "千葉・鎌ケ谷",
+    "category": "meal",
+    "sourceUrls": [
+      "https://kamagaya.mypl.net/article/newopen_kamagaya/113577"
+    ],
+    "path": "/atelier/eggplant/",
+    "previousPath": "/eggplant/",
+    "thumbnail": "/assets/sandwich.webp",
+    "palette": [
+      "#f5f0e7",
+      "#583451",
+      "#e9e2dc"
+    ],
+    "textContrast": 9.14,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-011",
+    "slug": "hoki-cafe",
+    "name": "Hoki Cafe",
+    "region": "北海道",
+    "place": "北海道・旭川市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/hokkaido/A0104/A010401/1086431/",
+      "https://www.shopship.jp/asahikawa/open-close/hokicafe1026/"
+    ],
+    "path": "/atelier/hoki-cafe/",
+    "previousPath": "/hoki-cafe/",
+    "thumbnail": "/assets/batch-a/images/table.webp",
+    "palette": [
+      "#f3eee3",
+      "#142c3a",
+      "#e2dfd6"
+    ],
+    "textContrast": 12.51,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-012",
+    "slug": "kissa-blondy",
+    "name": "喫茶ブロンディー",
+    "region": "北海道",
+    "place": "北海道・札幌市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/hokkaido/A0101/A010305/1086434/",
+      "https://plaza.rakuten.co.jp/yorozuken/diary/202610240003/"
+    ],
+    "path": "/atelier/kissa-blondy/",
+    "previousPath": "/kissa-blondy/",
+    "thumbnail": "/assets/batch-a/images/coffee.webp",
+    "palette": [
+      "#efe2c7",
+      "#34241b",
+      "#e1d4ba"
+    ],
+    "textContrast": 11.58,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-013",
+    "slug": "asile",
+    "name": "Asile",
+    "region": "青森県",
+    "place": "青森県・青森市",
+    "category": "bar",
+    "sourceUrls": [
+      "https://tabelog.com/aomori/A0201/A020101/2014023/",
+      "https://www.acci.or.jp/salon/【会員事業所紹介】カフェ・バル-asile/"
+    ],
+    "path": "/atelier/asile/",
+    "previousPath": "/asile/",
+    "thumbnail": "/assets/batch-a/images/wine.webp",
+    "palette": [
+      "#f3ede0",
+      "#322726",
+      "#e5ded2"
+    ],
+    "textContrast": 12.38,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-014",
+    "slug": "nakano-coffee",
+    "name": "中野珈琲店",
+    "region": "青森県",
+    "place": "青森県・弘前市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/aomori/A0202/A020201/2014002/",
+      "https://hirosaki.keizai.biz/headline/2773/"
+    ],
+    "path": "/atelier/nakano-coffee/",
+    "previousPath": "/nakano-coffee/",
+    "thumbnail": "/assets/batch-a/images/coffee.webp",
+    "palette": [
+      "#f3f4ef",
+      "#253c30",
+      "#e4e6e1"
+    ],
+    "textContrast": 10.75,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-015",
+    "slug": "hiyokodo",
+    "name": "まんがめし喫茶 ひよこ堂",
+    "region": "岩手県",
+    "place": "岩手県・紫波郡",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/iwate/A0301/A030103/3013251/",
+      "https://kaiten-heiten-24.com/hiyoko-dou/"
+    ],
+    "path": "/atelier/hiyokodo/",
+    "previousPath": "/hiyokodo/",
+    "thumbnail": "/assets/batch-a/images/sandwich.webp",
+    "palette": [
+      "#f7f0dc",
+      "#702e23",
+      "#ede1ce"
+    ],
+    "textContrast": 8.77,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-016",
+    "slug": "kissa-yoru-sakurayama",
+    "name": "喫茶 夜 桜山",
+    "region": "岩手県",
+    "place": "岩手県・盛岡市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/iwate/A0301/A030101/3013416/"
+    ],
+    "path": "/atelier/kissa-yoru-sakurayama/",
+    "previousPath": "/kissa-yoru-sakurayama/",
+    "thumbnail": "/assets/batch-a/images/coffee.webp",
+    "palette": [
+      "#eee6d7",
+      "#151c1b",
+      "#ded7c9"
+    ],
+    "textContrast": 13.95,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-017",
+    "slug": "cafe-marm",
+    "name": "cafe MARM",
+    "region": "宮城県",
+    "place": "宮城県・多賀城市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/miyagi/A0404/A040404/4030479/",
+      "https://freimann.hatenablog.com/entry/2026/10/09/170000"
+    ],
+    "path": "/atelier/cafe-marm/",
+    "previousPath": "/cafe-marm/",
+    "thumbnail": "/assets/batch-a/images/toast.webp",
+    "palette": [
+      "#f8f6ed",
+      "#282820",
+      "#e8e7de"
+    ],
+    "textContrast": 13.71,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-018",
+    "slug": "mimizu",
+    "name": "蚯蚓",
+    "region": "宮城県",
+    "place": "宮城県・仙台市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/miyagi/A0401/A040105/4030460/",
+      "https://sendaiminami-tusin.com/mimizu2610/"
+    ],
+    "path": "/atelier/mimizu/",
+    "previousPath": "/mimizu/",
+    "thumbnail": "/assets/batch-a/images/coffee.webp",
+    "palette": [
+      "#fcf3ed",
+      "#241a17",
+      "#ebe3dd"
+    ],
+    "textContrast": 15.55,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-019",
+    "slug": "ko-meguri",
+    "name": "KO-MEGURI",
+    "region": "秋田県",
+    "place": "秋田県・横手市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/akita/A0505/A050501/5011649/"
+    ],
+    "path": "/atelier/ko-meguri/",
+    "previousPath": "/ko-meguri/",
+    "thumbnail": "/assets/batch-a/images/table.webp",
+    "palette": [
+      "#f0f0e3",
+      "#2d402b",
+      "#e1e3d5"
+    ],
+    "textContrast": 9.72,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-020",
+    "slug": "kyado-ponponjina",
+    "name": "きゃどぽんぽんじ〜な",
+    "region": "秋田県",
+    "place": "秋田県・秋田市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/akita/A0501/A050101/5011631/",
+      "https://web.akita-townjoho.jp/post-category/20260430-kyadoponponjina/"
+    ],
+    "path": "/atelier/kyado-ponponjina/",
+    "previousPath": "/kyado-ponponjina/",
+    "thumbnail": "/assets/batch-a/images/latte.webp",
+    "palette": [
+      "#f1eddb",
+      "#244a49",
+      "#e2e1d0"
+    ],
+    "textContrast": 8.31,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-021",
+    "slug": "le-lien",
+    "name": "CAFE & DINING Le Lien",
+    "region": "山形県",
+    "place": "山形県・南陽市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/yamagata/A0602/A060202/6013562/"
+    ],
+    "path": "/atelier/le-lien/",
+    "previousPath": "/le-lien/",
+    "thumbnail": "/assets/batch-a/images/table.webp",
+    "palette": [
+      "#f6e7dd",
+      "#53302e",
+      "#ead9d0"
+    ],
+    "textContrast": 9.5,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-022",
+    "slug": "kumakichi-biyori",
+    "name": "くまきち日和",
+    "region": "山形県",
+    "place": "山形県・西置賜郡",
+    "category": "sweets",
+    "sourceUrls": [
+      "https://tabelog.com/yamagata/A0602/A060203/6013674/",
+      "https://camp-fire.jp/projects/977512/view?list=prefecture_yamagata_projects_fresh",
+      "https://camp-fire.jp/projects/977512/view/activities/910342"
+    ],
+    "path": "/atelier/kumakichi-biyori/",
+    "previousPath": "/kumakichi-biyori/",
+    "thumbnail": "/assets/batch-a/images/tea.webp",
+    "palette": [
+      "#e7e5d1",
+      "#25362c",
+      "#d8d8c5"
+    ],
+    "textContrast": 10.06,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-023",
+    "slug": "nandemonaihi",
+    "name": "なんでもない日に、踊ろうよ",
+    "region": "山形県",
+    "place": "山形県・飽海郡",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/yamagata/A0603/A060303/6013517/",
+      "https://yama-katsu.jp/press/30267/",
+      "https://yuzamachi.com/taberu/nandemonaihini/2026/07/14/"
+    ],
+    "path": "/atelier/nandemonaihi/",
+    "previousPath": "/nandemonaihi/",
+    "thumbnail": "/assets/batch-a/images/sandwich.webp",
+    "palette": [
+      "#efead8",
+      "#383c29",
+      "#e1ddcb"
+    ],
+    "textContrast": 9.44,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-024",
+    "slug": "green-cafe-hana",
+    "name": "Green & Cafe HANA",
+    "region": "福島県",
+    "place": "福島県・いわき市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/fukushima/A0704/A070401/7021049/",
+      "https://www.gurutto-iwaki.com/detail/1792/news/news-931717.html"
+    ],
+    "path": "/atelier/green-cafe-hana/",
+    "previousPath": "/green-cafe-hana/",
+    "thumbnail": "/assets/batch-a/images/table.webp",
+    "palette": [
+      "#e6ebce",
+      "#29422a",
+      "#d8dec2"
+    ],
+    "textContrast": 8.99,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-025",
+    "slug": "resky",
+    "name": "Re:sky",
+    "region": "福島県",
+    "place": "福島県・会津若松市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/fukushima/A0705/A070501/7020931/",
+      "https://www.gurutto-aizu.com/detail/1158/index.html"
+    ],
+    "path": "/atelier/resky/",
+    "previousPath": "/resky/",
+    "thumbnail": "/assets/batch-a/images/sandwich.webp",
+    "palette": [
+      "#f6ead6",
+      "#25282d",
+      "#e6dbc9"
+    ],
+    "textContrast": 12.44,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-026",
+    "slug": "quebectei",
+    "name": "Quebec亭",
+    "region": "茨城県",
+    "place": "茨城県・常陸大宮市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/ibaraki/A0805/A080503/8031302/"
+    ],
+    "path": "/atelier/quebectei/",
+    "previousPath": "/quebectei/",
+    "thumbnail": "/assets/batch-a/images/tea.webp",
+    "palette": [
+      "#ede2c7",
+      "#3d3224",
+      "#e0d5bb"
+    ],
+    "textContrast": 9.7,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-027",
+    "slug": "fufufu",
+    "name": "FUFUFU",
+    "region": "栃木県",
+    "place": "栃木県・宇都宮市",
+    "category": "bar",
+    "sourceUrls": [
+      "https://tabelog.com/tochigi/A0901/A090101/9024341/",
+      "https://www.tochinavi.net/spot/newopen/detail.shtml?id=4313"
+    ],
+    "path": "/atelier/fufufu/",
+    "previousPath": "/fufufu/",
+    "thumbnail": "/assets/batch-a/images/coffee.webp",
+    "palette": [
+      "#e8ebdc",
+      "#263c31",
+      "#d9decf"
+    ],
+    "textContrast": 9.78,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-028",
+    "slug": "my-honey",
+    "name": "my.Honey",
+    "region": "栃木県",
+    "place": "栃木県・宇都宮市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/tochigi/A0901/A090101/9024337/",
+      "https://utsunomiya.goguynet.jp/2026/07/14/my-honey/"
+    ],
+    "path": "/atelier/my-honey/",
+    "previousPath": "/my-honey/",
+    "thumbnail": "/assets/batch-a/images/sandwich.webp",
+    "palette": [
+      "#fef9ea",
+      "#3c271c",
+      "#efe9db"
+    ],
+    "textContrast": 13.32,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-029",
+    "slug": "le-chainon",
+    "name": "Le’Chainon",
+    "region": "群馬県",
+    "place": "群馬県・高崎市",
+    "category": "sweets",
+    "sourceUrls": [
+      "https://tabelog.com/gunma/A1001/A100102/10027439/"
+    ],
+    "path": "/atelier/le-chainon/",
+    "previousPath": "/le-chainon/",
+    "thumbnail": "/assets/batch-a/images/icecream.webp",
+    "palette": [
+      "#e6d9ee",
+      "#47304a",
+      "#dacce2"
+    ],
+    "textContrast": 8.67,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-030",
+    "slug": "hoodhouse",
+    "name": "アメリカンダイナーHOODHOUSE",
+    "region": "群馬県",
+    "place": "群馬県・前橋市",
+    "category": "bar",
+    "sourceUrls": [
+      "https://tabelog.com/gunma/A1001/A100101/10026738/",
+      "https://saikura.info/open-hood-house-maebashi-20261029/"
+    ],
+    "path": "/atelier/hoodhouse/",
+    "previousPath": "/hoodhouse/",
+    "thumbnail": "/assets/batch-a/images/sandwich.webp",
+    "palette": [
+      "#f8e8bd",
+      "#882a21",
+      "#f0dab1"
+    ],
+    "textContrast": 7.16,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-031",
+    "slug": "sena-coffee",
+    "name": "聖奈珈琲",
+    "region": "群馬県",
+    "place": "群馬県・伊勢崎市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/gunma/A1002/A100202/10027456/"
+    ],
+    "path": "/atelier/sena-coffee/",
+    "previousPath": "/sena-coffee/",
+    "thumbnail": "/assets/batch-a/images/coffee.webp",
+    "palette": [
+      "#f1e6d1",
+      "#4b2e22",
+      "#e5d8c4"
+    ],
+    "textContrast": 9.91,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-032",
+    "slug": "bounce",
+    "name": "BOUNCE",
+    "region": "埼玉県",
+    "place": "埼玉県・深谷市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/saitama/A1105/A110503/11068999/"
+    ],
+    "path": "/atelier/bounce/",
+    "previousPath": "/bounce/",
+    "thumbnail": "/assets/batch-a/images/table.webp",
+    "palette": [
+      "#f2f4ed",
+      "#153b29",
+      "#e1e6de"
+    ],
+    "textContrast": 11.21,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-033",
+    "slug": "tarte-plus",
+    "name": "cafe tarte plus",
+    "region": "埼玉県",
+    "place": "埼玉県・久喜市",
+    "category": "sweets",
+    "sourceUrls": [
+      "https://tabelog.com/saitama/A1104/A110402/11068975/",
+      "https://kuki-satte.goguynet.jp/2026/11/07/tarte-plus/"
+    ],
+    "path": "/atelier/tarte-plus/",
+    "previousPath": "/tarte-plus/",
+    "thumbnail": "/assets/batch-a/images/cookies.webp",
+    "palette": [
+      "#efe0d5",
+      "#573936",
+      "#e4d3c9"
+    ],
+    "textContrast": 7.97,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-034",
+    "slug": "vigo",
+    "name": "vigo",
+    "region": "千葉県",
+    "place": "千葉県・千葉市",
+    "category": "sweets",
+    "sourceUrls": [
+      "https://tabelog.com/chiba/A1201/A120101/12068435/",
+      "https://www.gummaumaimono.info/entry/2026/10/15/214835"
+    ],
+    "path": "/atelier/vigo/",
+    "previousPath": "/vigo/",
+    "thumbnail": "/assets/batch-a/images/cookies.webp",
+    "palette": [
+      "#f0eddc",
+      "#243c31",
+      "#e1e0cf"
+    ],
+    "textContrast": 10.11,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-035",
+    "slug": "ten",
+    "name": "ちょい呑み処ten",
+    "region": "千葉県",
+    "place": "千葉県・柏市",
+    "category": "bar",
+    "sourceUrls": [
+      "https://tabelog.com/chiba/A1203/A120301/12068592/"
+    ],
+    "path": "/atelier/ten/",
+    "previousPath": "/ten/",
+    "thumbnail": "/assets/batch-a/images/table.webp",
+    "palette": [
+      "#f2e5c8",
+      "#254236",
+      "#e3d9bd"
+    ],
+    "textContrast": 8.8,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-036",
+    "slug": "toki",
+    "name": "溶時",
+    "region": "東京都",
+    "place": "東京都・新宿区西新宿7-",
+    "category": "sweets",
+    "sourceUrls": [
+      "https://tabelog.com/tokyo/A1304/A130401/13326656/"
+    ],
+    "path": "/atelier/toki/",
+    "previousPath": "/toki/",
+    "thumbnail": "/assets/batch-a/images/tea.webp",
+    "palette": [
+      "#f7f6ec",
+      "#3c443e",
+      "#e9e9df"
+    ],
+    "textContrast": 9.26,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-037",
+    "slug": "cache-cache",
+    "name": "Cache Cache",
+    "region": "神奈川県",
+    "place": "神奈川県・中郡",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/kanagawa/A1404/A140408/14105535/"
+    ],
+    "path": "/atelier/cache-cache/",
+    "previousPath": "/cache-cache/",
+    "thumbnail": "/assets/batch-a/images/latte.webp",
+    "palette": [
+      "#eee7d7",
+      "#383d2d",
+      "#e0daca"
+    ],
+    "textContrast": 9.1,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-038",
+    "slug": "cafe-zen",
+    "name": "キッチンカーの古民家cafe Zen",
+    "region": "神奈川県",
+    "place": "神奈川県・茅ヶ崎市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/kanagawa/A1404/A140406/14105729/"
+    ],
+    "path": "/atelier/cafe-zen/",
+    "previousPath": "/cafe-zen/",
+    "thumbnail": "/assets/batch-a/images/tea.webp",
+    "palette": [
+      "#e7e4d5",
+      "#293729",
+      "#d9d7c8"
+    ],
+    "textContrast": 9.84,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-039",
+    "slug": "kissa-perla",
+    "name": "喫茶 Perla",
+    "region": "新潟県",
+    "place": "新潟県・新潟市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/niigata/A1501/A150101/15025978/",
+      "https://r.gnavi.co.jp/k11bxjtf0000/"
+    ],
+    "path": "/atelier/kissa-perla/",
+    "previousPath": "/kissa-perla/",
+    "thumbnail": "/assets/batch-a/images/coffee.webp",
+    "palette": [
+      "#efe6d3",
+      "#1d292f",
+      "#dfd8c7"
+    ],
+    "textContrast": 12.0,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-040",
+    "slug": "tabetai",
+    "name": "甘味処 食べ鯛",
+    "region": "富山県",
+    "place": "富山県・魚津市",
+    "category": "sweets",
+    "sourceUrls": [
+      "https://tabelog.com/toyama/A1602/A160202/16012063/",
+      "https://toyama-watch.com/archives/29554"
+    ],
+    "path": "/atelier/tabetai/",
+    "previousPath": "/tabetai/",
+    "thumbnail": "/assets/batch-a/images/tea.webp",
+    "palette": [
+      "#eee4d1",
+      "#143c4c",
+      "#ded7c7"
+    ],
+    "textContrast": 9.35,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-041",
+    "slug": "mico",
+    "name": "mico",
+    "region": "石川県",
+    "place": "石川県・加賀市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/ishikawa/A1702/A170201/17016227/"
+    ],
+    "path": "/atelier/mico/",
+    "previousPath": "/mico/",
+    "thumbnail": "/assets/batch-b/tea.webp",
+    "palette": [
+      "#f0f1eb",
+      "#25332c",
+      "#e1e3dd"
+    ],
+    "textContrast": 11.64,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-042",
+    "slug": "kissa-kobito",
+    "name": "喫茶コビト",
+    "region": "石川県",
+    "place": "石川県・小松市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/ishikawa/A1702/A170202/17016089/",
+      "https://www.komatsuguide.jp/feature/detail_267.html"
+    ],
+    "path": "/atelier/kissa-kobito/",
+    "previousPath": "/kissa-kobito/",
+    "thumbnail": "/assets/batch-b/cookies.webp",
+    "palette": [
+      "#f5f0e5",
+      "#49302a",
+      "#e8e2d7"
+    ],
+    "textContrast": 10.62,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-043",
+    "slug": "our",
+    "name": "our",
+    "region": "福井県",
+    "place": "福井県・あわら市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/fukui/A1801/A180102/18010855/",
+      "https://kume.jp/2026/10/261006/"
+    ],
+    "path": "/atelier/our/",
+    "previousPath": "/our/",
+    "thumbnail": "/assets/batch-b/cookies.webp",
+    "palette": [
+      "#f8f5ec",
+      "#242b30",
+      "#e8e6de"
+    ],
+    "textContrast": 13.16,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-044",
+    "slug": "cafe-hana",
+    "name": "カフェ花",
+    "region": "福井県",
+    "place": "福井県・越前市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/fukui/A1802/A180202/18001833/",
+      "https://fupo.jp/article/newopen_202610-2/"
+    ],
+    "path": "/atelier/cafe-hana/",
+    "previousPath": "/cafe-hana/",
+    "thumbnail": "/assets/batch-b/coffee.webp",
+    "palette": [
+      "#f3ecdb",
+      "#392d26",
+      "#e5decd"
+    ],
+    "textContrast": 11.31,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-045",
+    "slug": "3pozzo-cafe",
+    "name": "3POZZO cafe",
+    "region": "山梨県",
+    "place": "山梨県・南都留郡",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/yamanashi/A1903/A190302/19015032/",
+      "https://www.porta-y.jp/gourmet/3581420"
+    ],
+    "path": "/atelier/3pozzo-cafe/",
+    "previousPath": "/3pozzo-cafe/",
+    "thumbnail": "/assets/batch-b/table.webp",
+    "palette": [
+      "#f4f5e8",
+      "#163f41",
+      "#e3e7db"
+    ],
+    "textContrast": 10.47,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-046",
+    "slug": "cohaccha",
+    "name": "cohaccha",
+    "region": "山梨県",
+    "place": "山梨県・中巨摩郡",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/yamanashi/A1901/A190101/19015055/"
+    ],
+    "path": "/atelier/cohaccha/",
+    "previousPath": "/cohaccha/",
+    "thumbnail": "/assets/batch-b/table.webp",
+    "palette": [
+      "#fbf4e8",
+      "#3d3525",
+      "#ede6d9"
+    ],
+    "textContrast": 11.07,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-047",
+    "slug": "kominka-onn",
+    "name": "古民家カフェ 温",
+    "region": "山梨県",
+    "place": "山梨県・甲府市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/yamanashi/A1901/A190101/19014998/",
+      "https://www.porta-y.jp/porta-press/press-vt2y1x3r"
+    ],
+    "path": "/atelier/kominka-onn/",
+    "previousPath": "/kominka-onn/",
+    "thumbnail": "/assets/batch-b/tea.webp",
+    "palette": [
+      "#f0ebdb",
+      "#302e24",
+      "#e2ddcd"
+    ],
+    "textContrast": 11.42,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-048",
+    "slug": "lavender-lane",
+    "name": "LAVENDER LANE Tea Room",
+    "region": "長野県",
+    "place": "長野県・長野市",
+    "category": "tea",
+    "sourceUrls": [
+      "https://tabelog.com/nagano/A2001/A200101/20029892/",
+      "https://naganogourmetbekkan.net/lavenderlane/"
+    ],
+    "path": "/atelier/lavender-lane/",
+    "previousPath": "/lavender-lane/",
+    "thumbnail": "/assets/batch-b/tea.webp",
+    "palette": [
+      "#f8f3f8",
+      "#492c5d",
+      "#ebe4ec"
+    ],
+    "textContrast": 10.64,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-049",
+    "slug": "cafe-minamo",
+    "name": "カフェみなも",
+    "region": "長野県",
+    "place": "長野県・松本市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/nagano/A2002/A200201/20030009/",
+      "https://www.web-komachi.com/?p=307955"
+    ],
+    "path": "/atelier/cafe-minamo/",
+    "previousPath": "/cafe-minamo/",
+    "thumbnail": "/assets/batch-b/cookies.webp",
+    "palette": [
+      "#f3f2ed",
+      "#3c4546",
+      "#e5e5e0"
+    ],
+    "textContrast": 8.79,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-050",
+    "slug": "anew",
+    "name": "anew egg sandwich & cafe",
+    "region": "岐阜県",
+    "place": "岐阜県・各務原市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/gifu/A2101/A210102/21025137/"
+    ],
+    "path": "/atelier/anew/",
+    "previousPath": "/anew/",
+    "thumbnail": "/assets/batch-b/sandwich.webp",
+    "palette": [
+      "#fff5db",
+      "#4c351c",
+      "#f2e7cd"
+    ],
+    "textContrast": 10.55,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-051",
+    "slug": "campanella",
+    "name": "Campanella",
+    "region": "岐阜県",
+    "place": "岐阜県・岐阜市",
+    "category": "sweets",
+    "sourceUrls": [
+      "https://tabelog.com/gifu/A2101/A210101/21025076/",
+      "https://kaiten-heiten.com/%E3%80%90%E9%96%8B%E5%BA%97%E3%80%91cafe-campanella/"
+    ],
+    "path": "/atelier/campanella/",
+    "previousPath": "/campanella/",
+    "thumbnail": "/assets/batch-b/coffee.webp",
+    "palette": [
+      "#eae6d7",
+      "#223936",
+      "#dbd9cb"
+    ],
+    "textContrast": 9.84,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-052",
+    "slug": "r-dreams",
+    "name": "Cafe R･Dreams",
+    "region": "静岡県",
+    "place": "静岡県・伊東市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/shizuoka/A2205/A220503/22046681/",
+      "https://www.ekiten.jp/shop_15483094/"
+    ],
+    "path": "/atelier/r-dreams/",
+    "previousPath": "/r-dreams/",
+    "thumbnail": "/assets/batch-b/coffee.webp",
+    "palette": [
+      "#f7efde",
+      "#503a2a",
+      "#eae1d1"
+    ],
+    "textContrast": 9.27,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-053",
+    "slug": "blossom-coffee-house",
+    "name": "BLOSSOM COFFEE HOUSE",
+    "region": "愛知県",
+    "place": "愛知県・名古屋市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/aichi/A2301/A230105/23098267/"
+    ],
+    "path": "/atelier/blossom-coffee-house/",
+    "previousPath": "/blossom-coffee-house/",
+    "thumbnail": "/assets/batch-b/latte.webp",
+    "palette": [
+      "#e9e7e5",
+      "#202021",
+      "#dad8d6"
+    ],
+    "textContrast": 13.2,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-054",
+    "slug": "jinryo-coffee",
+    "name": "Jinryo Coffee",
+    "region": "愛知県",
+    "place": "愛知県・春日井市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/aichi/A2303/A230301/23098304/",
+      "https://matsumoto-coffee.com/blog/seminar/2585/"
+    ],
+    "path": "/atelier/jinryo-coffee/",
+    "previousPath": "/jinryo-coffee/",
+    "thumbnail": "/assets/batch-b/coffee.webp",
+    "palette": [
+      "#f5eee2",
+      "#44362b",
+      "#e8e0d4"
+    ],
+    "textContrast": 10.07,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-055",
+    "slug": "kigi",
+    "name": "PATISSERIE & 喫茶 KIGI",
+    "region": "愛知県",
+    "place": "愛知県・名古屋市",
+    "category": "sweets",
+    "sourceUrls": [
+      "https://tabelog.com/aichi/A2301/A230112/23098019/"
+    ],
+    "path": "/atelier/kigi/",
+    "previousPath": "/kigi/",
+    "thumbnail": "/assets/batch-b/cookies.webp",
+    "palette": [
+      "#eceddf",
+      "#203c31",
+      "#dde0d2"
+    ],
+    "textContrast": 10.13,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-056",
+    "slug": "renelle",
+    "name": "ルネル洋菓子店",
+    "region": "愛知県",
+    "place": "愛知県・名古屋市",
+    "category": "sweets",
+    "sourceUrls": [
+      "https://tabelog.com/aichi/A2301/A230113/23098295/"
+    ],
+    "path": "/atelier/renelle/",
+    "previousPath": "/renelle/",
+    "thumbnail": "/assets/batch-b/cookies.webp",
+    "palette": [
+      "#f8f5f1",
+      "#3c4244",
+      "#eae8e4"
+    ],
+    "textContrast": 9.4,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-057",
+    "slug": "7uts",
+    "name": "7uts",
+    "region": "三重県",
+    "place": "三重県・鈴鹿市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/mie/A2402/A240202/24022804/",
+      "https://suzuka-kameyama.goguynet.jp/2026/09/14/7uts/"
+    ],
+    "path": "/atelier/7uts/",
+    "previousPath": "/7uts/",
+    "thumbnail": "/assets/batch-b/latte.webp",
+    "palette": [
+      "#f1eddf",
+      "#252f63",
+      "#e2dfd6"
+    ],
+    "textContrast": 10.76,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-058",
+    "slug": "riverside-cafe-sleep",
+    "name": "riverside cafe ＆ sleep",
+    "region": "三重県",
+    "place": "三重県・名張市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/mie/A2404/A240402/24022885/",
+      "https://mycmyc.blog.fc2.com/blog-entry-3402.html"
+    ],
+    "path": "/atelier/riverside-cafe-sleep/",
+    "previousPath": "/riverside-cafe-sleep/",
+    "thumbnail": "/assets/batch-b/table.webp",
+    "palette": [
+      "#e6efea",
+      "#263f38",
+      "#d8e2dd"
+    ],
+    "textContrast": 9.67,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-059",
+    "slug": "hidamari",
+    "name": "カフェとごはん ひだまり",
+    "region": "滋賀県",
+    "place": "滋賀県・近江八幡市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/shiga/A2503/A250301/25014589/",
+      "https://shiga2.jp/hidamari-omihachiman-renewal-open/shiga2/"
+    ],
+    "path": "/atelier/hidamari/",
+    "previousPath": "/hidamari/",
+    "thumbnail": "/assets/batch-b/tea.webp",
+    "palette": [
+      "#fff7e1",
+      "#463b26",
+      "#f1e9d3"
+    ],
+    "textContrast": 10.26,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-060",
+    "slug": "kyushoku-biyori",
+    "name": "給食日和",
+    "region": "滋賀県",
+    "place": "滋賀県・大津市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/shiga/A2501/A250101/25014660/",
+      "https://kokoiro.jp/shop/kyushokubiyori/"
+    ],
+    "path": "/atelier/kyushoku-biyori/",
+    "previousPath": "/kyushoku-biyori/",
+    "thumbnail": "/assets/batch-b/toast.webp",
+    "palette": [
+      "#fff1d3",
+      "#54382d",
+      "#f2e3c7"
+    ],
+    "textContrast": 9.48,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-061",
+    "slug": "towza-diner",
+    "name": "TOWZA DINER 1830",
+    "region": "京都府",
+    "place": "京都府・京都市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/kyoto/A2601/A260503/26046119/"
+    ],
+    "path": "/atelier/towza-diner/",
+    "previousPath": "/towza-diner/",
+    "thumbnail": "/assets/batch-b/sandwich.webp",
+    "palette": [
+      "#fff0d8",
+      "#652d25",
+      "#f3e1cb"
+    ],
+    "textContrast": 9.57,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-062",
+    "slug": "del",
+    "name": "DEL",
+    "region": "大阪府",
+    "place": "大阪府・大阪市",
+    "category": "sweets",
+    "sourceUrls": [
+      "https://tabelog.com/osaka/A2701/A270201/27159757/"
+    ],
+    "path": "/atelier/del/",
+    "previousPath": "/del/",
+    "thumbnail": "/assets/batch-b/cookies.webp",
+    "palette": [
+      "#fbf0d7",
+      "#632820",
+      "#f0e1c9"
+    ],
+    "textContrast": 10.0,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-063",
+    "slug": "loaff",
+    "name": "LOAFF",
+    "region": "大阪府",
+    "place": "大阪府・大阪市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/osaka/A2701/A270203/27160061/",
+      "https://kansai-kaiten.com/loaff-osakashitennouji2610/"
+    ],
+    "path": "/atelier/loaff/",
+    "previousPath": "/loaff/",
+    "thumbnail": "/assets/batch-b/toast.webp",
+    "palette": [
+      "#f7f3e9",
+      "#292f2a",
+      "#e8e4db"
+    ],
+    "textContrast": 12.35,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-064",
+    "slug": "on-cafe",
+    "name": "on cafe",
+    "region": "兵庫県",
+    "place": "兵庫県・高砂市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/hyogo/A2804/A280402/28078110/"
+    ],
+    "path": "/atelier/on-cafe/",
+    "previousPath": "/on-cafe/",
+    "thumbnail": "/assets/batch-b/latte.webp",
+    "palette": [
+      "#f4f2ed",
+      "#252b29",
+      "#e4e3de"
+    ],
+    "textContrast": 12.89,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-065",
+    "slug": "kissa-stern",
+    "name": "喫茶 Stern",
+    "region": "兵庫県",
+    "place": "兵庫県・神戸市",
+    "category": "sweets",
+    "sourceUrls": [
+      "https://tabelog.com/hyogo/A2801/A280101/28078155/",
+      "https://kobebrighten.com/ja/news/kissa-stern-sannomiya-kobe/"
+    ],
+    "path": "/atelier/kissa-stern/",
+    "previousPath": "/kissa-stern/",
+    "thumbnail": "/assets/batch-b/sandwich.webp",
+    "palette": [
+      "#f3eadc",
+      "#472f29",
+      "#e6dccf"
+    ],
+    "textContrast": 10.32,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-066",
+    "slug": "kirara-cafe",
+    "name": "キララカフェ",
+    "region": "奈良県",
+    "place": "奈良県・香芝市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/nara/A2903/A290301/29015812/"
+    ],
+    "path": "/atelier/kirara-cafe/",
+    "previousPath": "/kirara-cafe/",
+    "thumbnail": "/assets/batch-b/coffee.webp",
+    "palette": [
+      "#f5eedf",
+      "#493c30",
+      "#e8e1d2"
+    ],
+    "textContrast": 9.22,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-067",
+    "slug": "good",
+    "name": "good",
+    "region": "和歌山県",
+    "place": "和歌山県・和歌山市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/wakayama/A3001/A300101/30012683/",
+      "https://article.yahoo.co.jp/detail/1cd54db19bd5daa9327529c24a87ab6d92089885"
+    ],
+    "path": "/atelier/good/",
+    "previousPath": "/good/",
+    "thumbnail": "/assets/batch-b/toast.webp",
+    "palette": [
+      "#eef2f5",
+      "#173d78",
+      "#dee4ec"
+    ],
+    "textContrast": 9.44,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-068",
+    "slug": "ponte",
+    "name": "ponte",
+    "region": "和歌山県",
+    "place": "和歌山県・有田郡",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/wakayama/A3002/A300203/30012678/"
+    ],
+    "path": "/atelier/ponte/",
+    "previousPath": "/ponte/",
+    "thumbnail": "/assets/batch-b/tea.webp",
+    "palette": [
+      "#f7f0de",
+      "#493523",
+      "#eae2d0"
+    ],
+    "textContrast": 10.17,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-069",
+    "slug": "ara",
+    "name": "ara",
+    "region": "鳥取県",
+    "place": "鳥取県・西伯郡",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/tottori/A3103/A310302/31007396/"
+    ],
+    "path": "/atelier/ara/",
+    "previousPath": "/ara/",
+    "thumbnail": "/assets/batch-b/cookies.webp",
+    "palette": [
+      "#eeefeb",
+      "#303b3f",
+      "#e0e2de"
+    ],
+    "textContrast": 9.97,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-070",
+    "slug": "oyaji-cafe",
+    "name": "おやじかふぇ",
+    "region": "鳥取県",
+    "place": "鳥取県・鳥取市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/tottori/A3101/A310101/31007444/",
+      "https://tottorizumu.com/oyazi-cafe/"
+    ],
+    "path": "/atelier/oyaji-cafe/",
+    "previousPath": "/oyaji-cafe/",
+    "thumbnail": "/assets/batch-b/interior.webp",
+    "palette": [
+      "#f0e3cd",
+      "#402b23",
+      "#e3d5c0"
+    ],
+    "textContrast": 10.44,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-071",
+    "slug": "kissa-kotsubu",
+    "name": "喫茶 こつぶ",
+    "region": "島根県",
+    "place": "島根県・松江市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/shimane/A3201/A320101/32008300/"
+    ],
+    "path": "/atelier/kissa-kotsubu/",
+    "previousPath": "/kissa-kotsubu/",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "palette": [
+      "#f4f1e8",
+      "#273f36",
+      "#e5e4db"
+    ],
+    "textContrast": 10.05,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-072",
+    "slug": "sora-to-kaze-to",
+    "name": "空ト風ト",
+    "region": "島根県",
+    "place": "島根県・出雲市",
+    "category": "sweets",
+    "sourceUrls": [
+      "https://unseki.co.jp/blog/open/cake/27827"
+    ],
+    "path": "/atelier/sora-to-kaze-to/",
+    "previousPath": "/sora-to-kaze-to/",
+    "thumbnail": "/assets/batch-c/photos/icecream.webp",
+    "palette": [
+      "#f5f4ec",
+      "#415434",
+      "#e8e8de"
+    ],
+    "textContrast": 7.45,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-073",
+    "slug": "bone-and-peace",
+    "name": "Bone&Peace",
+    "region": "岡山県",
+    "place": "岡山県・津山市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/okayama/A3304/A330401/33022358/"
+    ],
+    "path": "/atelier/bone-and-peace/",
+    "previousPath": "/bone-and-peace/",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "palette": [
+      "#f4f2ea",
+      "#3d443a",
+      "#e6e5dd"
+    ],
+    "textContrast": 8.98,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-074",
+    "slug": "kinkin",
+    "name": "Cafe Stand kinkin",
+    "region": "岡山県",
+    "place": "岡山県・倉敷市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tokumori.tv.kct.jp/gourmet/83551/"
+    ],
+    "path": "/atelier/kinkin/",
+    "previousPath": "/kinkin/",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "palette": [
+      "#f0e8d9",
+      "#332c28",
+      "#e2dacc"
+    ],
+    "textContrast": 11.26,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-075",
+    "slug": "pechunia-cafe",
+    "name": "Pechunia cafe",
+    "region": "岡山県",
+    "place": "岡山県・倉敷市",
+    "category": "sweets",
+    "sourceUrls": [
+      "https://soja-kurashiki.okayama.jp/2026/10/05/pechunia-cafe-kurashiki-tsurugata-open-20261005/",
+      "https://www.hotpepper.jp/strJ004698503/appearance/"
+    ],
+    "path": "/atelier/pechunia-cafe/",
+    "previousPath": "/pechunia-cafe/",
+    "thumbnail": "/assets/batch-c/photos/latte.webp",
+    "palette": [
+      "#fcf7f1",
+      "#221d21",
+      "#ebe7e1"
+    ],
+    "textContrast": 15.6,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-076",
+    "slug": "chouchou-cafe",
+    "name": "chouchou cafe",
+    "region": "広島県",
+    "place": "広島県・呉市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://iraw.rcc.jp/topics/articles/37351"
+    ],
+    "path": "/atelier/chouchou-cafe/",
+    "previousPath": "/chouchou-cafe/",
+    "thumbnail": "/assets/batch-c/photos/cookies.webp",
+    "palette": [
+      "#f8f4ea",
+      "#7f4134",
+      "#efe7dc"
+    ],
+    "textContrast": 7.09,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-077",
+    "slug": "curry-cafe-m",
+    "name": "curry＆cafe M",
+    "region": "広島県",
+    "place": "広島県・廿日市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://www.hotpepper.jp/strJ001264169/"
+    ],
+    "path": "/atelier/curry-cafe-m/",
+    "previousPath": "/curry-cafe-m/",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "palette": [
+      "#f7f5ef",
+      "#202321",
+      "#e7e5e0"
+    ],
+    "textContrast": 14.55,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-078",
+    "slug": "caffe-rieta",
+    "name": "Caffe Rieta",
+    "region": "山口県",
+    "place": "山口県・周南市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://shunan.keizai.biz/headline/2265/",
+      "https://tabelog.com/yamaguchi/A3505/A350501/35015082/"
+    ],
+    "path": "/atelier/caffe-rieta/",
+    "previousPath": "/caffe-rieta/",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "palette": [
+      "#eef2ee",
+      "#294b61",
+      "#dfe5e3"
+    ],
+    "textContrast": 8.17,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-079",
+    "slug": "sora16cafe",
+    "name": "sora16cafe",
+    "region": "山口県",
+    "place": "山口県・下関市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://article.yahoo.co.jp/detail/6dd4b1c1ed63344d8d60f54556dad2ea0c2ffa50",
+      "https://tabelog.com/yamaguchi/A3502/A350201/35015032/"
+    ],
+    "path": "/atelier/sora16cafe/",
+    "previousPath": "/sora16cafe/",
+    "thumbnail": "/assets/batch-c/photos/cookies.webp",
+    "palette": [
+      "#f5f4ed",
+      "#295457",
+      "#e6e8e2"
+    ],
+    "textContrast": 7.59,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-080",
+    "slug": "kamo-no-hitotoki",
+    "name": "鴨のひととき",
+    "region": "徳島県",
+    "place": "徳島県・吉野川市",
+    "category": "bakery",
+    "sourceUrls": [
+      "https://awawa.app/pages/article_detail.php?app_no=51&report_no=11669&tab_no=0"
+    ],
+    "path": "/atelier/kamo-no-hitotoki/",
+    "previousPath": "/kamo-no-hitotoki/",
+    "thumbnail": "/assets/batch-c/photos/bread.webp",
+    "palette": [
+      "#f3f0e5",
+      "#47543f",
+      "#e6e4d9"
+    ],
+    "textContrast": 7.09,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-081",
+    "slug": "cafe-amie",
+    "name": "cafe amie",
+    "region": "香川県",
+    "place": "香川県・坂出市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://www.coolkagawa.jp/news/entry-6007.html",
+      "https://tabelog.com/kagawa/A3702/A370201/37015143/"
+    ],
+    "path": "/atelier/cafe-amie/",
+    "previousPath": "/cafe-amie/",
+    "thumbnail": "/assets/batch-c/photos/table.webp",
+    "palette": [
+      "#f5f4ed",
+      "#243e53",
+      "#e5e6e1"
+    ],
+    "textContrast": 10.08,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-082",
+    "slug": "muregurashi",
+    "name": "むれぐらし喫茶",
+    "region": "香川県",
+    "place": "香川県・高松市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://www.coolkagawa.jp/news/entry-6005.html",
+      "https://tabelog.com/kagawa/A3701/A370101/37015113/"
+    ],
+    "path": "/atelier/muregurashi/",
+    "previousPath": "/muregurashi/",
+    "thumbnail": "/assets/batch-c/photos/tea.webp",
+    "palette": [
+      "#f2eadc",
+      "#334d43",
+      "#e4ded1"
+    ],
+    "textContrast": 7.7,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-083",
+    "slug": "hajimari-no-maho",
+    "name": "Cafe&Lunch Box 一の魔法",
+    "region": "愛媛県",
+    "place": "愛媛県・松山市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://matsuyama.goguynet.jp/2026/10/05/ichinomahou/",
+      "https://tabelog.com/ehime/A3801/A380101/38017430/"
+    ],
+    "path": "/atelier/hajimari-no-maho/",
+    "previousPath": "/hajimari-no-maho/",
+    "thumbnail": "/assets/batch-c/photos/sandwich.webp",
+    "palette": [
+      "#f8f5ee",
+      "#28241f",
+      "#e8e5de"
+    ],
+    "textContrast": 14.16,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-084",
+    "slug": "country-house-f",
+    "name": "Country House.F",
+    "region": "愛媛県",
+    "place": "愛媛県・松山市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://ehime-epuri.jp/82383",
+      "https://tabelog.com/ehime/A3801/A380101/38017347/"
+    ],
+    "path": "/atelier/country-house-f/",
+    "previousPath": "/country-house-f/",
+    "thumbnail": "/assets/batch-c/photos/table.webp",
+    "palette": [
+      "#f5f4eb",
+      "#553c2a",
+      "#e9e6dd"
+    ],
+    "textContrast": 9.21,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-085",
+    "slug": "nuie-luce-food",
+    "name": "NUiE LUCE food",
+    "region": "高知県",
+    "place": "高知県・高知市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://eimons.jp/gourmet/nuieluce_food",
+      "https://tabelog.com/kochi/A3901/A390101/39009182/"
+    ],
+    "path": "/atelier/nuie-luce-food/",
+    "previousPath": "/nuie-luce-food/",
+    "thumbnail": "/assets/batch-c/photos/sandwich.webp",
+    "palette": [
+      "#f8f7ee",
+      "#374b3d",
+      "#eaeae1"
+    ],
+    "textContrast": 8.73,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-086",
+    "slug": "3nen-bgumi",
+    "name": "3年B組",
+    "region": "福岡県",
+    "place": "福岡県・北九州市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/fukuoka/A4004/A400404/40074985/"
+    ],
+    "path": "/atelier/3nen-bgumi/",
+    "previousPath": "/3nen-bgumi/",
+    "thumbnail": "/assets/batch-c/photos/table.webp",
+    "palette": [
+      "#eee9df",
+      "#233f50",
+      "#dfdcd4"
+    ],
+    "textContrast": 9.14,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-087",
+    "slug": "backer",
+    "name": "BÄCKER",
+    "region": "福岡県",
+    "place": "福岡県・京都郡",
+    "category": "bakery",
+    "sourceUrls": [
+      "https://www.kbc.co.jp/wish/article/47595/",
+      "https://tabelog.com/fukuoka/A4006/A400601/40074898/",
+      "https://kaiten-heiten.com/coffee-and-bakery-backer/"
+    ],
+    "path": "/atelier/backer/",
+    "previousPath": "/backer/",
+    "thumbnail": "/assets/batch-c/photos/croissant.webp",
+    "palette": [
+      "#f7efdc",
+      "#3c291b",
+      "#e9e0ce"
+    ],
+    "textContrast": 12.02,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-088",
+    "slug": "cafe-bar-en",
+    "name": "Cafe Bar えん",
+    "region": "福岡県",
+    "place": "福岡県・北九州市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/fukuoka/A4004/A400404/40075128/"
+    ],
+    "path": "/atelier/cafe-bar-en/",
+    "previousPath": "/cafe-bar-en/",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "palette": [
+      "#f7f4ed",
+      "#333b3d",
+      "#e8e6e0"
+    ],
+    "textContrast": 10.43,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-089",
+    "slug": "curry-coffee-wine",
+    "name": "カレーのち珈琲、ときどきワイン",
+    "region": "佐賀県",
+    "place": "佐賀県・佐賀市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://saga.keizai.biz/headline/2378/",
+      "https://tabelog.com/saga/A4101/A410101/41008914/"
+    ],
+    "path": "/atelier/curry-coffee-wine/",
+    "previousPath": "/curry-coffee-wine/",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "palette": [
+      "#f8f1df",
+      "#232425",
+      "#e8e2d1"
+    ],
+    "textContrast": 13.8,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-090",
+    "slug": "goodstock-unzen",
+    "name": "goodstock unzen",
+    "region": "長崎県",
+    "place": "長崎県・雲仙市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://note.com/goodstock_unzen",
+      "https://tabelog.com/nagasaki/A4203/A420301/42015627/"
+    ],
+    "path": "/atelier/goodstock-unzen/",
+    "previousPath": "/goodstock-unzen/",
+    "thumbnail": "/assets/batch-c/photos/table.webp",
+    "palette": [
+      "#f3f0e7",
+      "#3a3027",
+      "#e5e2d9"
+    ],
+    "textContrast": 11.29,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-091",
+    "slug": "yakuzen-den",
+    "name": "お米屋さんの薬膳米カフェ 田",
+    "region": "熊本県",
+    "place": "熊本県・熊本市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/kumamoto/A4301/A430101/43020761/",
+      "https://higojournal.com/archives/den-2.html"
+    ],
+    "path": "/atelier/yakuzen-den/",
+    "previousPath": "/yakuzen-den/",
+    "thumbnail": "/assets/batch-c/photos/tea.webp",
+    "palette": [
+      "#f6f4ea",
+      "#234d43",
+      "#e6e7dd"
+    ],
+    "textContrast": 8.6,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-092",
+    "slug": "nikkori-cute",
+    "name": "にっこりキュート",
+    "region": "熊本県",
+    "place": "熊本県・熊本市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/kumamoto/A4301/A430101/43020405/",
+      "https://higojournal.com/archives/nikkori-cute.html"
+    ],
+    "path": "/atelier/nikkori-cute/",
+    "previousPath": "/nikkori-cute/",
+    "thumbnail": "/assets/batch-c/photos/sandwich.webp",
+    "palette": [
+      "#f3eee5",
+      "#29494d",
+      "#e4e2da"
+    ],
+    "textContrast": 8.43,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-093",
+    "slug": "maruta-chaya",
+    "name": "丸太茶屋",
+    "region": "熊本県",
+    "place": "熊本県・阿蘇郡",
+    "category": "tea",
+    "sourceUrls": [
+      "https://tabelog.com/kumamoto/A4302/A430202/43020771/",
+      "https://ameblo.jp/ty-kame3/entry-12984616499.html"
+    ],
+    "path": "/atelier/maruta-chaya/",
+    "previousPath": "/maruta-chaya/",
+    "thumbnail": "/assets/batch-c/photos/tea.webp",
+    "palette": [
+      "#f5f0df",
+      "#3e3025",
+      "#e7e2d1"
+    ],
+    "textContrast": 11.13,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-094",
+    "slug": "imo-danshaku",
+    "name": "芋男爵",
+    "region": "熊本県",
+    "place": "熊本県・熊本市",
+    "category": "meal",
+    "sourceUrls": [
+      "https://tabelog.com/kumamoto/A4301/A430101/43020633/",
+      "https://higojournal.com/archives/imodansyaku-kumamoto.html"
+    ],
+    "path": "/atelier/imo-danshaku/",
+    "previousPath": "/imo-danshaku/",
+    "thumbnail": "/assets/batch-c/photos/cookies.webp",
+    "palette": [
+      "#f7f2e7",
+      "#292b29",
+      "#e8e3d9"
+    ],
+    "textContrast": 12.78,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-095",
+    "slug": "joko-coffee",
+    "name": "上甲珈琲",
+    "region": "大分県",
+    "place": "大分県・大分市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/oita/A4401/A440101/44015084/",
+      "https://ooita.goguynet.jp/2026/10/14/jokocoffee/"
+    ],
+    "path": "/atelier/joko-coffee/",
+    "previousPath": "/joko-coffee/",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "palette": [
+      "#efeee7",
+      "#32383d",
+      "#e1e0da"
+    ],
+    "textContrast": 10.21,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-096",
+    "slug": "sunnote",
+    "name": "sunnote coffee and bake",
+    "region": "宮崎県",
+    "place": "宮崎県・宮崎市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/miyazaki/A4501/A450101/45014223/",
+      "https://myzkc.jp/sunnote20261029/"
+    ],
+    "path": "/atelier/sunnote/",
+    "previousPath": "/sunnote/",
+    "thumbnail": "/assets/batch-c/photos/latte.webp",
+    "palette": [
+      "#fbf9ef",
+      "#34352c",
+      "#eceae0"
+    ],
+    "textContrast": 11.76,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-097",
+    "slug": "rinz",
+    "name": "輪'z",
+    "region": "宮崎県",
+    "place": "宮崎県・宮崎市",
+    "category": "coffee",
+    "sourceUrls": [
+      "https://tabelog.com/miyazaki/A4501/A450101/45013833/",
+      "https://miyazaki.keizai.biz/headline/2424/"
+    ],
+    "path": "/atelier/rinz/",
+    "previousPath": "/rinz/",
+    "thumbnail": "/assets/batch-c/photos/coffee.webp",
+    "palette": [
+      "#f3e7cb",
+      "#442e24",
+      "#e6d9be"
+    ],
+    "textContrast": 10.29,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-098",
+    "slug": "teddy-bakery",
+    "name": "TEDDY BAKERY",
+    "region": "鹿児島県",
+    "place": "鹿児島県・薩摩川内市",
+    "category": "bakery",
+    "sourceUrls": [
+      "https://tabelog.com/kagoshima/A4602/A460201/46019271/",
+      "https://gururi-japan.com/apps/note/column/junko_34/"
+    ],
+    "path": "/atelier/teddy-bakery/",
+    "previousPath": "/teddy-bakery/",
+    "thumbnail": "/assets/batch-c/photos/bread.webp",
+    "palette": [
+      "#fbf7ec",
+      "#293d43",
+      "#ebe9df"
+    ],
+    "textContrast": 10.65,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-099",
+    "slug": "minori",
+    "name": "実リ",
+    "region": "鹿児島県",
+    "place": "鹿児島県・鹿児島市",
+    "category": "bakery",
+    "sourceUrls": [
+      "https://tabelog.com/kagoshima/A4601/A460101/46019223/",
+      "https://kagoshima-gourmet.com/minori/"
+    ],
+    "path": "/atelier/minori/",
+    "previousPath": "/minori/",
+    "thumbnail": "/assets/batch-c/photos/bread.webp",
+    "palette": [
+      "#f8f5e9",
+      "#3c403b",
+      "#eae7dc"
+    ],
+    "textContrast": 9.67,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  },
+  {
+    "id": "CAFE-100",
+    "slug": "oki-zen",
+    "name": "OKI ZEN",
+    "region": "沖縄県",
+    "place": "沖縄県・那覇市",
+    "category": "tea",
+    "sourceUrls": [
+      "https://tabelog.com/okinawa/A4701/A470101/47035379/",
+      "https://orecyan.com/archives/21776"
+    ],
+    "path": "/atelier/oki-zen/",
+    "previousPath": "/oki-zen/",
+    "thumbnail": "/assets/batch-c/photos/tea.webp",
+    "palette": [
+      "#f3f3eb",
+      "#303f32",
+      "#e4e6dd"
+    ],
+    "textContrast": 10.0,
+    "templateReference": "/uff/",
+    "font": "Self-hosted Noto Serif JP and Cormorant Garamond; system sans-serif for body text."
+  }
+]

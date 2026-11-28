@@ -1,0 +1,16 @@
+{
+  "file": "fonts/mincho.woff2",
+  "family": "Noto Serif JP",
+  "weight": 500,
+  "source": "https://github.com/google/fonts/tree/main/ofl/notoserifjp",
+  "sourceFile": "https://raw.githubusercontent.com/google/fonts/main/ofl/notoserifjp/NotoSerifJP%5Bwght%5D.ttf",
+  "license": "SIL Open Font License 1.1",
+  "licenseFile": "fonts/mincho-OFL.txt",
+  "processing": "Instanced at weight 500 and subset to collection text, preserving glyph outlines.",
+  "sourceSha256": "2fd527ba12b6a44ec30d796d633360da0aeba6c5d4af1304ce12bb4dc15a7dfc",
+  "sha256": "0a6224958950fa6719cab72d76083567a7cf7b2c8f24a740bccbab81940f3a8b",
+  "bytes": 175436,
+  "latinFamily": "Cormorant Garamond",
+  "latinSourceManifest": "../batch-a/font-sources.json",
+  "latinLicense": "../batch-a/fonts/serif-OFL.txt"
+}
